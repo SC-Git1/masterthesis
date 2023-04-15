@@ -1,0 +1,934 @@
+Name	Strain	Temp	Genome
+Methanoculleus marisnigri	JR1	22,5	GCF_000015825.1
+Methanococcoides burtonii	DSM 6242	23,5	GCF_000013725.1
+Halorubrum lacusprofundi	ATCC 49239	33,5	GCF_000022205.1
+Methanospirillum hungatei	JF-1	33,5	GCF_000013445.1
+Methanococcoides methylutens	MM1	35	GCF_000970325.1
+Methanohalophilus halophilus	Z-7982	35	GCF_001889405.1
+Methanohalophilus mahii	DSM 5219	35	GCF_000025865.1
+Methanosarcina barkeri	227	35	GCF_000970065.1
+Methanosarcina barkeri	3	35	GCF_000970305.1
+Methanosarcina barkeri	CM1	35	GCF_001027005.1
+Methanosarcina barkeri	Fusaro	35	
+Methanosarcina barkeri	MS	35	GCF_000970025.1
+Methanosarcina barkeri	Wiesmoor	35	GCF_000969985.1
+Methanosarcina mazei	Go1	35	GCF_000007065.1
+Methanosarcina mazei	LYC	35	GCF_000970225.1
+Methanosarcina mazei	S-6	35	GCF_000970205.1
+Methanosarcina mazei	SarPi	35	GCF_000970185.1
+Methanosarcina mazei	WWM610	35	GCF_000970165.1
+Methanobrevibacter ruminantium	M1	37	GCF_000024185.1
+Methanobrevibacter smithii	ATCC 35061; PS; DSMZ 861	37	GCF_000016525.1
+Methanocorpusculum labreanum	Z	37	GCF_000015765.1
+Methanoculleus bourgensis	[isolate BA1]	37	
+Methanoculleus bourgensis	MS2T	37	GCF_000304355.2
+Methanolobus psychrophilus	R15	37	
+Methanosphaera stadtmanae	DSM 3091	37	GCF_000012545.1
+Natronobacterium gregoryi	SP2	37	GCF_000230715.2
+Haloarcula hispanica	CGMCC 1.2049	37,5	GCF_000223905.1
+Haloarcula hispanica	N601	37,5	GCF_000504565.1
+Haloferax gibbonsii	ARA6	37,5	GCF_001190965.1
+Methanobacterium formicicum	DSM1535	37,5	
+Methanobacterium formicicum	[isolate Mb9]	37,5	GCF_001458655.1
+Methanobacterium formicicum	BRM9	37,5	GCF_000762265.1
+Methanococcus aeolicus	Nankai-3	37,5	GCF_000017185.1
+Methanococcus maripaludis	C5	37,5	GCF_000016125.1
+Methanococcus maripaludis	C6	37,5	
+Methanococcus maripaludis	C7	37,5	
+Methanococcus maripaludis	S2	37,5	GCF_000011585.1
+Methanococcus maripaludis	X1	37,5	GCF_000220645.1
+Methanococcus vannielii	SB	37,5	GCF_000017165.1
+Methanococcus voltae	A3	37,5	
+Methanosaeta concilii	GP6	37,5	GCF_000204415.1
+Methanosarcina acetivorans	C2A	37,5	GCF_000007345.1
+Natronococcus occultus	SP4	37,5	GCF_000328685.1
+Methanosarcina vacuolata	Z-761	38,5	GCF_000969905.1
+Natrialba magadii	ATCC 43099	38,5	GCF_000025625.1
+Natrinema pellirubrum	DSM 15624	38,5	GCF_000230735.2
+Halogeometricum borinquense	PR 3	40	GCF_000172995.2
+Haloarcula marismortui	ATCC 43049	45	GCF_000011085.1
+Haloferax volcanii	DS2	45	GCF_000025685.1
+Haloterrigena turkmenica	DSM 5511	45	GCF_000025325.1
+Natronomonas pharaonis	Gabara	45	GCF_000026045.1
+Methanohalobium evestigatum	Z-7303	47,5	GCF_000196655.1
+Haloferax mediterranei	CGMCC 1.2087	48,5	GCF_000306765.2
+Halobacterium salinarum	DSM 671 = R1	50	GCF_000069025.1
+Halobacterium salinarum	NRC-1; ATCC 700922	50	GCF_000006805.1
+Methanosarcina thermophila	TM-1	52,5	GCF_000969885.1
+Thermoplasma acidophilum	DSM 1728	59	GCF_000195915.1
+Methanothermobacter marburgensis	Marburg	60	GCF_000145295.1
+Methanothermobacter thermautotrophicus	Delta H	60	GCF_000008645.1
+Methanothermobacter wolfeii	[isolate SIV6]	60	
+Thermoplasma volcanium	GSS1	60	GCF_000011185.1
+Methanothermococcus okinawensis	IH1	62,5	GCF_000179575.2
+Sulfolobus acidocaldarius	DG1	72,5	GCF_002215565.1
+Sulfolobus acidocaldarius	DSM 639	72,5	GCF_000012285.1
+Sulfolobus acidocaldarius	N8	72,5	GCF_000340315.1
+Sulfolobus acidocaldarius	Ron12/I	72,5	GCF_000338775.1
+Sulfolobus acidocaldarius	Y14 13-1	72,5	GCF_002215525.1
+Sulfolobus acidocaldarius	Y14 16-22	72,5	GCF_002215485.1
+Sulfolobus acidocaldarius	Y14 18-5	72,5	GCF_002215405.1
+Sulfolobus acidocaldarius	Y14 20-20	72,5	GCF_002215445.1
+Metallosphaera cuprina	Ar-4	75	GCF_000204925.1
+Metallosphaera sedula	ARS120-1	75	GCF_001266695.1
+Metallosphaera sedula	ARS120-2	75	GCF_001266715.1
+Metallosphaera sedula	ARS50-1	75	GCF_001266655.1
+Metallosphaera sedula	ARS50-2	75	GCF_001266675.1
+Metallosphaera sedula	DSM 5348	75	
+Metallosphaera sedula	SARC-M1	75	GCF_001266735.1
+Archaeoglobus veneficus	SNP6	80	GCF_000194625.1
+Methanocaldococcus vulcanius	M7	80	GCF_000024625.1
+Thermococcus profundus	DT 5432	80	GCF_002214585.1
+Archaeoglobus profundus	DSM 5631	82	GCF_000025285.1
+Methanothermus fervidus	DSM 2088	82,5	GCF_000166095.1
+Archaeoglobus fulgidus	DSM 4304	83	GCF_000008665.1
+Archaeoglobus fulgidus	DSM 8774	83	GCF_000734035.1
+Thermococcus gorgonarius	W-12	84	GCF_002214385.1
+Thermococcus pacificus	P-4	84	GCF_002214485.1
+Caldivirga maquilingensis	IC-167	85	GCF_000018305.1
+Desulfurococcus mucosus	DSM 2162	85	GCF_000186365.1
+Ferroglobus placidus	DSM 10642	85	GCF_000025505.1
+Methanocaldococcus bathoardescens	JH146	85	GCF_000739065.1
+Methanocaldococcus fervens	AG86	85	GCF_000023985.1
+Methanocaldococcus infernus	ME	85	GCF_000092305.1
+Methanocaldococcus jannaschii	DSM 2661	85	GCF_000091665.1
+Sulfolobus solfataricus	98/2	85	
+Sulfolobus solfataricus	P1	85	GCF_900079115.1
+Sulfolobus solfataricus	P2	85	GCF_000007005.1
+Sulfolobus solfataricus	SULA	85	GCF_000968435.2
+Sulfolobus solfataricus	SULB	85	GCF_000968355.2
+Sulfolobus solfataricus	SULC	85	GCF_000968395.2
+Thermococcus barophilus	CH5	85	GCF_001433455.1
+Thermococcus barophilus	MP	85	GCF_000151105.2
+Thermococcus chitonophagus	[isolate 1]	85	GCF_900012635.1
+Thermococcus chitonophagus	GC74	85	GCF_002214605.1
+Thermococcus peptonophilus	OG-1	85	GCF_001592435.1
+Thermosphaera aggregans	DSM 11486	85	GCF_000092185.1
+Thermofilum pendens	Hrk 5	87,5	GCF_000015225.1
+Methanotorris igneus	Kol 5	88	GCF_000214415.1
+Thermococcus celer	Vu 13	88	GCF_002214365.1
+Thermococcus guaymasensis	DSM 11113	88	GCF_000816105.1
+Thermococcus litoralis	DSM 5473	88	GCF_000246985.2
+Ignicoccus islandicus	DSM 13165	90	GCF_001481685.1
+Thermoproteus tenax	Kra 1	90	GCF_000253055.1
+Thermoproteus uzoniensis	768-20	90	GCF_000193375.1
+Desulfurococcus amylolyticus	1221n	91	GCF_000020905.1
+Desulfurococcus amylolyticus	DSM 16532	91	GCF_000231015.2
+Staphylothermus marinus	F1	92	GCF_000015945.1
+Pyrococcus abyssi	Orsay	96	GCF_000195935.1
+Pyrococcus horikoshii	OT3	98	GCF_000011105.1
+Pyrobaculum islandicum	DSM 4184	100	GCF_000015205.1
+Pyrococcus furiosus	COM1	100	GCF_000275605.1
+Pyrococcus furiosus	DSM 3638	100	GCF_000007305.1
+Pyrolobus fumarii	1A	106	GCF_000223395.1
+Hyperthermus butylicus	DSM 5456	114	GCF_000015145.1
+Clostridium estertheticum		7	GCF_001877035.1
+Octadecabacter antarcticus		7	GCF_000155675.2
+Shewanella violacea		7	GCF_000091325.1
+Colwellia psychrerythraea		9,5	GCF_000012325.1
+Octadecabacter arcticus		9,5	GCF_000155735.2
+Desulfotalea psychrophila		10	GCF_000025945.1
+Photobacterium profundum		10	
+Psychroflexus torquis		12,5	GCF_000153485.2
+Cellulophaga algicola		15	GCF_000186265.1
+Rhodoferax antarcticus		15	GCF_001955735.1
+Piscirickettsia salmonis		16,5	GCF_000300295.4
+Renibacterium salmoninarum		16,5	GCF_000018885.1
+Cellulophaga baltica		17,5	GCF_000468615.2
+Flavobacterium psychrophilum		17,5	GCF_000064305.2
+Terriglobus roseus		17,5	GCF_000265425.1
+Psychrobacter urativorans		18	GCF_001298525.1
+Aequorivita sublithincola		20	GCF_000265385.1
+Fluviicola taffensis		20	GCF_000194605.1
+Pedobacter cryoconitis		20	GCF_001590605.1
+Pseudomonas fragi		20	GCF_001543265.1
+Sorangium cellulosum		20	GCF_000067165.1
+Vibrio anguillarum		20	
+Antarctobacter heliothermus		21	GCF_002237555.1
+Shewanella frigidimarina		21	GCF_000014705.1
+Croceibacter atlanticus		21,5	GCF_000196315.1
+Flavobacterium branchiophilum		21,5	GCF_000253275.1
+Salinispora tropica		21,5	GCF_000016425.1
+Oenococcus oeni		22	GCF_000014385.1
+Pediococcus damnosus		22	GCF_001611135.1
+Tolumonas auensis		22	GCF_000023065.1
+Acinetobacter johnsonii		22,5	GCF_001484935.1
+Arthrobacter alpinus		22,5	GCF_001294625.1
+Brevibacterium linens		22,5	GCF_001606005.1
+Maricaulis maris		22,5	GCF_000014745.1
+Microterricola viridarii		22,5	GCF_001542775.1
+Nocardia seriolae		22,5	GCF_001865855.1
+Pelodictyon phaeoclathratiforme		22,5	GCF_000020645.1
+Pseudarthrobacter sulfonivorans		22,5	GCF_001484605.1
+Rhodococcus jostii		22,5	GCF_000014565.1
+Shewanella woodyi		22,5	GCF_000019525.1
+Singulisphaera acidiphila		23	GCF_000242455.2
+Aeromonas salmonicida		23,5	GCF_000196395.1
+Chitinophaga pinensis		23,5	GCF_000024005.1
+Lactobacillus lindneri		23,5	GCF_001702135.1
+Salinispora arenicola		24	
+Clavibacter michiganensis		24,5	GCF_000069225.1
+Aeromonas media		25	GCF_000287215.2
+Alcanivorax borkumensis		25	GCF_000009365.1
+Aliivibrio fischeri		25	
+Azotobacter chroococcum		25	GCF_000817975.1
+Bdellovibrio bacteriovorus		25	
+Beijerinckia indica		25	GCF_000019845.1
+Belliella baltica		25	GCF_000265405.1
+Catenulispora acidiphila		25	GCF_000024025.1
+Chlorobium phaeobacteroides		25	
+Chlorobium phaeovibrioides		25	
+Chloroherpeton thalassium		25	GCF_000020525.1
+Coraliomargarita akajimensis		25	GCF_000025905.1
+Crinalium epipsammum		25	GCF_000317495.1
+Hirschia baltica		25	GCF_000023785.1
+Leuconostoc citreum		25	GCF_000026405.1
+Leuconostoc gelidum		25	GCF_000196855.1
+Leuconostoc lactis		25	GCF_001698145.1
+Leuconostoc mesenteroides		25	GCF_000014445.1
+Marinomonas mediterranea		25	GCF_000192865.1
+Microlunatus phosphovorus		25	GCF_000270245.1
+Nakamurella multipartita		25	GCF_000024365.1
+Nocardioides dokdonensis		25	GCF_001653335.1
+Pedobacter heparinus		25	GCF_000023825.1
+Pseudarthrobacter chlorophenolicus		25	GCF_000022025.1
+Pseudoalteromonas luteoviolacea		25	
+Roseobacter denitrificans		25	GCF_000014045.1
+Roseobacter litoralis		25	GCF_000154785.2
+Shewanella pealeana		25	GCF_000018285.1
+Sodalis glossinidius		25	GCF_000010085.1
+Spirosoma rigui		25	GCF_002067135.1
+Sporosarcina psychrophila		25	GCF_001590685.1
+Sporosarcina ureae		25	GCF_002082015.1
+Tatumella citrea		25	GCF_002163585.1
+Vibrio nigripulchritudo		25	
+Rathayibacter toxicus		25,5	GCF_001465855.1
+Rathayibacter tritici		25,5	GCF_001641005.1
+Cellulophaga lytica		26	GCF_000190595.1
+Geodermatophilus obscurus		26	GCF_000025345.1
+Vibrio scophthalmi		26	
+Agrobacterium rhizogenes		26,5	
+Agrobacterium tumefaciens		26,5	
+Agrobacterium vitis		26,5	
+Bartonella bacilliformis		26,5	GCF_000015445.1
+Haliscomenobacter hydrossis		26,5	GCF_000212735.1
+Bacillus flexus		27	GCF_002024265.1
+Cupriavidus necator		27	
+Ensifer adhaerens		27	GCF_000697965.2
+Pirellula staleyi		27	GCF_000025185.1
+Xylella fastidiosa		27	GCF_000006725.1
+Anaerotignum propionicum		27,5	GCF_001561955.1
+Asticcacaulis excentricus		27,5	
+Blastochloris viridis		27,5	GCF_001402875.1
+Brachybacterium faecium		27,5	GCF_000023405.1
+Bradyrhizobium japonicum		27,5	GCF_000284375.1
+Brevundimonas subvibrioides		27,5	GCF_000144605.1
+Brevundimonas vesicularis		27,5	GCF_002208825.2
+Campylobacter fetus		27,5	
+Caulobacter henricii		27,5	GCF_001414055.1
+Caulobacter vibrioides		27,5	GCF_000006905.1
+Chryseobacterium indologenes		27,5	GCF_002025665.1
+Coriobacterium glomerans		27,5	GCF_000195315.1
+Corynebacterium variabile		27,5	GCF_000179395.2
+Cyclobacterium amurskyense		27,5	GCF_001050135.1
+Cyclobacterium marinum		27,5	GCF_000222485.1
+Edwardsiella ictaluri		27,5	GCF_000022885.2
+Erythrobacter litoralis		27,5	GCF_001719165.1
+Flavobacterium columnare		27,5	GCF_000240075.2
+Flavobacterium johnsoniae		27,5	GCF_000016645.1
+Frateuria aurantia		27,5	GCF_000242255.2
+Gluconobacter oxydans		27,5	GCF_000311765.1
+Marichromatium purpuratum		27,5	GCF_000224005.2
+Mesorhizobium amorphae		27,5	GCF_001686985.1
+Mesorhizobium ciceri		27,5	GCF_000185905.1
+Mesorhizobium loti		27,5	
+Methylobacterium extorquens		27,5	GCF_000022685.1
+Methylobacterium radiotolerans		27,5	GCF_000019725.1
+Methylobacterium zatmanii		27,5	GCF_002117815.2
+Microbacterium paludicola		27,5	GCF_001887285.1
+Pararhodospirillum photometricum		27,5	GCF_000284415.1
+Pseudodesulfovibrio aespoeensis		27,5	GCF_000176915.2
+Pseudomonas azotoformans		27,5	GCF_001579805.1
+Pseudomonas fulva		27,5	GCF_000213805.1
+Pseudomonas putida		27,5	GCF_000007565.2
+Rhizobium etli		27,5	GCF_000092045.1
+Rhizobium gallicum		27,5	GCF_000816845.1
+Rhizobium leguminosarum		27,5	GCF_000517605.1
+Rhizobium tropici		27,5	GCF_000330885.1
+Runella slithyformis		27,5	GCF_000218895.1
+Sanguibacter keddieii		27,5	GCF_000024925.1
+Sinorhizobium fredii		27,5	GCF_000018545.1
+Sinorhizobium medicae		27,5	GCF_000017145.1
+Sinorhizobium meliloti		27,5	GCF_000006965.1
+Starkeya novella		27,5	GCF_000092925.1
+Streptomyces albus		27,5	GCF_000827005.1
+Thioflavicoccus mobilis		27,5	GCF_000327045.1
+Xanthobacter autotrophicus		27,5	
+Zymomonas mobilis		27,5	GCF_000175255.2
+Bacillus endophyticus		28	GCF_000972245.3
+Beutenbergia cavernae		28	GCF_000023105.1
+Burkholderia pyrrocinia		28	
+Corynebacterium halotolerans		28	GCF_000341345.1
+Desulfobacula toluolica		28	GCF_000307105.1
+Desulfosporosinus meridiei		28	GCF_000231385.2
+Dyadobacter fermentans		28	GCF_000023125.1
+Gottschalkia acidurici		28	GCF_000299355.1
+Leifsonia xyli		28	GCF_000470775.1
+Microbacterium chocolatum		28	GCF_001652465.1
+Nocardiopsis alba		28	GCF_000294515.1
+Paenibacillus borealis		28	GCF_000758665.1
+Paenibacillus graminis		28	GCF_000758705.1
+Paenibacillus odorifer		28	GCF_000758725.1
+Paenibacillus stellifer		28	GCF_000758685.1
+Photorhabdus asymbiotica		28	GCF_000196475.1
+Photorhabdus luminescens		28	GCF_000196155.1
+Photorhabdus temperata		28	GCF_001010285.1
+Saccharothrix espanaensis		28	GCF_000328705.1
+Staphylococcus succinus		28	GCF_001902315.1
+Sulfurospirillum deleyianum		28	GCF_000024885.1
+Xanthomonas albilineans		28	GCF_000087965.2
+Xanthomonas axonopodis		28	GCF_000348585.1
+Xanthomonas campestris		28	GCF_000007145.1
+Xanthomonas fragariae		28	GCF_001705565.1
+Xanthomonas oryzae		28	GCF_000019585.2
+Xanthomonas sacchari		28	GCF_000815185.1
+Xanthomonas translucens		28	GCF_001021935.1
+Xanthomonas vesicatoria		28	GCF_001908725.1
+Xenorhabdus bovienii		28	GCF_000027225.1
+Xenorhabdus nematophila		28	GCF_000953355.1
+Xenorhabdus poinarii		28	GCF_000968175.1
+Xylanimonas cellulosilytica		28	GCF_000024965.1
+Actinoalloteichus hymeniacidonis		28,5	GCF_001747425.1
+Alcaligenes faecalis		28,5	GCF_000967305.2
+Erwinia amylovora		28,5	GCF_000091565.1
+Erwinia billingiae		28,5	GCF_000196615.1
+Erwinia pyrifoliae		28,5	GCF_000027265.1
+Obesumbacterium proteus		28,5	GCF_001586165.1
+Ochrobactrum anthropi		28,5	
+Pectobacterium carotovorum		28,5	GCF_000023605.1
+Yersinia aldovae		28,5	GCF_000834395.1
+Yersinia enterocolitica		28,5	GCF_000009345.1
+Yersinia frederiksenii		28,5	GCF_000834215.1
+Yersinia intermedia		28,5	GCF_000834515.1
+Yersinia kristensenii		28,5	GCF_000834865.1
+Yersinia pestis		28,5	GCF_000009065.1
+Yersinia pseudotuberculosis		28,5	GCF_000750315.1
+Yersinia rohdei		28,5	GCF_000834455.1
+Yersinia ruckeri		28,5	GCF_000964565.1
+Actinosynnema mirum		29	GCF_000023245.1
+Bacillus atrophaeus		29	GCF_002173495.1
+Bacillus subtilis		29	GCF_000009045.1
+Bacillus vallismortis		29	GCF_002113805.1
+Ketogulonicigenium robustum		29	GCF_002117445.1
+Ketogulonicigenium vulgare		29	GCF_000223375.1
+Kribbella flavida		29	GCF_000024345.1
+Mesoplasma florum		29	GCF_000008305.1
+Myxococcus fulvus		29	GCF_000219105.1
+Nitrobacter hamburgensis		29	GCF_000013885.1
+Nitrobacter winogradskyi		29	GCF_000012725.1
+Nocardiopsis gilva		29	GCF_002263495.1
+Owenweeksia hongkongensis		29	GCF_000236705.1
+Paenibacillus peoriae		29	GCF_001272655.2
+Pontibacter akesuensis		29	GCF_001611675.1
+Porphyrobacter neustonensis		29	GCF_001663175.1
+Pseudomonas resinovorans		29	GCF_000412695.1
+Rhodopirellula baltica		29	GCF_000196115.1
+Turneriella parva		29	GCF_000266885.1
+Aeromonas hydrophila		29,5	GCF_000014805.1
+Elizabethkingia meningoseptica		29,5	GCF_002022145.1
+Elizabethkingia miricola		29,5	GCF_000955665.1
+Pragia fontium		29,5	GCF_001026985.1
+Acetobacter aceti		30	GCF_002005445.1
+Acetobacter pasteurianus		30	GCF_001766235.1
+Acetobacterium woodii		30	GCF_000247605.1
+Acholeplasma brassicae		30	GCF_000967915.1
+Acholeplasma palmae		30	GCF_000968055.1
+Allochromatium vinosum		30	GCF_000025485.1
+Bacillus simplex		30	GCF_001578185.1
+Brevibacillus brevis		30	GCF_000010165.1
+Brevibacillus formosus		30	GCF_002215075.1
+Brevibacillus laterosporus		30	GCF_000219535.2
+Cellulomonas fimi		30	GCF_000212695.1
+Cellulomonas flavigena		30	GCF_000092865.1
+Chlorobium limicola		30	GCF_000020465.1
+Clostridium aceticum		30	GCF_001042715.1
+Clostridium saccharoperbutylacetonicum		30	GCF_000340885.1
+Corynebacterium ammoniagenes		30	GCF_001941425.1
+Cytophaga hutchinsonii		30	GCF_000014145.1
+Dehalobacter restrictus		30	GCF_000512895.1
+Deinococcus proteolyticus		30	GCF_000190555.1
+Deinococcus radiodurans		30	
+Desulfitobacterium metallireducens		30	GCF_000231405.2
+Desulfocapsa sulfexigens		30	GCF_000341395.1
+Dokdonia donghaensis		30	GCF_001653755.1
+Enterobacter asburiae		30	GCF_001521715.1
+Enterobacter cloacae		30	GCF_000025565.1
+Enterobacter kobei		30	GCF_001729765.1
+Gemmatimonas aurantiaca		30	GCF_000010305.1
+Gluconacetobacter diazotrophicus		30	GCF_000021325.1
+Hafnia alvei		30	GCF_000597785.2
+Halothiobacillus neapolitanus		30	GCF_000024765.1
+Hydrogenovibrio crunogenus		30	
+Hyphomicrobium denitrificans		30	GCF_000143145.1
+Ilyobacter polytropus		30	GCF_000165505.1
+Isoptericola dokdonensis		30	GCF_001636295.1
+Jonesia denitrificans		30	GCF_000024065.1
+Leptospira borgpetersenii		30	
+Leptospira interrogans		30	
+Leptospira santarosai		30	
+Magnetospirillum gryphiswaldense		30	GCF_000513295.1
+Microbacterium aurum		30	GCF_001974985.1
+Microbacterium testaceum		30	GCF_000202635.1
+Muricauda ruestringensis		30	GCF_000224085.1
+Mycobacterium immunogenum		30	GCF_001605725.1
+Mycobacterium marinum		30	GCF_000723425.2
+Mycoplasma crocodyli		30	GCF_000025845.1
+Mycoplasma mobile		30	GCF_000008365.1
+Neisseria weaveri		30	GCF_900086555.1
+Oceanobacillus iheyensis		30	GCF_000011245.1
+Oligotropha carboxidovorans		30	GCF_000218565.1
+Paenibacillus polymyxa		30	GCF_000164985.3
+Paenibacillus terrae		30	GCF_000235585.1
+Paludibacter propionicigenes		30	GCF_000183135.1
+Pantoea agglomerans		30	GCF_001709315.1
+Pantoea ananatis		30	GCF_000025405.2
+Pantoea stewartii		30	GCF_002082215.1
+Paracoccus aminophilus		30	GCF_000444995.1
+Pediococcus pentosaceus		30	GCF_000014505.1
+Prosthecochloris aestuarii		30	GCF_000020625.1
+Pseudoalteromonas atlantica		30	GCF_000014225.1
+Pseudoalteromonas espejiana		30	
+Pseudoalteromonas haloplanktis		30	
+Pseudoalteromonas nigrifaciens		30	
+Pseudoalteromonas piscicida		30	
+Pseudoalteromonas rubra		30	
+Pseudomonas chlororaphis		30	GCF_000698865.1
+Pseudomonas cichorii		30	GCF_000517305.1
+Pseudomonas citronellolis		30	GCF_001654435.1
+Pseudomonas mandelii		30	GCF_000257545.3
+Pseudomonas monteilii		30	GCF_001534745.1
+Pseudonocardia dioxanivorans		30	GCF_000196675.2
+Rahnella aquatilis		30	GCF_000255535.1
+Rhodomicrobium vannielii		30	GCF_000166055.1
+Robiginitalea biformata		30	GCF_000024125.1
+Rubrivivax gelatinosus		30	GCF_000284255.1
+Saprospira grandis		30	GCF_000250635.1
+Shewanella oneidensis		30	GCF_000146165.2
+Spiroplasma atrichopogonis		30	GCF_001029245.1
+Spiroplasma chrysopicola		30	GCF_000400935.1
+Spiroplasma kunkelii		30	GCF_001274875.1
+Spiroplasma sabaudiense		30	GCF_000565215.1
+Spiroplasma taiwanense		30	GCF_000439435.1
+Spiroplasma turonicum		30	GCF_001262715.1
+Staphylococcus equorum		30	GCF_001432245.1
+Staphylococcus xylosus		30	GCF_000706685.1
+Thiobacillus denitrificans		30	GCF_000012745.1
+Thiocystis violascens		30	GCF_000227745.2
+Treponema azotonutricium		30	GCF_000214355.1
+Treponema primitia		30	GCF_000214375.1
+Virgibacillus necropolis		30	GCF_002224365.1
+Mycobacterium vanbaalenii		30,5	GCF_000015305.1
+Acidiphilium multivorum		31	GCF_000202835.1
+Acidobacterium capsulatum		31	GCF_000022565.1
+Corynebacterium glutamicum		31	GCF_000011325.1
+Corynebacterium marinum		31	GCF_000835165.1
+Dermacoccus nishinomiyaensis		31	GCF_000725405.1
+Echinicola vietnamensis		31	GCF_000325705.1
+Mycobacterium aurum		31	GCF_900078775.1
+Mycobacterium chimaera		31	GCF_001750065.2
+Mycobacterium chubuense		31	GCF_000266905.1
+Mycobacterium gilvum		31	GCF_000184435.1
+Mycobacterium haemophilum		31	GCF_000340435.2
+Mycobacterium neoaurum		31	GCF_000317305.3
+Pelobacter acetylenicus		31	GCF_001888165.1
+Propionibacterium freudenreichii		31	GCF_000940845.1
+Staphylococcus saprophyticus		31,5	GCF_000010125.1
+Blastococcus saxobsidens		32	GCF_000284015.1
+Borreliella burgdorferi		32	GCF_000008685.2
+Clostridium saccharobutylicum		32	GCF_000473995.1
+Herbaspirillum frisingense		32	GCF_002025725.1
+Herbaspirillum rubrisubalbicans		32	GCF_001483945.1
+Herbaspirillum seropedicae		32	GCF_001040945.1
+Kytococcus sedentarius		32	GCF_000023925.1
+Marinobacter hydrocarbonoclasticus		32	GCF_000284615.1
+Rhodobacter sphaeroides		32	
+Spiroplasma cantharicola		32	GCF_001281045.1
+Spiroplasma citri		32	GCF_001886855.1
+Spiroplasma corruscae		32	GCF_002237575.1
+Spiroplasma diminutum		32	GCF_000439455.1
+Spiroplasma helicoides		32	GCF_001715535.1
+Spiroplasma litorale		32	GCF_001267155.1
+Spiroplasma syrphidicola		32	GCF_000400955.1
+Acidithiobacillus ferrooxidans		32,5	GCF_000021485.1
+Alteromonas macleodii		32,5	GCF_000172635.2
+Burkholderia cepacia		32,5	
+Burkholderia gladioli		32,5	
+Burkholderia glumae		32,5	
+Chromobacterium violaceum		32,5	GCF_000007705.1
+Conexibacter woesei		32,5	GCF_000025265.1
+Desulfomicrobium baculatum		32,5	GCF_000023225.1
+Intrasporangium calvum		32,5	GCF_000184685.1
+Methylomonas methanica		32,5	GCF_000214665.1
+Mycobacterium abscessus		32,5	GCF_000069185.1
+Nocardiopsis dassonvillei		32,5	
+Paenibacillus larvae		32,5	GCF_002003265.1
+Prauserella marina		32,5	GCF_002240355.1
+Rhodobacter capsulatus		32,5	GCF_000021865.1
+Rhodospirillum rubrum		32,5	GCF_000013085.1
+Rhodovulum sulfidophilum		32,5	GCF_001633165.1
+Shewanella putrefaciens		32,5	
+Staphylococcus hyicus		32,5	GCF_000816085.1
+Staphylococcus simulans		32,5	GCF_001559115.2
+Streptomyces avermitilis		32,5	GCF_000009765.2
+Tetragenococcus halophilus		32,5	GCF_000283615.1
+Thiomonas intermedia		32,5	GCF_002028405.1
+Desulfovibrio africanus		33	GCF_000212675.2
+Desulfovibrio desulfuricans		33	GCF_000189295.2
+Desulfovibrio salexigens		33	GCF_000023445.1
+Desulfovibrio vulgaris		33	GCF_000195755.1
+Pelobacter propionicus		33	GCF_000015045.1
+Rickettsia africae		33	GCF_000023005.1
+Rickettsia australis		33	GCF_000284155.1
+Rickettsia conorii		33	GCF_000007025.1
+Rickettsia japonica		33	GCF_000283595.1
+Rickettsia montanensis		33	GCF_000284175.1
+Rickettsia parkeri		33	GCF_000284195.1
+Rickettsia rickettsii		33	GCF_001950995.1
+Rickettsia slovaca		33	GCF_000237845.1
+Segniliparus rotundus		33	GCF_000092825.1
+Sulfurospirillum barnesii		33	GCF_000265295.1
+[Clostridium] cellulolyticum		33,5	GCF_000022065.1
+Acidaminococcus fermentans		33,5	GCF_000025305.1
+Acidiphilium cryptum		33,5	GCF_000016725.1
+Actinomyces meyeri		33,5	GCF_001262055.1
+Aminobacter aminovorans		33,5	GCF_001605015.1
+Bacteroides caccae		33,5	GCF_002222615.2
+Burkholderia thailandensis		33,5	
+Clostridium botulinum		33,5	GCF_000063585.1
+Clostridium butyricum		33,5	
+Clostridium scatologenes		33,5	GCF_000968375.1
+Clostridium tyrobutyricum		33,5	GCF_001642655.1
+Corynebacterium diphtheriae		33,5	GCF_001457455.1
+Corynebacterium maris		33,5	GCF_000442645.1
+Dialister pneumosintes		33,5	GCF_001717505.1
+Erysipelothrix rhusiopathiae		33,5	GCF_000270085.1
+Hyphomonas neptunium		33,5	GCF_000013025.1
+Leptospirillum ferrooxidans		33,5	GCF_000284315.1
+Listeria innocua		33,5	GCF_000195795.1
+Listeria ivanovii		33,5	GCF_000763495.1
+Listeria monocytogenes		33,5	GCF_000196035.1
+Listeria seeligeri		33,5	GCF_000027145.1
+Listeria welshimeri		33,5	GCF_000060285.1
+Paenibacillus durus		33,5	GCF_000756615.1
+Paenibacillus kribbensis		33,5	GCF_002240415.1
+Paenibacillus naphthalenovorans		33,5	GCF_001465255.1
+Paracoccus denitrificans		33,5	
+Prevotella ruminicola		33,5	GCF_000025925.1
+Pseudarthrobacter phenanthrenivorans		33,5	GCF_000189535.1
+Rothia mucilaginosa		33,5	GCF_000011025.1
+Serratia fonticola		33,5	GCF_001006005.1
+Serratia liquefaciens		33,5	GCF_000422085.1
+Serratia marcescens		33,5	GCF_000513215.1
+Serratia proteamaculans		33,5	
+Serratia rubidaea		33,5	GCF_001572725.1
+Spirochaeta africana		33,5	GCF_000242595.2
+Staphylococcus aureus		33,5	GCF_000013425.1
+Staphylococcus epidermidis		33,5	GCF_000007645.1
+Thauera chlorobenzoica		33,5	GCF_001922305.1
+Veillonella parvula		33,5	GCF_000024945.1
+Dactylococcopsis salina		34	GCF_000317615.1
+Moraxella catarrhalis		34	GCF_000092265.1
+Moraxella ovis		34	GCF_001636015.1
+Parachlamydia acanthamoebae		34,5	GCF_000253035.1
+Spiroplasma apis		34,5	GCF_000500935.1
+Amphibacillus xylanus		35	GCF_000307165.1
+Bacillus amyloliquefaciens		35	GCF_000196735.1
+Bartonella tribocorum		35	GCF_000196435.1
+Clostridium kluyveri		35	GCF_000016505.1
+Clostridium sporogenes		35	GCF_001020205.1
+Corynebacterium efficiens		35	GCF_000011305.1
+Desulfococcus multivorans		35	GCF_001854245.1
+Macrococcus caseolyticus		35	GCF_000010585.1
+Melissococcus plutonius		35	GCF_000747585.1
+Mycobacterium smegmatis		35	GCF_000015005.1
+Neisseria elongata		35	GCF_000818035.1
+Nocardia farcinica		35	GCF_001182745.1
+Nocardia nova		35	GCF_000523235.1
+Pelobacter carbinolicus		35	GCF_000012885.1
+Pseudomonas mendocina		35	
+Pseudomonas stutzeri		35	GCF_000219605.1
+Rickettsia prowazekii		35	GCF_000195735.1
+Rickettsia typhi		35	GCF_000008045.1
+Roseateles depolymerans		35	GCF_001483865.1
+Roseomonas gilardii		35	
+Staphylococcus capitis		35	GCF_001028645.1
+Staphylococcus haemolyticus		35	GCF_000009865.1
+Staphylococcus lugdunensis		35	GCF_000025085.1
+Staphylococcus warneri		35	
+Syntrophus aciditrophicus		35	GCF_000013405.1
+Zobellia galactanivorans		35	GCF_000973105.1
+Bifidobacterium asteroides		35,5	GCF_000304215.1
+Neisseria gonorrhoeae		35,5	GCF_000006845.1
+Neisseria lactamica		35,5	GCF_000196295.1
+[Haemophilus] ducreyi		36	GCF_000007945.1
+[Haemophilus] parasuis		36	GCF_000021885.1
+Actinomyces oris		36	GCF_001553935.1
+Actinomyces radicidentis		36	GCF_001553565.1
+Bartonella clarridgeiae		36	GCF_000253015.1
+Bartonella grahamii		36	GCF_000022725.1
+Bartonella henselae		36	GCF_000046705.1
+Bartonella quintana		36	GCF_000046685.1
+Bartonella vinsonii		36	GCF_000341385.1
+Bordetella avium		36	GCF_000070465.1
+Bordetella bronchiseptica		36	GCF_000318015.1
+Bordetella hinzii		36	GCF_001078275.1
+Bordetella holmesii		36	
+Bordetella parapertussis		36	GCF_000317935.1
+Bordetella pertussis		36	GCF_000195715.1
+Bordetella trematum		36	GCF_900078695.1
+Campylobacter jejuni		36	GCF_000009085.1
+Capnocytophaga canimorsus		36	GCF_000220625.1
+Capnocytophaga haemolytica		36	GCF_001553545.1
+Capnocytophaga ochracea		36	GCF_000023285.1
+Clostridium argentinense		36	GCF_002074155.1
+Corynebacterium jeikeium		36	GCF_000006605.1
+Desulfotomaculum gibsoniae		36	GCF_000233715.2
+Enterococcus casseliflavus		36	GCF_000157355.2
+Enterococcus durans		36	
+Enterococcus faecalis		36	GCF_000007785.1
+Enterococcus faecium		36	GCF_000174395.2
+Enterococcus gallinarum		36	GCF_001558875.2
+Enterococcus hirae		36	GCF_000271405.2
+Enterococcus mundtii		36	GCF_000504125.1
+Fusobacterium nucleatum		36	
+Gardnerella vaginalis		36	GCF_000159155.2
+Haemophilus influenzae		36	
+Haemophilus parainfluenzae		36	GCF_000210895.1
+Lawsonia intracellularis		36	GCF_000055945.1
+Legionella pneumophila		36	GCF_000008485.1
+Leptotrichia buccalis		36	GCF_000023905.1
+Methylovorus glucosotrophus		36	GCF_000023745.1
+Mobiluncus curtisii		36	GCF_000196535.1
+Morganella morganii		36	GCF_000286435.2
+Nocardia brasiliensis		36	GCF_000250675.2
+Ornithobacterium rhinotracheale		36	GCF_000265465.1
+Pseudopropionibacterium propionicum		36	GCF_000277715.1
+Rothia dentocariosa		36	GCF_000164695.2
+Streptobacillus moniliformis		36	GCF_000024565.1
+Streptococcus parauberis		36	
+Syntrophomonas wolfei		36	GCF_000014725.1
+Taylorella equigenitalis		36	GCF_000276685.1
+Ureaplasma parvum		36	GCF_000019345.1
+Vibrio cholerae		36	
+Cutibacterium acnes		36,5	GCF_000008345.1
+Neisseria meningitidis		36,5	GCF_000008805.1
+Ureaplasma urealyticum		36,5	GCF_000021265.1
+[Clostridium] saccharolyticum		37	GCF_000144625.1
+[Eubacterium] eligens		37	GCF_000146185.1
+[Eubacterium] rectale		37	
+[Eubacterium] sulci		37	
+Acholeplasma laidlawii		37	GCF_000018785.1
+Actinobacillus equuli		37	GCF_000801145.1
+Actinobacillus pleuropneumoniae		37	GCF_000015885.1
+Actinobacillus succinogenes		37	
+Actinobacillus suis		37	GCF_000739435.1
+Akkermansia muciniphila		37	GCF_000020225.1
+Alistipes finegoldii		37	GCF_000265365.1
+Aminobacterium colombiense		37	GCF_000025885.1
+Arcanobacterium haemolyticum		37	GCF_000092365.1
+Atopobium parvulum		37	GCF_000024225.1
+Azospira oryzae		37	GCF_000236665.1
+Azospirillum brasilense		37	GCF_001315015.1
+Azospirillum lipoferum		37	GCF_000283655.1
+Bacillus anthracis		37	GCF_000007845.1
+Bacillus cereus		37	GCF_000007825.1
+Bacillus thuringiensis		37	GCF_000008505.1
+Bacteroides dorei		37	GCF_001640865.1
+Bacteroides fragilis		37	GCF_000009925.1
+Bacteroides helcogenes		37	GCF_000186225.1
+Bacteroides ovatus		37	GCF_001314995.1
+Bacteroides thetaiotaomicron		37	GCF_000011065.1
+Bacteroides vulgatus		37	GCF_000012825.1
+Barnesiella viscericola		37	GCF_000512915.1
+Brucella abortus		37	
+Brucella canis		37	
+Brucella melitensis		37	
+Brucella ovis		37	
+Brucella suis		37	
+Burkholderia mallei		37	
+Burkholderia pseudomallei		37	
+Campylobacter hominis		37	GCF_000017585.1
+Campylobacter sputorum		37	GCF_002220735.1
+Chlamydia abortus		37	GCF_000026025.1
+Chlamydia felis		37	GCF_000009945.1
+Chlamydia muridarum		37	GCF_000006685.1
+Chlamydia pecorum		37	GCF_000204135.1
+Chlamydia pneumoniae		37	GCF_000008745.1
+Chlamydia suis		37	GCF_900169085.1
+Chlamydia trachomatis		37	GCF_000068585.1
+Chromohalobacter salexigens		37	GCF_000055785.1
+Citrobacter amalonaticus		37	GCF_000981805.1
+Citrobacter braakii		37	GCF_002073755.2
+Citrobacter farmeri		37	GCF_002249995.1
+Citrobacter freundii		37	GCF_000648515.1
+Citrobacter koseri		37	GCF_000018045.1
+Citrobacter rodentium		37	GCF_000027085.1
+Clostridium beijerinckii		37	GCF_000833105.2
+Clostridium cellulovorans		37	GCF_000145275.1
+Clostridium chauvoei		37	GCF_900168365.1
+Clostridium formicaceticum		37	GCF_001854185.1
+Clostridium ljungdahlii		37	GCF_000143685.1
+Clostridium pasteurianum		37	GCF_000389635.1
+Clostridium tetani		37	GCF_000007625.1
+Corynebacterium aquilae		37	GCF_001941445.1
+Corynebacterium atypicum		37	GCF_000732945.1
+Corynebacterium phocae		37	GCF_001941565.1
+Corynebacterium pseudotuberculosis		37	GCF_000144675.2
+Corynebacterium resistens		37	GCF_000177535.2
+Corynebacterium simulans		37	GCF_001586215.1
+Corynebacterium singulare		37	GCF_000833575.1
+Corynebacterium sphenisci		37	GCF_001941505.1
+Corynebacterium striatum		37	GCF_002156805.1
+Corynebacterium urealyticum		37	GCF_000069945.1
+Corynebacterium ureicelerivorans		37	GCF_000747315.1
+Desulfarculus baarsii		37	GCF_000143965.1
+Desulfitobacterium hafniense		37	GCF_000021925.1
+Desulfobacca acetoxidans		37	GCF_000195295.1
+Desulfomonile tiedjei		37	GCF_000266945.1
+Desulfosporosinus orientis		37	GCF_000235605.1
+Desulfotomaculum acetoxidans		37	GCF_000024205.1
+Desulfotomaculum reducens		37	GCF_000016165.1
+Desulfotomaculum ruminis		37	GCF_000215085.1
+Desulfovibrio piger		37	GCF_900116045.1
+Edwardsiella hoshinae		37	GCF_001761405.1
+Edwardsiella tarda		37	GCF_000020865.1
+Escherichia coli		37	GCF_000005845.2
+Escherichia fergusonii		37	GCF_000026225.1
+Eubacterium limosum		37	GCF_000807675.2
+Fibrobacter succinogenes		37	GCF_000146505.1
+Filifactor alocis		37	GCF_000163895.2
+Flavobacterium indicum		37	GCF_000455605.1
+Francisella tularensis		37	GCF_000008985.1
+Halanaerobium praevalens		37	GCF_000165465.1
+Helicobacter bilis		37	GCF_001999985.1
+Helicobacter cinaedi		37	GCF_000349975.1
+Helicobacter felis		37	GCF_000200595.1
+Helicobacter hepaticus		37	GCF_000007905.1
+Helicobacter mustelae		37	GCF_000091985.1
+Helicobacter pylori		37	GCF_000008525.1
+Helicobacter typhlonius		37	GCF_001460635.1
+Kutzneria albida		37	GCF_000525635.1
+Lactobacillus mucosae		37	GCF_000248095.2
+Micrococcus luteus		37	GCF_000023205.1
+Mycobacterium africanum		37	GCF_000253355.1
+Mycobacterium bovis		37	
+Mycobacterium fortuitum		37	GCF_001307545.1
+Mycobacterium intracellulare		37	GCF_000277125.1
+Mycobacterium kansasii		37	GCF_000157895.3
+Mycobacterium leprae		37	GCF_000195855.1
+Mycobacterium tuberculosis		37	GCF_000195955.2
+Mycoplasma agalactiae		37	GCF_000063605.1
+Mycoplasma arginini		37	GCF_001547975.1
+Mycoplasma arthritidis		37	GCF_000020065.1
+Mycoplasma bovis		37	GCF_000183385.1
+Mycoplasma bovoculi		37	GCF_000524555.1
+Mycoplasma californicum		37	GCF_000695835.1
+Mycoplasma canadense		37	GCF_000828855.1
+Mycoplasma canis		37	GCF_001553195.1
+Mycoplasma capricolum		37	GCF_000012765.1
+Mycoplasma cynos		37	GCF_000328725.1
+Mycoplasma dispar		37	GCF_000941075.1
+Mycoplasma fermentans		37	GCF_000186005.1
+Mycoplasma flocculare		37	GCF_000815065.1
+Mycoplasma gallisepticum		37	GCF_000092585.1
+Mycoplasma genitalium		37	GCF_000027325.1
+Mycoplasma hominis		37	GCF_000085865.1
+Mycoplasma hyopneumoniae		37	GCF_000008205.1
+Mycoplasma hyorhinis		37	GCF_000313635.1
+Mycoplasma leachii		37	GCF_000183365.1
+Mycoplasma mycoides		37	GCF_000011445.1
+Mycoplasma penetrans		37	GCF_000011225.1
+Mycoplasma pneumoniae		37	GCF_000027345.1
+Mycoplasma pullorum		37	GCF_001900245.1
+Mycoplasma pulmonis		37	GCF_000195875.1
+Mycoplasma putrefaciens		37	GCF_000224105.1
+Mycoplasma synoviae		37	GCF_000969765.1
+Mycoplasma yeatsii		37	GCF_000875755.1
+Parvimonas micra		37	GCF_000800295.1
+Plesiomonas shigelloides		37	GCF_900087055.1
+Porphyromonas asaccharolytica		37	GCF_000212375.1
+Porphyromonas gingivalis		37	GCF_000010505.1
+Proteus mirabilis		37	GCF_000069965.1
+Proteus vulgaris		37	GCF_001281565.1
+Providencia rettgeri		37	GCF_001874625.1
+Providencia stuartii		37	GCF_000259175.1
+Riemerella anatipestifer		37	GCF_000252855.1
+Roseburia hominis		37	GCF_000225345.1
+Salmonella bongori		37	GCF_000252995.1
+Salmonella enterica		37	GCF_000195995.1
+Shigella dysenteriae		37	GCF_000012005.1
+Shigella sonnei		37	GCF_000283715.1
+Spiroplasma culicicola		37	GCF_000565175.1
+Spiroplasma mirum		37	GCF_000565195.1
+Staphylococcus lutrae		37	GCF_002101335.1
+Streptococcus agalactiae		37	GCF_000007265.1
+Streptococcus anginosus		37	GCF_000463505.1
+Streptococcus constellatus		37	GCF_000463425.1
+Streptococcus cristatus		37	GCF_000385925.1
+Streptococcus dysgalactiae		37	GCF_000317855.1
+Streptococcus equi		37	GCF_000026605.1
+Streptococcus gallolyticus		37	GCF_002000985.1
+Streptococcus gordonii		37	GCF_000017005.1
+Streptococcus infantarius		37	GCF_000246835.1
+Streptococcus intermedius		37	GCF_000463355.1
+Streptococcus lutetiensis		37	GCF_000441535.1
+Streptococcus oralis		37	GCF_000253155.1
+Streptococcus parasanguinis		37	GCF_000164675.2
+Streptococcus pasteurianus		37	GCF_000270165.1
+Streptococcus pneumoniae		37	GCF_000007045.1
+Streptococcus pyogenes		37	GCF_000006785.2
+Streptococcus salivarius		37	GCF_000785515.1
+Streptococcus sanguinis		37	GCF_000014205.1
+Streptococcus suis		37	GCF_000026745.1
+Streptococcus uberis		37	GCF_000009545.1
+Syntrophobacter fumaroxidans		37	GCF_000014965.1
+Tannerella forsythia		37	GCF_000238215.1
+Treponema pallidum		37	GCF_000604125.1
+Treponema putidum		37	GCF_000755145.1
+Treponema succinifaciens		37	GCF_000195275.1
+Tropheryma whipplei		37	GCF_000007485.1
+Wolinella succinogenes		37	GCF_000196135.1
+Clostridium baratii		37,5	GCF_000789395.1
+Desulfitobacterium dehalogenans		37,5	GCF_000243155.2
+Eggerthella lenta		37,5	GCF_000024265.1
+Mycobacterium goodii		37,5	GCF_001187505.1
+Parascardovia denticolens		37,5	GCF_001042675.1
+Selenomonas ruminantium		37,5	GCF_000284095.1
+Selenomonas sputigena		37,5	GCF_000208405.1
+Staphylococcus sciuri		37,5	GCF_002209165.2
+Virgibacillus halodenitrificans		37,5	GCF_001878675.1
+Brachyspira hyodysenteriae		38	GCF_001676785.2
+Brachyspira intermedia		38	GCF_000223215.1
+Brachyspira murdochii		38	GCF_000092845.1
+Brachyspira pilosicoli		38	GCF_000325665.1
+Clostridium carboxidivorans		38	GCF_001038625.1
+Desulfohalobium retbaense		38,5	GCF_000024325.1
+Halorhodospira halophila		38,5	GCF_000015585.1
+Megasphaera elsdenii		38,5	GCF_001304715.1
+Acetohalobium arabaticum		39	GCF_000144695.1
+Bifidobacterium adolescentis		39	GCF_000010425.1
+Bifidobacterium angulatum		39	GCF_001025155.1
+Bifidobacterium bifidum		39	GCF_000165905.1
+Bifidobacterium breve		39	GCF_001025175.1
+Bifidobacterium catenulatum		39	GCF_001025195.1
+Bifidobacterium coryneforme		39	GCF_000737865.1
+Bifidobacterium dentium		39	GCF_001042595.1
+Bifidobacterium indicum		39	GCF_000706765.1
+Bifidobacterium longum		39	GCF_000007525.1
+Bifidobacterium pseudocatenulatum		39	GCF_001025215.1
+Bifidobacterium pseudolongum		39	GCF_000800475.2
+Bifidobacterium scardovii		39	GCF_001042635.1
+Bifidobacterium thermophilum		39	GCF_000347695.1
+Nitrospira moscoviensis		39	GCF_001273775.1
+Pasteurella multocida		39	GCF_000754275.1
+Mycobacterium avium		39,5	GCF_000007865.1
+Ruminococcus albus		39,5	GCF_000179635.2
+Bifidobacterium animalis		40	GCF_000022965.1
+Cellulosilyticum lentocellum		40	GCF_000178835.2
+Halobacteroides halobius		40	GCF_000328625.1
+Pediococcus acidilactici		40	GCF_001767275.1
+Salinibacter ruber		40	GCF_000013045.1
+Slackia heliotrinireducens		40	GCF_000023885.1
+Scardovia inopinata		40,25	GCF_001042695.1
+Methylobacillus flagellatus		42	GCF_000013705.1
+Saccharomonospora viridis		42,5	GCF_000023865.1
+Thermobifida fusca		44	
+Acidithiobacillus caldus		45	GCF_000175575.2
+Clostridium novyi		45	GCF_000014125.1
+Clostridium perfringens		45	GCF_000013285.1
+Isosphaera pallida		45	GCF_000186345.1
+Methylococcus capsulatus		45	GCF_000008325.1
+Lactobacillus amylolyticus		46,5	GCF_002075105.1
+Deinococcus geothermalis		47	GCF_000196275.1
+Rubrobacter radiotolerans		47	GCF_000661895.1
+Chlorobaculum tepidum		47,5	GCF_000006985.1
+Flexistipes sinusarabici		47,5	GCF_000218625.1
+Acidimicrobium ferrooxidans		48	GCF_000023265.1
+Bacillus coagulans		48,5	GCF_000832905.1
+Mahella australiensis		50	GCF_000213255.1
+Heliobacterium modesticaldum		52	GCF_000019165.1
+Thermodesulfobium narugense		52,5	GCF_000212395.1
+Desulfurella acetivorans		53,5	
+Hippea maritima		53,5	GCF_000194135.1
+Bacillus methanolicus		55	GCF_000724485.1
+Chloroflexus aggregans		55	GCF_000021945.1
+Desulfotomaculum nigrificans		55	GCF_000214435.1
+Meiothermus silvanus		55	GCF_000092125.1
+Syntrophothermus lipocalidus		55	GCF_000092405.1
+Thermanaerovibrio acidaminovorans		55	GCF_000024905.1
+Chloroflexus aurantiacus		56	GCF_000018865.1
+Geobacillus subterraneus		56,5	GCF_001618685.1
+[Clostridium] cellulosi		57,5	
+Acidothermus cellulolyticus		57,5	GCF_000015025.1
+Anoxybacillus gonensis		57,5	GCF_001187595.1
+Geobacillus lituanicus		57,5	
+Geobacillus thermodenitrificans		57,5	GCF_000015745.1
+Thermoanaerobacter mathranii		57,5	GCF_000092965.1
+Thermobispora bispora		57,5	GCF_000092645.1
+Moorella thermoacetica		58	
+Thermacetogenium phaeum		58	GCF_000305935.1
+Thermoanaerobacterium thermosaccharolyticum		58,5	GCF_000145615.1
+Anoxybacillus flavithermus		60	GCF_000019045.1
+Deferribacter desulfuricans		60	GCF_000010985.1
+Geobacillus thermoleovorans		60	
+Halothermothrix orenii		60	GCF_000020485.1
+Meiothermus ruber		60	GCF_000024425.1
+Rubrobacter xylanophilus		60	GCF_000014185.1
+Symbiobacterium thermophilum		60	GCF_000009905.1
+Thermoanaerobacterium xylanolyticum		60	GCF_000189775.2
+Anoxybacillus amylolyticus		61	GCF_001634285.1
+[Clostridium] stercorarium		62,5	GCF_000331995.1
+Alicyclobacillus acidocaldarius		62,5	GCF_000024285.1
+Geobacillus kaustophilus		62,5	GCF_000009785.1
+Thermoanaerobacter brockii		62,5	GCF_000175295.2
+Coprothermobacter proteolyticus		63	GCF_000020945.1
+Caldanaerobacter subterraneus		65	GCF_000007085.1
+Fervidobacterium islandicum		65	GCF_000767275.3
+Thermoanaerobacter pseudethanolicus		65	GCF_000019085.1
+Thermodesulfovibrio yellowstonii		65	GCF_000020985.1
+Pseudothermotoga elfii		66	GCF_000504085.1
+Thermoanaerobacter kivui		66	GCF_000763575.1
+Thermoanaerobacter wiegelii		66,5	GCF_000147695.2
+Spirochaeta thermophila		67	GCF_000184345.1
+Thermus parvatiensis		67,5	GCF_001535545.1
+Caldicellulosiruptor lactoaceticus		68	GCF_000193435.2
+Thermosediminibacter oceani		68	GCF_000144645.1
+Ammonifex degensii		70	GCF_000024605.1
+Caldicellulosiruptor saccharolyticus		70	GCF_000016545.1
+Desulfurobacterium thermolithotrophum		70	GCF_000191045.1
+Fervidobacterium nodosum		70	GCF_000017545.1
+Fervidobacterium pennivorans		70	GCF_000235405.2
+Geobacillus thermocatenulatus		70	GCF_002243665.1
+Pseudothermotoga hypogea		70	GCF_000816145.1
+Thermaerobacter marianensis		70	GCF_000184705.1
+Thermoanaerobacter italicus		70	GCF_000025645.1
+Thermodesulfobacterium commune		70	GCF_000734015.1
+Thermosipho melanesiensis		70	GCF_000016905.1
+Thermus aquaticus		70	GCF_001399775.1
+Thermus brockianus		70	GCF_001880325.1
+Thermus oshimai		70	GCF_000309885.1
+Thermus scotoductus		70	GCF_000187005.1
+Carboxydothermus hydrogenoformans		71	GCF_000012865.1
+Dictyoglomus turgidum		72	GCF_000021645.1
+Hydrogenobacter thermophilus		72,5	GCF_000010785.1
+Rhodothermus marinus		72,5	GCF_000024845.1
+Thermomicrobium roseum		72,5	GCF_000021685.1
+Caldicellulosiruptor owensensis		75	GCF_000166335.1
+Pseudothermotoga thermarum		75	GCF_000217815.1
+Thermosipho africanus		75	GCF_000021285.1
+Dictyoglomus thermophilum		75,5	GCF_000020965.1
+Caldicellulosiruptor kristjanssonii		78	GCF_000166695.1
+Thermocrinis ruber		80	GCF_000512735.1
+Thermotoga maritima		80	GCF_000008545.1
+Thermotoga neapolitana		80	GCF_000018945.1
+Aquifex aeolicus		85	GCF_000008625.1

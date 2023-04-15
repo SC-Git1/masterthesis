@@ -39,7 +39,6 @@ for i in dfCond.index:
 dfCond['Temp'] = listT
 dfCond = dfCond[(dfCond['Temp'] != "NA") & (dfCond['Temp'] != "")]
 # print(dfCond.shape) -> there are 2954 records with temperature annotation
-dfCond.to_csv("Annotated_CCUG2.tsv", sep = "\t", index = False)
 
 # merge to add the species names
 df_records = pd.read_csv("Records.tsv",delimiter="\t", header=0,index_col=False)

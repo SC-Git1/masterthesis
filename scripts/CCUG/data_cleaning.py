@@ -7,7 +7,7 @@ dfCond = pd.read_csv("CCUG_info2.txt",delimiter="\t", header=0,index_col=False, 
 
 # remove records without information about their growth condition
 dfCond = dfCond[dfCond['cond'].notna()]
-# print(len(dfCond)) -> there are 3046 remaining records
+# print(len(dfCond)) -> there are 3045 remaining records
 
 ## extract the temperatures
 listT = []
@@ -38,10 +38,10 @@ for i in dfCond.index:
 
 dfCond['Temp'] = listT
 dfCond = dfCond[(dfCond['Temp'] != "NA") & (dfCond['Temp'] != "")]
-# print(dfCond.shape) -> there are 2955 records with temperature annotation
-dfCond.to_csv("Annotated_CCUG2.tsv", sep = "\t")
+# print(dfCond.shape) -> there are 2954 records with temperature annotation
+dfCond.to_csv("Annotated_CCUG2.tsv", sep = "\t", index = False)
 
 # merge to add the species names
 df_records = pd.read_csv("Records.tsv",delimiter="\t", header=0,index_col=False)
-merged = df_records.merge(dfCond, how = "inner", on = "CCUG Number")
-merged.filter(['CCUG Number','Strain','Temp']).to_csv("AnnotatedWithSpecies_CCUG2.tsv", sep = "\t")
+merged = dfCond.merge(df_records, how = "left", on = "CCUG Number")
+merged.filter(['CCUG Number','Strain','Temp']).to_csv("AnnotatedWithSpecies_CCUG2.tsv", sep = "\t", index = False)

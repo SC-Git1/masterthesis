@@ -3,7 +3,7 @@ import re
 
 
 # import the data
-dfCond = pd.read_csv("CCUG_info2.txt",delimiter="\t", header=0,index_col=False, encoding="utf-16")
+dfCond = pd.read_csv("CCUG_info2.tsv",delimiter="\t", header=0,index_col=False, encoding="utf-16")
 
 # remove records without information about their growth condition
 dfCond = dfCond[dfCond['cond'].notna()]

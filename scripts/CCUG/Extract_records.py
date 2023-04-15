@@ -40,8 +40,8 @@ if __name__ == "__main__":
     # read in the records data
     df_CCUG = pd.read_csv("Records.tsv", delimiter = "\t", header = 0, index_col=False)
     
-    # open a new file named "CCUG_info2.txt" to store the extracted growth condition data for each record
-    with open("CCUG_info2.txt","w+", encoding = "utf-16") as f:
+    # open a new file named "CCUG_info2.tsv" to store the extracted growth condition data for each record
+    with open("CCUG_info2.tsv","w+", encoding = "utf-16") as f:
         f.write("CCUG Number" + "\t" + "cond" + "\n")
         for record in df_CCUG['CCUG Number']:
             time.sleep(0.2)

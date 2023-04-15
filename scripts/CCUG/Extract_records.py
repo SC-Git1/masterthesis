@@ -1,6 +1,7 @@
 import re
 import time
 import pandas as pd
+
 """
 The CCUG provides data on all records in their TypeStrain collection in tabular format at 
 https://www.ccug.se/collections/search?collection=typestrains. First, all the data was manually copied into 
@@ -45,7 +46,7 @@ if __name__ == "__main__":
         for record in df_CCUG['CCUG Number']:
             time.sleep(0.2)
             # remove all records containing "#" since these records are not publicly accessible
-            if "#" in record: #T or A#T
+            if "#" in record: #T, A#T, B#T or !#T
                 continue
 
             ## the URLs contain the strain IDs which are the CCUG numbers without their letter-based suffices

@@ -1,0 +1,1641 @@
+
+Current Name	Number of Results
+Abiotrophia adiacens	1
+Acholeplasma axanthum	1
+Acholeplasma equifetale	1
+Acholeplasma equirhinis	1
+Acholeplasma granularum	1
+Acholeplasma hippikon	1
+Acholeplasma laidlawii	1
+Acholeplasma modicum	1
+Acholeplasma morum	1
+Acholeplasma oculi	1
+Acholeplasma parvum	1
+Achromobacter denitrificans	2
+Achromobacter insolitus	1
+Achromobacter piechaudii	1
+Achromobacter ruhlandii	1
+Achromobacter sp.	5
+Achromobacter spanios	1
+Achromobacter xylosoxidans subsp. xylosoxidans	3
+Acinetobacter baumannii	26
+Acinetobacter calcoaceticus	1
+Acinetobacter colistiniresistens	1
+acinetobacter genospecies 13	1
+Acinetobacter haemolyticus	4
+Acinetobacter haemolyticus subsp haemolyticus	1
+Acinetobacter johnsonii	2
+Acinetobacter junii	2
+Acinetobacter lwoffii	5
+Acinetobacter sp.	1
+Actinobacillus capsulatus	1
+Actinobacillus delphinicola	2
+Actinobacillus equuli	7
+Actinobacillus equuli ss. haemolyticus	1
+Actinobacillus haemolyticus subsp. indologenes	1
+Actinobacillus hominis	1
+Actinobacillus lignieresii	13
+Actinobacillus muris	1
+Actinobacillus pleuropneumoniae	5
+Actinobacillus rossii	2
+Actinobacillus salpingitidis	1
+Actinobacillus scotiae	1
+Actinobacillus seminis	1
+Actinobacillus sp.	3
+Actinobacillus suis	5
+Actinobacillus ureae	4
+Actinobacillus vicugnae	1
+Actinobaculum suis	1
+Actinomadura madurae	3
+Actinomadura pelletieri	3
+Actinomyces bovis	6
+Actinomyces cardiffensis	1
+Actinomyces denticolens	1
+Actinomyces europaeus	1
+Actinomyces funkei	1
+Actinomyces graevenitzii	1
+Actinomyces howellii	1
+Actinomyces israelii	9
+Actinomyces meyeri	1
+Actinomyces naeslundii	1
+Actinomyces odontolyticus	2
+Actinomyces radingae	1
+Actinomyces slackii	1
+Actinomyces turicensis	1
+Actinomyces urogenitalis	1
+Actinomyces viscosus	2
+Aerococcus viridans	16
+Aeromonas caviae	3
+Aeromonas encheleia	1
+Aeromonas hydrophila	4
+Aeromonas hydrophila subsp. formicans	1
+Aeromonas liquefaciens	1
+Aeromonas salmonicida	4
+Aeromonas sobria	4
+Aeromonas veronii	2
+Afipia	3
+Afipia broomeae	1
+Afipia clevelandensis	1
+Afipia felis	2
+Aggregatibacter actinomycetemcomitans	6
+Aggregatibacter aphrophilus	9
+Aggregatibacter segnis	1
+Aggregatibacter sp.	1
+Alcaligenes faecalis	5
+Alcaligenes faecalis subsp faecalis	2
+Alcaligenes odorans	2
+Alcaligenes piechaudii	2
+Alloicoccus otitidis	1
+Alloiococcus otitis	1
+Alloprevotella tannerae	1
+Alysiella crassa	1
+Alysiella filiformis	1
+Aminobacter aminovorans	1
+Anaerobiospirillum succiniciproducens	1
+Anaerobiospirillum thomasii	2
+Anaerococcus octavius	2
+Anaerococcus prevotii	1
+Anaerospora hongkongensis	1
+Aneurinibacillus migulanus	1
+Aquaspirillum serpens	1
+Arcanobacterium haemolyticum	5
+Arcanobacterium pyogenes	5
+Arcobacter butzleri	1
+Arcobacter cryaerophilus	1
+Arcobacter nitrofigilis	1
+Arcobacter skirrowii	1
+Arcobacter sp.	8
+Arthrobacter agilis	1
+Atopobium vaginae	1
+Auritidibacter ignavus	1
+Avibacterium avium	1
+Avibacterium endocarditidis	1
+Avibacterium gallinarum	1
+Avibacterium paragallinarum	2
+Avibacterium volantium	1
+Arcanobacterium hippocoleae	1
+Citrobacter braakii	1
+Odoribacter splanchnicus	1
+Salmonella enterica subsp. enterica Serotype Bovis-Morbificans	1
+Salmonella enterica subsp.enterica Paratyphi C	1
+Shigella dysenteriae	2
+Shigella flexneri	1
+Shigella sonnei	1
+Vibrio cholerae	12
+Bacillus alcalophilus	1
+Bacillus anthracis	7
+Bacillus atropeaus	1
+Bacillus badius	1
+Bacillus carotarum	1
+Bacillus cereus	17
+Bacillus circulans	3
+Bacillus coagulans	6
+Bacillus firmus	1
+Bacillus freudenreichii	1
+Bacillus lentus	1
+Bacillus licheniformis	17
+bacillus loehnisii	1
+Bacillus megaterium	7
+Bacillus mycoides	3
+Bacillus pumilus	8
+Bacillus sonorensis	1
+Bacillus sphaericus	8
+Bacillus stearothermophilus	1
+Bacillus subtilis	9
+Bacillus subtilis subsp spizizenii	1
+Bacillus tequilensis	1
+Bacteroides caccae	1
+Bacteroides distasonis	1
+Bacteroides eggerthii	1
+bacteroides flavofluorescens	1
+Bacteroides fragilis	8
+Bacteroides lentus	1
+Bacteroides merdae	1
+Bacteroides ovatus	1
+Bacteroides stercoris	1
+Bacteroides tectus	1
+Bacteroides thetaiotaomicron	2
+Bacteroides uniformis	1
+Bacteroides ureolyticus	4
+Bacteroides variabilis	1
+Bacteroides vulgatus	2
+Bartonella bacilliformis	2
+Bartonella doshiae	1
+Bartonella elizabethae	1
+Bartonella grahamii	1
+Bartonella henselae	1
+Bartonella melophagi	1
+Bartonella quintana	1
+Bartonella schoenbuchensis	1
+Bartonella tamiae	1
+Bartonella vinsonii	1
+Bartonella washoensis	1
+Bartonella washoensis ssp. cynomysius	1
+Bergeriella denitrificans	1
+Bergeyella zoohelcum	3
+Bibersteinia trehalosi	2
+Bifidobacterium adolescentis	1
+Bifidobacterium bifidum	2
+Bifidobacterium breve	2
+Bifidobacterium dentium	1
+Bifidobacterium infantis	1
+Bifidobacterium longum	1
+Bifidobacterium longum subsp. infantis	1
+Bisgaardia	1
+Bisgaardia hudsonensis	1
+Blautia coccoides	1
+Blautia producta	1
+Bordetella ansorpii	1
+Bordetella avium	2
+Bordetella bronchiseptica	17
+Bordetella hinzii	3
+Bordetella holmesii	2
+Bordetella parapertussis	11
+Bordetella pertussis	19
+Bordetella petrii	2
+Bordetella pseudohinzii	1
+Bordetella trematum	2
+Brachybacterium nesterenkovii	1
+Brachyspira hampsonii	2
+Brachyspira innocens	1
+Brachyspira pilosicola	2
+Brachyspira pilosicoli	1
+Brevibacillus brevis	2
+Brevibacillus laterosporus	3
+Brevibacterium epidermidis	4
+Brevibacterium iodinum	3
+Brevundimonas diminuta	3
+Brevundimonas vancanneytii	1
+Brevundimonas vesicularis	3
+Brochothrix thermosphacta	1
+Brucella abortus	23
+Brucella anthropi	4
+Brucella canis	2
+Brucella ceti	1
+Brucella intermedia	1
+Brucella melitensis	10
+Brucella neotomae	4
+Brucella ovis	2
+Brucella pinnipedialis	1
+Brucella suis	13
+Budvicia aquatica	3
+Burkholderia cenocepacia	7
+Burkholderia cepacia	4
+Burkholderia gladioli	1
+Burkholderia mallei	10
+Burkholderia multivorans	1
+Burkholderia oklahomensis	4
+Burkholderia pseudomallei	17
+Burkholderia stabilis	1
+Burkholderia thailandensis	1
+Burkholderia ubonensis	1
+Buttiauxella agrestis	1
+Butyribacterium limosum	1
+Campylobacter	2
+Campylobacter aviculae	1
+Campylobacter bilis	1
+campylobacter clo-3	1
+Campylobacter coli	12
+Campylobacter coli bacteriophage	3
+Campylobacter coli ssp. aquaticus	1
+Campylobacter concisus	3
+Campylobacter estrildidarum	1
+Campylobacter fetus subsp. fetus	3
+Campylobacter fetus subsp. venerealis	2
+Campylobacter gracilis	1
+Campylobacter helveticus	7
+Campylobacter hepaticus	1
+Campylobacter hominis	1
+Campylobacter hyoilei	2
+Campylobacter hyointestinalis	6
+Campylobacter insulaenigrae	4
+Campylobacter jejuni	25
+Campylobacter jejuni bacteriophage	8
+Campylobacter jejuni subsp. doylei	9
+Campylobacter jejuni subsp. jejuni	24
+Campylobacter lanienae	2
+Campylobacter lari	13
+Campylobacter mucosalis	5
+Campylobacter rectus	1
+Campylobacter showae	1
+Campylobacter sp.	1
+Campylobacter sputorum biovar fecalis	2
+Campylobacter sputorum biovar sputorum	1
+Campylobacter sputorum subsp. bubulus	2
+Campylobacter sputorum subsp. sputorum	3
+Campylobacter taeniopygiae	1
+Campylobacter upsaliensis	9
+Campylobacter ureolyticus	3
+Capnocytophaga canimorsus	2
+Capnocytophaga cynodegmi	1
+Capnocytophaga genospecies AHN8471	1
+Capnocytophaga gingivalis	1
+Capnocytophaga granulosa	1
+Capnocytophaga haemolytica	1
+Capnocytophaga leadbetteri	1
+Capnocytophaga ochracea	5
+Capnocytophaga sp.	2
+Capnocytophaga sputigena	2
+Cardiobacterium hominis	3
+Cardiobacterium valvarum	1
+Carnobacterium divergens	1
+Castellaniella denitrificans	1
+Cedecea davisae	2
+Cedecea lapagei	1
+Cedecea neteri	2
+Cedecea species	1
+Cellulomonas biazotea	1
+Cellulomonas fimi	1
+Cellulosimicrobium cellulans	1
+Cellulosimicrobium funkei	2
+Chromobacterium violaceum	15
+Chryseobacterium antarcticum	1
+Chryseobacterium anthropi	1
+Chryseobacterium aquifrigidense	1
+Chryseobacterium balustinum	2
+Chryseobacterium bovis	1
+Chryseobacterium bruuniae	1
+Chryseobacterium gleum	4
+Chryseobacterium haifense	1
+Chryseobacterium hominis	1
+Chryseobacterium indologenes	1
+Chryseobacterium indoltheticum	2
+Chryseobacterium jejuense	1
+Chryseobacterium jeonii	1
+Chryseobacterium joostei	1
+Chryseobacterium lactis	1
+Chryseobacterium meningosepticum	11
+Chryseobacterium nakagawai	1
+Chryseobacterium oranimense	1
+Chryseobacterium pallidum	1
+Chryseobacterium shigense	2
+Chryseobacterium taklimakanense	1
+Chryseobacterium ureilyticum	2
+Citrobacter amalonaticus	2
+Citrobacter braakii	2
+Citrobacter freundii	12
+Citrobacter gillenii	1
+Citrobacter koseri	18
+Citrobacter youngae	2
+Cloacibacterium normanense	1
+Clostridioides difficile	1
+Clostridium aerotolerans	1
+Clostridium baratii	2
+Clostridium beijerinckii	1
+Clostridium bifermentans	11
+Clostridium botulinum	21
+Clostridium butyricum	4
+Clostridium cadaveris	1
+Clostridium carnis	2
+Clostridium celatum	1
+Clostridium chauvoei	4
+Clostridium clostridiiforme	2
+Clostridium cochlearium	3
+Clostridium cocleatum	1
+Clostridium difficile	45
+Clostridium drakei	1
+Clostridium fallax	1
+Clostridium glycolicum	2
+Clostridium haemolyticum	3
+Clostridium hastiforme	1
+Clostridium histolyticum	4
+Clostridium indolis	1
+Clostridium innocuum	1
+Clostridium lentoputrescens	1
+Clostridium novyi	10
+Clostridium paraputrificum	4
+Clostridium perfringens	54
+Clostridium putrefaciens	1
+Clostridium putrificum	2
+Clostridium ramosum	1
+Clostridium ruminantium (LA 1)	1
+Clostridium sardiniense	3
+Clostridium scatologenes	1
+Clostridium septicum	11
+Clostridium sordellii	1
+Clostridium sphenoides	1
+Clostridium spiroforme	2
+Clostridium sporogenes	10
+Clostridium symbiosum	1
+Clostridium tertium	3
+Clostridium tetani	29
+Clostridium tetanomorphum	3
+Clostridium xylanolyticum	1
+Collinsella aerofaciens	1
+Comamonas terrigena	3
+Comamonas testosteroni	1
+Corynebacterium accolens	1
+Corynebacterium amycolatum	2
+Corynebacterium auriscanis	1
+Corynebacterium bovis	2
+Corynebacterium cervicis	4
+Corynebacterium cystitidis	1
+Corynebacterium dihptheriae var intermedius	1
+Corynebacterium diphtheriae	57
+Corynebacterium diphtheriae biovar belfanti	2
+Corynebacterium diphtheriae var intermedius	1
+Corynebacterium diptheriae var mitis	1
+Corynebacterium genitalium	1
+Corynebacterium hindlerae	1
+Corynebacterium imitans	1
+Corynebacterium jeikeium	4
+Corynebacterium kutscheri	5
+Corynebacterium matruchotii	3
+Corynebacterium minutissimum	4
+Corynebacterium murisepticum	1
+Corynebacterium mycetoides	1
+Corynebacterium pilosum	1
+Corynebacterium pseudodiphtheriticum	6
+corynebacterium pseudogenitalium	1
+Corynebacterium pseudotuberculosis	7
+Corynebacterium renale	4
+Corynebacterium sanguinis	1
+Corynebacterium segmentosum	1
+Corynebacterium sp.	1
+Corynebacterium striatum	2
+Corynebacterium suis	1
+Corynebacterium ulcerans	12
+Corynebacterium urealyticum	1
+Corynebacterium xerosis	7
+Cronobacter sakazakii	6
+Cronobacter universalis	1
+Cutibacterium acnes	1
+Cytophaga	1
+Deinococcus radiodurans	1
+Deinococcus radiophilus	1
+Delftia acidovorans	2
+Dermacoccus nishinomiyaensis	1
+Dermatophilus congolensis	3
+Edwardsiella hoshinae	1
+Edwardsiella ictaluri	1
+Edwardsiella tarda	5
+Eggerthella lenta	1
+Eikenella corrodens	2
+Eikenella exigua	2
+Eikenella halliae	1
+Eikenella longinqua	1
+Elizabethkingia anophelis	1
+Elizabethkingia meningoseptica	5
+Empedobacter brevis	4
+Enemella dayhoffiae	1
+Enemella evansiae	1
+Enterobacter aerogenes	6
+Enterobacter amnigenus	1
+Enterobacter asburiae	2
+Enterobacter chuandaensis	1
+Enterobacter cloacae	54
+Enterobacter cloacae complex	2
+Enterobacter hormaechei	1
+Enterobacter huaxiensis	1
+Enterobacter intermedius	1
+Enterobacter quasihormaechei	1
+Enterobacter taylorae	1
+Enterococcus avium	2
+Enterococcus casseliflavus	3
+Enterococcus cecorum	2
+Enterococcus durans	5
+Enterococcus faecalis	32
+Enterococcus faecium	19
+Enterococcus gallinarum	5
+Enterococcus hirae	5
+Enterococcus innesii	1
+Enterococcus malodoratus	2
+Enterococcus mundtii	2
+Enterococcus raffinosus	1
+Entomoplasma ellychniae	1
+Entomoplasma lucivorax	1
+Entomoplasma luminosum	1
+Entomoplasma melaleucae	1
+Entomoplasma somnilux	1
+Erysipelothrix rhusiopathiae	13
+Escherichia alkalescens	1
+Escherichia coli	392
+Escherichia dispar	1
+Escherichia fergusonii	1
+Escherichia hermannii	1
+Escherichia ruysiae	1
+Escherichia vulneris	1
+Escherihia coli	1
+Eubacterium fossor	1
+Eubacterium infirmum	1
+Eubacterium tardum	1
+Ewingella americana	1
+Exiguobacterium aurantiacum	2
+Falcivibrio grandis	1
+Falcivibrio vaginalis	1
+Filifactor villosus	2
+Finegoldia magna	1
+Flavobacterium filum	1
+Flavobacterium granuli	1
+Flavobacterium hibernum	1
+Flavobacterium hydatis	1
+Flavobacterium lindanitolerans	2
+Flavobacterium mizutaii	1
+Flavobacterium resistens	1
+Flavobacterium sp. (f. breve-like)	1
+Flavobacterium thermophilum	1
+Flexispira rappini	1
+Fluoribacter bozemanae	3
+Fluoribacter dumoffii	2
+Francisella cantonensis	1
+Francisella tularensis subsp. holartica	1
+Franklinella schreckenbergeri	1
+Fusobacterium equinum	1
+Fusobacterium naviforme	2
+Fusobacterium necrogenes	1
+Fusobacterium necrophorum	4
+Fusobacterium necrophorum subsp. funduliforme	1
+Fusobacterium necrophorum subsp. necrophorum	1
+Fusobacterium nucleatum subsp. fusiforme	1
+Fusobacterium nucleatum subsp. polymorphum	1
+Fusobacterium sp.	1
+Fusobacterium ulcerans	2
+Fusobacterium varium	2
+Gallibacterium anatis	1
+Gardnerella leopoldii	1
+Gardnerella piotii	1
+Gardnerella swindsinskii	1
+Gardnerella vaginalis	3
+Gemella haemolysans	4
+Gemella morbillorum	1
+Geobacillus stearothermophilus	4
+Gordonia bronchialis	1
+Gordonia hongkongensis	1
+Gordonia rubropertincta	1
+Gordonia terrae	1
+Granulicatella adiacens	1
+Grimontia hollisae	2
+Haemophilus aegyptius	2
+Haemophilus ducreyi	7
+Haemophilus haemoglobinophilus	3
+Haemophilus haemolyticus	2
+Haemophilus influenzae	30
+Haemophilus influenzae biotype aegyptius	1
+haemophilus influenzaemurium	2
+Haemophilus parahaemolyticus	2
+Haemophilus parainfluenzae	3
+Haemophilus paraphrohaemolyticus	2
+Haemophilus parasuis	4
+Haemophilus pittmaniae	2
+Haemophilus sp.	1
+Haemophilus sputorum	1
+haemophilus-like bacterium	3
+Hafnia alvei	11
+Helicobacter acinonychis	3
+Helicobacter canadensis	3
+Helicobacter canis	5
+Helicobacter cholecystus	1
+Helicobacter cinaedi	6
+Helicobacter enhydrae	1
+Helicobacter fennelliae	4
+Helicobacter hepaticus	1
+Helicobacter muridarum	1
+Helicobacter mustelae	4
+Helicobacter nemestrinae	1
+Helicobacter pametensis	2
+Helicobacter pullorum	7
+Helicobacter pylori	40
+Helicobacter sp.	1
+Helicobacter winghamensis	3
+Hydrotalea sp.	1
+Ideonella sakaiensis	1
+Iodobacter fluviatilis	2
+Janthinobacterium lividum	8
+Jonesia denitrificans	1
+Kaistella carnis	1
+Kingella denitrificans	3
+Kingella kingae	3
+Kingella potus	1
+Klebsiella aerogenes	5
+Klebsiella edwardsii var. atlantae	1
+Klebsiella edwardsii var. edwardsii	2
+Klebsiella oxytoca	14
+Klebsiella planticola	1
+Klebsiella pneumoniae	149
+Klebsiella pneumoniae sensu stricto	18
+Klebsiella pneumoniae subsp pneumoniae	2
+Klebsiella pneumoniae subsp. ozaenae	11
+Klebsiella pneumoniae subsp. pneumoniae	4
+Klebsiella pneumoniae subsp. rhinoscleromatis	5
+Klebsiella sp.	11
+Klebsiella variicola	3
+Kluyvera ascorbata	1
+Kluyvera cryocrescens	3
+Kocuria kristinae	1
+Kocuria rhizophila	1
+Kocuria rosea	13
+Kocuria varians	9
+Kosakonia quasisacchari	1
+Kurthia zopfii	3
+Kytococcus sedentarius	1
+Lactobacillus acidophilus	7
+Lactobacillus brevis	3
+Lactobacillus casei	1
+Lactobacillus delbrueckii ssp. lactis	1
+Lactobacillus delbrueckii subsp. bulgaricus	1
+Lactobacillus gasseri	2
+lactobacillus odontolyticus	1
+lactobacillus pampilonensis	1
+Lactobacillus plantarum	1
+Lactobacillus plantarum subsp. Plantarum	1
+Lactobacillus rhamnosus	2
+Lactobacillus rhamonosus	2
+Lactobacillus sakei subsp. sakei	1
+Lactococcus garvieae	1
+Lactococcus lactis subsp lactis	1
+Lactococcus lactis subsp. lactis	1
+Lautropia mirabilis	1
+Leclercia adecarboxylata	3
+Legionella adelaidensis	1
+Legionella anisa	1
+Legionella antarctica	1
+Legionella beliardensis	1
+Legionella birminghamensis	1
+Legionella brunensis	1
+Legionella busanensis	1
+Legionella cherrii	1
+Legionella cincinnatiensis	1
+Legionella erythra	1
+Legionella fairfieldensis	1
+Legionella feeleii	3
+Legionella geestiana	1
+Legionella genomospecies 1	1
+Legionella gormanii	1
+Legionella gratiana	1
+Legionella gresilensis	1
+Legionella hackeliae	2
+Legionella israelensis	1
+Legionella jamestowniensis	1
+Legionella jordanis	1
+Legionella lansingensis	1
+Legionella londiniensis	1
+Legionella longbeachae	2
+Legionella moravica	1
+Legionella nautarum	1
+Legionella norrlandica	1
+Legionella oakridgensis	1
+Legionella parisiensis	1
+Legionella pneumophila	32
+Legionella pneumophila subsp. pascullei	3
+Legionella quateirensis	1
+Legionella quinlivanii	2
+Legionella rubrilucens	1
+Legionella sainthelensi	2
+Legionella santicrucis	1
+Legionella shakespearei	1
+Legionella sp.	1
+Legionella spiritensis	2
+Legionella steigerwaltii	1
+Legionella taurinensis	1
+Legionella tucsonensis	1
+Legionella wadsworthii	2
+Legionella waltersii	1
+Legionella worsleiensis	1
+Leminorella grimontii	1
+Leminorella richardii	1
+Leptotrichia buccalis	3
+Leuconostoc mesenteroides	2
+Listeria booriae	1
+Listeria fleischmannii subsp. coloradonensis	1
+Listeria fleischmannii subsp. fleischmannii	1
+Listeria grayi subsp. grayi	1
+Listeria grayi subsp. murrayi	3
+Listeria innocua	4
+Listeria ivanovii subsp. ivanovii	2
+Listeria ivanovii subsp. londoniensis	1
+Listeria marthii	1
+Listeria monocytogenes	24
+Listeria newyorkensis	1
+Listeria seeligeri	3
+Listeria welshimeri	1
+Listonella anguillarum	1
+Listonella pelagia	1
+Macrococcus caseolyticus	1
+Mannheimia haemolytica	41
+Megamonas hypermegale	3
+Megasphaera micronuciformis	1
+Mesoplasma entomophilum	1
+Mesoplasma florum	1
+Microbacterium oxydans	1
+Micrococcus luteus	16
+Micrococcus lylae	2
+Micrococcus sp.	2
+Mitsuokella multacida	2
+Mobiluncus curtisii	5
+Mobiluncus curtisii subsp. curtisii	1
+Mobiluncus curtisii subsp. holmesii	1
+Mobiluncus mulieris	6
+Moellerella wisconsensis	1
+Moraxella	3
+Moraxella (branhamella) catarrhalis	5
+Moraxella (branhamella) caviae	3
+Moraxella (branhamella) cuniculi	1
+Moraxella (branhamella) ovis	4
+Moraxella atlantae	5
+Moraxella boevrei	1
+Moraxella bovis	4
+Moraxella caprae	3
+Moraxella equi	1
+Moraxella lacunata	6
+moraxella liquefaciens	2
+Moraxella nonliquefaciens	2
+Moraxella osloensis	4
+Moraxella saccharolytica	1
+Morganella morganii	32
+Morococcus cerebrosus	2
+Mycobacterium abscessus	4
+mycobacterium acapulcensis	1
+Mycobacterium africanum	1
+Mycobacterium aichiense	1
+Mycobacterium aurum	4
+Mycobacterium avium	6
+Mycobacterium avium subsp avium	1
+Mycobacterium avium subsp. avium	1
+Mycobacterium avium subsp. paratuberculosis	1
+Mycobacterium bovis	7
+Mycobacterium bovis subsp. caprae	1
+Mycobacterium bovis var. BCG	2
+mycobacterium brunense	1
+Mycobacterium canetti	1
+Mycobacterium celatum	3
+Mycobacterium chelonae	1
+Mycobacterium chelonae subsp. chelonae	1
+Mycobacterium chimaera	3
+Mycobacterium chitae	2
+Mycobacterium chubuense	1
+Mycobacterium duvalii	1
+Mycobacterium europaeum	1
+Mycobacterium farcinogenes subsp. senegalense	1
+mycobacterium farcinogenes subsp. tchadense	1
+Mycobacterium flavescens	1
+Mycobacterium fortuitum	10
+Mycobacterium gadium	1
+Mycobacterium gilvum	1
+Mycobacterium gordonae	3
+Mycobacterium haemophilum	1
+mycobacterium hafniae	2
+Mycobacterium heckeshorense	1
+Mycobacterium heraklionense	1
+Mycobacterium intracellulare	4
+Mycobacterium kansasii	2
+Mycobacterium kumamotonense	1
+Mycobacterium malmoense	2
+Mycobacterium marinum	6
+Mycobacterium microti	3
+Mycobacterium mucogenicum	1
+Mycobacterium neoaurum	1
+mycobacterium neolactis	2
+Mycobacterium nonchromogenicum	3
+Mycobacterium novum	2
+Mycobacterium obuense	1
+Mycobacterium parafortuitum	2
+Mycobacterium peregrinum	2
+Mycobacterium phlei	6
+Mycobacterium pseudoshottsii	1
+Mycobacterium rhodesiae	1
+Mycobacterium scrofulaceum	2
+mycobacterium selandiae	2
+Mycobacterium senegalense	1
+Mycobacterium shimoidei	1
+Mycobacterium shottsii	1
+Mycobacterium simiae	1
+Mycobacterium smegmatis	13
+Mycobacterium szulgai	4
+Mycobacterium terrae	1
+Mycobacterium thermoresistibile	1
+Mycobacterium tokaiense	1
+Mycobacterium tomidae	1
+Mycobacterium tuberculosis	26
+Mycobacterium ulcerans	4
+Mycobacterium vaccae	1
+Mycobacterium xenopi	2
+Mycoplasma alkalescens	1
+Mycoplasma alvi	1
+Mycoplasma amphoriforme	1
+Mycoplasma anatis	3
+Mycoplasma arginini	1
+Mycoplasma arthritidis	1
+Mycoplasma bovigenitalium	1
+Mycoplasma bovirhinis	1
+Mycoplasma bovis	1
+Mycoplasma bovoculi	1
+Mycoplasma buccale	1
+Mycoplasma californicum	1
+Mycoplasma canadense	1
+Mycoplasma canis	1
+Mycoplasma capricolum subsp. capricolum	1
+Mycoplasma capricolum subsp. capripneumoniae	1
+Mycoplasma caviae	1
+Mycoplasma citelli	1
+Mycoplasma cloacale	1
+Mycoplasma columbinasale	1
+Mycoplasma columbinum	1
+Mycoplasma columborale	1
+Mycoplasma conjunctivae	1
+Mycoplasma cricetuli	1
+Mycoplasma cynos	1
+Mycoplasma dispar	1
+Mycoplasma edwardii	1
+Mycoplasma enhydrae	5
+Mycoplasma equigenitalium	1
+Mycoplasma equirhinis	1
+Mycoplasma fastidiosum	1
+Mycoplasma faucium	1
+Mycoplasma felifaucium	1
+Mycoplasma feliminutum	1
+Mycoplasma felis	1
+Mycoplasma fermentans	1
+Mycoplasma flocculare	1
+Mycoplasma gallinaceum	1
+Mycoplasma gallinarum	1
+Mycoplasma gallisepticum	1
+Mycoplasma gallopavonis	1
+Mycoplasma gateae	1
+Mycoplasma glycophilum	1
+Mycoplasma hominis	1
+Mycoplasma hyopharyngis	1
+Mycoplasma hyopneumoniae	1
+Mycoplasma hyorhinis	2
+Mycoplasma hyosynoviae	1
+Mycoplasma iguanae	1
+Mycoplasma iners	1
+Mycoplasma iowae	1
+Mycoplasma leachii	1
+Mycoplasma lipofaciens	1
+Mycoplasma lipophilum	1
+Mycoplasma maculosum	1
+Mycoplasma meleagridis	1
+Mycoplasma miroungigenitalium	2
+Mycoplasma miroungirhinis	1
+Mycoplasma moatsii	1
+Mycoplasma molare	1
+Mycoplasma muris	1
+Mycoplasma mustelae	1
+Mycoplasma mycoides	1
+Mycoplasma mycoides subsp. mycoides	2
+Mycoplasma neurolyticum	1
+Mycoplasma opalescens	1
+Mycoplasma orale	1
+Mycoplasma ovipneumoniae	1
+Mycoplasma phocacerebrale	1
+Mycoplasma phocarhinis	1
+Mycoplasma phocoenae	1
+Mycoplasma pirum	1
+Mycoplasma pneumoniae	1
+Mycoplasma primatum	1
+Mycoplasma procyoni	1
+Mycoplasma pullorum	1
+Mycoplasma pulmonis	1
+Mycoplasma putrefaciens	1
+Mycoplasma rosendalii	1
+Mycoplasma salivarium	1
+Mycoplasma sirius	1
+Mycoplasma sp.	1
+Mycoplasma spumans	1
+Mycoplasma sualvi	1
+Mycoplasma subdolum	1
+Mycoplasma synoviae	1
+Mycoplasma verecundum	1
+Mycoplasma zalophipulmonis sp.	1
+Myroides odoratimimus	1
+Myroides odoratus	2
+Neisseria animalis	1
+Neisseria animaloris	7
+Neisseria canis	1
+Neisseria cinerea	1
+Neisseria dentiae	1
+Neisseria elongata	1
+Neisseria elongata subsp. glycolytica	1
+Neisseria elongata subsp. nitroreducens	1
+Neisseria flavescens	3
+Neisseria gonorrhoeae	46
+Neisseria lactamica	3
+Neisseria maccae	1
+Neisseria meningitidis	63
+Neisseria mucosa	3
+Neisseria oralis	1
+Neisseria pharyngis	1
+Neisseria polysaccharea	1
+Neisseria sp.	1
+Neisseria weaveri	2
+Neisseria zalophi	1
+Neisseria zoodegmatis	3
+Nocardia africana	4
+Nocardia asteroides	2
+Nocardia brasiliensis	2
+Nocardia cyriacigeorgica	1
+Nocardia farcinica	3
+Nocardia kroppenstedtii	1
+Nocardia otitidiscaviarum	1
+Nocardia sp.	1
+Nocardiopsis dassonvillei	2
+noguchia granulosis	1
+Oceanivirga miroungae	1
+Odoribacter splanchnicus	1
+Oerskovia turbata	1
+Oligella ureolytica	2
+Oligella urethralis	5
+Paenibacillus alvei	4
+Paenibacillus chibensis	1
+Paenibacillus macerans	5
+Paenibacillus macquariensis	3
+Paenibacillus polymyxa	4
+Paenibacillus thiaminolyticus	4
+Pandoraea apista	1
+Pandoraea norimbergensis	1
+Pandoraea pnomenusa	1
+Pandoraea pulmonicola	1
+Pandoraea sputorum	1
+Pannonibacter phragmitetus	2
+Pantoea agglomerans	4
+Paraburkholderia agricolaris	1
+Parascardovia denticolens	1
+Parvimonas micra	1
+Pasteurella aerogenes	1
+Pasteurella bettyae	3
+Pasteurella canis	3
+Pasteurella dagmatis	3
+Pasteurella gallinarum	1
+Pasteurella langaaensis	1
+Pasteurella lymphangitidis	6
+Pasteurella mairii	2
+Pasteurella multocida	33
+Pasteurella multocida subsp. gallicida	1
+Pasteurella multocida subsp. septica	3
+Pasteurella pneumotropica	5
+Pasteurella skyensis	1
+Pasteurella sp.	2
+Pasteurella stomatis	2
+Pasteurella testudinis	1
+Pasteurella trehalosi	1
+Pediococcus pentosaceus	3
+Peptococcus niger	1
+Peptoniphilus asaccharolyticus	1
+Peptoniphilus harei	2
+Peptoniphilus indolicus	1
+Peptoniphilus ivorii	2
+Peptostreptococcus anaerobius	1
+Peptostreptococcus asaccharolyticus	2
+Peptostreptococcus lacrimalis	1
+Peptostreptococcus prevotii	1
+Phocoenobacter uteri	1
+Photobacterium damselae	3
+Planobacterium taklimakanense	1
+Plesiomonas shigelloides	3
+Pluralibacter gergoviae	1
+Porphyromonas cangingivalis	2
+Porphyromonas canoris	1
+Porphyromonas cansulci	1
+Porphyromonas catoniae	1
+porphyromonas circadens	1
+Porphyromonas crevioricanis	1
+Porphyromonas endodontalis	1
+Porphyromonas gingivalis	1
+Porphyromonas gulae	1
+Porphyromonas lovenana	1
+Porphyromonas macacae	2
+Pragia fontium	3
+Prevotella bivia	1
+Prevotella buccae	1
+Prevotella buccalis	1
+Prevotella corporis	1
+Prevotella denticola	1
+Prevotella disiens	1
+Prevotella enoeca	1
+Prevotella intermedia	1
+Prevotella loescheii	1
+Prevotella melaninogenica	5
+Prevotella nigrescens	1
+Prevotella oralis	1
+Prevotella oris	1
+Prevotella oulora	1
+Prevotella pallens	2
+Prevotella timonensis	1
+Propionibacterium acidifaciens	1
+Propionibacterium acnes	1
+Propionibacterium acnes subsp. elongatum	1
+Propionibacterium australiense	1
+Propionibacterium avidum	1
+Propionibacterium freudenreichii	1
+Propionibacterium freudenreichii subsp. Shermanii	1
+Propionibacterium granulosum	2
+Propionibacterium jensenii	1
+Propionibacterium lymphophilum	1
+Propionibacterium microaerophilum	1
+Propionibacterium propionicum	2
+Propioniferax innocua	2
+Proteus mirabilis	33
+Proteus penneri	2
+Proteus vulgaris	15
+Providencia alcalifaciens	12
+Providencia friedericiana	1
+Providencia heimbachae	2
+Providencia rettgeri	17
+Providencia rustigianii	11
+Providencia stuartii	17
+Pseudomonas aeruginosa	85
+Pseudomonas alcaligenes	2
+Pseudomonas andersonii	1
+Pseudomonas chlororaphis	2
+Pseudomonas chlororaphis subsp. chlororaphis	1
+pseudomonas cruciviae	1
+Pseudomonas fluorescens	5
+Pseudomonas fragi	2
+Pseudomonas guariconensis	1
+Pseudomonas lemoignei	1
+pseudomonas lemonnieri	1
+Pseudomonas luteola	2
+Pseudomonas mendocina	6
+Pseudomonas mucidolens	1
+pseudomonas nigrifaciens	1
+Pseudomonas oleovorans	1
+pseudomonas pavonacea	1
+Pseudomonas pseudoalcaligenes subsp. pseudoalcaligenes	1
+Pseudomonas putida	5
+Pseudomonas sp.	4
+Pseudomonas stutzeri	4
+Pseudomonas syncyanea	1
+Pseudomonas synxantha	1
+Pseudomonas taetrolens	2
+Pseudomonas tohonis	1
+Pseudoxanthomonas winnipegensis	1
+Psychrobacter phenylpyruvicus	3
+Ralstonia mannitolilytica	4
+Ralstonia pickettii	1
+Ramibacterium pseudoramosum	1
+Raoultella ornithinolytica	7
+Raoultella planticola	4
+Raoultella terrigena	5
+Rhizobium radiobacter	1
+Rhodococcus coprophilus	1
+Rhodococcus corynebacteriodies	1
+Rhodococcus equi	7
+Rhodococcus erythropolis	2
+Rhodococcus gordoniae	1
+Rhodococcus hoagii	1
+Rhodococcus rhodochrous	5
+Rhodococcus wratislaviensis	1
+Riemerella anatipestifer	1
+Rikenella microfusus	1
+Roseomonas gilardii subsp. rosea	1
+Roseomonas mucosa	1
+Rothia dentocariosa	3
+Saccharomyces cerevisiae	1
+Salmonella bongori	5
+Salmonella bongori serotype Brookfield	2
+Salmonella enteria subsp. enterica Serotype Typhimurium	1
+Salmonella enterica subp. arizonae	2
+Salmonella enterica subp. enterica Serotype Typhimurium	1
+Salmonella enterica subsp enterica serotype Ealing	1
+Salmonella enterica subsp. arizonae	87
+Salmonella enterica subsp. diarizonae	2
+Salmonella enterica subsp. diarizonae serotype Eilbek	1
+Salmonella enterica subsp. enterica	3
+Salmonella enterica subsp. enterica Alabama	1
+Salmonella enterica subsp. enterica serotype Abaetetuba	1
+Salmonella enterica subsp. enterica serotype Aberdeen	1
+Salmonella enterica subsp. enterica serotype Abony	1
+Salmonella enterica subsp. enterica serotype Abortusbovis	2
+Salmonella enterica subsp. enterica serotype Abortusequi	1
+Salmonella enterica subsp. enterica serotype Abortusovis	1
+Salmonella enterica subsp. enterica serotype Adelaide	1
+Salmonella enterica subsp. enterica Serotype Adjame	3
+Salmonella enterica subsp. enterica serotype Aequatoria	1
+Salmonella enterica subsp. enterica serotype Alabama	1
+Salmonella enterica subsp. enterica serotype Alachua	1
+Salmonella enterica subsp. enterica serotype Albany	1
+Salmonella enterica subsp. enterica serotype Albuquerque	1
+Salmonella enterica subsp. enterica serotype Allandale	1
+Salmonella enterica subsp. enterica serotype Altendorf	1
+Salmonella enterica subsp. enterica serotype Amager	1
+Salmonella enterica subsp. enterica serotype Amersfoort	1
+Salmonella enterica subsp. enterica serotype Amherstiana	1
+Salmonella enterica subsp. enterica serotype Anatum	3
+Salmonella enterica subsp. enterica serotype Antarctica	1
+Salmonella enterica subsp. enterica serotype Arechavaleta	2
+Salmonella enterica subsp. enterica serotype Austin	1
+Salmonella enterica subsp. enterica serotype Azteca	1
+Salmonella enterica subsp. enterica serotype Ball	1
+Salmonella enterica subsp. enterica serotype Banalia	1
+Salmonella enterica subsp. enterica serotype Banana	1
+Salmonella enterica subsp. enterica serotype Bareilly	2
+Salmonella enterica subsp. enterica serotype Belem	1
+Salmonella enterica subsp. enterica serotype Bergen	1
+Salmonella enterica subsp. enterica serotype Berkeley	1
+Salmonella enterica subsp. enterica serotype Berta	2
+Salmonella enterica subsp. enterica serotype Binza	1
+Salmonella enterica subsp. enterica serotype Birkenhead	1
+Salmonella enterica subsp. enterica serotype Bispebjerg	1
+Salmonella enterica subsp. enterica serotype Blegdam	2
+Salmonella enterica subsp. enterica Serotype Blockley	2
+Salmonella enterica subsp. enterica serotype Blukwa	1
+Salmonella enterica subsp. enterica serotype Bodjonegoro	1
+Salmonella enterica subsp. enterica serotype Bonariensis	1
+Salmonella enterica subsp. enterica serotype Bonn	1
+Salmonella enterica subsp. enterica serotype Bovis-Morbificans	3
+Salmonella enterica subsp. enterica serotype Bracknell	1
+Salmonella enterica subsp. enterica serotype Braenderup	1
+Salmonella enterica subsp. enterica serotype Brancaster	1
+Salmonella enterica subsp. enterica serotype Brandenburg	2
+Salmonella enterica subsp. enterica serotype Brazil	1
+Salmonella enterica subsp. enterica serotype Brazzaville	1
+Salmonella enterica subsp. enterica serotype Bredeney	2
+Salmonella enterica subsp. enterica serotype Bristol	1
+Salmonella enterica subsp. enterica serotype Bronx	1
+Salmonella enterica subsp. enterica serotype Budapest	1
+Salmonella enterica subsp. enterica serotype Butantan	1
+Salmonella enterica subsp. enterica serotype Cairina	1
+Salmonella enterica subsp. enterica serotype Cairo	1
+Salmonella enterica subsp. enterica serotype California	1
+Salmonella enterica subsp. enterica serotype Cambridge	1
+Salmonella enterica subsp. enterica serotype Canoga	1
+Salmonella enterica subsp. enterica serotype Caracas	2
+Salmonella enterica subsp. enterica serotype Carmel	1
+Salmonella enterica subsp. enterica serotype Carrau	1
+Salmonella enterica subsp. enterica serotype Cerro	2
+Salmonella enterica subsp. enterica serotype Champaign	2
+Salmonella enterica subsp. enterica serotype Chandans	1
+Salmonella enterica subsp. enterica serotype Chester	1
+Salmonella enterica subsp. enterica serotype Chicago	1
+Salmonella enterica subsp. enterica serotype Chittagong	1
+Salmonella enterica subsp. enterica serotype Choleraesuis	6
+Salmonella enterica subsp. enterica serotype Claibornei	1
+Salmonella enterica subsp. enterica serotype Clerkenwell	1
+Salmonella enterica subsp. enterica serotype Colombo	1
+Salmonella enterica subsp. enterica serotype Colorado	1
+Salmonella enterica subsp. enterica serotype Concord	1
+Salmonella enterica subsp. enterica serotype Coquilhatville	1
+Salmonella enterica subsp. enterica serotype Corvallis	1
+Salmonella enterica subsp. enterica Serotype Crewe	1
+Salmonella enterica subsp. enterica serotype Crossness	1
+Salmonella enterica subsp. enterica serotype Cubana	1
+Salmonella enterica subsp. enterica serotype Curacao	1
+Salmonella enterica subsp. enterica serotype Dahlem	1
+Salmonella enterica subsp. enterica serotype Dakar	1
+Salmonella enterica subsp. enterica serotype Daytona	1
+Salmonella enterica subsp. enterica serotype Decatur	1
+Salmonella enterica subsp. enterica serotype Denver	1
+Salmonella enterica subsp. enterica serotype Derby	3
+Salmonella enterica subsp. enterica serotype Deversoir	1
+Salmonella enterica subsp. enterica serotype Djugu	1
+Salmonella enterica subsp. enterica serotype Donna	1
+Salmonella enterica subsp. enterica serotype Dublin	3
+Salmonella enterica subsp. enterica serotype Dugbe	1
+Salmonella enterica subsp. enterica serotype Duisburg	1
+Salmonella enterica subsp. enterica serotype Durban	1
+Salmonella enterica subsp. enterica serotype Dusseldorf	1
+Salmonella enterica subsp. enterica serotype Duval	1
+Salmonella enterica subsp. enterica serotype Ealing	1
+Salmonella enterica subsp. enterica serotype Eastbourne	5
+Salmonella enterica subsp. enterica serotype Edinburgh	1
+Salmonella enterica subsp. enterica serotype Elisabethville	1
+Salmonella enterica subsp. enterica serotype Emek	1
+Salmonella enterica subsp. enterica serotype Emmastad	1
+Salmonella enterica subsp. enterica serotype Enteritidis	17
+Salmonella enterica subsp. enterica serotype Eschweiler	1
+Salmonella enterica subsp. enterica serotype Essen	1
+Salmonella enterica subsp. enterica serotype Ezra	1
+Salmonella enterica subsp. enterica serotype Fayed	1
+Salmonella enterica subsp. enterica serotype Florida	1
+Salmonella enterica subsp. enterica serotype Fresno	2
+Salmonella enterica subsp. enterica serotype Friedenau	1
+Salmonella enterica subsp. enterica serotype Gallinarum	4
+Salmonella enterica subsp. enterica Serotype Gallinarum var. Gallinarum	2
+Salmonella enterica subsp. enterica serotype Gaminara	1
+Salmonella enterica subsp. enterica serotype Gatuni	1
+Salmonella enterica subsp. enterica serotype Georgia	1
+Salmonella enterica subsp. enterica serotype Give	1
+Salmonella enterica subsp. enterica serotype Glostrup	1
+Salmonella enterica subsp. enterica serotype Godesberg	1
+Salmonella enterica subsp. enterica serotype Goerlitz	1
+Salmonella enterica subsp. enterica serotype Goettingen	1
+Salmonella enterica subsp. enterica serotype Goldcoast	1
+Salmonella enterica subsp. enterica serotype Grumpensis	1
+Salmonella enterica subsp. enterica serotype Hadar	1
+Salmonella enterica subsp. enterica serotype Haifa	1
+Salmonella enterica subsp. enterica serotype Harrisonburg	1
+Salmonella enterica subsp. enterica serotype Hartford	1
+Salmonella enterica subsp. enterica serotype Hato	1
+Salmonella enterica subsp. enterica serotype Havana	1
+Salmonella enterica subsp. enterica serotype Heidelberg	8
+Salmonella enterica subsp. enterica serotype Hessarek	1
+Salmonella enterica subsp. enterica serotype Heves	1
+Salmonella enterica subsp. enterica serotype Hidalgo	1
+Salmonella enterica subsp. enterica serotype Homosassa	1
+Salmonella enterica subsp. enterica serotype Horsham	1
+Salmonella enterica subsp. enterica serotype Ibadan	1
+Salmonella enterica subsp. enterica serotype Illinois	2
+Salmonella enterica subsp. enterica serotype Indiana	1
+Salmonella enterica subsp. enterica serotype Infantis	2
+Salmonella enterica subsp. enterica serotype Inverness	1
+Salmonella enterica subsp. enterica serotype Irumu	1
+Salmonella enterica subsp. enterica serotype Isangi	2
+Salmonella enterica subsp. enterica serotype Israel	1
+Salmonella enterica subsp. enterica serotype Ituri	1
+Salmonella enterica subsp. enterica serotype Java	5
+Salmonella enterica subsp. enterica serotype Javiana	1
+Salmonella enterica subsp. enterica serotype Jerusalem	1
+Salmonella enterica subsp. enterica serotype Johannesburg	1
+Salmonella enterica subsp. enterica serotype Kaapstad	1
+Salmonella enterica subsp. enterica serotype Kalamu	1
+Salmonella enterica subsp. enterica serotype Kaolack	1
+Salmonella enterica subsp. enterica serotype Karamoja	1
+Salmonella enterica subsp. enterica serotype Kasenyi	1
+Salmonella enterica subsp. enterica serotype Kedougou	1
+Salmonella enterica subsp. enterica serotype Kentucky	1
+Salmonella enterica subsp. enterica serotype Kibusi	1
+Salmonella enterica subsp. enterica serotype Kimuenza	1
+Salmonella enterica subsp. enterica serotype Kingston	1
+Salmonella enterica subsp. enterica serotype Kinshasa	1
+Salmonella enterica subsp. enterica serotype Kirkee	1
+Salmonella enterica subsp. enterica serotype Kisangani	1
+Salmonella enterica subsp. enterica serotype Korovi	1
+Salmonella enterica subsp. enterica serotype Kottbus	1
+Salmonella enterica subsp. enterica serotype Krefeld	1
+Salmonella enterica subsp. enterica serotype Langford	1
+Salmonella enterica subsp. enterica serotype Leopoldville	1
+Salmonella enterica subsp. enterica serotype Lexington	1
+Salmonella enterica subsp. enterica serotype Lille	1
+Salmonella enterica subsp. enterica serotype Lindenburg	1
+Salmonella enterica subsp. enterica serotype Lindi	1
+Salmonella enterica subsp. enterica serotype Lisboa	1
+Salmonella enterica subsp. enterica serotype Litchfield	1
+Salmonella enterica subsp. enterica serotype Livingstone	1
+Salmonella enterica subsp. enterica serotype Lomalinda	1
+Salmonella enterica subsp. enterica serotype Lomita	1
+Salmonella enterica subsp. enterica serotype London	2
+Salmonella enterica subsp. enterica serotype Luciana	1
+Salmonella enterica subsp. enterica serotype Macallen	1
+Salmonella enterica subsp. enterica serotype Madelia	1
+Salmonella enterica subsp. enterica serotype Makiso	1
+Salmonella enterica subsp. enterica serotype Manchester	1
+Salmonella enterica subsp. enterica serotype Manhattan	1
+Salmonella enterica subsp. enterica serotype Manila	1
+Salmonella enterica subsp. enterica serotype Maracaibo	1
+Salmonella enterica subsp. enterica serotype Maricopa	1
+Salmonella enterica subsp. enterica serotype Marseille	1
+Salmonella enterica subsp. enterica serotype Marylebone	1
+Salmonella enterica subsp. enterica serotype Matadi	1
+Salmonella enterica subsp. enterica serotype Matopeni	1
+Salmonella enterica subsp. enterica serotype Mbandaka	1
+Salmonella enterica subsp. enterica serotype Meleagridis	1
+Salmonella enterica subsp. enterica serotype Memphis	1
+Salmonella enterica subsp. enterica serotype Mendoza	1
+Salmonella enterica subsp. enterica serotype Menston	1
+Salmonella enterica subsp. enterica serotype Mgulani	1
+Salmonella enterica subsp. enterica serotype Miami	1
+Salmonella enterica subsp. enterica serotype Mikawasima	2
+Salmonella enterica subsp. enterica serotype Milwaukee	1
+Salmonella enterica subsp. enterica serotype Minnesota	1
+Salmonella enterica subsp. enterica serotype Mishmarhaemek	1
+Salmonella enterica subsp. enterica serotype Mississippi	2
+Salmonella enterica subsp. enterica serotype Monschaui	1
+Salmonella enterica subsp. enterica serotype Montevideo	1
+Salmonella enterica subsp. enterica serotype Morehead	1
+Salmonella enterica subsp. enterica serotype Morotai	1
+Salmonella enterica subsp. enterica serotype Moscow	1
+Salmonella enterica subsp. enterica serotype Muenchen	4
+Salmonella enterica subsp. enterica serotype Muenster	1
+Salmonella enterica subsp. enterica serotype Mundonobo	1
+Salmonella enterica subsp. enterica serotype Nagoya	1
+Salmonella enterica subsp. enterica serotype Napoli	1
+Salmonella enterica subsp. enterica serotype Narashino	1
+Salmonella enterica subsp. enterica serotype Ndolo	1
+Salmonella enterica subsp. enterica serotype Nessziona	1
+Salmonella enterica subsp. enterica serotype Neukoelln	1
+Salmonella enterica subsp. enterica serotype Newbrunswick	1
+Salmonella enterica subsp. enterica serotype Newington	2
+Salmonella enterica subsp. enterica serotype Newport	8
+Salmonella enterica subsp. enterica serotype Niarembe	1
+Salmonella enterica subsp. enterica serotype Niloese	1
+Salmonella enterica subsp. enterica serotype Norwich	1
+Salmonella enterica subsp. enterica serotype Nottingham	1
+Salmonella enterica subsp. enterica serotype Nyborg	1
+Salmonella enterica subsp. enterica serotype Onarimon	1
+Salmonella enterica subsp. enterica serotype Onderstepoort	1
+Salmonella enterica subsp. enterica serotype Oranienburg	1
+Salmonella enterica subsp. enterica serotype Orientalis	1
+Salmonella enterica subsp. enterica serotype Orion	1
+Salmonella enterica subsp. enterica serotype Oslo	1
+Salmonella enterica subsp. enterica serotype Oxford	1
+Salmonella enterica subsp. enterica serotype Panama	3
+Salmonella enterica subsp. enterica serotype Papuana	1
+Salmonella enterica subsp. enterica serotype Paratyphi A	12
+Salmonella enterica subsp. enterica serotype Paratyphi B	10
+Salmonella enterica subsp. enterica serotype Paratyphi C	6
+Salmonella enterica subsp. enterica serotype Pensacola	1
+Salmonella enterica subsp. enterica serotype Pharr	1
+Salmonella enterica subsp. enterica serotype Pomona	1
+Salmonella enterica subsp. enterica serotype Poona	4
+Salmonella enterica subsp. enterica serotype Portland	1
+Salmonella enterica subsp. enterica serotype Potsdam	1
+Salmonella enterica subsp. enterica serotype Praha	1
+Salmonella enterica subsp. enterica serotype Pretoria	1
+Salmonella enterica subsp. enterica serotype Pullorum	4
+Salmonella enterica subsp. enterica serotype Quinhon	1
+Salmonella enterica subsp. enterica serotype Quiniela	1
+Salmonella enterica subsp. enterica serotype Reading	3
+Salmonella enterica subsp. enterica serotype Richmond	1
+Salmonella enterica subsp. enterica serotype Riogrande	1
+Salmonella enterica subsp. enterica serotype Rostock	2
+Salmonella enterica subsp. enterica serotype Rubislaw	3
+Salmonella enterica subsp. enterica serotype Rutgers	1
+Salmonella enterica subsp. enterica serotype Saarbruecken	1
+Salmonella enterica subsp. enterica serotype Saintpaul	1
+Salmonella enterica subsp. enterica serotype Salford	2
+Salmonella enterica subsp. enterica serotype Salinatis	1
+Salmonella enterica subsp. enterica serotype Sandiago	1
+Salmonella enterica subsp. enterica serotype Sandiego	2
+Salmonella enterica subsp. enterica serotype Sanga	1
+Salmonella enterica subsp. enterica serotype Sanjuan	1
+Salmonella enterica subsp. enterica serotype Sarajane	1
+Salmonella enterica subsp. enterica serotype Schleissheim	1
+Salmonella enterica subsp. enterica serotype Schoeneberg	1
+Salmonella enterica subsp. enterica serotype Schwarzengrund	1
+Salmonella enterica subsp. enterica serotype Seattle	1
+Salmonella enterica subsp. enterica serotype Seftenberg	1
+Salmonella enterica subsp. enterica serotype Selandia	1
+Salmonella enterica subsp. enterica serotype Sendai	1
+Salmonella enterica subsp. enterica serotype Senegal	1
+Salmonella enterica subsp. enterica serotype Senftenberg	12
+Salmonella enterica subsp. enterica serotype Shangani	1
+Salmonella enterica subsp. enterica serotype Shanghai	1
+Salmonella enterica subsp. enterica serotype Shoreditch	1
+Salmonella enterica subsp. enterica serotype Singapore	1
+Salmonella enterica subsp. enterica serotype Solt	1
+Salmonella enterica subsp. enterica serotype Stanley	3
+Salmonella enterica subsp. enterica serotype Stanleyville	1
+Salmonella enterica subsp. enterica serotype Stockholm	1
+Salmonella enterica subsp. enterica serotype Strasbourg	1
+Salmonella enterica subsp. enterica serotype Sundsvall	2
+Salmonella enterica subsp. enterica serotype Takoradi	1
+Salmonella enterica subsp. enterica serotype Taksony	1
+Salmonella enterica subsp. enterica serotype Tallahassee	1
+Salmonella enterica subsp. enterica serotype Tananarive	1
+Salmonella enterica subsp. enterica serotype Taunton	1
+Salmonella enterica subsp. enterica serotype Telaviv	1
+Salmonella enterica subsp. enterica serotype Telhashomer	1
+Salmonella enterica subsp. enterica serotype Tennessee	1
+Salmonella enterica subsp. enterica serotype Texas	1
+Salmonella enterica subsp. enterica serotype Thomasville	1
+Salmonella enterica subsp. enterica serotype Thompson	5
+Salmonella enterica subsp. enterica serotype Tinda	1
+Salmonella enterica subsp. enterica serotype Treforest	1
+Salmonella enterica subsp. enterica serotype Tuebingen	1
+Salmonella enterica subsp. enterica serotype Typhi	19
+Salmonella enterica subsp. enterica serotype Typhimurium	53
+Salmonella enterica subsp. enterica serotype Typhisuis	5
+Salmonella enterica subsp. enterica serotype Uganda	1
+Salmonella enterica subsp. enterica serotype Unnamed	1
+Salmonella enterica subsp. enterica serotype Urbana	1
+Salmonella enterica subsp. enterica serotype Usumbura	1
+Salmonella enterica subsp. enterica serotype Utrecht	1
+Salmonella enterica subsp. enterica serotype Uzaramo	1
+Salmonella enterica subsp. enterica serotype Vancouver	1
+Salmonella enterica subsp. enterica serotype Vejle	1
+Salmonella enterica subsp. enterica serotype Veneziana	1
+Salmonella enterica subsp. enterica serotype Virchow	2
+Salmonella enterica subsp. enterica serotype Wagenia	1
+Salmonella enterica subsp. enterica serotype Wangata	1
+Salmonella enterica subsp. enterica serotype Warragul	1
+Salmonella enterica subsp. enterica serotype Waycross	1
+Salmonella enterica subsp. enterica serotype Weltevreden	1
+Salmonella enterica subsp. enterica serotype Weslaco	1
+Salmonella enterica subsp. enterica serotype Westhampton	1
+Salmonella enterica subsp. enterica serotype Weston	1
+Salmonella enterica subsp. enterica serotype Wichita	1
+Salmonella enterica subsp. enterica serotype Wien	1
+Salmonella enterica subsp. enterica serotype Worthington	2
+Salmonella enterica subsp. enterica serotype Yolo	1
+Salmonella enterica subsp. enterica serotype Zanzibar	1
+Salmonella enterica subsp. enterica serotype Zega	1
+Salmonella enterica subsp. enterica seroytpe Choleraesuis	1
+Salmonella enterica subsp. essexiensis	2
+Salmonella enterica subsp. hibernicus	2
+Salmonella enterica subsp. houtenae	1
+Salmonella enterica subsp. houtenae serotype Houten	1
+Salmonella enterica subsp. houtenae serotype Seminole	1
+Salmonella enterica subsp. houtenae serotype Soesterberg	1
+Salmonella enterica subsp. houtenae serotype Wassenaar	1
+Salmonella enterica subsp. indica	1
+Salmonella enterica subsp. indica serotype Ferlac	1
+Salmonella enterica subsp. salamae	1
+Salmonella enterica subsp. salamae serotype Artis	1
+Salmonella enterica subsp. salamae serotype Basel	1
+Salmonella enterica subsp. salamae serotype Betioky	1
+Salmonella enterica subsp. salamae serotype Bleadon	1
+Salmonella enterica subsp. salamae serotype Bloemfontein	1
+Salmonella enterica subsp. salamae serotype Canastel	1
+Salmonella enterica subsp. salamae serotype Clifton	1
+Salmonella enterica subsp. salamae serotype Clovelly	1
+Salmonella enterica subsp. salamae serotype Dar-Es-Salaam	1
+Salmonella enterica subsp. salamae serotype Degania	1
+Salmonella enterica subsp. salamae serotype Greenside	1
+Salmonella enterica subsp. salamae serotype Haarlem	1
+Salmonella enterica subsp. salamae serotype Humber	1
+Salmonella enterica subsp. salamae serotype Kaltenhausen	1
+Salmonella enterica subsp. salamae serotype Krugersdorp	1
+Salmonella enterica subsp. salamae serotype Locarno	1
+Salmonella enterica subsp. salamae serotype Luton	1
+Salmonella enterica subsp. salamae serotype Nachshonim	1
+Salmonella enterica subsp. salamae serotype Neasden	1
+Salmonella enterica subsp. salamae serotype Rowbarton	2
+Salmonella enterica subsp. salamae serotype Springs	1
+Salmonella enterica subsp. salamae serotype Tranoroa	1
+Salmonella enterica subsp. salamae serotype Tulear	1
+Salmonella enterica subsp. salamae serotype Uphill	1
+Salmonella enterica subsp. salamae serotype Windhoek	1
+Salmonella enterica subsp. salamae serotype Worcester	1
+Salmonella sp.	9
+Sarcina sp.	1
+Sarcina ventriculi	2
+Scandinavium goeteborgense	1
+Scardovia inopinata	1
+Scardovia wiggsiae	1
+Sebaldella termitidis	1
+Serratia ficaria	1
+Serratia fonticola	4
+Serratia grimesii	1
+Serratia liquefaciens	3
+Serratia marcescens	14
+Serratia odorifera	1
+Serratia plymuthica	5
+Serratia proteamaculans subsp. quinovora	6
+Serratia rubidaea	8
+Shewanella baltica	1
+Shewanella putrefaciens	12
+Shigella boydii	41
+Shigella dysenteriae	41
+Shigella flexneri	47
+Shigella sonnei	14
+Shigella sp.	9
+Shimwellia blattae	2
+Shinella zoogloeoides	1
+Slackia exigua	1
+Slackia heliotrinireducens	1
+SMI TP NCTC set (17 strains)	1
+Sphingobacterium composti	2
+Sphingobacterium daejeonense	1
+Sphingobacterium daejonense	2
+Sphingobacterium lactis	1
+Sphingobacterium multivorum	3
+Sphingobacterium spiritivorum	5
+Sphingobacterium thalpophilum	3
+Sphingomonas paucimobilis	3
+Sporosarcina ureae	1
+Staphylococcus agnetis	1
+Staphylococcus argenteus	1
+Staphylococcus arlettae	1
+Staphylococcus aureus	211
+Staphylococcus aureus bacteriophage	52
+Staphylococcus aureus subsp. aureus	1
+Staphylococcus auricularis	1
+Staphylococcus caeli	1
+Staphylococcus caledonicus	1
+Staphylococcus capitis	1
+Staphylococcus caprae	1
+Staphylococcus carnosus subsp. carnosus	1
+Staphylococcus carnosus subsp. utilis	1
+Staphylococcus chromogenes	1
+Staphylococcus cohnii	2
+Staphylococcus condimenti	1
+Staphylococcus cornubiensis	1
+Staphylococcus delphini	1
+Staphylococcus devriesei	1
+Staphylococcus durrellii	1
+Staphylococcus epidermidis	12
+Staphylococcus equorum	2
+Staphylococcus fleurettii	1
+Staphylococcus gallinarum	1
+Staphylococcus haemolyticus	2
+Staphylococcus hominis subsp. hominis	1
+Staphylococcus hyicus	1
+Staphylococcus hyicus bacteriophage	1
+Staphylococcus hyicus subsp. hyicus	2
+Staphylococcus intermedius	1
+Staphylococcus jettensis	1
+Staphylococcus kloosii	1
+Staphylococcus lentus	1
+Staphylococcus lloydii	1
+Staphylococcus lugdunensis	2
+Staphylococcus massiliensis	1
+Staphylococcus microti	1
+Staphylococcus muscae	1
+Staphylococcus nepalensis	2
+Staphylococcus petrasii	1
+Staphylococcus piscifermentans	1
+Staphylococcus pseudintermedius	2
+Staphylococcus pseudoxylosus	1
+Staphylococcus rostri	1
+Staphylococcus saccharolyticus	1
+Staphylococcus saprophyticus sub sp. saprophyticus	1
+Staphylococcus saprophyticus subsp. saprophyticus	10
+Staphylococcus schleiferi	1
+Staphylococcus schweitzeri	1
+Staphylococcus sciuri subsp. sciuri	1
+Staphylococcus simiae	1
+Staphylococcus simulans	1
+Staphylococcus singaporensis	6
+Staphylococcus sp.	1
+Staphylococcus stepanovicii	1
+Staphylococcus warneri	7
+Staphylococcus xylosus	2
+Stenotrophomonas africana	1
+Stenotrophomonas maltophilia	5
+Streptobacillus hongkongensis	1
+Streptobacillus moniliformis	8
+Streptococcus acidominimus	2
+Streptococcus agalactiae	62
+Streptococcus agalactiae bacteriophage	29
+Streptococcus anginosus	7
+Streptococcus australis	1
+Streptococcus bovis	3
+Streptococcus caledonicus	1
+Streptococcus canis	2
+Streptococcus constellatus	2
+Streptococcus constellatus subsp. constellatus	1
+Streptococcus constellatus subsp. pharyngis	1
+Streptococcus constellatus subsp. viborgensis	1
+Streptococcus criceti	1
+Streptococcus cristatus	1
+Streptococcus downei	1
+Streptococcus dysgalactiae	9
+Streptococcus dysgalactiae subsp. dysgalactiae	5
+Streptococcus dysgalactiae subsp. equisimilis	20
+Streptococcus equi	1
+Streptococcus equi subp. zooepidemicus	2
+Streptococcus equi subsp. equi	1
+Streptococcus equi subsp. zooepidemicus	11
+Streptococcus equinus	3
+streptococcus equisimilis	4
+Streptococcus ferus	1
+Streptococcus gallolyticus	1
+Streptococcus gallolyticus subsp. gallolyticus	1
+Streptococcus gallolyticus subsp. macedonicus	1
+Streptococcus gallolyticus subsp. pasteurianus	1
+Streptococcus gordonii	7
+Streptococcus hyointestinalis	1
+Streptococcus hyovaginalis	2
+Streptococcus infantarius	1
+Streptococcus infantis	1
+Streptococcus intermedius	1
+Streptococcus lactarius	1
+Streptococcus lutetiensis	5
+Streptococcus macacae	1
+Streptococcus massilliensis	1
+Streptococcus merionis	1
+streptococcus milleri	1
+Streptococcus minor	1
+streptococcus mitis	5
+Streptococcus mutans	5
+Streptococcus oligofermentans	1
+Streptococcus oralis	3
+Streptococcus oralis subsp. tigurinus	1
+Streptococcus pacificus	1
+Streptococcus parasanguinis	1
+Streptococcus peroris	1
+Streptococcus phocae	1
+Streptococcus pleomorphus	1
+Streptococcus pneumoniae	44
+Streptococcus porcinus	3
+Streptococcus pseudopneumoniae	1
+Streptococcus pseudoporcinus	2
+Streptococcus pyogenes	102
+Streptococcus ratti	1
+Streptococcus salivarius	3
+Streptococcus salivarius subsp. salivarius	1
+Streptococcus salivarius subsp. thermophilus	1
+Streptococcus sanguinis	7
+Streptococcus sobrinus	4
+Streptococcus sp.	44
+Streptococcus suis	3
+Streptococcus thermophilus	1
+Streptococcus uberis	4
+Streptococcus urinalis	1
+Streptococcus vestibularis	2
+Streptococcus vicugnae	1
+Streptococcus zalophi	1
+Streptomyces coelicolor	1
+Streptomyces griseus	3
+Streptomyces hominis	1
+streptomyces myrophorea	1
+Streptomyces somaliensis	4
+Streptomyces sp.	4
+Streptomyces upcotii	1
+Sutterella wadsworthensis	1
+Suttonella indologenes	2
+Suttonella ornithocola	1
+Tatlockia maceachernii	1
+Tatlockia micdadei	3
+Tatumella ptyseos	1
+Taylorella equigenitalis	5
+Thermoactinomyces sacchari	1
+Thermoanaerobacterium thermosaccharolyticum	1
+Tissierella praeacuta	1
+Treponema phagedenis	1
+Treponema rectale	1
+Treponema ruminis	1
+Trueperella bialowiezense	1
+Trueperella bionasi	1
+Trueperella pyogenes	2
+Tsukamurella inchonensis	1
+Tsukamurella paurometabola	3
+Tsukamurella pulmonis	1
+Tsukamurella tyrosinosolvens	1
+Ureaplasm sp.	3
+Ureaplasma canis	1
+Ureaplasma cati	1
+Ureaplasma diversum	1
+Ureaplasma felinum	1
+Ureaplasma gallorale	1
+Ureaplasma loridis	1
+Ureaplasma urealyticum	1
+Vandammella animalimorsus	1
+Varibaculum anthropi	1
+Varibaculum cambriense	1
+Veillonella alkalescens subsp. Alkalescens	1
+Veillonella atypica	1
+Veillonella caviae	1
+Veillonella criceti	1
+Veillonella dispar	1
+Veillonella parvula	2
+Veillonella ratti	1
+Veillonella rodentium	1
+Vibrio alginolyticus	3
+Vibrio campbellii	1
+Vibrio cholerae	27
+Vibrio cholerae biotype el tor	8
+Vibrio cholerae non 0:1	9
+Vibrio cholerae non O:1	1
+Vibrio cincinnatiensis	1
+Vibrio fluvialis	2
+Vibrio furnissii	5
+Vibrio harveyi	3
+Vibrio hollisae	2
+Vibrio mediterranei	1
+Vibrio metschnikovii	7
+Vibrio mimicus	1
+Vibrio natriegens	1
+Vibrio parahaemolyticus	13
+Vibrio vulnificus	3
+Virgibacillus pantothenticus	4
+Wautersiella falsenii	1
+Wautersiella genomovar 2	1
+Weeksella virosa	5
+Weissella viridescens	2
+Wolinella succinogenes	1
+Yersinia canariae	1
+Yersinia enterocolitica	16
+Yersinia enterocolitica subsp enterocolitica	1
+Yersinia enterocolitica subsp. enterocolitica	1
+Yersinia enterocolitica subsp. palearctica	1
+Yersinia frederiksenii	1
+Yersinia hibernica	1
+Yersinia intermedia	1
+Yersinia kristensenii	1
+Yersinia massiliensis	1
+Yersinia pestis	12
+Yersinia pseudotuberculosis	25
+Yersinia ruckeri	10
+Yokenella regensburgei	4
+Zymomonas mobilis subsp. mobilis	1

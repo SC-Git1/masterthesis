@@ -1,17 +1,16 @@
-import io
-import pandas as pd
+"""
+This script writes the synonyms and their NCBI Taxonomy IDs present in the names.dmp file to a .tsv file
+"""
 
+# import data
 dmp = open("names.dmp", "rb")
 
-# source: https://github.com/ebi-jdispatcher/taxonomy-resolver/blob/d2b224ad999f5b706e0df9f835570c3d2977e178/taxonresolver/utils.py
-
-# file of those having a synonym
 with open("synonyms.tsv", "w") as f_out:
     f_out.write("ncbiTaxID" + "\t" + "Synonym" + "\n")
     with open("names.dmp", "r") as f_in:
         lines = f_in.readlines()
         # len(lines) = 3576752
-        for i in range(3576752):
+        for i in range(len(lines)):
             line = lines[i]
             fields = [x.strip() for x in line.split("	|")]
             if fields[3] == "synonym":

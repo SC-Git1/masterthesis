@@ -1,4 +1,4 @@
-species	strain	NCTC_number	Type_Strain	Cond_solid	Cond_liquid
+Species	Strain	NCTC_number	Type_Strain	Cond_solid	Cond_liquid
 Shigella flexneri	Cable	NCTC 1	No		
 Shigella flexneri	Hughes	NCTC 2	No	nutrient agar,37, facultative anaerobe	nutrient broth,37, facultative anaerobe
 Shigella flexneri	Oxford Flexner	NCTC 3	No	nutrient agar,37, facultative anaerobe	nutrient broth,37, facultative anaerobe

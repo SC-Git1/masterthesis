@@ -36,7 +36,7 @@ if __name__ == "__main__":
     with ApiClient() as api_client:
         taxon_api = TaxonomyApi(api_client)
 
-    Taxids = list(set(dfMediaDB["ncbiTaxID"]))
+    Taxids = dfMediaDB["ncbiTaxID"]
     Temps = dfMediaDB["Temp"]
     Names = dfMediaDB["Name"]
     Strains = dfMediaDB["Strain"]
@@ -50,30 +50,38 @@ if __name__ == "__main__":
             el = str(Taxids[i])
             print(el)
             time.sleep(0.4)
-            rank_name = get_lineage_from_taxid(el)
+            # if the previous record has the same ncbiTaxID (very common in the MediaDB dataset), use
+            # the stored lineage information
+            if i > 0 and (str(Taxids[i-1] == el)):
+                f.write(Names[i] + "\t" + (str(Strains[i]) if Strains[i] else "") + "\t" + str(Temps[i]) + "\t" + el +
+                        "\t" + Superkingdom + "\t" + Phylum + "\t" + Class + "\t" + Order + "\t" + Family + "\t" + Genus + "\n")
+                f.flush()
 
-            try:
-                print(rank_name)
-                Superkingdom = rank_name.get("SUPERKINGDOM")
-                if Superkingdom == None:
-                    Superkingdom = ""
-                Phylum = rank_name.get("PHYLUM")
-                if Phylum == None:
-                    Phylum = ""
-                Class = rank_name.get("CLASS")
-                if Class == None:
-                    Class = ""
-                Order = rank_name.get("ORDER")
-                if Order == None:
-                    Order = ""
-                Family = rank_name.get("FAMILY")
-                if Family == None:
-                    Family = ""
-                Genus = rank_name.get("GENUS")
-                if Genus == None:
-                    Genus = ""
-            except:
-                pass
-            f.write(Names[i] + "\t" + (str(Strains[i]) if Strains[i] else "") + "\t" + str(Temps[i]) + "\t" + el + "\t" +
-                    Superkingdom + "\t" + Phylum + "\t" + Class + "\t" + Order + "\t" + Family + "\t" + Genus + "\n")
-            f.flush()
+            else:
+                rank_name = get_lineage_from_taxid(el)
+
+                try:
+                    print(rank_name)
+                    Superkingdom = rank_name.get("SUPERKINGDOM")
+                    if Superkingdom == None:
+                        Superkingdom = ""
+                    Phylum = rank_name.get("PHYLUM")
+                    if Phylum == None:
+                        Phylum = ""
+                    Class = rank_name.get("CLASS")
+                    if Class == None:
+                        Class = ""
+                    Order = rank_name.get("ORDER")
+                    if Order == None:
+                        Order = ""
+                    Family = rank_name.get("FAMILY")
+                    if Family == None:
+                        Family = ""
+                    Genus = rank_name.get("GENUS")
+                    if Genus == None:
+                        Genus = ""
+                except:
+                    pass
+                f.write(Names[i] + "\t" + (str(Strains[i]) if Strains[i] else "") + "\t" + str(Temps[i]) + "\t" + el + "\t" +
+                        Superkingdom + "\t" + Phylum + "\t" + Class + "\t" + Order + "\t" + Family + "\t" + Genus + "\n")
+                f.flush()

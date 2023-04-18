@@ -1,0 +1,650 @@
+Name	Strain	Temp	ncbiTaxID	Source_ID
+Lactobacillus plantarum	wcfs1	37.0	-1	1
+Lactobacillus plantarum	wcfs1	37.0	-1	2
+Geobacter sulfurreducens		30.0	35554	3
+Chromohalobacter salexigens	CHR61	37.0	158080	4
+Chromohalobacter salexigens	CHR61	37.0	158080	5
+Chromohalobacter salexigens	CHR61	37.0	158080	6
+Chromohalobacter salexigens	CHR61	37.0	158080	7
+Chromohalobacter salexigens	CHR61	37.0	158080	8
+Chromohalobacter salexigens	CHR61	37.0	158080	9
+Chromohalobacter salexigens	CHR61	37.0	158080	10
+Chromohalobacter salexigens	CHR61	37.0	158080	11
+Chromohalobacter salexigens	CHR61	37.0	158080	12
+Chromohalobacter salexigens	CHR61	37.0	158080	13
+Chromohalobacter salexigens	CHR61	37.0	158080	14
+Chromohalobacter salexigens	CHR61	37.0	158080	15
+Chromohalobacter salexigens	CHR95	37.0	158080	16
+Chromohalobacter salexigens	CHR95	37.0	158080	17
+Chromohalobacter salexigens	CHR95	37.0	158080	18
+Chromohalobacter salexigens	CHR95	37.0	158080	19
+Chromohalobacter salexigens	CHR95	37.0	158080	20
+Chromohalobacter salexigens	CHR95	37.0	158080	21
+Chromohalobacter salexigens	CHR95	37.0	158080	22
+Chromohalobacter salexigens	CHR95	37.0	158080	23
+Chromohalobacter salexigens	CHR95	37.0	158080	24
+Chromohalobacter salexigens	CHR95	37.0	158080	25
+Chromohalobacter salexigens	CHR95	37.0	158080	26
+Chromohalobacter salexigens	CHR95	37.0	158080	27
+Chromohalobacter salexigens	CHR161	37.0	158080	28
+Chromohalobacter salexigens	CHR161	37.0	158080	29
+Chromohalobacter salexigens	CHR161	37.0	158080	30
+Chromohalobacter salexigens	CHR161	37.0	158080	31
+Chromohalobacter salexigens	CHR161	37.0	158080	32
+Chromohalobacter salexigens	CHR161	37.0	158080	33
+Chromohalobacter salexigens	CHR161	37.0	158080	34
+Chromohalobacter salexigens	CHR161	37.0	158080	35
+Chromohalobacter salexigens	CHR183	37.0	158080	36
+Chromohalobacter salexigens	CHR183	37.0	158080	37
+Chromohalobacter salexigens	CHR183	37.0	158080	38
+Chromohalobacter salexigens	CHR183	37.0	158080	39
+Chromohalobacter salexigens	CHR183	37.0	158080	40
+Chromohalobacter salexigens	CHR183	37.0	158080	41
+Chromohalobacter salexigens	CHR183	37.0	158080	42
+Chromohalobacter salexigens	CHR183	37.0	158080	43
+Chromohalobacter salexigens	DSM 3043	30.0	290398	44
+Chromohalobacter salexigens	DSM 3043	30.0	290398	45
+Acinetobacter baylyi	ADP1	30.0	62977	54
+Acinetobacter baylyi	ADP1	30.0	62977	55
+Acinetobacter baylyi	ADP1	30.0	62977	56
+Acinetobacter baylyi	ADP1	30.0	62977	57
+Acinetobacter baylyi	ADP1	30.0	62977	58
+Acinetobacter baylyi	ADP1	30.0	62977	59
+Acinetobacter baylyi	ADP1	30.0	62977	60
+Acinetobacter baylyi	ADP331	30.0	202950	61
+Acinetobacter baylyi	ADP331	30.0	202950	62
+Acinetobacter baylyi	ADP331	30.0	202950	63
+Acinetobacter baylyi	ADP331	30.0	202950	64
+Acinetobacter baylyi	ADP331	30.0	202950	65
+Acinetobacter baylyi	ADP331	30.0	202950	66
+Acinetobacter baylyi	ADP197	30.0	202950	67
+Acinetobacter baylyi	ADP197	30.0	202950	68
+Acinetobacter baylyi	ADP197	30.0	202950	69
+Acinetobacter baylyi	ADP197	30.0	202950	70
+Acinetobacter baylyi	ADP197	30.0	202950	71
+Acinetobacter baylyi	ADP197	30.0	202950	72
+Acinetobacter baylyi	ADPU331	30.0	202950	73
+Acinetobacter baylyi	ADPU331	30.0	202950	74
+Acinetobacter baylyi	ADPU331	30.0	202950	75
+Acinetobacter baylyi	ADPU331	30.0	202950	76
+Acinetobacter baylyi	ADPU331	30.0	202950	77
+Acinetobacter baylyi	ADPU331	30.0	202950	78
+Leishmania major		25.0	5664	79
+Komagataella pastoris	DSMZ 70382	25.0	638632	80
+Yersinia pestis	EV76	37.0	632	81
+Yersinia pestis	EV76	37.0	632	82
+Yersinia pestis	EV76	37.0	632	83
+Yersinia pestis	EV76	37.0	632	119
+Yersinia pestis	EV76	37.0	632	120
+Yersinia pestis	EV76	37.0	632	121
+Yersinia pestis	EV76	37.0	632	122
+Yersinia pestis	EV76	37.0	632	123
+Yersinia pestis	EV76	37.0	632	124
+Yersinia pestis	EV76	37.0	632	125
+Yersinia pestis	EV76	37.0	632	126
+Yersinia pestis	EV76	37.0	632	127
+Yersinia pestis	EV76	37.0	632	128
+Yersinia pestis	EV76	37.0	632	129
+Yersinia pestis	EV76	37.0	632	130
+Pseudomonas aeruginosa	PA01	37.0	287	84
+Chlamydomonas reinhardtii		25.0	3055	85
+Chlamydomonas reinhardtii		25.0	3055	86
+Chlamydomonas reinhardtii		25.0	3055	87
+Yersinia pestis	EV76_Vwa+	37.0	632	88
+Yersinia pestis	EV76_Vwa+	37.0	632	89
+Yersinia pestis	EV76_Vwa+	37.0	632	90
+Yersinia pestis	EV76_Vwa+	37.0	632	91
+Yersinia pestis	EV76_Vwa+	37.0	632	92
+Yersinia pestis	EV76_Vwa+	37.0	632	93
+Yersinia pestis	EV76_Vwa+	37.0	632	94
+Yersinia pestis	EV76_Vwa+	37.0	632	95
+Yersinia pestis	EV76_Vwa+	37.0	632	96
+Yersinia pestis	EV76_Vwa+	37.0	632	97
+Yersinia pestis	EV76_Vwa+	37.0	632	98
+Yersinia pestis	EV76_Vwa+	37.0	632	99
+Yersinia pestis	EV76_Vwa+	37.0	632	100
+Yersinia pestis	EV76_Vwa+	37.0	632	101
+Yersinia pestis	EV76_Vwa+	37.0	632	102
+Yersinia pestis	EV76_Vwa+	37.0	632	103
+Yersinia pestis	EV76_Vwa+	37.0	632	104
+Yersinia pestis	EV76_Vwa+	37.0	632	105
+Yersinia pestis	EV76_Vwa+	37.0	632	106
+Yersinia pestis	EV76_Vwa+	37.0	632	107
+Yersinia pestis	EV76_Vwa+	37.0	632	108
+Yersinia pestis	EV76_Vwa+	37.0	632	109
+Yersinia pestis	EV76_Vwa+	37.0	632	110
+Yersinia pestis	EV76_Vwa+	37.0	632	111
+Yersinia pestis	EV76_Vwa+	37.0	632	112
+Yersinia pestis	EV76_Vwa+	37.0	632	113
+Yersinia pestis	EV76_Vwa+	37.0	632	114
+Yersinia pestis	EV76_Vwa+	37.0	632	115
+Yersinia pestis	EV76_Vwa+	37.0	632	116
+Yersinia pestis	EV76_Vwa+	37.0	632	117
+Porphyromonas gingivalis	W83	37.0	242619	131
+Porphyromonas gingivalis	W50	37.0	1125722	132
+Porphyromonas gingivalis	LH9	37.0	837	133
+Porphyromonas gingivalis	WPH15	37.0	837	134
+Porphyromonas gingivalis	WPH34	37.0	837	135
+Porphyromonas gingivalis	HG91	37.0	837	136
+Porphyromonas gingivalis	HG184	37.0	837	137
+Porphyromonas gingivalis	Hg185	37.0	837	138
+Clostridium acetobutylicum	P262	34.0	1488	139
+Clostridium acetobutylicum	ATCC 824	22.0	272562	140
+Clostridium acetobutylicum	ATCC 824	37.0	272562	142
+Clostridium acetobutylicum	ATCC 824	42.0	272562	144
+Clostridium acetobutylicum	ATCC 824	22.0	272562	200
+Clostridium acetobutylicum	ATCC 824	22.0	272562	202
+Clostridium acetobutylicum	ATCC 824	37.0	272562	204
+Clostridium acetobutylicum	ATCC 824	37.0	272562	206
+Clostridium acetobutylicum	ATCC 824	42.0	272562	208
+Clostridium acetobutylicum	SA-2	22.0	1488	141
+Clostridium acetobutylicum	SA-2	37.0	1488	143
+Clostridium acetobutylicum	SA-2	42.0	1488	145
+Clostridium acetobutylicum	SA-2	22.0	1488	201
+Clostridium acetobutylicum	SA-2	22.0	1488	203
+Clostridium acetobutylicum	SA-2	37.0	1488	205
+Clostridium acetobutylicum	SA-2	37.0	1488	207
+Clostridium acetobutylicum	SA-2	42.0	1488	209
+Klebsiella  pneumoniae		37.0	-1	146
+Klebsiella  pneumoniae		37.0	-1	147
+Klebsiella  pneumoniae		37.0	-1	148
+Klebsiella  pneumoniae		37.0	-1	149
+Klebsiella  pneumoniae		37.0	-1	150
+Klebsiella  pneumoniae		37.0	-1	151
+Klebsiella  pneumoniae		37.0	-1	189
+Klebsiella  pneumoniae		37.0	-1	190
+Klebsiella  pneumoniae		37.0	-1	191
+Klebsiella  pneumoniae		37.0	-1	192
+Klebsiella  pneumoniae		30.0	-1	193
+Klebsiella  pneumoniae		30.0	-1	194
+Klebsiella  pneumoniae		30.0	-1	196
+Klebsiella  pneumoniae		30.0	-1	197
+Klebsiella  pneumoniae		30.0	-1	198
+Klebsiella  pneumoniae		30.0	-1	199
+Escherichia coli	O157:H7 RIMD0509952	37.0	562	152
+Escherichia coli	O157:H7	37.0	83334	153
+Escherichia coli	ATCC 23794	37.0	562	154
+Escherichia coli	ATCC 23794	37.0	562	155
+Escherichia coli	ATCC 23794	37.0	562	156
+Escherichia coli	ATCC 23794	37.0	562	157
+Escherichia coli	JCL1225[pJF118]	37.0	562	158
+Escherichia coli	JCL1225[pPC201]	37.0	562	159
+Escherichia coli	JCL1535[pJF118]	37.0	562	160
+Escherichia coli	JCL1535[pPC201]	37.0	562	161
+Clostridium beijerinckii	NCIMB 8052	37.0	290402	210
+Escherichia coli	O157:H7 ATCC 43895	37.0	562	211
+Escherichia coli	O157:H7 ATCC 43895	37.0	562	212
+Escherichia coli	O157:H7 ATCC 43895	37.0	562	213
+Escherichia coli	O157:H7 ATCC 43895	37.0	562	214
+Escherichia coli	O157:H7 ATCC 43895	37.0	562	215
+Escherichia coli	O157:H7 ATCC 43895	37.0	562	216
+Escherichia coli	O157:H7 ATCC 43895	37.0	562	217
+Escherichia coli	O157:H7 ATCC 43895	37.0	562	218
+Escherichia coli	O157:H7 ATCC 43895	37.0	562	219
+Escherichia coli	HB101	37.0	634468	231
+Escherichia coli	HB101	37.0	634468	233
+Escherichia coli	HB101	37.0	634468	234
+Escherichia coli	HB101	37.0	634468	235
+Escherichia coli	HB101	37.0	634468	236
+Escherichia coli	HB101	37.0	634468	237
+Escherichia coli	HB101	37.0	634468	238
+Escherichia coli	HB101	37.0	634468	239
+Escherichia coli	HB101	37.0	634468	240
+Escherichia coli	HB101	37.0	634468	241
+Escherichia coli	JM109	30.0	562	242
+Escherichia coli	JM109	37.0	562	244
+Escherichia coli	JM109	37.0	562	245
+Escherichia coli	JM109[pEcoR4,pRK248cI,pMTC48]	30.0	562	243
+Escherichia coli	JM109[pUC 13]	37.0	562	246
+Escherichia coli	JM109[pUC 13]	37.0	562	247
+Escherichia coli	JM109[pUC 13]	37.0	562	248
+Escherichia coli	JM109[pUC 13]	37.0	562	249
+Escherichia coli	JM109[pUC 13]	37.0	562	250
+Escherichia coli	BW25113	37.0	562	251
+Escherichia coli	BW25113	37.0	562	257
+Escherichia coli	BW25113	37.0	562	259
+Escherichia coli	BW25113	37.0	562	260
+Escherichia coli	BW25113	37.0	562	265
+Escherichia coli	BW25113	37.0	562	267
+Escherichia coli	BW25113	37.0	562	269
+Escherichia coli	BW25113_pflA-	37.0	562	252
+Escherichia coli	BW25113_pta-	37.0	562	253
+Escherichia coli	BW25113_ppc-	37.0	562	254
+Escherichia coli	BW25113_ppc-	37.0	562	266
+Escherichia coli	BW25113_adhE-	37.0	562	255
+Escherichia coli	BW25113_pykF-	37.0	562	256
+Escherichia coli	BW25113_pflB-	37.0	562	258
+Escherichia coli	BW25113_gnd-	37.0	562	261
+Escherichia coli	BW25113_gnd-	37.0	562	262
+Escherichia coli	BW25113_zwf-	37.0	562	263
+Escherichia coli	BW25113_zwf-	37.0	562	264
+Escherichia coli	BW25113_zwf-	37.0	562	268
+Escherichia coli	BW25113_zwf-	37.0	562	270
+Escherichia coli	K-10	37.0	562	271
+Escherichia coli	K-10	37.0	562	275
+Escherichia coli	MG1655 / pKB2	37.0	562	276
+Escherichia coli	MG1655 / pKB2	37.0	562	277
+Escherichia coli	MG1655 / pKB2	37.0	562	278
+Escherichia coli	MG1655 / pKB2	37.0	562	279
+Escherichia coli	VH1000 :: ppcnB-lacZ	37.0	562	280
+Escherichia coli	VH1000 :: ppcnB-lacZ	37.0	562	281
+Escherichia coli	VH1000 :: ppcnB-lacZ	37.0	562	282
+Escherichia coli	VH1000 :: ppcnB-lacZ	37.0	562	283
+Escherichia coli	MG1655[pBR322]	37.0	562	284
+Escherichia coli	MG1655[pBR322]	37.0	562	285
+Escherichia coli	MG1655[pPP1]	37.0	562	286
+Escherichia coli	MG1655[pPP1]	37.0	562	287
+Escherichia coli	W3110[pBR322]	37.0	562	288
+Escherichia coli	W3110[pBR322]	37.0	562	289
+Escherichia coli	W3110[pPP1]	37.0	562	290
+Escherichia coli	W3110[pPP1]	37.0	562	291
+Thermotoga maritima		85.0	2336	292
+Escherichia coli	ML30G	37.0	562	293
+Escherichia coli	TS689	37.0	562	294
+Escherichia coli	K-12	37.0	83333	295
+Salmonella enterica	Typhimurium LT2	37.0	28901	296
+Salmonella enterica	Typhimurium LT2	37.0	28901	541
+Escherichia coli	MG1655	37.0	562	297
+Escherichia coli	MG1655	37.0	562	299
+Escherichia coli	MDS12	37.0	562	298
+Escherichia coli	W3110	37.0	562	300
+Escherichia coli	W3110	37.0	562	335
+Escherichia coli	W3110	37.0	562	337
+Escherichia coli	JM101	37.0	562	301
+Escherichia coli	K-10_Zwf-	37.0	562	302
+Escherichia coli	W3110_Pgi-	37.0	562	303
+Escherichia coli	K-10_PfkA-	37.0	562	304
+Escherichia coli	JM101_PykAF-	37.0	562	305
+Escherichia coli	K-12_Mae-_Pck-	37.0	562	306
+Escherichia coli	MG1655_SdhA-_Mdh-	37.0	562	307
+Escherichia coli	K-12_FumA-	37.0	562	308
+Rhizobium etli	CE3	28.0	29449	309
+Rhizobium etli	CE3	28.0	29449	312
+Rhizobium etli	CE3	28.0	29449	314
+Rhizobium etli	CE3	28.0	29449	316
+Rhizobium etli	CE3	28.0	29449	330
+Rhizobium etli	CE3	28.0	29449	331
+Rhizobium etli	CE3	28.0	29449	338
+Rhizobium etli	CE3	28.0	29449	342
+Rhizobium etli	dec/53	28.0	29449	310
+Rhizobium etli	dec/53	28.0	29449	311
+Rhizobium etli	dec/53	28.0	29449	313
+Rhizobium etli	dec/53	28.0	29449	315
+Rhizobium etli	dec/53	28.0	29449	317
+Clostridium thermocellum	ATCC 27405	60.0	-1	318
+Escherichia coli	MC4100	37.0	562	320
+Escherichia coli	MC4100	37.0	562	321
+Escherichia coli	MC4100	37.0	562	322
+Escherichia coli	MC4100	37.0	562	323
+Escherichia coli	MC4100	37.0	562	324
+Escherichia coli	MC4100	37.0	562	325
+Escherichia coli	MC4100	37.0	562	328
+Escherichia coli	MC4100	37.0	562	329
+Rhizobium etli	M4	28.0	29449	332
+Rhizobium etli	M4	28.0	29449	339
+Rhizobium etli	M4	28.0	29449	343
+Rhizobium etli	Viking 1	28.0	29449	333
+Rhizobium etli	Viking 1	28.0	29449	340
+Rhizobium etli	Viking 1	28.0	29449	344
+Rhizobium etli	CIAT613	28.0	29449	334
+Rhizobium etli	CIAT613	28.0	29449	341
+Rhizobium etli	CIAT613	28.0	29449	345
+Rhizobium etli	CFN42	28.0	29449	346
+Rhizobium etli	CFN42	28.0	29449	347
+Rhizobium etli	ReTV1	28.0	29449	348
+Rhizobium etli	ReTV1	28.0	29449	350
+Rhizobium etli	ReTV2	28.0	29449	349
+Rhizobium etli	ReTV2	28.0	29449	351
+Rhizobium etli	CFNX186	28.0	29449	352
+Rhizobium etli	CFNX186	28.0	29449	355
+Rhizobium etli	CFNX186-4	28.0	29449	353
+Rhizobium etli	CFNX186-4	28.0	29449	356
+Rhizobium etli	CFNX186-24	28.0	29449	354
+Rhizobium etli	CFNX186-24	28.0	29449	357
+Vibrio vulnificus	C7184	37.0	672	358
+Vibrio vulnificus	C7184	37.0	672	359
+Natronomonas pharaonis	DSM 2160	40.0	348780	360
+Bacillus subtilis	168	37.0	1423	361
+Bacillus subtilis	168	37.0	1423	403
+Bacillus subtilis	168	37.0	1423	404
+Bacillus subtilis	168	37.0	1423	405
+Bacillus subtilis	168	37.0	1423	406
+Bacillus subtilis	168	37.0	1423	407
+Bacillus subtilis	168	37.0	1423	408
+Escherichia coli	BL21(DE3)	37.0	469008	390
+Escherichia coli	BL21(DE3)	37.0	469008	391
+Escherichia coli	BL21(DE3)	37.0	469008	392
+Escherichia coli	BL21(DE3)	37.0	469008	594
+Escherichia coli	BL21	37.0	511693	386
+Escherichia coli	BL21	37.0	511693	387
+Escherichia coli	BL21	37.0	511693	388
+Escherichia coli	BL21	37.0	511693	389
+Pseudomonas putida	KT2440	30.0	160488	393
+Pseudomonas putida	KT2440	30.0	160488	394
+Pseudomonas putida	KT2440	30.0	160488	395
+Pseudomonas putida	KT2440	30.0	160488	396
+Pseudomonas putida	KT2440	30.0	160488	397
+Bacillus subtilis	1S53	37.0	1423	398
+Bacillus subtilis	1S53	37.0	1423	399
+Bacillus subtilis	1S53	37.0	1423	400
+Bacillus subtilis	1S53	37.0	1423	401
+Bacillus subtilis	1S53	37.0	1423	402
+Bradyrhizobium japonicum	USDA 110	28.0	375	445
+Bradyrhizobium japonicum	USDA 110	28.0	375	446
+Bradyrhizobium japonicum	USDA 110	28.0	375	447
+Hydrogenobacter thermophilus	TK-6	70.0	608538	450
+Hydrogenobacter thermophilus	TK-6	70.0	608538	451
+Hydrogenobacter thermophilus	TK-6	70.0	608538	545
+Salmonella enterica	Typhimurium	37.0	28901	461
+Salmonella enterica	Typhimurium	37.0	28901	462
+Salmonella enterica	Typhimurium	37.0	28901	463
+Salmonella enterica	Typhimurium	37.0	28901	464
+Salmonella enterica	Typhimurium	37.0	28901	465
+Salmonella enterica	Typhimurium	37.0	28901	466
+Salmonella enterica	Typhimurium	37.0	28901	467
+Salmonella enterica	Typhimurium	37.0	28901	468
+Salmonella enterica	Typhimurium	37.0	28901	493
+Salmonella enterica	Typhimurium	37.0	28901	494
+Salmonella enterica	Typhimurium	37.0	28901	495
+Salmonella enterica	Typhimurium	37.0	28901	496
+Salmonella enterica	Typhimurium	37.0	28901	497
+Salmonella enterica	Typhimurium	37.0	28901	498
+Salmonella enterica	Typhimurium	37.0	28901	499
+Salmonella enterica	Typhimurium	37.0	28901	500
+Salmonella enterica	Typhimurium	37.0	28901	501
+Salmonella enterica	Typhimurium	37.0	28901	502
+Salmonella enterica	Typhimurium	37.0	28901	503
+Salmonella enterica	Typhimurium	37.0	28901	504
+Salmonella enterica	Typhimurium	37.0	28901	505
+Salmonella enterica	Typhimurium	37.0	28901	506
+Salmonella enterica	Typhimurium	37.0	28901	507
+Salmonella enterica	Typhimurium	37.0	28901	508
+Salmonella enterica	Typhimurium	37.0	28901	509
+Salmonella enterica	Typhimurium	37.0	28901	510
+Salmonella enterica	Typhimurium	37.0	28901	511
+Salmonella enterica	Typhimurium	37.0	28901	512
+Salmonella enterica	Typhimurium	37.0	28901	513
+Salmonella enterica	Typhimurium	37.0	28901	514
+Salmonella enterica	Typhimurium	37.0	28901	515
+Salmonella enterica	Typhimurium	37.0	28901	516
+Salmonella enterica	Typhimurium	37.0	28901	517
+Salmonella enterica	Typhimurium	37.0	28901	518
+Salmonella enterica	Typhimurium	37.0	28901	519
+Salmonella enterica	Typhimurium	37.0	28901	520
+Salmonella enterica	Typhimurium	37.0	28901	521
+Salmonella enterica	Typhimurium	37.0	28901	522
+Salmonella enterica	Typhimurium	37.0	28901	523
+Salmonella enterica	Typhimurium	37.0	28901	524
+Salmonella enterica	Typhimurium	37.0	28901	525
+Salmonella enterica	Typhimurium	37.0	28901	526
+Salmonella enterica	Typhimurium	37.0	28901	527
+Salmonella enterica	Typhimurium	37.0	28901	528
+Salmonella enterica	Typhimurium	37.0	28901	529
+Salmonella enterica	Typhimurium	37.0	28901	530
+Salmonella enterica	Typhimurium	37.0	28901	531
+Salmonella enterica	Typhimurium	37.0	28901	532
+Salmonella enterica	Typhimurium	37.0	28901	533
+Salmonella enterica	Typhimurium	37.0	28901	534
+Salmonella enterica	Typhimurium	37.0	28901	535
+Salmonella enterica	Typhimurium	37.0	28901	536
+Salmonella enterica	Typhimurium	37.0	28901	537
+Salmonella enterica	Typhimurium	37.0	28901	538
+Salmonella enterica	Typhimurium	37.0	28901	539
+Salmonella enterica	Typhimurium	37.0	28901	540
+Salmonella enterica	Typhimurium flr-19	37.0	28901	542
+Salmonella enterica	Typhimurium flr-191	37.0	28901	543
+Salmonella enterica	Typhimurium CV241	37.0	28901	544
+Streptomyces Coelicolor	J802	30.0	-1	546
+Streptomyces Coelicolor	J802	30.0	-1	547
+Streptomyces Coelicolor	J802	30.0	-1	548
+Streptomyces Coelicolor	J802	30.0	-1	549
+Streptomyces Coelicolor	A3(2)	30.0	-1	550
+Escherichia coli	KO229	37.0	562	591
+Escherichia coli	BL21[pACYC184]	37.0	562	592
+Escherichia coli	BL21[pACDdsA]	37.0	562	593
+Escherichia coli	BL21[pET-ASPP]	37.0	562	595
+Escherichia coli	BL21[pET-28b(+)]	37.0	562	596
+Escherichia coli	BL21_aspP-	37.0	562	597
+Corynebacterium glutamicum	ATCC 13032	30.0	196627	602
+Corynebacterium glutamicum	ATCC 13032	30.0	196627	603
+Corynebacterium glutamicum	ATCC 13032	30.0	196627	604
+Neurospora crassa	OR74A	25.0	367110	605
+Mycobacterium tuberculosis	H37Rv	37.0	83332	608
+Zymomonas mobilis	CP4	30.0	542	609
+Zymomonas mobilis	11163	30.0	542	610
+Zymomonas mobilis	ATCC 10988	30.0	542	611
+Zymomonas mobilis	CU1	30.0	542	612
+Staphylococcus aureus	N315	37.0	1280	613
+Acinetobacter baumannii	ATCC 19606	37.0	470	614
+Acinetobacter baumannii	ATCC 19606	37.0	470	615
+nan	ATCC 51142	30.0	-1	616
+Deinococcus radiodurans	R1	35.0	1299	617
+Deinococcus radiodurans	R1	35.0	1299	618
+Deinococcus radiodurans	R1	35.0	1299	619
+Deinococcus radiodurans	R1	35.0	1299	620
+Bacillus amyloliquefaciens	B155	37.0	1390	621
+Bacillus amyloliquefaciens	B20	37.0	1390	622
+Bacillus amyloliquefaciens	B20	37.0	1390	623
+Aspergillus nidulans	conidia	37.0	162425	631
+Aspergillus nidulans	conidia	28.0	162425	632
+Aspergillus nidulans	A187	37.0	162425	633
+Aspergillus nidulans	A187	37.0	162425	705
+Aspergillus nidulans	creA	37.0	162425	634
+Aspergillus nidulans	creA	37.0	162425	706
+Aspergillus nidulans	TA1	30.0	162425	635
+Aspergillus niger	AB1.13	30.0	5061	636
+Aspergillus niger	AB1.13	30.0	5061	701
+Aspergillus oryzae	A1560	30.0	5062	637
+Aspergillus oryzae	A1560	30.0	5062	697
+Aspergillus oryzae	CF1.1	30.0	5062	638
+Aspergillus oryzae	CF1.1	30.0	5062	698
+Aspergillus oryzae	CF2.1	30.0	5062	639
+Aspergillus oryzae	CF2.1	30.0	5062	699
+Halobacterium salinarum	R-1	40.0	2242	641
+Ketogulonicigenium vulgare		30.0	92945	642
+Bacillus megaterium		30.0	-1	643
+Bacillus megaterium	KM Leu-	30.0	-1	644
+Bacillus megaterium	KM Leu-	30.0	-1	645
+Candida glabrata	CTCC M202019	30.0	-1	648
+Candida glabrata	CTCC M202019	30.0	-1	708
+Candida glabrata	CTCC M202019	30.0	-1	710
+Candida glabrata	CTCC M202019	30.0	-1	712
+Candida glabrata	CTCC M202019	30.0	-1	714
+Candida glabrata	CTCC M202019	30.0	-1	715
+Candida glabrata	CTCC M202019	30.0	-1	716
+Candida glabrata	CTCC M202019	30.0	-1	717
+Candida glabrata	CTCC M202019	30.0	-1	718
+Candida glabrata	CTCC M202019	30.0	-1	719
+Candida glabrata	CTCC M202019	30.0	-1	720
+Candida glabrata	CTCC M202019	30.0	-1	721
+Candida glabrata	CTCC M202019	30.0	-1	722
+Candida glabrata	CTCC M202019	30.0	-1	723
+Candida glabrata	CTCC M202019	30.0	-1	724
+Candida glabrata	CTCC M202019	30.0	-1	725
+Candida glabrata	CTCC M202019	30.0	-1	726
+Candida glabrata	CTCC M202019	30.0	-1	727
+Candida glabrata	CTCC M202019	30.0	-1	728
+Candida glabrata	CTCC M202019	30.0	-1	729
+Candida glabrata	CTCC M202019	30.0	-1	730
+Candida glabrata	CTCC M202019	30.0	-1	731
+Candida glabrata	CTCC M202019	30.0	-1	732
+Candida glabrata	CTCC M202019	30.0	-1	733
+Candida glabrata	CTCC M202019	30.0	-1	734
+Candida glabrata	CTCC M202019	30.0	-1	735
+Candida glabrata	CTCC M202019	30.0	-1	736
+Candida glabrata	CTCC M202019	30.0	-1	737
+Candida glabrata	CTCC M202019	30.0	-1	738
+Candida glabrata	CTCC M202019	30.0	-1	739
+Candida glabrata	CTCC M202019	30.0	-1	740
+Candida glabrata	CTCC M202019	30.0	-1	741
+Candida glabrata	CTCC M202019	30.0	-1	742
+Candida glabrata	CTCC M202019	30.0	-1	744
+Cupriavidus necator	H16	30.0	381666	649
+Cupriavidus necator	H16	30.0	381666	650
+Cupriavidus necator	H16	30.0	381666	651
+Cupriavidus necator	H16	30.0	381666	758
+Cupriavidus necator	H16	30.0	381666	759
+Cupriavidus necator	H16	30.0	381666	760
+Synechocystis PCC6803		30.0	-1	652
+Synechocystis PCC6803		30.0	-1	748
+Synechocystis PCC6803		30.0	-1	749
+Synechocystis PCC6803		30.0	-1	750
+Synechocystis PCC6803		31.0	-1	751
+Synechocystis PCC6803		31.0	-1	752
+Synechocystis PCC6803		31.0	-1	753
+Synechocystis PCC6803		31.0	-1	754
+Streptococcus thermophilus	ST1	37.0	1308	653
+Streptococcus thermophilus	ST1	37.0	1308	761
+Streptococcus thermophilus	ST7	37.0	1308	654
+Streptococcus thermophilus	ST7	37.0	1308	764
+Streptococcus thermophilus	ST8	37.0	1308	655
+Streptococcus thermophilus	ST8	37.0	1308	762
+Streptococcus thermophilus	ST11	37.0	1308	656
+Streptococcus thermophilus	ST11	37.0	1308	763
+Streptococcus thermophilus	ST18	37.0	1308	657
+Streptococcus thermophilus	ST18	37.0	1308	765
+Streptococcus thermophilus	ST21	37.0	1308	658
+Streptococcus thermophilus	ST21	37.0	1308	766
+Aspergillus terreus	ATCC 74135	28.0	33178	659
+Aspergillus terreus	ATCC 74135	28.0	33178	665
+Aspergillus terreus	ATCC 74135	28.0	33178	666
+Aspergillus terreus	ATCC 74135	28.0	33178	668
+Aspergillus terreus	ATCC 74135	28.0	33178	669
+Aspergillus terreus	ATCC 74135	28.0	33178	670
+Aspergillus terreus	ATCC 74135	28.0	33178	673
+Aspergillus terreus	ATCC 74135	28.0	33178	685
+Aspergillus terreus	ATCC 74135	28.0	33178	686
+Aspergillus terreus	ATCC 74135	28.0	33178	687
+Aspergillus terreus	ATCC 74135	28.0	33178	688
+Aspergillus terreus	ATCC 74135	28.0	33178	689
+Aspergillus terreus	ATCC 74135	28.0	33178	690
+Aspergillus terreus	ATCC 74135	28.0	33178	691
+Aspergillus terreus	ATCC 74135	28.0	33178	692
+Aspergillus terreus	ATCC 74135	28.0	33178	693
+Aspergillus terreus	ATCC 74135	28.0	33178	694
+Aspergillus terreus	ATCC 74135	28.0	33178	695
+Aspergillus nidulans	A28	30.0	162425	704
+Candida glabrata	WSH-IP303	30.0	-1	743
+Candida glabrata	WSH-IP303	30.0	-1	745
+Thermotoga maritima	DSM 3109	88.0	2336	746
+Thermotoga maritima	DSM 3109	85.0	2336	747
+Synechocystis PCC6803	psbA	31.0	-1	755
+Albidiferax ferrireducens	DMS 15236	33.0	-1	756
+Albidiferax ferrireducens	DMS 15236	33.0	-1	757
+Neiserria meningitidis	serogroup B	37.0	-1	767
+Neiserria meningitidis	M1	37.0	-1	768
+Neiserria meningitidis	M5	37.0	-1	769
+Neiserria meningitidis	M6	37.0	-1	770
+Saccharomyces cerevisiae	Y294	30.0	4932	771
+Saccharomyces cerevisiae	CBS 8066	30.0	4932	772
+Saccharomyces cerevisiae	CBS 8066	30.0	4932	773
+Saccharomyces cerevisiae	T2-3D	30.0	4932	774
+Saccharomyces cerevisiae	T2-3D	30.0	4932	775
+Saccharomyces cerevisiae	GG 570	30.0	4932	776
+Saccharomyces cerevisiae	Y294[PGK1]	30.0	4932	777
+Saccharomyces cerevisiae	Y294[PGK1-XYN]	30.0	4932	778
+Saccharomyces cerevisiae	Y294[ADH2]	30.0	4932	779
+Saccharomyces cerevisiae	Y294[ADH2-XYN]	30.0	4932	780
+Lactococcus lactis	MG1363	30.0	1358	781
+Lactococcus lactis	MG1363	30.0	1358	782
+Lactococcus lactis	MG1363	30.0	1358	783
+Lactococcus lactis	MG1363	30.0	1358	784
+Lactococcus lactis	MG1363	30.0	1358	785
+Lactococcus lactis	MG1363	30.0	1358	786
+Lactococcus lactis	MG1363	30.0	1358	796
+Lactococcus lactis	MG1363	30.0	1358	797
+Lactococcus lactis	MG1363	30.0	1358	798
+Lactococcus lactis	MG1363	30.0	1358	799
+Lactococcus lactis	MG1363	30.0	1358	800
+Lactococcus lactis	MG1363	30.0	1358	802
+Lactococcus lactis	MG1614	30.0	1358	787
+Lactococcus lactis	NCDO 2118	30.0	1358	788
+Lactococcus lactis	NCDO 2118	30.0	1358	791
+Lactococcus lactis	NCDO 2118	30.0	1358	792
+Lactococcus lactis	NCDO 2118	30.0	1358	794
+Lactococcus lactis	C2	30.0	1358	789
+Lactococcus lactis	IL1403	30.0	1358	790
+Lactococcus lactis	IL1403	30.0	1358	793
+Lactococcus lactis	IL1403	30.0	1358	795
+Geobacter metallireducens		33.0	28232	803
+Geobacter metallireducens		33.0	28232	804
+Geobacter metallireducens		33.0	28232	805
+Geobacter metallireducens		33.0	28232	806
+Geobacter metallireducens		33.0	28232	807
+Geobacter metallireducens		33.0	28232	808
+Geobacter metallireducens		33.0	28232	809
+Geobacter metallireducens		33.0	28232	810
+Geobacter metallireducens		33.0	28232	811
+Geobacter metallireducens		33.0	28232	812
+Geobacter metallireducens		33.0	28232	813
+Geobacter metallireducens		33.0	28232	814
+Geobacter metallireducens		33.0	28232	815
+Geobacter metallireducens		33.0	28232	816
+Geobacter metallireducens		33.0	28232	817
+Geobacter metallireducens		33.0	28232	818
+Geobacter metallireducens		33.0	28232	819
+Geobacter metallireducens		33.0	28232	820
+Geobacter metallireducens		33.0	28232	821
+Geobacter metallireducens		33.0	28232	822
+Geobacter metallireducens		33.0	28232	823
+Geobacter metallireducens		33.0	28232	824
+Geobacter metallireducens		33.0	28232	825
+Geobacter metallireducens		33.0	28232	826
+Geobacter metallireducens		33.0	28232	827
+Geobacter metallireducens		33.0	28232	828
+Geobacter metallireducens		33.0	28232	829
+Geobacter metallireducens		33.0	28232	830
+Geobacter metallireducens		33.0	28232	831
+Geobacter metallireducens		33.0	28232	832
+Geobacter metallireducens		33.0	28232	833
+Geobacter metallireducens		33.0	28232	834
+Geobacter metallireducens		33.0	28232	835
+Geobacter metallireducens		33.0	28232	836
+Geobacter metallireducens		33.0	28232	837
+Geobacter metallireducens		33.0	28232	838
+Geobacter metallireducens		33.0	28232	839
+Geobacter metallireducens		33.0	28232	840
+Geobacter metallireducens		33.0	28232	841
+Geobacter metallireducens		33.0	28232	842
+Geobacter metallireducens		33.0	28232	843
+Geobacter metallireducens		33.0	28232	844
+Geobacter metallireducens		33.0	28232	845
+Geobacter metallireducens		33.0	28232	846
+Geobacter metallireducens		33.0	28232	847
+Geobacter metallireducens		33.0	28232	848
+Geobacter metallireducens		33.0	28232	849
+Geobacter metallireducens		33.0	28232	850
+Geobacter metallireducens		33.0	28232	851
+Geobacter metallireducens		33.0	28232	852
+Geobacter metallireducens		33.0	28232	853
+Geobacter metallireducens		33.0	28232	854
+Geobacter metallireducens		33.0	28232	855
+Geobacter metallireducens		33.0	28232	856
+Geobacter metallireducens		33.0	28232	857
+Geobacter metallireducens		33.0	28232	858
+Methanosarcina acetivorans	C2A	35.0	188937	859
+Methanosarcina barkeri	Fusaro	35.0	2208	860
+Methanococcus maripaludis	JJ	30.0	39152	861
+Methanococcus maripaludis	S2	37.0	267377	862
+Methanococcus maripaludis	MM1020	37.0	39152	863
+Methanococcus maripaludis	MM1097	37.0	39152	864
+Methanococcus maripaludis	MM1145	37.0	39152	865
+Methanococcus maripaludis	MM1183	37.0	39152	866
+Methanococcus maripaludis	MM1184	37.0	39152	867
+Methanococcus maripaludis	MM707	37.0	39152	868
+Methanococcus maripaludis	MM708	37.0	39152	869
+Methanococcus maripaludis	MM709	37.0	39152	870
+Pelagibacter ubique	HTCC1062	20.0	-1	871
+Pelagibacter ubique	HTCC1062	20.0	-1	872
+Pelagibacter ubique	HTCC1062	20.0	-1	873
+Pelagibacter ubique	HTCC1062	20.0	-1	874
+Pelagibacter sp	HTCC7211	20.0	-1	875
+Pelagibacter sp	HTCC7211	20.0	-1	876
+Pelagibacter sp	HTCC7211	20.0	-1	877
+Pelagibacter sp	HTCC7211	20.0	-1	878
+Pelagibacter sp	HTCC7211	20.0	-1	879
+Pelagibacter sp	HTCC7211	20.0	-1	880
+Pelagibacter sp	HTCC7211	20.0	-1	881
+Pelagibacter sp	HTCC7211	20.0	-1	882
+Pelagibacter sp	HTCC7211	20.0	-1	883
+Pelagibacter sp	HTCC7211	20.0	-1	884

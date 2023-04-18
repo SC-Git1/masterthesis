@@ -30,9 +30,9 @@ def get_lineage_from_taxid(taxid):
 
 if __name__ == "__main__":
     dfMediaDB = pd.read_csv("MediaDB_taxid_man.tsv", delimiter="\t", header=0, encoding='latin1')
-    print(len(dfMediaDB))
+    # print(len(dfMediaDB)) = 649
     # dfMediaDB = dfMediaDB[dfMediaDB["ncbiTaxID"] != "-1"]
-    # print(len(dfMediaDB)) -> 649 so all records have NCBI Taxonomy annotation
+    # print(len(dfMediaDB)) = 649, so all records have NCBI Taxonomy annotation
     with ApiClient() as api_client:
         taxon_api = TaxonomyApi(api_client)
 
@@ -48,7 +48,6 @@ if __name__ == "__main__":
                 "Superkingdom" + "\t" + "Phylum" + "\t" + "Class" + "\t" + "Order" + "\t" + "Family" + "\t" + "Genus" + "\n")
         for i in range(len(Taxids)):
             el = str(Taxids[i])
-            print(el)
             time.sleep(0.4)
             # if the previous record has the same ncbiTaxID (very common in the MediaDB dataset), use
             # the stored lineage information
@@ -61,7 +60,6 @@ if __name__ == "__main__":
                 rank_name = get_lineage_from_taxid(el)
 
                 try:
-                    print(rank_name)
                     Superkingdom = rank_name.get("SUPERKINGDOM")
                     if Superkingdom == None:
                         Superkingdom = ""

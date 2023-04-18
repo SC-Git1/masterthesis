@@ -1,0 +1,3127 @@
+Source_ID	Name	Strain	Temp	ncbiTaxID
+NIES-71	Achnanthidium minutissimum	A15-6	20 	431333
+NIES-547	Cyanophora paradoxa	nan	20 	2762
+NIES-415	Actinastrum hantzschii	F7-4	20 	55402
+NIES-40	Dolichospermum affine	nan	22 	549787
+NIES-41	Dolichospermum circinale	nan	22 	133419
+NIES-19	Anabaena cylindrica	nan	20 	1165
+NIES-73	Sphaerospermopsis kisseleviana	TAC 32 (K-TAN-32)	22 	1973480
+NIES-74	Sphaerospermopsis kisseleviana	TAC 33 (K-TAN-33)	22 	289435
+NIES-75	Dolichospermum flos-aquae	TAC 43 (K-TAN-43)	22 	1166
+NIES-76	Dolichospermum spiroides	K-A-12	22 	549792
+NIES-77	Dolichospermum crassum	TAC 31 (K-TAN-31)	22 	136074
+NIES-78	Dolichospermum crassum	TAC 30 (K-TAN-30)	22 	136074
+NIES-263	Dolichospermum ucrainicum	TAC 27 (K-TAN-27)	22 	289438
+NIES-79	Dolichospermum pseudocompactum	TAC 28 (K-TAN-28)	25 	747515
+NIES-80	Dolichospermum planctonicum	TAC 42 (K-TAN-42)	22 	219383
+NIES-23	Anabaena variabilis	nan	20 	-1
+NIES-21	Anabaenopsis circularis	nan	20 	1085406
+NIES-81	Aphanizomenon flos-aquae	TAC 1 (K-TAN-1)	25 	284502
+NIES-514	Planctonema lauterbornii	K880818	20 	415190
+NIES-333	Aulacoseira granulata	K-Melo	15 	285082
+NIES-50	Aulosira laxa	nan	20 	1541988
+NIES-35	Raphidocelis subcapitata	P-26	20 	307507
+NIES-22	Calothrix brevissima	nan	20 	1973478
+NIES-266	Scytonematopsis crustacea	nan	20 	2511143
+NIES-267	Calothrix parasitica	nan	20 	1973488
+NIES-334	Calothrix parasitica	nan	20 	1973486
+NIES-268	Calothrix scopulorum	nan	20 	232960
+NIES-512	Pseudanabaena foetida	PM-81A	20 	1912600
+NIES-84	Chattonella marina	KGW-6	20 	90936
+NIES-85	Chattonella marina	KGW-8-5	20 	90936
+NIES-86	Chattonella marina	KGW-42-4	20 	90936
+NIES-39	Arthrospira platensis	nan	20 	696747
+NIES-45	Planktothrix spiroides	KAS-6-50	24 	1354360
+NIES-46	Arthrospira platensis	nan	20 	1236695
+NIES-527	Spirulina subsalsa	nan	24 	54311
+NIES-27	Spirulina subsalsa	nan	24 	54311
+NIES-44	Microcystis aeruginosa	nan	25 	449439
+NIES-87	Microcystis aeruginosa	K-MA-11	25 	449440
+NIES-88	Microcystis aeruginosa	KW-MA1-3	25 	449441
+NIES-89	Microcystis aeruginosa	KW-MA2-5	25 	213617
+NIES-90	Microcystis aeruginosa	KW-MB-2	25 	391916
+NIES-91	Microcystis aeruginosa	K-MB-13	25 	449467
+NIES-92	Tetradesmus acuminatus	K-S-1	20 	91191
+NIES-93	Tetradesmus dimorphus	F-18-1	20 	119574
+NIES-94	Scenedesmus acutus	2-2-3-1	20 	104103
+NIES-95	Scenedesmus acutus	Aq-S-1	20 	104103
+NIES-96	Desmodesmus sp.	TAC 51-3B (TAN-51-3B)	20 	-1
+NIES-97	Desmodesmus serratus	TAC 51-3C (TAN-51-3C)	20 	91204
+NIES-98	Microcystis aeruginosa	K-MF-K-3	25 	267869
+NIES-99	Microcystis aeruginosa	S-MA-S5	25 	449443
+NIES-100	Microcystis aeruginosa	S-MB-S7	25 	449444
+NIES-101	Microcystis aeruginosa	TAC 48 (S-TAN-48)	25 	449446
+NIES-42	Aphanothece elabens	nan	25 	2883247
+NIES-102	Microcystis aeruginosa	K-MV-20	24 	1126
+NIES-103	Microcystis aeruginosa	TAC 44 (K-TAN-44)	25 	1126
+NIES-104	Microcystis aeruginosa	MW-H1	25 	1126
+NIES-105	Microcystis aeruginosa	K-MW-K4	25 	1126
+NIES-106	Microcystis aeruginosa	K-MW-19	25 	1126
+NIES-107	Microcystis aeruginosa	KW-MW-7	25 	1126
+NIES-108	Microcystis aeruginosa	S-MW-52	25 	1126
+NIES-109	Microcystis aeruginosa	Y-MW-24	25 	1126
+NIES-110	Microcystis aeruginosa	TAC 36 (K-TAN-36)	25 	1126
+NIES-111	Microcystis aeruginosa	TAC 37 (K-TAN-37)	25 	1126
+NIES-112	Microcystis aeruginosa	TAC 52 (S-TAN-52)	25 	1126
+NIES-113	Chattonella marina	KGW-59-2	20 	90936
+NIES-114	Chattonella marina	KGW-74-8	20 	90936
+NIES-3	Chattonella marina	OCH-m	20 	90936
+NIES-14	Chattonella marina	H-53-11	20 	90936
+NIES-115	Chattonella marina	KGW-9-1	20 	90936
+NIES-116	Chattonella marina	KGW-46-7	20 	90936
+NIES-118	Chattonella marina	KGW-75-2	20 	90936
+NIES-419	Astrephomene gubernaculifera	1520-1 (+)	20 	47775
+NIES-119	Tetradesmus dimorphus	OZ-29	20 	119574
+NIES-120	Scenedesmus acutus	Aq-S-2	20 	104103
+NIES-121	Chattonella marina	KGO-57-1	20 	90936
+NIES-1872	Chattonella marina	KGO-57-2	20 	90936
+NIES-1873	Chattonella marina	KGW-60-3	20 	90936
+NIES-388	Phaeocystis globosa	8-P	15 	33658
+NIES-375	Brachiomonas submarina	86-SuHH-2	15 	327064
+NIES-372	Achnanthidium minutissimum	KAAC-6	20 	431333
+NIES-377	Chaetoceros socialis	STHB-4	15 	163503
+NIES-122	Chlamydomonas pulsatilla	MKF-50	20 	57475
+NIES-391	Fragilaria capucina	KEB-24	15 	185980
+NIES-384	Monoraphidium contortum	Ep-i	20 	307511
+NIES-385	Monoraphidium griffithii	AWA	20 	-1
+NIES-378	Dictyochloropsis irregularis	CCHU-2227	20 	-1
+NIES-387	Cryptoglena skujae	PhD-3	20 	-1
+NIES-123	Rusalka fusiformis	MKF-14	20 	71744
+NIES-124	Closterium acerosum	N-20-1	20 	130971
+NIES-125	Closterium acerosum	N-25-22	20 	130971
+NIES-448	Closterium acerosum	3A	20 	130971
+NIES-127	Closterium acerosum	H-2-2	20 	130971
+NIES-128	Closterium calosporum	IB-21-20	20 	157567
+NIES-129	Coelastrum astroideum	TAC 56 (TAN-56-7)	20 	183310
+NIES-342	Coelastrum astroideum	TAC 54 (TAN-54-1)	20 	183310
+NIES-130	Coelastrum astroideum	TAC 51-9A (TAN-51-9A)	20 	183310
+NIES-131	Coelastrum proboscideum	N-63-20	20 	795112
+NIES-132	Coelastrum reticulatum	TAC 53-5A (TAN-53-5A)	20 	-1
+NIES-133	Cosmarium contractum	TAC 53-2 (TAN-53-2)	20 	184495
+NIES-452	Cosmarium hians	YAMA-Cos-4	20 	-1
+NIES-8	Chrysotila roscoffensis	OCri	20 	418908
+NIES-250	Galdieria sp.	Tsubo 53	37 	-1
+NIES-134	Dimorphococcus lunatus	34-5	20 	183317
+NIES-135	Dimorphococcus lunatus	F-61-4	20 	183317
+NIES-284	Dinobryon divergens	F-75-26	15 	457357
+NIES-455	Micractinium bornhemiensis	N-76-1	20 	-1
+NIES-253	Euglena clara	USI-21	20 	215708
+NIES-47	Euglena gracilis	nan	20 	3039
+NIES-48	Euglena gracilis	Z strain	20 	3039
+NIES-49	Euglena gracilis	nan	20 	3039
+NIES-381	Eutreptiella gymnastica	KGW-63-1	20 	73025
+NIES-137	Echinosphaeridium nordstedtii	F-56-3	20 	1912068
+NIES-138	Gonatozygon brebissonii	KAS-4-43	20 	184482
+NIES-139	Gonatozygon brebissonii	TAC 56-1 (TAN-56-1)	20 	184482
+NIES-287	Gonatozygon monotaenium	TAC 53-3 (TAN-53-3)	20 	52235
+NIES-144	Haematococcus lacustris	MKF-8	20 	44745
+NIES-257	Hafniomonas laevis	OUT-5	20 	436124
+NIES-417	Asterionellopsis glacialis	nan	15 	33640
+NIES-7	Heterocapsa triquetra	OHet	20 	66468
+NIES-235	Heterocapsa triquetra	KGW-57	20 	66468
+NIES-9	Heterosigma akashiwo	H-28	20 	2829
+NIES-10	Heterosigma akashiwo	H-40	20 	2829
+NIES-5	Heterosigma akashiwo	GHE	20 	2829
+NIES-6	Heterosigma akashiwo	OHE-1	20 	2829
+NIES-146	Heterosigma akashiwo	KGW-21-2	20 	2829
+NIES-147	Hyalotheca dissiliens	S-9-18	20 	130987
+NIES-148	Hyalotheca dissiliens	S-9-22	20 	130987
+NIES-150	Hyalotheca dissiliens	KAS-7-8	20 	130987
+NIES-294	Hyalotheca dissiliens	H-1	20 	130987
+NIES-295	Hydrodictyon reticulatum	O-2	20 	3107
+NIES-2299	Trachelomonas sp.	OZ-4 Eug8	20 	-1
+NIES-657	Mesotaenium kramstae	nan	20 	184486
+NIES-658	Mesotaenium kramstae	nan	20 	184486
+NIES-151	Micractinium pusillum	F-19-4	20 	126839
+NIES-152	Micrasterias crux-melitensis	N-90-27	20 	184510
+NIES-486	Nephroselmis viridis	H-70-2	20 	330888
+NIES-24	Nostoc commune	nan	20 	1178
+NIES-38	Nostoc commune	M-48-a	20 	1178
+NIES-28	Nostoc linckia	nan	20 	92942
+NIES-25	Nostoc linckia	nan	20 	1091006
+NIES-26	Nostoc minutum	nan	20 	1844469
+NIES-29	Nostoc minutum	nan	20 	1841509
+NIES-153	Desmotetra delicata	KUC3-6	20 	-1
+NIES-154	Kentrosphaera sp.	6-EBO-2	20 	-1
+NIES-155	Chlorococcum chlorococcoides	3-EBO-1	20 	1502109
+NIES-156	Urnella terrestris	NPL-111	20 	-1
+NIES-157	Heterochlamydomonas monticola	KUC80-4	20 	-1
+NIES-158	Chloromonas augustae	ASE-242	20 	87091
+NIES-159	Pseudopleurococcus printzii	KUC6-2	20 	1400012
+NIES-160	Chlorokybus riethii	TOT-24	20 	2899174
+NIES-161	Chattonella marina	Hiroshima-70	20 	90936
+NIES-348	Cryptomonas tetrapyrenoidosa	#00109	15 	233185
+NIES-274	Cryptomonas ovata	#00046	15 	70450
+NIES-275	Cryptomonas ovata	#00042	15 	70450
+NIES-276	Cryptomonas borealis	#00096	15 	233190
+NIES-344	Cryptomonas platyuris	#00103	15 	195066
+NIES-345	Cryptomonas sp.	#00006	15 	-1
+NIES-277	Cryptomonas rostratiformis	#00148	15 	356651
+NIES-278	Cryptomonas rostratiformis	#00154	15 	356651
+NIES-346	Cryptomonas tetrapyrenoidosa	#00009	15 	233185
+NIES-280	Cryptomonas tetrapyrenoidosa	#00014	15 	233185
+NIES-282	Cryptomonas tetrapyrenoidosa	#00056	15 	233185
+NIES-347	Cryptomonas tetrapyrenoidosa	#00072	15 	233185
+NIES-281	Cryptomonas curvata	#00073	15 	233186
+NIES-279	Cryptomonas tetrapyrenoidosa	#00099	15 	233185
+NIES-331	Amphidinium carterae	IIDA	20 	2961
+NIES-162	Closterium calosporum	IB-21-21	20 	157567
+NIES-163	Closterium calosporum	R-5-3	20 	157567
+NIES-164	Closterium calosporum	R-5-2	20 	157567
+NIES-165	Closterium calosporum	R-11-6	20 	157567
+NIES-166	Closterium calosporum	J5-56-11	20 	157567
+NIES-167	Closterium calosporum	J5-56-12	20 	157567
+NIES-168	Closterium calosporum	R-11-5	20 	157567
+NIES-169	Closterium calosporum	N-134-5	20 	157567
+NIES-170	Closterium calosporum	N-143-19	20 	157567
+NIES-171	Closterium calosporum	N-147-3	20 	157567
+NIES-336	Closterium calosporum	N-147-12	22 	157567
+NIES-172	Closterium moniliferum	N-100-1	20 	157562
+NIES-173	Closterium moniliferum	S-1-22	20 	157562
+NIES-174	Closterium moniliferum	N-76-30	20 	157562
+NIES-175	Closterium navicula	N-49-7	20 	157579
+NIES-176	Closterium navicula	N-75-10	20 	157579
+NIES-177	Closterium navicula	N-79-26	20 	157579
+NIES-178	Closterium navicula	N-134-15	20 	157579
+NIES-179	Closterium gracile	N-90-58	20 	157577
+NIES-180	Closterium gracile	N-90-59	20 	157577
+NIES-181	Closterium incurvum	N-34-2	20 	157578
+NIES-337	Closterium incurvum	N-12-92	20 	157578
+NIES-182	Closterium moniliferum	S-1-13	20 	157562
+NIES-183	Closterium moniliferum	S-1-24	20 	157562
+NIES-51	Closterium peracerosum-strigosum-littorale complex	IB-4-2	15 	-1
+NIES-52	Closterium peracerosum-strigosum-littorale complex	IB-4-9	15 	-1
+NIES-53	Closterium peracerosum-strigosum-littorale complex	IB-6-8	15 	-1
+NIES-54	Closterium peracerosum-strigosum-littorale complex	IB-6-9	15 	-1
+NIES-261	Closterium peracerosum-strigosum-littorale complex	IB-8-14	15 	-1
+NIES-55	Closterium peracerosum-strigosum-littorale complex	IB-8-15	15 	-1
+NIES-56	Closterium peracerosum-strigosum-littorale complex	IB-8-24	15 	-1
+NIES-58	Closterium peracerosum-strigosum-littorale complex	IB-10-1	15 	-1
+NIES-59	Closterium peracerosum-strigosum-littorale complex	IB-10-2	15 	-1
+NIES-60	Closterium peracerosum-strigosum-littorale complex	IB-12-1	15 	-1
+NIES-61	Closterium peracerosum-strigosum-littorale complex	IB-12-2	15 	-1
+NIES-62	Closterium peracerosum-strigosum-littorale complex	IB-13-1	15 	-1
+NIES-63	Closterium peracerosum-strigosum-littorale complex	IB-13-2	15 	-1
+NIES-64	Closterium peracerosum-strigosum-littorale complex	KAS-4-29	15 	-1
+NIES-65	Closterium peracerosum-strigosum-littorale complex	KAS-4-30	15 	-1
+NIES-66	Closterium peracerosum-strigosum-littorale complex	N-13-1	15 	-1
+NIES-67	Closterium peracerosum-strigosum-littorale complex	N-31-19	15 	-1
+NIES-68	Closterium peracerosum-strigosum-littorale complex	N-31-24	15 	-1
+NIES-69	Closterium peracerosum-strigosum-littorale complex	TG-2-21	15 	-1
+NIES-70	Closterium peracerosum-strigosum-littorale complex	TG-2-22	15 	-1
+NIES-449	Closterium pleurodermatum	R-11-20	20 	157580
+NIES-450	Closterium praelongum	N-12-3	20 	-1
+NIES-451	Closterium praelongum	N-78-8	20 	-1
+NIES-185	Closterium pusillum	N-79-19	20 	157572
+NIES-338	Closterium rostratum	N-90-55	20 	-1
+NIES-339	Closterium selenastrum	R-9-40	20 	-1
+NIES-340	Closterium selenastrum	R-9-42	20 	-1
+NIES-186	Closterium spinosporum	AK-46	20 	157565
+NIES-187	Closterium spinosporum	R-9-13	20 	157565
+NIES-341	Closterium spinosporum	R-9-12	20 	157565
+NIES-188	Closterium spinosporum	M-10-1	20 	157565
+NIES-189	Closterium spinosporum	M-10-4	20 	157565
+NIES-191	Closterium spinosporum	R-12-3	20 	157565
+NIES-192	Closterium spinosporum	R-12-6	20 	157565
+NIES-193	Closterium spinosporum	R-12-2G3	20 	157565
+NIES-194	Closterium spinosporum	A-2-22	20 	157565
+NIES-195	Closterium spinosporum	A-7-3	20 	157565
+NIES-197	Closterium spinosporum	A-13-4	20 	157565
+NIES-198	Closterium tumidum	N-79-11	20 	157571
+NIES-199	Closterium venus	N-90-48	20 	157582
+NIES-200	Closterium wallichii	S-1-0	20 	157583
+NIES-201	Closterium wallichii	F60-21	20 	157583
+NIES-202	Closterium wallichii	N-63-0	20 	157583
+NIES-285	Docidium undulatum	41-11	20 	664168
+NIES-203	Oedogonium obesum	807	20 	426496
+NIES-15	Olisthodiscus tomasii	Olisth	20 	-1
+NIES-379	Eremosphaera gigas	O-2	20 	1912085
+NIES-204	Planktothrix agardhii	K-O-A	25 	282423
+NIES-205	Planktothrix agardhii	TAC 53 (K-TAN-53)	25 	443925
+NIES-206	Kamptonema animale	nan	20 	92934
+NIES-31	Oscillatoria laetevirens	nan	20 	-1
+NIES-36	Oscillatoria limnetica	nan	20 	-1
+NIES-207	Planktothricoides raciborskii	K-O-R	20 	443938
+NIES-208	Oscillatoria rosea	NGS-1	20 	-1
+NIES-33	Oscillatoria tenuis	nan	20 	549786
+NIES-316	Prorocentrum micans	MB-D-4	20 	2945
+NIES-447	Gloeomonas anomalipyrenoides	Kas-8	20 	1511711
+NIES-209	Pseudopediastrum alternans	K-P-40	20 	983991
+NIES-301	Pediastrum boryanum	TAC 56-3A (TAN-56-3A)	20 	-1
+NIES-210	Pediastrum duplex	Pe-16	20 	3105
+NIES-211	Pediastrum duplex	F50-1	20 	3105
+NIES-212	Pediastrum duplex	KW-P-1	20 	3105
+NIES-213	Pediastrum duplex	AQ-P-1	20 	3105
+NIES-418	Astrephomene gubernaculifera	1520-4 (-)	20 	47775
+NIES-214	Pediastrum duplex	KR-P-2	20 	3105
+NIES-302	Monactinus sturmii	F-26-4	20 	427949
+NIES-215	Pediastrum simplex	B-P-18	20 	-1
+NIES-216	Stauridium tetras	K-P-30	20 	271398
+NIES-217	Penium margaritaceum	N-76-20	20 	102169
+NIES-456	Eudorina elegans	A-5 (m)	20 	47282
+NIES-32	Phormidium foveolarum	nan	20 	-1
+NIES-34	Phormidium foveolarum	nan	20 	-1
+NIES-30	Leptolyngbya sp.	nan	20 	-1
+NIES-457	Eudorina elegans	I-14 (f)	20 	47282
+NIES-306	Pleurotaenium cylindricum	F57-18-4	22 	-1
+NIES-313	Pleurotaenium ovatum	F57-17-8	20 	1117215
+NIES-308	Pleurotaenium ehrenbergii	W-1-3	20 	184515
+NIES-309	Pleurotaenium ehrenbergii	R-13-27	20 	184515
+NIES-310	Pleurotaenium ehrenbergii	R-13-30	20 	184515
+NIES-311	Pleurotaenium ehrenbergii	R-13-19	20 	184515
+NIES-458	Eudorina elegans	04427-1	20 	47282
+NIES-12	Prorocentrum micans	OPm	20 	2945
+NIES-218	Prorocentrum micans	KGW-13-7	20 	2945
+NIES-237	Prorocentrum minimum	OPmin	20 	39449
+NIES-238	Prorocentrum minimum	KGW-14-2-5	20 	39449
+NIES-221	Pterosperma cristatum	H-88-1	20 	38836
+NIES-251	Pyramimonas aff.	KGW-64-3	20 	-1
+NIES-304	Peridinium willei	8423-P	15 	142113
+NIES-16	Skeletonema marinoi-dohrnii complex	H-53-3	15 	-1
+NIES-17	Skeletonema marinoi-dohrnii complex	H-90-2	15 	-1
+NIES-223	Skeletonema marinoi-dohrnii complex	KGW-26	15 	-1
+NIES-656	Hafniomonas montana	430M3-3	20 	220545
+NIES-390	Staurastrum inconspicuum	34-10'	20 	-1
+NIES-224	Staurodesmus dejectus	TAC 53-1 (TAN-53-1)	20 	190458
+NIES-528	Staurastrum paradoxum	Kas-K-3	20 	292361
+NIES-233	Synura petersenii	USI-10	20 	52555
+NIES-234	Synura spinosa	SIS-1	20 	2992
+NIES-225	Tabellaria flocculosa	OZ-43-4	15 	426662
+NIES-2300	Ochromonas sp.	KY-1S	20 	-1
+NIES-18	Tetraselmis cordiformis	SM-6-9	20 	426497
+NIES-37	Tolypothrix tenuis	nan	20 	457083
+NIES-241	Volvox aureus	S-9-8	20 	47287
+NIES-543	Volvox kirkiorum	V-sp	23 	1075617
+NIES-397	Volvox carteri	V-4	25 	3067
+NIES-398	Volvox carteri	V-11	25 	3067
+NIES-464	Gloeomonas lateperforata	1/4	20 	647329
+NIES-362	Pandorina morum	Oz-Pa-1	20 	33099
+NIES-242	Pandorina morum	Oz-Pa-2	20 	33099
+NIES-243	Pandorina morum	Oz-Pa-3	20 	33099
+NIES-255	Monomastix minuta	SIS-Mono	20 	631452
+NIES-256	Monomastix minuta	Oz-35-m	20 	631452
+NIES-351	Eudorina elegans	B-Eud-6	20 	47282
+NIES-254	Pyramimonas parkeae	8-25-2	20 	36894
+NIES-623	Pavlova gyrans	MB-D-24	20 	44452
+NIES-546	Volvulina steinii	1107-8 (+)	20 	51722
+NIES-446	Chlamydomonas tetragama	413D4-4	20 	66263
+NIES-480	Monoraphidium circinale	SIS-1-M	20 	270184
+NIES-244	Coelastrum astroideum	nan	20 	183310
+NIES-245	Coelastrum reticulatum	F63-3	20 	-1
+NIES-382	Lagerheimia ciliata	F37-1	20 	1912069
+NIES-300	Pediastrum angulosum	83-24-1-7	20 	271408
+NIES-349	Cylindrocystis brebissonii	6801-68	20 	102167
+NIES-2301	Cylindrocystis sp.	6801-15	20 	-1
+NIES-2302	Cylindrocystis sp.	6801-01	20 	-1
+NIES-2303	Cylindrocystis sp.	6707-01	20 	-1
+NIES-226	Graesiella emersonii	nan	20 	95581
+NIES-227	Chlorella vulgaris	nan	20 	3077
+NIES-394	Treubaria triappendiculata	F67-5	20 	1755147
+NIES-246	Pseudoschroederia antillarum	F47-3	25 	132190
+NIES-288	Gonium viridistellatum	G4	20 	51704
+NIES-289	Gonium viridistellatum	G3	20 	51704
+NIES-290	Gonium viridistellatum	G1	20 	51704
+NIES-380	Eremosphaera viridis	43-23	20 	163307
+NIES-545	Volvulina steinii	1107-5 (-)	20 	51722
+NIES-228	Closterium ehrenbergii	KK-33-1	20 	102165
+NIES-229	Closterium ehrenbergii	KK-33-6	20 	102165
+NIES-247	Gonatozygon monotaenium	84-25-109	20 	52235
+NIES-230	Merismopedia tenuissima	F98-2	20 	271628
+NIES-231	Coelastrum morus	F78-4-2	20 	-1
+NIES-232	Polyedriopsis spinulosa	F128	20 	162320
+NIES-392	Chlorotetraedron incus	F115	20 	162317
+NIES-359	Oltmannsiellopsis unicellularis	810YB-6	20 	260212
+NIES-2304	Florenciella sp.	810YB-10	20 	-1
+NIES-2305	Eutreptiella sp.	8280G27-10	20 	-1
+NIES-478	Microcystis aeruginosa	K-5	20 	449470
+NIES-604	Microcystis aeruginosa	K-3A	20 	1126
+NIES-252	Nephroselmis astigmatica	810-13	20 	259378
+NIES-248	Cosmocladium constrictum	F75-2	20 	184501
+NIES-258	Closterium aciculare	Bca-25	20 	-1
+NIES-259	Closterium aciculare	Bca-26	20 	-1
+NIES-262	Closterium peracerosum-strigosum-littorale complex	N-13-4	15 	-1
+NIES-312	Pleurotaenium nodosum	83-24-3	20 	1117213
+NIES-459	Eudorina illinoisensis	5607-E-14 (f)	20 	-1
+NIES-297	Micrasterias foliacea	83-24-24	20 	426047
+NIES-325	Spinoclosterium cuspidatum	83-24-19	20 	227147
+NIES-460	Eudorina illinoisensis	5630-E-3 (m)	20 	-1
+NIES-303	Penium margaritaceum	84-25-1	20 	102169
+NIES-2306	Sphaerozosma sp.	OZ-N-1-12	20 	-1
+NIES-293	Heterosigma akashiwo	8280G21-1	20 	536047
+NIES-360	Oltmannsiellopsis viridis	8280G41-2	20 	51324
+NIES-363	Pedinomonas minor	H31P4	20 	3159
+NIES-320	Pyramimonas aff.	8280G47-5	20 	-1
+NIES-286	Euglena mutabilis	nan	20 	38275
+NIES-305	Pseudanabaena sp.	841211St5-1	20 	-1
+NIES-298	Microcystis aeruginosa	TAC 47 (K-TAN-47)	25 	449468
+NIES-299	Microcystis aeruginosa	KN1133	25 	449469
+NIES-343	Coolia monotis	8-1	20 	58156
+NIES-323	Skeletonema marinoi-dohrnii complex	Sk-85w	15 	-1
+NIES-324	Skeletonema marinoi-dohrnii complex	Sk-85su	15 	-1
+NIES-403	Tetrahymena pyriformis	Tetra-1	15 	5908
+NIES-469	Gonium pectorale	9406-12	20 	33097
+NIES-329	Klebsormidium sp.	nan	20 	-1
+NIES-296	Mesostigma viride	KY-14	20 	41882
+NIES-265	Asterionellopsis glacialis	MB-B-1	15 	33640
+NIES-468	Gonium pectorale	9406-10	20 	33097
+NIES-534	Thalassionema nitzschioides	MBB-6	15 	33649
+NIES-603	Chattonella marina	nan	20 	90936
+NIES-353	Gephyrocapsa oceanica	TMCO-2	20 	38817
+NIES-361	Oscillatoria amphibia	Oa	20 	-1
+NIES-396	Volvox aureus	nan	23 	47287
+NIES-544	Volvox tertius	nan	23 	47292
+NIES-2307	Volvox sp.	nan	23 	-1
+NIES-395	Uroglena americana	Strain 78	15 	-1
+NIES-2308	Arthrospira sp.	nan	20 	-1
+NIES-541	Volvox aureus	1706-2	23 	47287
+NIES-542	Volvox aureus	1706-4	23 	47287
+NIES-412	Achnanthidium minutissimum	1st-1-1	15 	431333
+NIES-413	Achnanthidium minutissimum	1st-2-8	15 	431333
+NIES-411	Achnanthidium minutissimum	1st-3-17	15 	431333
+NIES-407	Achnanthidium minutissimum	4st-0-8	15 	431333
+NIES-410	Achnanthidium minutissimum	AT4-18	15 	431333
+NIES-414	Achnanthidium minutissimum	0-25	15 	431333
+NIES-409	Achnanthidium minutissimum	Ast-3-3	15 	431333
+NIES-408	Achnanthidium minutissimum	AT5-23	15 	431333
+NIES-487	Nitzschia palea	3st-0-57	15 	303400
+NIES-489	Nitzschia palea	Ast-2-2	15 	303400
+NIES-465	Gomphonema gracile	Ast-1-1	15 	1133656
+NIES-461	Eunotia pectinalis	(1)-16	15 	196638
+NIES-665	Staurastrum dorsidentiferum	NB	25 	-1
+NIES-466	Gomphonema parvulum	Tst-1-18	10 	97227
+NIES-467	Gomphonema parvulum	Tst-4-3	10 	97227
+NIES-506	Phormidium jenkelianum	AT5-37	20 	-1
+NIES-507	Phormidium jenkelianum	Ast-1-4	20 	-1
+NIES-509	Phormidesmis molle	AT2-17	20 	128142
+NIES-505	Phormidium foveolarum	AT4-17	20 	-1
+NIES-504	Leptolyngbya sp.	2st-2-4	20 	-1
+NIES-434	Chamaesiphon subglobosus	2st-2-1	20 	217162
+NIES-515	Tolypothrix sp.	NK-12	20 	-1
+NIES-416	Aphanocapsa montana	NK-24	20 	327566
+NIES-510	Phormidium mucicola	(1)-23	20 	-1
+NIES-503	Phormidium foveolarum	(1)-48	20 	-1
+NIES-481	Myxosarcina burmensis	(1)-45	20 	-1
+NIES-433	Chamaesiphon polymorphus	M-29	10 	2107691
+NIES-639	Characium angustum	AK-5-2	15 	-1
+NIES-640	Chloroidium saccharophilum	Tst-8-2	10 	3082
+NIES-641	Chlorella vulgaris	1st-3-26	20 	3077
+NIES-642	Chlorella vulgaris	1st-2-17	20 	3077
+NIES-659	Oocystis borgei	AT2-26	15 	1803568
+NIES-660	Oocystis lacustris	Ast-3-1	15 	402398
+NIES-661	Oocystis lacustris	4st-3-9	20 	402398
+NIES-662	Oocystis lacustris	1st-2-9	20 	402398
+NIES-532	Stigeoclonium fasciculare	M-2	10 	-1
+NIES-531	Stigeoclonium aestivale	2st-3-12	20 	1081502
+NIES-454	Stigeoclonium sp.	2Tst-2-1	10 	-1
+NIES-536	Ulothrix zonata	4st-1'-24	15 	43941
+NIES-537	Ulothrix zonata	2Tst-1-1	15 	43941
+NIES-479	Microthamnion k tzingianum	Tst11-6	10 	-1
+NIES-530	Stichococcus bacillaris	AT5-17	15 	37433
+NIES-529	Stichococcus sp.	AT2-16	15 	-1
+NIES-540	Uronema gigas	4st-0-16	20 	1306592
+NIES-539	Uronema gigas	4st-3-5	20 	1306592
+NIES-538	Uronema confervicolum	4st-2-10	20 	-1
+NIES-476	Mesostigma viride	KY-Mes-1	20 	41882
+NIES-475	Mesostigma viride	KY-Mes-2	20 	41882
+NIES-477	Mesostigma viride	KY-Mes-3	20 	41882
+NIES-483	Nephroselmis olivacea	S-N-2-1	20 	31312
+NIES-484	Nephroselmis olivacea	S-N-5-8	20 	31312
+NIES-485	Nephroselmis olivacea	S-N-3-4	20 	31312
+NIES-533	Tetraselmis cordiformis	KY-20-1	20 	426497
+NIES-2309	Nephroselmis viridis	813H-7	20 	330888
+NIES-2310	Mamiella sp.	814To-3	20 	-1
+NIES-524	Pseudocarteria mucosa	M-4	20 	193547
+NIES-522	Pseudocarteria mucosa	M-2	20 	193547
+NIES-523	Pseudocarteria mucosa	USI-8	20 	193547
+NIES-421	Carteria crucifera	SIST3-1	20 	47781
+NIES-422	Carteria inversa	134-4	20 	69400
+NIES-423	Carteria inversa	106	20 	69400
+NIES-426	Carteria klebsii	SIST7-4	20 	-1
+NIES-429	Carteria obtusa	SIS5-20	20 	69402
+NIES-430	Carteria obtusa	Ca2-3	20 	69402
+NIES-428	Carteria obtusa	Ca-2-1	20 	69402
+NIES-431	Carteria obtusa	SIST6-3	20 	69402
+NIES-427	Carteria multifilis	Ca1-2	20 	-1
+NIES-2311	Carteria sp.	SM-6-3	20 	-1
+NIES-2312	Carteria sp.	412KY-9	20 	-1
+NIES-2313	Carteria sp.	w-39-4	20 	-1
+NIES-432	Carteria radiosa	w-5-2	20 	51318
+NIES-1336	Carteria palmata	KY-1	20 	314493
+NIES-1337	Carteria palmata	KY-8	20 	314493
+NIES-1338	Carteria palmata	KY-24	20 	314493
+NIES-424	Carteria cerasiformis	Kas-10	20 	69401
+NIES-425	Carteria cerasiformis	w-8-15	20 	69401
+NIES-437	Chlamydomonas fasciata	H-3-4-2	20 	1157963
+NIES-438	Microglena sp.	Kas-7	20 	-1
+NIES-439	Gungnir neglectum	T-4-19	20 	71745
+NIES-440	Chlamydomonas parkeae	I-29	20 	156093
+NIES-2314	Chlamydomonas sp.	SIS-ch	20 	-1
+NIES-2315	Chlamydomonas sp.	H-3-1	20 	-1
+NIES-2316	Chlamydomonas sp.	OChla	20 	-1
+NIES-2317	Chlamydomonas sp.	KZ-5-8	20 	-1
+NIES-2318	Chlamydomonas sp.	KZ-5-17	20 	-1
+NIES-2319	Chlamydomonas sp.	H-3-6	20 	-1
+NIES-2320	Rhysamphichloris similis	w-14-5	20 	1661744
+NIES-2321	Rhysamphichloris similis	w-30	20 	1661744
+NIES-2322	Rhysamphichloris similis	w-36	20 	1661744
+NIES-2323	Chlamydomonas sp.	Sa-38	20 	-1
+NIES-2324	Chlamydomonas sp.	IC-9	20 	-1
+NIES-2325	Eutreptiella sp.	813H-4	20 	-1
+NIES-453	Dictyosphaerium pulchellum	nan	15 	-1
+NIES-463	Glenodiniopsis uliginosa	TM3D-6	20 	-1
+NIES-2946	Gymnodinium sp.	8423G	15 	-1
+NIES-2948	Gymnodinium sp.	TIDD-6	15 	-1
+NIES-2326	Gymnodinium sp.	TKDD-11	15 	-1
+NIES-471	Hemidinium nasutum	87SPD-1	20 	261837
+NIES-495	Peridinium bipes	LOND-9	15 	2868
+NIES-501	Peridinium volzii	SPSP-2	15 	425809
+NIES-405	Togula britannica	HASS-1	20 	259926
+NIES-2327	Cochlodinium sp.	SMHD-7	15 	-1
+NIES-420	Heterocapsa niei	IID-1	20 	2920
+NIES-473	Heterocapsa pseudotriquetra	TMUD-2	20 	2039876
+NIES-472	Heterocapsa ovata	KSTH-23	20 	-1
+NIES-2328	Alexandrium sp.	NCD-4	20 	-1
+NIES-494	Oxyrrhis marina	370OX	20 	2969
+NIES-2329	Mamiella sp.	Hamam	15 	-1
+NIES-462	Fibrocapsa japonica	HASS-8	20 	94617
+NIES-849	Chattonella marina	nan	20 	90936
+NIES-850	Pseudochattonella verruculosa	nan	15 	475233
+NIES-474	Lobomonas monstruosa	FL	20 	128465
+NIES-626	Pterosperma cristatum	89KGW-1	15 	38836
+NIES-605	Fibrocapsa japonica	nan	20 	94617
+NIES-609	Pyrocystis lunura	nan	20 	-1
+NIES-594	Planktothrix agardhii	K-8	20 	443924
+NIES-595	Planktothrix agardhii	3A(2)	20 	443923
+NIES-596	Planktothrix agardhii	VLOA 7	20 	443922
+NIES-586	Chaetoceros didymus	St-4	15 	49238
+NIES-590	Odontella longicruris	St-11	15 	555717
+NIES-589	Odontella aurita	St-22	15 	265563
+NIES-588	Lithodesmium variabile	St-12	15 	1514138
+NIES-576	Pleodorina californica	nan	25 	47285
+NIES-2330	Didymogenes soliella	HA-1	20 	1202766
+NIES-602	Paraphysomonas vestita	nan	20 	36770
+NIES-556	Triceratium dubium	No.20	20 	-1
+NIES-553	Chaetoceros socialis	T-1	15 	163503
+NIES-582	Volvulina compacta	89-804-4	20 	51721
+NIES-568	Eudorina elegans	7914-E-6	20 	47282
+NIES-560	Fibrocapsa japonica	nan	20 	94617
+NIES-558	Chattonella marina	nan	20 	90936
+NIES-561	Heterosigma akashiwo	nan	20 	2829
+NIES-601	Prorocentrum micans	nan	20 	2945
+NIES-557	Chattonella marina	nan	20 	90936
+NIES-559	Chattonella marina	nan	20 	90936
+NIES-551	Cyanidium caldarium	86	20 	2771
+NIES-548	Acinetospora crinita	nan	20 	3018
+NIES-550	Galdieria sulphuraria	002	37 	130081
+NIES-562	Chrysochromulina parva	nan	15 	127563
+NIES-2331	Chroomonas debatzensis	NAK-1	20 	2058882
+NIES-2332	Rhodomonas sp.	Shiz-5	20 	-1
+NIES-1032	Porphyridium sp.	nan	20 	-1
+NIES-1033	Porphyridium sp.	nan	20 	-1
+NIES-1036	Rhodella sp.	nan	20 	-1
+NIES-1037	Rhodella sp.	nan	20 	-1
+NIES-1034	Porphyridium sp.	nan	20 	-1
+NIES-1035	Porphyridium sp.	nan	20 	-1
+NIES-937	Synechococcus sp.	JUS 1	15 	-1
+NIES-938	Synechococcus sp.	HAR 3	15 	-1
+NIES-939	Synechococcus sp.	HAR 10	15 	-1
+NIES-940	Synechococcus sp.	HIM 1	15 	-1
+NIES-941	Synechococcus sp.	TEG 1	15 	-1
+NIES-942	Synechococcus sp.	USK 1	15 	-1
+NIES-943	Synechococcus sp.	KOJ 1	15 	-1
+NIES-944	Synechococcus sp.	ABS 10	15 	-1
+NIES-945	Synechococcus sp.	B 1	15 	-1
+NIES-946	Synechococcus sp.	2K 11	15 	-1
+NIES-947	Synechococcus sp.	SA 1	15 	-1
+NIES-948	Synechococcus sp.	ABS 11	15 	-1
+NIES-949	Synechococcus sp.	USK 2	15 	-1
+NIES-2333	Choricystis sp.	MSZ 3	15 	-1
+NIES-2334	Mychonastes sp.	KIZ 11	15 	-1
+NIES-2335	Choricystis sp.	KUTA 1	15 	-1
+NIES-2336	Mychonastes sp.	YA 4	15 	-1
+NIES-2337	Choricystis sp.	SKT 1	15 	-1
+NIES-2338	Choricystis sp.	TOYA 1	15 	-1
+NIES-2339	Mychonastes frigidus	SA 2	15 	2717256
+NIES-2340	Mychonastes frigidus	NT 2	15 	2717256
+NIES-2341	Mychonastes sp.	TATE 1	15 	-1
+NIES-2342	Choricystis krienitzii	OTD 1	15 	2732264
+NIES-2980	Ankistrodesmus sp.	HAR 1	15 	-1
+NIES-950	Synechococcus sp.	LN 3	15 	-1
+NIES-951	Synechococcus sp.	AKN 3	15 	-1
+NIES-952	Synechococcus sp.	KIZ 5/3	15 	-1
+NIES-953	Synechococcus sp.	B 10	15 	-1
+NIES-954	Synechococcus sp.	B 8	15 	-1
+NIES-955	Synechococcus sp.	KIZ 5/1	15 	-1
+NIES-956	Synechococcus sp.	NOJ 1	15 	-1
+NIES-957	Synechococcus sp.	B 11	15 	-1
+NIES-958	Synechococcus sp.	B 4	15 	-1
+NIES-959	Synechococcus sp.	B 3	15 	-1
+NIES-960	Synechococcus sp.	TSU 3	15 	-1
+NIES-961	Synechococcus sp.	2K 12	15 	-1
+NIES-962	Synechococcus sp.	ONM 3	15 	-1
+NIES-963	Synechococcus sp.	NT 5	15 	-1
+NIES-964	Synechococcus sp.	Me 5	15 	-1
+NIES-965	Synechococcus sp.	MSZ 2	15 	-1
+NIES-572	Pandorina colemaniae	88-1025-1	20 	47786
+NIES-573	Pandorina colemaniae	89-0131-P-3	20 	47786
+NIES-571	Tetrabaena socialis	21028-4	20 	47790
+NIES-569	Gonium pectorale	88-1113-G-1	20 	33097
+NIES-570	Gonium pectorale	88-1113-G-2	20 	33097
+NIES-564	Astrephomene perforata	1620-3-2	20 	47776
+NIES-565	Astrephomene perforata	1620-4-1	20 	47776
+NIES-574	Pandorina morum	7916-P-7	20 	33099
+NIES-575	Pandorina morum	7916-P-8	20 	33099
+NIES-584	Volvulina steinii	89-306-1	20 	51722
+NIES-585	Volvulina steinii	89-423-1	20 	51722
+NIES-580	Volvox carteri	6823-+-2	20 	3067
+NIES-581	Volvox carteri	90-1111-5	20 	3067
+NIES-578	Yamagishiella unicocca	01209-1	20 	51707
+NIES-579	Yamagishiella unicocca	01209-7	20 	51707
+NIES-566	Basichlamys sacculifera	3907-1	20 	47779
+NIES-577	Pleodorina japonica	6715-7	20 	47788
+NIES-567	Characiochloris sasae	91-0106-1	20 	193549
+NIES-620	Gomphonema angustatum	1-36	15 	1574444
+NIES-587	Hantzschia amphioxys	Wn-24	15 	186034
+NIES-598	Spirulina subsalsa	KO-39	20 	54311
+NIES-597	Planktothrix spiroides	T-43	22 	1354360
+NIES-592	Mastigocladus sp.	Yu-50	20 	-1
+NIES-593	Hydrococcus rivularis	Yu-52	20 	1921803
+NIES-967	Trentepohlia sp.	TP-5	20 	-1
+NIES-583	Volvulina compacta	89-804-7	20 	51721
+NIES-615	Coolia monotis	CM-01	20 	58156
+NIES-617	Prorocentrum lima	PL-03	20 	39448
+NIES-618	Prorocentrum mexicanum	PX-01	20 	72677
+NIES-611	Pseudanabaena sp.	Bpt	25 	-1
+NIES-622	Botrydium granulatum	nan	20 	73013
+NIES-624	Chlorarachnion reptans	nan	20 	29199
+NIES-610	Planktothrix rubescens	nan	20 	59512
+NIES-628	Astrephomene gubernaculifera	1727-1(-)	20 	47775
+NIES-647	Gonium quadratum	90-809-F1-2-1	20 	51700
+NIES-648	Gonium quadratum	90-809-F1-2-2	20 	51700
+NIES-649	Gonium quadratum	90-809-F1-2-3	20 	51700
+NIES-650	Gonium quadratum	90-809-F1-2-4	20 	51700
+NIES-638	Characiochloris sasae	91-0106-6	20 	193549
+NIES-637	Characiochloris acuminata	nan	20 	167768
+NIES-651	Gonium quadratum	nan	20 	51700
+NIES-643	Eremosphaera viridis	92-604-E-5	20 	163307
+NIES-644	Eremosphaera viridis	92-604-E-3	20 	163307
+NIES-654	Gonium viridistellatum	KY-4 (+)	20 	51704
+NIES-655	Gonium viridistellatum	KY-7 (-)	20 	51704
+NIES-645	Gonium pectorale	5912-6 (+)	20 	33097
+NIES-646	Gonium pectorale	5912-6 (-)	20 	33097
+NIES-631	Carteria eugametos	91-409-1	20 	52036
+NIES-632	Carteria eugametos	91-421-4	20 	52036
+NIES-633	Carteria eugametos	91-504-1	20 	52036
+NIES-634	Carteria eugametos	nan	20 	52036
+NIES-635	Carteria eugametos	nan	20 	52036
+NIES-636	Carteria eugametos	nan	20 	52036
+NIES-630	Carteria crucifera	nan	20 	47781
+NIES-666	Yamagishiella unicocca	X-441	20 	51707
+NIES-667	Yamagishiella unicocca	X-443	20 	51707
+NIES-652	Gonium quadratum	90-423-3	20 	51700
+NIES-653	Gonium quadratum	90-423-2	20 	51700
+NIES-663	Pleurotaenium nodosum	93-913-Gon-1	20 	1117213
+NIES-664	Pleurotaenium nodosum	93-913-Gon-3	20 	1117213
+NIES-613	Amphidinium klebsii	AK-1	20 	142105
+NIES-670	Pseudochattonella verruculosa	nan	20 	475233
+NIES-671	Chattonella marina	nan	20 	90936
+NIES-672	Oltmannsiellopsis geminata	nan	20 	284972
+NIES-675	Alexandrium catenella	Ac 5	20 	2925
+NIES-678	Alexandrium insuetum	nan	20 	2935
+NIES-682	Prorocentrum dentatum	nan	20 	260685
+NIES-2343	Heterocapsa sp.	Mie-92	20 	-1
+NIES-2344	Heterocapsa sp.	Uranouchi	20 	-1
+NIES-685	Desmodesmus abundans	nan	20 	77547
+NIES-686	Chlorella vulgaris	C-207	20 	3077
+NIES-687	Graesiella emersonii	C-104	20 	95581
+NIES-688	Graesiella emersonii	211/8G	20 	95581
+NIES-689	Graesiella emersonii	211/8H	20 	95581
+NIES-690	Graesiella emersonii	211/11N	20 	95581
+NIES-691	Tetrabaena socialis	KG-4-8th	15 	47790
+NIES-692	Chlorogonium capillatum	92-517-6-2	20 	71743
+NIES-968	Chlamydomonas kuwadae	92-514-H-13	10 	193548
+NIES-2345	Euglena sp.	92-517-E-1	15 	-1
+NIES-2346	Pedinella sp.	92-912-1	10 	-1
+NIES-693	Volvox aureus	k-5	20 	47287
+NIES-694	Volvox aureus	31202-2-9	20 	47287
+NIES-695	Synura sphagnicola	92-520-S-6	20 	52556
+NIES-696	Synura sphagnicola	92-1001-S-2	20 	52556
+NIES-763	Cyanophora kugrensii	S117	20 	1522367
+NIES-764	Cyanophora sudae	S118	20 	1522369
+NIES-934	Nephroselmis spinosa	S222	20 	259379
+NIES-935	Nephroselmis spinosa	SD959-3	20 	259379
+NIES-741	Haptolina hirta	CH1	15 	35142
+NIES-697	Rhodomonas acuta	M01	15 	-1
+NIES-698	Rhodomonas irregularis	M04	15 	2571256
+NIES-699	Rhodomonas atrorosea	M07	15 	1326778
+NIES-700	Rhodomonas baltica	M06	15 	295837
+NIES-701	Rhodomonas chrysoidea	M03	15 	254933
+NIES-702	Rhodomonas falcata	M10	15 	356655
+NIES-703	Chroomonas collegionis	M08	15 	2867499
+NIES-704	Chroomonas dispersa	M09	15 	356657
+NIES-705	Chroomonas placoidea	M11	15 	173977
+NIES-765	Rhodomonas duplex	M14	15 	254934
+NIES-706	Chroomonas nordstedtii	#00165	15 	195502
+NIES-707	Chroomonas nordstedtii	#00173	15 	195502
+NIES-708	Chroomonas nordstedtii	#00324	15 	195502
+NIES-709	Chroomonas nordstedtii	#00330	15 	195502
+NIES-710	Chroomonas nordstedtii	#00331	15 	195502
+NIES-711	Chroomonas nordstedtii	#00354	15 	195502
+NIES-712	Chroomonas caudata	#00171	15 	254931
+NIES-713	Chroomonas coerulea	#00191	15 	478127
+NIES-714	Chroomonas coerulea	#00217	15 	478127
+NIES-715	Cryptomonas paramaecium	#00210	15 	-1
+NIES-766	Cryptomonas paramaecium	#00318	15 	-1
+NIES-767	Cryptomonas paramaecium	#00319	15 	-1
+NIES-717	Eudorina elegans	nan	20 	47282
+NIES-718	Eudorina elegans	nan	20 	47282
+NIES-719	Eudorina elegans	nan	20 	47282
+NIES-720	Eudorina elegans	nan	20 	47282
+NIES-721	Eudorina elegans	nan	20 	47282
+NIES-722	Eudorina cylindrica	nan	20 	51698
+NIES-723	Eudorina illinoisensis	nan	20 	-1
+NIES-724	Eudorina unicocca	nan	20 	47783
+NIES-725	Eudorina peripheralis	nan	20 	332502
+NIES-726	Eudorina peripheralis	nan	20 	332502
+NIES-727	Paulschulzia pseudovolvox	nan	20 	56011
+NIES-728	Platydorina caudata	nan	20 	51709
+NIES-729	Platydorina caudata	nan	23 	51709
+NIES-716	Haramonas dimorpha	nan	20 	162275
+NIES-730	Volvox barberi	nan	23 	51715
+NIES-731	Volvox zeikusii	nan	23 	-1
+NIES-732	Volvox carteri	KK-3	23 	3067
+NIES-733	Volvox carteri	KK-5	23 	3067
+NIES-734	Volvox rousseletii	nan	23 	47791
+NIES-735	Pleodorina californica	nan	20 	47285
+NIES-736	Pleodorina indica	nan	23 	51710
+NIES-737	Gonium multicoccum	90-530-F1-5	20 	47784
+NIES-742	Chlorogonium capillatum	nan	20 	71743
+NIES-743	Chlorogonium capillatum	nan	20 	71743
+NIES-744	Chlorogonium capillatum	nan	20 	71743
+NIES-745	Chlorogonium capillatum	nan	20 	71743
+NIES-746	Chlorogonium capillatum	nan	20 	71743
+NIES-747	Chlorogonium capillatum	nan	20 	71743
+NIES-748	Chlorogonium capillatum	nan	20 	71743
+NIES-749	Chlorogonium capillatum	nan	20 	71743
+NIES-750	Chlorogonium capillatum	nan	20 	71743
+NIES-751	Chlorogonium elongatum	nan	20 	52029
+NIES-752	Chlorogonium elongatum	nan	20 	52029
+NIES-753	Chlorogonium elongatum	nan	20 	52029
+NIES-754	Chlorogonium euchlorum	nan	20 	52028
+NIES-755	Chlorogonium euchlorum	nan	20 	52028
+NIES-756	Chlorogonium euchlorum	nan	20 	52028
+NIES-757	Chlorogonium euchlorum	nan	20 	52028
+NIES-758	Chlorogonium euchlorum	nan	20 	52028
+NIES-759	Chlorogonium euchlorum	nan	20 	52028
+NIES-760	Chlorogonium euchlorum	nan	20 	52028
+NIES-761	Gungnir kasakii	nan	20 	71746
+NIES-851	Gonium octonarium	GO-LC-1+	20 	47785
+NIES-852	Gonium octonarium	GO-LC-3-	20 	47785
+NIES-330	Achnanthes subconstricta	IMHB-5	15 	-1
+NIES-350	Ditylum brightwellii	KBB-10	15 	49249
+NIES-436	Characium polymorphum	N-76-0	20 	1519561
+NIES-1	Chattonella marina	Ho-1	20 	90936
+NIES-2	Chattonella marina	OCH-a	20 	90936
+NIES-83	Chattonella marina	KGW-2	20 	90936
+NIES-1038	Gonium multicoccum	GQ-M-Tx-1	20 	47784
+NIES-1039	Gonium multicoccum	GQ-M-Tx-2	20 	47784
+NIES-738	Pteromonas aculeata	970603-PtAcl	20 	-1
+NIES-739	Pteromonas angulosa	970603-PtAng	20 	77548
+NIES-740	Pteromonas multipyrenoidea	970603-PtMul	20 	-1
+NIES-768	Cosmarium askenasyi	88-8-37	22 	664895
+NIES-769	Cosmarium askenasyi	88-8-38	22 	664895
+NIES-770	Cosmarium askenasyi	88-8-39	22 	664895
+NIES-771	Cosmarium askenasyi	88-8-40	22 	664895
+NIES-772	Euastrum turgidum	84-15-75	22 	-1
+NIES-773	Euastrum turgidum	84-15-76	22 	-1
+NIES-774	Micrasterias anomala	88-95-12	22 	1028386
+NIES-777	Micrasterias foliacea	M2-1	22 	426047
+NIES-778	Micrasterias foliacea	M2-2	22 	426047
+NIES-779	Micrasterias mahabuleshwarensis	M2-6	22 	912681
+NIES-780	Micrasterias mahabuleshwarensis	M2-7	22 	912681
+NIES-781	Micrasterias thomasiana	85-28-14	22 	416308
+NIES-782	Micrasterias thomasiana	85-28-57	22 	416308
+NIES-783	Micrasterias truncata	88-7-2	22 	416309
+NIES-784	Micrasterias truncata	88-8-5	22 	416309
+NIES-785	Pleurotaenium nodosum	86-7-15	20 	1117213
+NIES-786	Pleurotaenium nodosum	86-7-16	22 	1117213
+NIES-787	Pleurotaenium nodosum	85-30-9	22 	1117213
+NIES-788	Pleurotaenium nodosum	85-30-56	22 	1117213
+NIES-789	Triploceras gracile	85-28-1	22 	184533
+NIES-790	Triploceras gracile	85-28-2	22 	184533
+NIES-791	Triploceras gracile	85-28-3	22 	184533
+NIES-792	Triploceras gracile	85-28-4	22 	184533
+NIES-793	Triploceras gracile	83-24-2	22 	184533
+NIES-794	Triploceras gracile	83-24-7	22 	184533
+NIES-795	Triploceras gracile	83-24-3	22 	184533
+NIES-796	Triploceras gracile	83-24-6	22 	184533
+NIES-797	Desmodesmus subspicatus	B8-7	20 	104105
+NIES-798	Desmodesmus subspicatus	B8-16	20 	104105
+NIES-799	Desmodesmus subspicatus	B8-23	20 	104105
+NIES-800	Desmodesmus subspicatus	B3-12	20 	104105
+NIES-801	Desmodesmus subspicatus	B3-15	20 	104105
+NIES-802	Desmodesmus subspicatus	B12-2	20 	104105
+NIES-803	Cyclotella meneghiniana	506-26	15 	-1
+NIES-804	Cyclotella meneghiniana	518-39	15 	-1
+NIES-805	Cyclotella meneghiniana	613-2	15 	-1
+NIES-966	Glaucocystis oocystiformis	F(6)-5	20 	1789783
+NIES-806	Dolichospermum compactum	nan	20 	1973481
+NIES-807	Sphaerospermopsis kisseleviana	TAC 34	20 	289435
+NIES-808	Dolichospermum lemmermannii	TAC 437 (A28)	20 	-1
+NIES-809	Dolichospermum mucosum	TAC 426 (A10)	20 	264677
+NIES-810	Dolichospermum planctonicum	TAC 421 (A3)	20 	-1
+NIES-811	Dolichospermum planctonicum	TAC 422 (A4)	20 	-1
+NIES-812	Dolichospermum planctonicum	TAC 424 (A7)	20 	-1
+NIES-813	Dolichospermum planctonicum	TAC 434 (A25)	20 	-1
+NIES-814	Dolichospermum planctonicum	TAC 435 (A26)	20 	-1
+NIES-815	Dolichospermum planctonicum	nan	20 	-1
+NIES-816	Dolichospermum planctonicum	nan	20 	-1
+NIES-817	Dolichospermum planctonicum	Inba 2	20 	-1
+NIES-818	Dolichospermum smithii	TAC 116	20 	264682
+NIES-819	Dolichospermum smithii	TAC 428 (A14)	20 	264682
+NIES-820	Dolichospermum smithii	TAC 431 (A18)	20 	264682
+NIES-821	Dolichospermum smithii	TAC 432 (A19)	20 	264682
+NIES-822	Dolichospermum smithii	TAC 450 (A51)	20 	264682
+NIES-823	Dolichospermum smithii	TAC 452 (210)	20 	264682
+NIES-824	Dolichospermum smithii	Ana Ha 1	20 	264682
+NIES-825	Dolichospermum ucrainicum	TAC 448 (A48)	20 	289438
+NIES-826	Dolichospermum ucrainicum	TAC 449 (A50)	20 	289438
+NIES-827	Dolichospermum viguieri	TAC 433 (A23)	20 	289436
+NIES-832	Dolichospermum ucrainicum	Ana V2	20 	289438
+NIES-833	Dolichospermum lemmermannii	nan	20 	-1
+NIES-834	Dolichospermum planctonicum	nan	20 	-1
+NIES-835	Dolichospermum compactum	nan	20 	136073
+NIES-836	Botryococcus braunii	nan	20 	38881
+NIES-837	Emiliania huxleyi	EH-2	20 	2903
+NIES-838	Gephyrocapsa oceanica	GO-01	20 	38817
+NIES-839	Cosmarium dilatatum	nan	22 	292383
+NIES-840	Euastrum biverrucosum	nan	22 	485976
+NIES-841	Staurastrum levanderi	nan	20 	-1
+NIES-842	Staurastrum tsukubicum	nan	20 	-1
+NIES-843	Microcystis aeruginosa	NC7	25 	449447
+NIES-901	Microcystis aeruginosa	BC18	25 	449471
+NIES-905	Planktothrix agardhii	nan	20 	1160
+NIES-910	Planktothrix agardhii	P3-5	20 	1160
+NIES-846	Tychonema bourrellyi	nan	20 	54313
+NIES-844	Planktothrix mougeotii	TR1-5; ANMR 20011	20 	-1
+NIES-911	Planktothrix mougeotii	TR2-4; ANMR 20012	20 	-1
+NIES-912	Planktothrix mougeotii	TK4-5; ANMR 20013	20 	-1
+NIES-913	Planktothrix mougeotii	TK5-1; ANMR 20014	20 	-1
+NIES-845	Planktothrix pseudagardhii	T1-8-4; ANMR 20006	20 	132604
+NIES-915	Planktothrix pseudagardhii	T19-6'-6; ANMR 20007	20 	132604
+NIES-916	Planktothrix pseudagardhii	T19-6'-8; ANMR 20008	20 	132604
+NIES-917	Planktothricoides raciborskii	INBaOR	20 	-1
+NIES-918	Planktothricoides raciborskii	T1-6-2; ANMR 20009	20 	-1
+NIES-920	Planktothricoides raciborskii	Kase1-2	20 	-1
+NIES-921	Planktothricoides raciborskii	Kase3-5	20 	-1
+NIES-925	Planktothricoides raciborskii	P2	20 	-1
+NIES-926	Planktothricoides raciborskii	Ho12-3 Or-4	20 	-1
+NIES-927	Planktothricoides raciborskii	Ho12-3 Or-9	20 	-1
+NIES-847	Limnothrix redekei	nan	22 	132606
+NIES-928	Planktothrix rubescens	nan	20 	59512
+NIES-3080	Raphidiopsis sp.	Os-2	20 	-1
+NIES-853	Astrephomene gubernaculifera	nan	20 	47775
+NIES-854	Astrephomene gubernaculifera	nan	20 	47775
+NIES-855	Astrephomene gubernaculifera	nan	20 	47775
+NIES-856	Eudorina minodii	970728-E-8	20 	135198
+NIES-857	Gonium viridistellatum	88-511-9	20 	51704
+NIES-858	Phacotus lenticularis	KR 91/1	20 	52965
+NIES-859	Phacotus lenticularis	nan	20 	52965
+NIES-860	Pteromonas aculeata	970801-2	20 	-1
+NIES-861	Pteromonas angulosa	KR 91/2	20 	77548
+NIES-862	Pteromonas angulosa	KR 91/3	20 	77548
+NIES-863	Volvox africanus	nan	23 	51714
+NIES-864	Volvox aureus	970717-1	15 	47287
+NIES-865	Volvox carteri	nan	23 	3067
+NIES-866	Volvox carteri	nan	23 	3067
+NIES-867	Volvox gigas	nan	23 	51717
+NIES-868	Volvox obversus	nan	23 	47289
+NIES-869	Volvox tertius	nan	23 	47292
+NIES-870	Yamagishiella unicocca	970730-E-1	15 	51707
+NIES-871	Yamagishiella unicocca	970730-E-7	15 	51707
+NIES-872	Yamagishiella unicocca	970801-E-5 (= Nozaki E-5)	15 	51707
+NIES-873	Yamagishiella unicocca	970801-E-9	15 	51707
+NIES-874	Yamagishiella unicocca	970801-E-10	15 	51707
+NIES-875	Vitreochlamys aulata	Spha-5/1998-3-9	20 	140671
+NIES-876	Vitreochlamys aulata	Spha-8/1998-7-14	20 	140671
+NIES-877	Vitreochlamys aulata	nan	20 	140671
+NIES-878	Vitreochlamys aulata	nan	20 	140671
+NIES-879	Vitreochlamys fluviatilis	Spha-1/1997-12-5	20 	140669
+NIES-880	Vitreochlamys gloeocystiformis	970805-U-4	20 	140670
+NIES-881	Vitreochlamys nekrassovii	nan	20 	140673
+NIES-882	Vitreochlamys ordinata	970804-S-4 (= Nozaki S-4)	20 	78182
+NIES-883	Vitreochlamys pinguis	Spha-12/1998-7-16	20 	140672
+NIES-884	Chlamydomonas debaryana	nan	20 	-1
+NIES-885	Gonium multicoccum	nan	20 	47784
+NIES-886	Pandorina morum	nan	20 	33099
+NIES-887	Pandorina morum	nan	20 	33099
+NIES-888	Pandorina morum	nan	20 	33099
+NIES-889	Pandorina morum	nan	20 	33099
+NIES-890	Pandorina morum	Ishi-1	20 	33099
+NIES-891	Volvox aureus	970717-2	15 	47287
+NIES-892	Volvox aureus	990601-IV-9	15 	47287
+NIES-893	Volvulina boldii	nan	20 	51720
+NIES-894	Volvulina boldii	nan	20 	51720
+NIES-895	Volvulina pringsheimii	nan	20 	47793
+NIES-896	Volvulina steinii	nan	20 	51722
+NIES-897	Volvulina steinii	nan	20 	51722
+NIES-898	Volvulina steinii	nan	20 	51722
+NIES-900	Prorocentrum dentatum	KC37-PD	20 	260685
+NIES-930	Raphidiopsis raciborskii	CYL1	24 	-1
+NIES-931	Gloeocapsa decorticans	GLC2	24 	-1
+NIES-932	Raphidiopsis curvata	RAP1	24 	1973482
+NIES-936	Pterosperma cristatum	Pt	20 	38836
+NIES-933	Microcystis aeruginosa	NRC-1 (SS-17)	25 	1126
+NIES-969	Synechococcus sp.	1002	20 	-1
+NIES-970	Synechococcus sp.	T71	20 	-1
+NIES-971	Synechococcus sp.	T7cc1	20 	-1
+NIES-972	Synechococcus sp.	IR11	20 	-1
+NIES-973	Synechococcus sp.	48	20 	-1
+NIES-974	Synechococcus sp.	58E8	20 	-1
+NIES-975	Synechococcus sp.	58g6	20 	-1
+NIES-976	Synechococcus sp.	59	20 	-1
+NIES-977	Synechococcus sp.	taiyo	20 	-1
+NIES-978	Synechococcus sp.	UBR	20 	-1
+NIES-979	Synechococcus sp.	UH7	20 	-1
+NIES-980	Synechococcus sp.	kom	20 	-1
+NIES-981	Cyanobium sp.	Hos	20 	-1
+NIES-982	Synechococcus sp.	Hosso	20 	-1
+NIES-983	Synechococcus sp.	St235	20 	-1
+NIES-984	Synechococcus sp.	TAG	20 	-1
+NIES-3083	Synechococcus sp.	HOG	20 	-1
+NIES-3084	Synechococcus sp.	hor	20 	-1
+NIES-985	Synechococcus sp.	miyaR	20 	-1
+NIES-986	Synechococcus sp.	74	20 	-1
+NIES-987	Synechococcus sp.	FUT	20 	-1
+NIES-988	Synechococcus sp.	miyaY	20 	-1
+NIES-989	Planktothrix agardhii	Mikata1-3	20 	1160
+NIES-990	Planktothrix agardhii	Mikata1-6	20 	1160
+NIES-3085	Raphidiopsis raciborskii	DMKU51001	20 	-1
+NIES-3086	Raphidiopsis raciborskii	DMKU51002	20 	-1
+NIES-3087	Raphidiopsis raciborskii	DMKU51003	20 	-1
+NIES-3088	Raphidiopsis raciborskii	DMKU51004	20 	-1
+NIES-3089	Raphidiopsis raciborskii	DMKU51005	20 	-1
+NIES-3091	Raphidiopsis raciborskii	DMKU51007	20 	-1
+NIES-3092	Raphidiopsis raciborskii	DMKU51008	20 	-1
+NIES-3093	Raphidiopsis raciborskii	DMKU51009	20 	-1
+NIES-3094	Raphidiopsis raciborskii	DMKU51010	20 	-1
+NIES-3095	Raphidiopsis raciborskii	DMKU51011	20 	-1
+NIES-3096	Raphidiopsis raciborskii	DMKU51012	20 	-1
+NIES-3097	Raphidiopsis raciborskii	DMKU51013	20 	-1
+NIES-3098	Raphidiopsis raciborskii	DMKU51014	20 	-1
+NIES-3099	Raphidiopsis raciborskii	DMKU51015	20 	-1
+NIES-3100	Raphidiopsis raciborskii	DMKU51016	20 	-1
+NIES-3101	Raphidiopsis raciborskii	DMKU51017	20 	-1
+NIES-3102	Raphidiopsis raciborskii	DMKU51018	20 	-1
+NIES-3103	Raphidiopsis raciborskii	DMKU51019	20 	-1
+NIES-1040	Raphidiopsis raciborskii	CRJ1	20 	-1
+NIES-1041	Raphidiopsis raciborskii	CRJ2	20 	-1
+NIES-991	Raphidiopsis raciborskii	KJA1	20 	-1
+NIES-992	Raphidiopsis raciborskii	KJA2	20 	-1
+NIES-993	Raphidiopsis raciborskii	KJA3	20 	-1
+NIES-994	Raphidiopsis raciborskii	nan	20 	-1
+NIES-995	Mesostigma viride	Hojo1	20 	41882
+NIES-996	Pseudomarvania ampulliformis	Handa-299(f)	20 	200484
+NIES-997	Calyptrosphaera sphaeroidea	13K	20 	35139
+NIES-998	Chrysochromulina quadrikonta	CQ13T	20 	-1
+NIES-1000	Gephyrocapsa oceanica	nan	20 	38817
+NIES-1002	Glossomastix chrysoplasta	nan	20 	172669
+NIES-1001	Dicrateria rotunda	Iman2	20 	2703868
+NIES-1003	Pelagomonas calceolata	nan	20 	35677
+NIES-1004	Chroomonas coerulea	#74	15 	478127
+NIES-1005	Proteomonas sp.	M-23	15 	-1
+NIES-1006	Rhodomonas sp.	M-40	15 	-1
+NIES-1007	Synura petersenii	#73	15 	52555
+NIES-1008	Pedinella squamata	M-11	20 	-1
+NIES-1009	Gonyostomum semen	M-87	15 	375454
+NIES-1011	Ophiocytium capitatum	#86	15 	308876
+NIES-1012	Cafeteria roenbergensis	#106	15 	33653
+NIES-1013	Placidia cafeteriopsis	#51	15 	159342
+NIES-1014	Placidia cafeteriopsis	#69	15 	159342
+NIES-1015	Wobblia lunata	#1	15 	104657
+NIES-1016	Hymenomonas coronata	M-27	15 	418937
+NIES-1017	Prymnesium parvum	#22	15 	97485
+NIES-1018	Prymnesium parvum	M-25	15 	97485
+NIES-1019	Tetraselmis striata	#96	20 	3165
+NIES-1020	Apiocystis brauniana	#115	15 	-1
+NIES-1021	Chlamydomonas coccoides	#95	20 	1543968
+NIES-1022	Chlamydomonas parkeae	#97	20 	156093
+NIES-1025	Microcystis aeruginosa	Doutyou-1-3	20 	1126
+NIES-1026	Microcystis aeruginosa	Doutyou-1-4	20 	1126
+NIES-1027	Microcystis aeruginosa	Takahama-Ma-2	20 	1126
+NIES-1028	Microcystis aeruginosa	TEGA-Mv-1	20 	1126
+NIES-1029	Microcystis aeruginosa	DU-MA-6-1	20 	1126
+NIES-3105	Microcystis aeruginosa	TS1-6-2	20 	1126
+NIES-3106	Microcystis aeruginosa	TS1-7-1	20 	1126
+NIES-3107	Microcystis aeruginosa	TS1-7-2	20 	1126
+NIES-3109	Microcystis aeruginosa	Thai2001-MA-2-1	20 	1126
+NIES-3110	Microcystis aeruginosa	Thai2001-MA-3-1	20 	1126
+NIES-3111	Microcystis aeruginosa	Thai2001-MA-4-3	20 	1126
+NIES-1043	Microcystis aeruginosa	DU-MA-4-1	20 	1126
+NIES-1044	Schizocladia ischiensis	KU-333	20 	196139
+NIES-1045	Cylindrotheca closterium	nan	15 	2856
+NIES-1046	Cylindrotheca fusiformis	WAT13	15 	2853
+NIES-1047	Cylindrotheca sp.	nan	15 	-1
+NIES-1048	Chlamydomonas noctigama	2001-814-C10	20 	28456
+NIES-1050	Microcystis aeruginosa	TAC 4	18 	1126
+NIES-1051	Microcystis aeruginosa	TAC 6	18 	1126
+NIES-1052	Microcystis aeruginosa	TAC 15	18 	1126
+NIES-1053	Microcystis aeruginosa	TAC 19	18 	1126
+NIES-1054	Microcystis aeruginosa	TAC 20	18 	1126
+NIES-1055	Microcystis aeruginosa	TAC 38-1	18 	455448
+NIES-1056	Microcystis aeruginosa	TAC 39	18 	1126
+NIES-1057	Microcystis aeruginosa	TAC 40	18 	1126
+NIES-1058	Microcystis aeruginosa	TAC 45-1	18 	1126
+NIES-1059	Microcystis aeruginosa	TAC 46	18 	1126
+NIES-1060	Microcystis aeruginosa	TAC 50	18 	1126
+NIES-1061	Microcystis aeruginosa	TAC 51	18 	1126
+NIES-1062	Microcystis aeruginosa	TAC 57-1	18 	455449
+NIES-1063	Microcystis aeruginosa	TAC 60	18 	1126
+NIES-1064	Microcystis aeruginosa	TAC 61	18 	1126
+NIES-1065	Microcystis aeruginosa	TAC 62	18 	1126
+NIES-1066	Microcystis aeruginosa	TAC 63	18 	1126
+NIES-1067	Microcystis aeruginosa	TAC 65-2	18 	1126
+NIES-1068	Microcystis aeruginosa	TAC 66-1	24 	1126
+NIES-1069	Microcystis aeruginosa	TAC 67	18 	1126
+NIES-1070	Microcystis aeruginosa	TAC 69-1	20 	455438
+NIES-1071	Microcystis aeruginosa	TAC 70-1	18 	1126
+NIES-1072	Microcystis aeruginosa	TAC 71-1	18 	1126
+NIES-1073	Microcystis aeruginosa	TAC 72	18 	1126
+NIES-1074	Microcystis aeruginosa	TAC 73-1	18 	1126
+NIES-1075	Microcystis aeruginosa	TAC 74-1	18 	443023
+NIES-1076	Microcystis aeruginosa	TAC 75-1	18 	1126
+NIES-1077	Microcystis aeruginosa	TAC 76	20 	1126
+NIES-1078	Microcystis aeruginosa	TAC 79	18 	1126
+NIES-1079	Microcystis aeruginosa	TAC 80-1	18 	1126
+NIES-1080	Microcystis aeruginosa	TAC 81-1	18 	1126
+NIES-1081	Microcystis aeruginosa	TAC 82-1	18 	1126
+NIES-1082	Microcystis aeruginosa	TAC 83-1	24 	1126
+NIES-1083	Microcystis aeruginosa	TAC 84	18 	1126
+NIES-1084	Microcystis aeruginosa	TAC 85	18 	1126
+NIES-1085	Microcystis aeruginosa	TAC 86-1	18 	1126
+NIES-1086	Microcystis aeruginosa	TAC 87-1	18 	1126
+NIES-1087	Microcystis aeruginosa	TAC 88	18 	1126
+NIES-1088	Microcystis aeruginosa	TAC 89	18 	1126
+NIES-1089	Microcystis aeruginosa	TAC 90	18 	1126
+NIES-1090	Microcystis aeruginosa	TAC 91-1	18 	1126
+NIES-1091	Microcystis aeruginosa	TAC 92-1	18 	455447
+NIES-1092	Microcystis aeruginosa	TAC 93-1	18 	1126
+NIES-1093	Microcystis aeruginosa	TAC 95-1	18 	1126
+NIES-1094	Microcystis aeruginosa	TAC 96	18 	1126
+NIES-1095	Microcystis aeruginosa	TAC 97	20 	1126
+NIES-1096	Microcystis aeruginosa	TAC 98	18 	1126
+NIES-1097	Microcystis aeruginosa	TAC 109	20 	1126
+NIES-1098	Microcystis aeruginosa	TAC 110-1	18 	1126
+NIES-1099	Microcystis aeruginosa	TAC 113-1	18 	1126
+NIES-1100	Microcystis aeruginosa	TAC 114-1	18 	1126
+NIES-1101	Microcystis aeruginosa	TAC 115-1	18 	1126
+NIES-1102	Microcystis aeruginosa	TAC 122	18 	1126
+NIES-1103	Microcystis aeruginosa	TAC 123	18 	1126
+NIES-1104	Microcystis aeruginosa	TAC 124	18 	1126
+NIES-1105	Microcystis aeruginosa	TAC 125-1	18 	455446
+NIES-1106	Microcystis aeruginosa	TAC 126	18 	1126
+NIES-1107	Microcystis aeruginosa	TAC 128	18 	1126
+NIES-1108	Microcystis aeruginosa	TAC 129	18 	1126
+NIES-1109	Microcystis aeruginosa	TAC 130	18 	1126
+NIES-1110	Microcystis aeruginosa	TAC 131	18 	1126
+NIES-1111	Microcystis aeruginosa	TAC 132	18 	1126
+NIES-1112	Microcystis aeruginosa	TAC 133	18 	1126
+NIES-1113	Microcystis aeruginosa	TAC 134	18 	1126
+NIES-1114	Microcystis aeruginosa	TAC 135	18 	1126
+NIES-1115	Microcystis aeruginosa	TAC 136-1	18 	1126
+NIES-1116	Microcystis aeruginosa	TAC 137	24 	1126
+NIES-1117	Microcystis aeruginosa	TAC 138-1	18 	1126
+NIES-1118	Microcystis aeruginosa	TAC 141	18 	1126
+NIES-1119	Microcystis aeruginosa	TAC 143	18 	1126
+NIES-1120	Microcystis aeruginosa	TAC 144	18 	1126
+NIES-1121	Microcystis aeruginosa	TAC 145	18 	1126
+NIES-1122	Microcystis aeruginosa	TAC 146-1	18 	1126
+NIES-1123	Microcystis aeruginosa	TAC 147	24 	1126
+NIES-1124	Microcystis aeruginosa	TAC 148	24 	1126
+NIES-1125	Microcystis aeruginosa	TAC 149	18 	1126
+NIES-1126	Microcystis aeruginosa	TAC 150	18 	1126
+NIES-1127	Microcystis aeruginosa	TAC 151	18 	1126
+NIES-1128	Microcystis aeruginosa	TAC 152	18 	1126
+NIES-1129	Microcystis aeruginosa	TAC 153	18 	1126
+NIES-1130	Microcystis aeruginosa	TAC 154-1	18 	1126
+NIES-1131	Microcystis aeruginosa	TAC 155	18 	1126
+NIES-1132	Microcystis aeruginosa	TAC 156-1	18 	1126
+NIES-1133	Microcystis aeruginosa	TAC 157-2	18 	1126
+NIES-1134	Microcystis aeruginosa	TAC 159-1	18 	1126
+NIES-1135	Microcystis aeruginosa	TAC 160-1	18 	1126
+NIES-1136	Microcystis aeruginosa	TAC 162	18 	1126
+NIES-1137	Microcystis aeruginosa	TAC 163	18 	1126
+NIES-1138	Microcystis aeruginosa	TAC 164-1	18 	1126
+NIES-1139	Microcystis aeruginosa	TAC 165	18 	1126
+NIES-1140	Microcystis aeruginosa	TAC 166	18 	1126
+NIES-1141	Microcystis aeruginosa	TAC 167	18 	1126
+NIES-1142	Microcystis aeruginosa	TAC 169	18 	1126
+NIES-1143	Microcystis aeruginosa	TAC 170-1	18 	1126
+NIES-1144	Microcystis aeruginosa	TAC 171	18 	1126
+NIES-1145	Microcystis aeruginosa	TAC 172	18 	1126
+NIES-1146	Microcystis aeruginosa	TAC 173	18 	1126
+NIES-1147	Microcystis aeruginosa	TAC 174	18 	1126
+NIES-1148	Microcystis aeruginosa	TAC 175	18 	1126
+NIES-1149	Microcystis aeruginosa	TAC 176	18 	1126
+NIES-1150	Microcystis aeruginosa	TAC 177	18 	1126
+NIES-1151	Microcystis aeruginosa	TAC 178	18 	1126
+NIES-1152	Microcystis aeruginosa	TAC 179	18 	1126
+NIES-1153	Microcystis aeruginosa	TAC 180	18 	1126
+NIES-1154	Microcystis aeruginosa	TAC 181	18 	1126
+NIES-1155	Microcystis aeruginosa	TAC 182	18 	1126
+NIES-1156	Microcystis aeruginosa	TAC 183	18 	1126
+NIES-1157	Microcystis aeruginosa	TAC 185	18 	1126
+NIES-1158	Microcystis aeruginosa	TAC 186	18 	1126
+NIES-1159	Microcystis aeruginosa	TAC 187	18 	1126
+NIES-1160	Microcystis aeruginosa	TAC 188	18 	1126
+NIES-1161	Microcystis aeruginosa	TAC 189	18 	1126
+NIES-1162	Microcystis aeruginosa	TAC 190	18 	1126
+NIES-1163	Microcystis aeruginosa	TAC 191	18 	1126
+NIES-1164	Microcystis aeruginosa	TAC 192	18 	1126
+NIES-1165	Microcystis aeruginosa	TAC 193	18 	1126
+NIES-1166	Microcystis aeruginosa	TAC 194	18 	1126
+NIES-1167	Microcystis aeruginosa	TAC 195	18 	1126
+NIES-1168	Microcystis aeruginosa	TAC 196	18 	1126
+NIES-1169	Microcystis aeruginosa	TAC 197	18 	1126
+NIES-1170	Microcystis aeruginosa	TAC 198	18 	1126
+NIES-1171	Microcystis aeruginosa	TAC 199	18 	1126
+NIES-1172	Microcystis aeruginosa	TAC 200	18 	1126
+NIES-1173	Microcystis aeruginosa	TAC 311	18 	1126
+NIES-1174	Microcystis aeruginosa	TAC 312	18 	723863
+NIES-1175	Microcystis aeruginosa	TAC 313	18 	723828
+NIES-1176	Microcystis aeruginosa	TAC 314	18 	1126
+NIES-1177	Microcystis aeruginosa	TAC 315	18 	723849
+NIES-1178	Microcystis aeruginosa	TAC 316	18 	1126
+NIES-1179	Microcystis aeruginosa	TAC 317	18 	1126
+NIES-1180	Microcystis aeruginosa	TAC 319	18 	1126
+NIES-1181	Microcystis aeruginosa	TAC 320	18 	723870
+NIES-1182	Microcystis aeruginosa	TAC 321	18 	1126
+NIES-1183	Microcystis aeruginosa	TAC 322	18 	723829
+NIES-1184	Microcystis aeruginosa	TAC 323	18 	1126
+NIES-1185	Microcystis aeruginosa	TAC 325	18 	723875
+NIES-1186	Microcystis aeruginosa	TAC 326	18 	1126
+NIES-1187	Microcystis aeruginosa	TAC 327	18 	1126
+NIES-1188	Microcystis aeruginosa	TAC 328	18 	1126
+NIES-1189	Microcystis aeruginosa	TAC 329	18 	1126
+NIES-1190	Microcystis aeruginosa	TAC 330	18 	1126
+NIES-1191	Microcystis aeruginosa	TAC 331	18 	1126
+NIES-1192	Microcystis aeruginosa	TAC 332	18 	1126
+NIES-1193	Microcystis aeruginosa	TAC 333	18 	1126
+NIES-1194	Microcystis aeruginosa	TAC 335	18 	1126
+NIES-1195	Microcystis aeruginosa	TAC 336	18 	1126
+NIES-1196	Microcystis aeruginosa	TAC 337	18 	1126
+NIES-1197	Microcystis aeruginosa	TAC 338	18 	1126
+NIES-1198	Microcystis aeruginosa	TAC 339	18 	1126
+NIES-1199	Microcystis aeruginosa	TAC 340	18 	1126
+NIES-1200	Microcystis aeruginosa	TAC 341	18 	1126
+NIES-1201	Microcystis aeruginosa	TAC 342	18 	1126
+NIES-1202	Microcystis aeruginosa	TAC 343	18 	1126
+NIES-1203	Microcystis aeruginosa	TAC 344	18 	1126
+NIES-1204	Microcystis aeruginosa	TAC 345	18 	1126
+NIES-1205	Microcystis aeruginosa	TAC 346	18 	1126
+NIES-1206	Microcystis aeruginosa	TAC 347	24 	1126
+NIES-1207	Microcystis aeruginosa	TAC 348	18 	1126
+NIES-1208	Microcystis aeruginosa	TAC 349	18 	1126
+NIES-1209	Microcystis aeruginosa	TAC 350	18 	1126
+NIES-1210	Microcystis aeruginosa	TAC 351	18 	1126
+NIES-1211	Microcystis aeruginosa	TAC 352	24 	449534
+NIES-1212	Microcystis aeruginosa	TAC 353	18 	2571222
+NIES-1213	Microcystis aeruginosa	TAC 355	18 	1126
+NIES-1214	Microcystis aeruginosa	TAC 356	18 	1126
+NIES-1215	Microcystis aeruginosa	TAC 357	18 	1126
+NIES-1216	Microcystis aeruginosa	TAC 358	18 	1126
+NIES-1217	Microcystis aeruginosa	TAC 359	18 	1126
+NIES-1218	Microcystis aeruginosa	TAC 360	18 	1126
+NIES-1219	Microcystis aeruginosa	TAC 361	18 	1126
+NIES-1220	Microcystis aeruginosa	TAC 362	18 	1126
+NIES-1221	Microcystis aeruginosa	TAC 363	18 	1126
+NIES-1222	Microcystis aeruginosa	TAC 364	18 	1126
+NIES-1223	Microcystis aeruginosa	TAC 365	18 	1126
+NIES-1224	Microcystis aeruginosa	TAC 368	18 	1126
+NIES-1225	Microcystis aeruginosa	TAC 369	18 	1126
+NIES-1226	Microcystis aeruginosa	TAC 370	18 	1126
+NIES-1227	Microcystis aeruginosa	TAC 371	18 	1126
+NIES-1228	Microcystis aeruginosa	TAC 372	18 	1126
+NIES-1229	Microcystis aeruginosa	TAC 373	24 	1126
+NIES-1230	Microcystis aeruginosa	TAC 374	18 	1126
+NIES-1231	Microcystis aeruginosa	TAC 375	18 	1126
+NIES-1232	Microcystis aeruginosa	TAC 376	18 	1126
+NIES-1233	Microcystis aeruginosa	TAC 377	18 	1126
+NIES-1234	Microcystis aeruginosa	TAC 378	24 	1126
+NIES-1235	Microcystis aeruginosa	TAC 379	18 	1126
+NIES-1236	Microcystis aeruginosa	TAC 380	18 	1126
+NIES-1237	Microcystis aeruginosa	TAC 381	18 	1126
+NIES-1238	Microcystis aeruginosa	TAC 382	18 	1126
+NIES-1239	Microcystis aeruginosa	TAC 383	18 	1126
+NIES-1240	Microcystis aeruginosa	TAC 384	18 	1126
+NIES-1241	Microcystis aeruginosa	TAC 385	18 	1126
+NIES-1242	Microcystis aeruginosa	TAC 386	18 	1126
+NIES-1243	Microcystis aeruginosa	TAC 387	18 	1126
+NIES-1244	Microcystis aeruginosa	TAC 388	18 	1126
+NIES-1245	Microcystis aeruginosa	TAC 389	18 	1126
+NIES-1246	Microcystis aeruginosa	TAC 390	18 	1126
+NIES-1247	Microcystis aeruginosa	TAC 391	24 	1126
+NIES-1248	Microcystis aeruginosa	TAC 392	18 	1126
+NIES-1249	Microcystis aeruginosa	TAC 393	18 	1126
+NIES-1250	Microcystis aeruginosa	TAC 394	18 	1126
+NIES-1251	Microcystis aeruginosa	TAC 395	18 	1126
+NIES-1252	Microcystis aeruginosa	TAC 396	18 	1126
+NIES-1253	Microcystis aeruginosa	TAC 401	18 	1126
+NIES-1254	Microcystis aeruginosa	TAC 402	18 	1126
+NIES-1255	Microcystis aeruginosa	TAC 405	18 	1126
+NIES-1256	Microcystis aeruginosa	TAC 406	18 	1126
+NIES-1257	Microcystis aeruginosa	TAC 407	24 	1126
+NIES-1031	Chroogloeocystis siderophila	5.2 s.c.1	24 	329163
+NIES-1258	Planktothrix agardhii	SUI-CT-1	22 	1160
+NIES-1259	Raphidiopsis raciborskii	GOU-CR-1	20 	-1
+NIES-1260	Raphidiopsis raciborskii	GOU-CR-2	20 	-1
+NIES-1261	Raphidiopsis raciborskii	SHI-CR-3	20 	-1
+NIES-1262	Raphidiopsis raciborskii	SHI-CR-5	20 	-1
+NIES-1263	Planktothrix agardhii	DU-Oa-2-3	20 	1160
+NIES-1264	Planktothrix agardhii	DU-Oa-3-3	20 	1160
+NIES-1265	Planktothrix agardhii	DU-Oa-5-5	20 	1160
+NIES-1266	Planktothrix rubescens	DU-Oa-4-1	20 	603428
+NIES-1267	Planktothrix rubescens	DU-Oa-4-2	20 	59512
+NIES-3114	Planktothricoides raciborskii	Thai-10-3	20 	-1
+NIES-1268	Amphidinium testudo	M-44	20 	-1
+NIES-1269	Chlorella vulgaris	M-56	20 	3077
+NIES-1270	Picochlorum sp.	M-66	20 	-1
+NIES-1271	Trebouxia anticipata	AYO4776	20 	135270
+NIES-1272	Trebouxia anticipata	AYO4780	20 	135270
+NIES-1273	Trebouxia anticipata	AYO4870	20 	135270
+NIES-1274	Trebouxia arboricola	AYO4775	20 	53268
+NIES-1275	Trebouxia arboricola	AYO4779	20 	53268
+NIES-1276	Trebouxia arboricola	AYO5316	20 	53268
+NIES-1277	Trebouxia arboricola	AYO5321	20 	53268
+NIES-1278	Trebouxia corticola	AYO4774	20 	103875
+NIES-1279	Trebouxia corticola	AYO4777	20 	103875
+NIES-1280	Trebouxia corticola	AYO4860	20 	103875
+NIES-1281	Trebouxia corticola	AYO4863	20 	103875
+NIES-1282	Trebouxia corticola	AYO4864	20 	103875
+NIES-1283	Trebouxia corticola	AYO4865	20 	103875
+NIES-1284	Trebouxia corticola	AYO4867	20 	103875
+NIES-1286	Trebouxia corticola	AYO4882	20 	103875
+NIES-1287	Trebouxia corticola	AYO4884	20 	103875
+NIES-1288	Trebouxia corticola	AYO5330	20 	103875
+NIES-1289	Trebouxia higginsiae	AYO4781	20 	103877
+NIES-1290	Trebouxia higginsiae	AYO4782	20 	103877
+NIES-1291	Trebouxia higginsiae	AYO4866	20 	103877
+NIES-1292	Trebouxia higginsiae	AYO4877	20 	103877
+NIES-1293	Trebouxia higginsiae	AYO4879	20 	103877
+NIES-1294	Trebouxia higginsiae	AYO4880	20 	103877
+NIES-1295	Trebouxia higginsiae	AYO4887	20 	103877
+NIES-1296	Trebouxia higginsiae	AYO4885	20 	103877
+NIES-1297	Trebouxia showmanii	AYO4778	20 	134275
+NIES-1298	Asterochloris cf. glomerata	AYO4871	20 	-1
+NIES-1299	Asterochloris cf. glomerata	AYO4872	20 	-1
+NIES-1300	Asterochloris cf. glomerata	AYO4874	20 	-1
+NIES-1301	Asterochloris cf. glomerata	AYO4875	20 	-1
+NIES-2349	Trebouxia sp.	AYO4869	20 	-1
+NIES-1302	Glossomastix chrysoplasta	GLOSSO	20 	172669
+NIES-1303	Fibrocapsa japonica	YK03-75	20 	94617
+NIES-1304	Calcidiscus leptoporus	MH 34	20 	127549
+NIES-1305	Calcidiscus leptoporus	MH 68	20 	127549
+NIES-1308	Calyptrosphaera sphaeroidea	MK18	20 	35139
+NIES-1309	Calyptrosphaera sphaeroidea	MK21	20 	35139
+NIES-1874	Chrysoculter rhomboideus	TKB-54	20 	259385
+NIES-1310	Emiliania huxleyi	MH 9	20 	2903
+NIES-1311	Emiliania huxleyi	MH 27	15 	2903
+NIES-1312	Emiliania huxleyi	MH 28	15 	2903
+NIES-1313	Emiliania huxleyi	MH 74	20 	2903
+NIES-1314	Emiliania huxleyi	YK3-87	20 	2903
+NIES-1315	Gephyrocapsa oceanica	MH 38	20 	38817
+NIES-1316	Gephyrocapsa oceanica	MH 63	20 	38817
+NIES-1317	Gephyrocapsa oceanica	MH 64	20 	38817
+NIES-1318	Gephyrocapsa oceanica	MH 73	20 	38817
+NIES-1319	Gephyrocapsa oceanica	YK3-7	20 	38817
+NIES-1320	Oolithotus fragilis	MH 35	20 	573976
+NIES-1321	Oolithotus fragilis	MH 58	20 	573976
+NIES-1322	Oolithotus fragilis	MH 80	20 	573976
+NIES-1324	Umbilicosphaera sibogae	MH 67	20 	38819
+NIES-1325	Thoracosphaera heimii	MH 36	20 	2923
+NIES-1326	Thoracosphaera heimii	MH 78	20 	2923
+NIES-1327	Cryptomonas sp.	#00266	15 	-1
+NIES-1328	Gephyrocapsa oceanica	TKB-001 (ym-01)	20 	38817
+NIES-1329	Gephyrocapsa oceanica	TKB-061 (ym-06)	20 	38817
+NIES-1330	Prymnesium calathiferum	TKB-062 (ym-07)	20 	44453
+NIES-1331	Asterococcus superbus	Asteroco-4	20 	269637
+NIES-1332	Cyanidioschyzon merolae	10D	37 	45157
+NIES-1333	Chrysochromulina sp.	TKB-079 (nrc063)	20 	-1
+NIES-1334	Kathablepharis japonica	TKB-090 (nrc066)	20 	-1
+NIES-1335	Leucocryptos marina	TKB-081 (nrc057)	20 	299206
+NIES-1339	Nitzschia sp.	A6	15 	-1
+NIES-1340	Nitzschia sp.	B4	15 	-1
+NIES-1341	Synechococcus sp.	MW10#1	15 	-1
+NIES-1342	Synechococcus sp.	MW15#2	15 	-1
+NIES-1343	Synechococcus sp.	MW72C6	15 	-1
+NIES-1344	Synechococcus sp.	MW73B4	15 	-1
+NIES-1345	Synechococcus sp.	MW76B2	15 	-1
+NIES-1346	Synechococcus sp.	MW77D1	15 	-1
+NIES-1347	Synechococcus sp.	MH301	15 	-1
+NIES-1348	Synechococcus sp.	MH305	15 	-1
+NIES-1349	Achnanthes kuwaitensis	nan	20 	483531
+NIES-1350	Achnanthidium minutissimum	nan	20 	431333
+NIES-1353	Sellaphora seminulum	nan	20 	1302831
+NIES-1354	Microcystis aeruginosa	TAC 64-1	18 	1126
+NIES-1355	Microcystis aeruginosa	TAC 78-1	18 	1126
+NIES-1356	Microcystis aeruginosa	TAC 158-1	18 	1126
+NIES-1357	Chlorogonium elongatum	Chlogo-1/1998-3-7	20 	52029
+NIES-1358	Chlorogonium elongatum	SkCl-2	20 	52029
+NIES-1359	Gungnir kasakii	SkCl-5	20 	71746
+NIES-1360	Gungnir kasakii	KhCl-3	20 	71746
+NIES-1361	Pleodorina starrii	2000-602-P11	20 	330485
+NIES-1362	Pleodorina starrii	2000-602-P14	20 	330485
+NIES-1363	Pleodorina starrii	2000-602-P15	20 	330485
+NIES-1364	Pleodorina starrii	2001-608-P17	20 	330485
+NIES-1365	Pleodorina starrii	2001-608-P21	20 	330485
+NIES-1366	Pleodorina starrii	2001-608-P26	20 	330485
+NIES-1367	Adenoides eludens	nan	20 	160623
+NIES-1368	Amphidinium operculatum	nan	20 	107036
+NIES-1369	Glaucocystis oocystiformis	TKB-066 (AK-08)	20 	1789783
+NIES-1370	Chroomonas mesostigmatica	TKB-112 (AK-13)	20 	195065
+NIES-1371	Goniomonas amphinema	TKB-022 (NY0129)	15 	307245
+NIES-1372	Goniomonas pacifica	TKB-003 (ym-03)	20 	195067
+NIES-1373	Goniomonas truncata	TKB-015 (NY0120)	15 	31325
+NIES-1374	Goniomonas sp.	TKB-024 (NY0135)	20 	-1
+NIES-1375	Proteomonas sp.	TKB-122 (AK-15)	20 	-1
+NIES-1376	Mallomonas sp.	TKB-089 (nrc065)	20 	-1
+NIES-1377	Paraphysomonas vestita	TKB-136 (NY0155)	20 	36770
+NIES-1846	Spumella sp.	TKB-010 (NY0108)	20 	-1
+NIES-1378	Fibrocapsa sp.	TKB-067 (AK-09)	20 	-1
+NIES-1379	Olisthodiscus luteus	TKB-097 (nrc)	20 	83000
+NIES-1380	Gonyostomum semen	TKB-132 (nak26)	20 	375454
+NIES-1381	Pseudopedinella pyriformis	TKB-191 (nak80)	20 	656189
+NIES-1382	Rhizochromulina sp.	TKB-042 (nrc029)	20 	-1
+NIES-1383	Pseudo-nitzschia sp.	TKB-101 (ym-09)	15 	-1
+NIES-1384	Ophiocytium capitatum	TKB-125 (nak19)	20 	308876
+NIES-1385	Ophiocytium parvulum	TKB-126 (nak20)	20 	308877
+NIES-1386	Unidentified pelagophyte	TKB-085 (nrc061)	20 	-1
+NIES-1387	Unidentified pelagophyte	TKB-102 (ym-10)	20 	-1
+NIES-1388	Developayella elegans	TKB-017 (NY0124)	20 	42750
+NIES-1389	Unidentified yellow	TKB-092 (nrc068)	20 	-1
+NIES-1390	Tsukubamonas globosa	TKB-055 (NY0136)	20 	875863
+NIES-1391	Chrysochromulina sp.	TKB-210 (ym-12)	20 	-1
+NIES-1392	Chrysochromulina simplex	TKB-129 (nak23)	20 	412158
+NIES-1393	Prymnesium neolepis	TKB-005 (ym-05)	20 	284051
+NIES-1394	Dicrateria rotunda	TKB-128 (nak22)	20 	2703868
+NIES-1395	Ochrosphaera neapolitana	TKB-103 (ym-11)	15 	35137
+NIES-1396	Phaeocystis globosa	TKB-032 (AK-03)	20 	33658
+NIES-1397	Prymnesium sp.	TKB-084 (nrc060)	20 	-1
+NIES-1398	Pavlova pinguis	TKB-068 (AK-10)	20 	119481
+NIES-1399	Pavlova sp.	TKB-069 (AK-11)	20 	-1
+NIES-1400	Pavlova sp.	TKB-070 (AK-12)	20 	-1
+NIES-1401	Pavlova sp.	TKB-093 (nrc)	20 	-1
+NIES-1403	Heterocapsa sp.	TKB-060 (AK-04)	20 	-1
+NIES-1405	Peridinium pseudolaeve	TKB-048 (nak-03)	15 	142112
+NIES-1406	Prorocentrum micans	TKB-138 (TC01)	20 	2945
+NIES-1407	Cryptoglena pigra	TKB-137 (NY0156)	20 	66844
+NIES-1408	Chlorarachnion sp.	TKB-002 (ym-02)	20 	-1
+NIES-1409	Mantoniella squamata	TKB-190 (nak79)	20 	13608
+NIES-1410	Marsupiomonas sp.	TKB-040 (nrc001-014)	20 	-1
+NIES-1411	Micromonas pusilla	TKB-189 (nak78)	20 	38833
+NIES-1412	Micromonas pusilla	TKB-214 (nak100)	20 	38833
+NIES-1413	Micromonas pusilla	TKB-215 (nak101)	20 	38833
+NIES-1414	Nephroselmis sp.	TKB-076 (nrc055)	20 	-1
+NIES-1415	Nephroselmis astigmatica	TKB-075 (nrc054)	20 	259378
+NIES-1416	Nephroselmis pyriformis	TKB-187 (nak76)	20 	156128
+NIES-1417	Nephroselmis sp.	TKB-041 (nrc015-028)	20 	-1
+NIES-1418	Nephroselmis sp.	TKB-096 (nrc)	20 	-1
+NIES-1419	Pseudoscourfieldia marina	TKB-144 (nak33)	20 	41886
+NIES-1420	Pseudoscourfieldia marina	TKB-212 (nak99)	20 	41886
+NIES-1421	Pyramimonas cordata	TKB-130 (nak24)	20 	647622
+NIES-1422	Pyramimonas cordata	TKB-203 (nak92)	20 	647622
+NIES-1423	Pyramimonas cordata	TKB-218 (nak104)	20 	647622
+NIES-1424	Pyramimonas grossii	TKB-141 (nak30)	20 	36887
+NIES-1425	Pyramimonas grossii	TKB-202 (nak91)	20 	36887
+NIES-1426	Pyramimonas sp.	TKB-086 (nrc062)	20 	-1
+NIES-1427	Pyramimonas sp.	TKB-143 (nak32)	20 	-1
+NIES-1429	Tetraselmis sp.	TKB-083 (nrc059)	20 	-1
+NIES-1430	Tetraselmis levis	TKB-121 (AK-14)	20 	2510444
+NIES-1431	Tetraselmis sp.	TKB-091 (nrc067)	20 	-1
+NIES-1432	Tetraselmis sp.	TKB-043 (nrc030-035)	20 	-1
+NIES-1433	Tetraselmis sp.	TKB-073 (nrc052*)	20 	-1
+NIES-1434	Tetraselmis sp.	TKB-095 (nrc)	20 	-1
+NIES-1435	Unidentified coccoid	TKB-025 (YY-01)	20 	-1
+NIES-1436	Choricystis minor	TKB-052 (nak-07)	20 	-1
+NIES-1437	Basichlamys sacculifera	TKB-051 (nak-06)	20 	47779
+NIES-1438	Bicosoeca sp.	TKB-211 (NY0158)	20 	-1
+NIES-1439	Bodo saltans	TKB-013 (NY0117)	15 	75058
+NIES-1440	Hexamita sp.	TKB-057 (NY0140)	15 	-1
+NIES-1441	Percolomonas sp.	TKB-016 (NY0123)	15 	-1
+NIES-1442	Salpingoeca infusionum	TKB-117 (nak13)	15 	86018
+NIES-1443	Thaumatomastix sp.	TKB-023 (NY0134)	20 	-1
+NIES-1444	Trepomonas sp.	TKB-058 (NY0141)	15 	-1
+NIES-1445	Rubratella sp.	TKB-100 (ym-08)	15 	-1
+NIES-1639	Dolichospermum affine	TAC 439	20 	119677
+NIES-1640	Dolichospermum affine	TAC 440	20 	119677
+NIES-1641	Dolichospermum affine	TAC 442	20 	119677
+NIES-1642	Dolichospermum affine	TAC 454	20 	119677
+NIES-1643	Sphaerospermopsis aphanizomenoides	TAC 456	20 	459663
+NIES-1644	Sphaerospermopsis aphanizomenoides	TAC 457	20 	459663
+NIES-1645	Dolichospermum circinale	TAC 482	20 	109265
+NIES-1646	Dolichospermum circinale	TAC 496	20 	109265
+NIES-1647	Dolichospermum circinale	TAC 497	20 	1091008
+NIES-1648	Dolichospermum circinale	TAC 498	20 	109265
+NIES-1649	Dolichospermum circinale	TAC 499	20 	109265
+NIES-1650	Dolichospermum circinale	TAC 501	20 	109265
+NIES-1651	Dolichospermum circinale	TAC 500	20 	109265
+NIES-1652	Dolichospermum crassum	TAC 436	20 	136074
+NIES-1653	Dolichospermum crassum	TAC 443	20 	136074
+NIES-1654	Dolichospermum crassum	TAC 444	20 	136074
+NIES-1655	Dolichospermum crassum	TAC 468	20 	136074
+NIES-1656	Dolichospermum crassum	TAC 473	20 	136074
+NIES-1657	Dolichospermum crassum	TAC 474	20 	136074
+NIES-1658	Dolichospermum crassum	TAC 485	20 	136074
+NIES-1659	Dolichospermum crassum	TAC 486	20 	136074
+NIES-1660	Dolichospermum crassum	TAC 487	20 	136074
+NIES-1661	Dolichospermum crassum	TAC 488	20 	136074
+NIES-1662	Dolichospermum crassum	TAC 490	20 	136074
+NIES-1663	Dolichospermum crassum	TAC 492	20 	136074
+NIES-1664	Dolichospermum crassum	TAC 493	20 	136074
+NIES-1665	Dolichospermum crassum	TAC 494	20 	136074
+NIES-1666	Dolichospermum crassum	TAC 495	20 	136074
+NIES-1667	Dolichospermum danicum	TAC 453	20 	-1
+NIES-1668	Dolichospermum flos-aquae	TAC 99	20 	1166
+NIES-1669	Dolichospermum flos-aquae	TAC 100	20 	1166
+NIES-1670	Dolichospermum flos-aquae	TAC 430	20 	1166
+NIES-1671	Dolichospermum flos-aquae	TAC 445	20 	1166
+NIES-1672	Dolichospermum flos-aquae	TAC 446	20 	1166
+NIES-1673	Dolichospermum lemmermannii	TAC 438	20 	-1
+NIES-1674	Dolichospermum lemmermannii	TAC 475	20 	-1
+NIES-1675	Dolichospermum lemmermannii	TAC 476	20 	-1
+NIES-1676	Dolichospermum lemmermannii	TAC 483	20 	-1
+NIES-1677	Dolichospermum mucosum	TAC 425	20 	264677
+NIES-1678	Sphaerospermopsis oumiana	TAC 464	20 	747503
+NIES-1679	Sphaerospermopsis oumiana	TAC 466	20 	747503
+NIES-1680	Dolichospermum planctonicum	TAC 423	20 	1335031
+NIES-1681	Dolichospermum planctonicum	TAC 465	20 	-1
+NIES-1682	Dolichospermum planctonicum	TAC 471	20 	-1
+NIES-1683	Dolichospermum planctonicum	TAC 472	20 	-1
+NIES-1684	Dolichospermum pseudocompactum	TAC 477	20 	747515
+NIES-1685	Sphaerospermopsis reniformis	TAC 458	20 	531300
+NIES-1686	Sphaerospermopsis reniformis	TAC 459	20 	531300
+NIES-1687	Sphaerospermopsis reniformis	TAC 460	20 	531300
+NIES-1688	Sphaerospermopsis reniformis	TAC 461	20 	531300
+NIES-1689	Sphaerospermopsis reniformis	TAC 462	20 	531300
+NIES-1690	Sphaerospermopsis reniformis	TAC 478	20 	531300
+NIES-1691	Sphaerospermopsis reniformis	TAC 479	20 	531300
+NIES-1692	Sphaerospermopsis reniformis	TAC 480	20 	531300
+NIES-1693	Sphaerospermopsis reniformis	TAC 481	20 	531300
+NIES-1694	Sphaerospermopsis reniformis	TAC 484	20 	531300
+NIES-1695	Dolichospermum smithii	TAC 451	20 	264682
+NIES-1696	Dolichospermum ucrainicum	TAC 455	20 	289438
+NIES-1697	Dolichospermum sp.	TAC 447	20 	-1
+NIES-1698	Anabaenopsis sp.	TAC 427	20 	-1
+NIES-1446	Trebouxia corticola	AYO5357A	20 	103875
+NIES-1447	Trebouxia corticola	AYO5357B	20 	103875
+NIES-1448	Trebouxia corticola	AYO5357C	20 	103875
+NIES-1449	Trebouxia corticola	AYO5361A	20 	103875
+NIES-1450	Trebouxia corticola	AYO5361B	20 	103875
+NIES-1451	Trebouxia corticola	AYO5372	20 	103875
+NIES-1452	Trebouxia corticola	AYO5375A	20 	103875
+NIES-1453	Trebouxia corticola	AYO5375B	20 	103875
+NIES-1454	Trebouxia corticola	AYO5376	20 	103875
+NIES-1455	Trebouxia corticola	AYO5380	20 	103875
+NIES-1699	Chrysophaeum taylorii	SEK-105	20 	2483200
+NIES-1700	Chrysophaeum taylorii	SEK-109	20 	2483200
+NIES-1456	Batrachospermum atrum	BF1	20 	-1
+NIES-1457	Batrachospermum helminthosum	BF3	20 	-1
+NIES-1458	Batrachospermum virgato-decaisneanum	BF2	20 	-1
+NIES-1461	Compsopogon coeruleus	HNC2	20 	-1
+NIES-1462	Compsopogon coeruleus	KWC12	20 	-1
+NIES-1463	Compsopogonopsis japonica	ISI-1	20 	-1
+NIES-1464	Nemalionopsis tortuosa	1	15 	101922
+NIES-1466	Nemalionopsis tortuosa	OOK-1	20 	101922
+NIES-1467	Nemalionopsis tortuosa	KS2	20 	101922
+NIES-1468	Nemalionopsis tortuosa	KS5	20 	101922
+NIES-1469	Nemalionopsis tortuosa	KS6	20 	101922
+NIES-1470	Nemalionopsis tortuosa	3	15 	101922
+NIES-1473	Thorea gaudichaudii	IK1	20 	261527
+NIES-1474	Thorea gaudichaudii	NUG-1	20 	261527
+NIES-1475	Thorea gaudichaudii	NUG-4	20 	261527
+NIES-1476	Thorea gaudichaudii	NUG-5	20 	261527
+NIES-1477	Thorea gaudichaudii	NUG-2	20 	261527
+NIES-1478	Thorea gaudichaudii	NUG-3	20 	261527
+NIES-1479	Thorea gaudichaudii	UJU-1	20 	261527
+NIES-1480	Thorea gaudichaudii	UJU-2	20 	261527
+NIES-1481	Thorea gaudichaudii	UJU-3	20 	261527
+NIES-1482	Thorea gaudichaudii	UJU-4	20 	261527
+NIES-1484	Thorea okadae	NAK-13	15 	261528
+NIES-1485	Thorea okadae	NAK-21	15 	261528
+NIES-1486	Thorea okadae	NAK-23	15 	261528
+NIES-1487	Thorea okadae	NAK-6	15 	261528
+NIES-1488	Thorea okadae	NAK-7	15 	261528
+NIES-1489	Thorea okadae	NAK-31	15 	261528
+NIES-1490	Thorea okadae	KIK-1	15 	261528
+NIES-1491	Thorea okadae	KIK-33	15 	261528
+NIES-1492	Thorea okadae	KIK-41	15 	261528
+NIES-1494	Thorea okadae	YAH-6	15 	261528
+NIES-1495	Thorea okadae	KIK-25	15 	261528
+NIES-1496	Thorea okadae	YAH-1	15 	261528
+NIES-1497	Thorea okadae	YAH-2	15 	261528
+NIES-1498	Thorea okadae	KIK-35	15 	261528
+NIES-1499	Thorea okadae	YAH-3	15 	261528
+NIES-1500	Thorea okadae	YAH-4	15 	261528
+NIES-1501	Thorea okadae	KIK-21	15 	261528
+NIES-1503	Thorea okadae	KIK-53	15 	261528
+NIES-1504	Thorea okadae	KIK-54	15 	261528
+NIES-1505	Thorea okadae	KIK-57	15 	261528
+NIES-1506	Thorea okadae	KIK-58	15 	261528
+NIES-1508	Thorea okadae	KIK-68	15 	261528
+NIES-1509	Thorea okadae	KIK-69	15 	261528
+NIES-1510	Thorea okadae	KIK-70	15 	261528
+NIES-1511	Thorea okadae	KIK-71	15 	261528
+NIES-1512	Thorea okadae	KIK-72	15 	261528
+NIES-1513	Thorea okadae	KIK-73	15 	261528
+NIES-1514	Thorea okadae	KIK-74	15 	261528
+NIES-1515	Thorea okadae	KIK-75	15 	261528
+NIES-1517	Thorea okadae	KIK-77	15 	261528
+NIES-1518	Thorea okadae	KIK-78	15 	261528
+NIES-1519	Thorea okadae	KIK-79	15 	261528
+NIES-1520	Thorea okadae	KIK-80	15 	261528
+NIES-1521	Thorea okadae	KIK-81	15 	261528
+NIES-1522	Thorea okadae	KIK-82	15 	261528
+NIES-1523	Thorea okadae	KIK-83	15 	261528
+NIES-1524	Thorea okadae	KIK-84	15 	261528
+NIES-1528	Thorea okadae	k2	20 	261528
+NIES-1529	Thorea okadae	k9	20 	261528
+NIES-1530	Thorea okadae	k10	20 	261528
+NIES-1531	Thorea okadae	k14	20 	261528
+NIES-1532	Thorea okadae	k22	20 	261528
+NIES-1533	Thorea okadae	NAK-32	15 	261528
+NIES-1534	Thorea okadae	oh8	20 	261528
+NIES-1535	Thorea okadae	oh13	20 	261528
+NIES-1536	Thorea okadae	s2	20 	261528
+NIES-1537	Thorea okadae	s6	20 	261528
+NIES-1538	Thorea okadae	s7	20 	261528
+NIES-1539	Thorea okadae	s11	20 	261528
+NIES-1540	Thorea okadae	s12	20 	261528
+NIES-1541	Thorea okadae	s13	20 	261528
+NIES-1542	Thorea okadae	s14	20 	261528
+NIES-1544	Thorea okadae	ch2	20 	261528
+NIES-1545	Thorea okadae	yg1	20 	261528
+NIES-1546	Thorea okadae	yg9	20 	261528
+NIES-1547	Thorea okadae	YBE-3	15 	261528
+NIES-1550	Thorea okadae	KIK-59	15 	261528
+NIES-1551	Thorea okadae	KIK-60	15 	261528
+NIES-1552	Thorea okadae	KIK-61	15 	261528
+NIES-1554	Thorea okadae	AM2	20 	261528
+NIES-1555	Thorea okadae	k5	20 	261528
+NIES-1556	Thorea okadae	k8	20 	261528
+NIES-1558	Thorea okadae	k12	20 	261528
+NIES-1559	Thorea okadae	k18	20 	261528
+NIES-1560	Thorea okadae	k20	20 	261528
+NIES-1561	Thorea okadae	k23	15 	261528
+NIES-1562	Thorea okadae	k25	20 	261528
+NIES-1563	Thorea okadae	oh6	20 	261528
+NIES-1564	Thorea okadae	oh7	20 	261528
+NIES-1565	Thorea okadae	oh23	20 	261528
+NIES-1566	Thorea okadae	s5	20 	261528
+NIES-1568	Thorea okadae	ch13	20 	261528
+NIES-1569	Thorea okadae	ch15	20 	261528
+NIES-1570	Thorea okadae	ch21	20 	261528
+NIES-1571	Thorea okadae	yg4	20 	261528
+NIES-1572	Thorea hispida	KAW-1	15 	202687
+NIES-1573	Thorea hispida	sg1	20 	202687
+NIES-1574	Thorea hispida	KAW-3	15 	202687
+NIES-1575	Thorea hispida	KAW-4	15 	202687
+NIES-1577	Thorea hispida	kwu2	20 	202687
+NIES-1578	Thorea hispida	kwu3	20 	202687
+NIES-1579	Thorea hispida	kwd3	20 	202687
+NIES-1580	Thorea hispida	kwu4	20 	202687
+NIES-1582	Thorea hispida	kwd4	20 	202687
+NIES-1583	Thorea hispida	kwd7	20 	202687
+NIES-1584	Thorea hispida	sg3	20 	202687
+NIES-1585	Chara australis	CH-25	22 	31298
+NIES-1586	Chara braunii	CH-6	20 	69332
+NIES-1587	Chara braunii	CH-70	20 	69332
+NIES-1588	Chara braunii	CH-72	20 	69332
+NIES-1589	Chara braunii	CH-75	20 	69332
+NIES-1590	Chara braunii	CH-82	20 	69332
+NIES-1591	Chara braunii	CH-88	20 	69332
+NIES-1594	Chara braunii	CH-98	20 	69332
+NIES-1597	Chara globularis	CH-35	17 	69338
+NIES-1601	Chara zeylanica	CH-55	25 	69348
+NIES-1602	Chara sp.	CH-19	22 	-1
+NIES-1603	Chara sp.	CH-20	22 	-1
+NIES-1604	Chara braunii	CH-33	20 	69332
+NIES-1605	Chara sp.	CH-39	22 	-1
+NIES-1606	Lamprothamnium succinctum	CH-100	20 	539200
+NIES-1608	Nitella axilliformis	CH-27	22 	231902
+NIES-1611	Nitella flexilis	CH-62: S069	20 	3150
+NIES-1614	Nitella furcata	CH-23	20 	181800
+NIES-1616	Nitella moriokae	CH-68	20 	-1
+NIES-1617	Nitella furcata	CH-95	20 	181800
+NIES-1619	Nitella gracilens	CH-26	20 	181802
+NIES-1620	Nitella gracilens	CH-34	20 	181802
+NIES-1621	Nitella gracilens	CH-76	20 	181802
+NIES-1622	Nitella gracilens	CH-77	20 	181802
+NIES-1623	Nitella hyalina	CH-29	20 	181804
+NIES-1624	Nitella japonica	CH-63	22 	268258
+NIES-1628	Nitella megaspora	CH-114; S073	20 	231900
+NIES-1629	Nitella mirabilis	CH-107; S134	20 	231897
+NIES-1632	Nitella moriokae	CH-48; S133	20 	-1
+NIES-1633	Nitella moriokae	CH-61; S105	20 	-1
+NIES-1634	Nitella pulchella	CH-112; S051	20 	181799
+NIES-1635	Nitella sp.	CH-46	20 	-1
+NIES-1637	Nitellopsis obtusa	CH-1	20 	40811
+NIES-1638	Nitellopsis obtusa	CH-56	20 	40811
+NIES-1703	Protodesmus globulifer	HP1-13-26	20 	326141
+NIES-1723	Dolichospermum planctonicum	yama-2	20 	-1
+NIES-1724	Dolichospermum smithii	yama-1	20 	264682
+NIES-1725	Anabaenopsis sp.	Anabaenopsis (Ueno)	20 	-1
+NIES-1726	Aphanizomenon flos-aquae	Aph E	20 	1176
+NIES-1727	Aphanizomenon flos-aquae	Aph Gm 	20 	1176
+NIES-1728	Aphanizomenon flos-aquae	Aph Inba	20 	1176
+NIES-1729	Raphidiopsis sp.	Rap J1	20 	-1
+NIES-3153	Dolichospermum circinale	Ana V-3	20 	109265
+NIES-3154	Dolichospermum flos-aquae	Ana V-1	20 	1166
+NIES-1730	Rhodomonas sp.	nan	20 	-1
+NIES-1733	Chlamydomonas sp.	M-77	20 	-1
+NIES-1704	Nitella comptonii	S091	20 	-1
+NIES-1705	Nitella comptonii	S137	20 	-1
+NIES-1706	Nitella comptonii	S138	20 	-1
+NIES-1707	Gonium multicoccum	Asa.Goni.6	23 	47784
+NIES-1708	Gonium multicoccum	Asa.Goni.84	23 	47784
+NIES-1709	Gonium multicoccum	AsCl-1	23 	47784
+NIES-1710	Gonium pectorale	Kaneko3	23 	33097
+NIES-1711	Gonium pectorale	Kaneko4	23 	33097
+NIES-1712	Gonium pectorale	Kita.Goni.1	23 	33097
+NIES-1713	Gonium pectorale	Kita.Goni.3	23 	33097
+NIES-1714	Hafniomonas conica	NgCl-3	23 	369744
+NIES-1715	Hafniomonas reticulata	MkCl-10	23 	51322
+NIES-1716	Hafniomonas reticulata	EbCl-11	23 	51322
+NIES-1717	Hafniomonas reticulata	KhCl-1	23 	51322
+NIES-1718	Hafniomonas reticulata	KgCl-4-5	23 	51322
+NIES-1719	Hafniomonas turbinea	NrCl-4	23 	369745
+NIES-1720	Hafniomonas turbinea	NrCl-5	23 	369745
+NIES-1721	Hafniomonas turbinea	NrCl-8	23 	369745
+NIES-1722	Hemiflagellochloris kazakhstanica	BAKg15	20 	361670
+NIES-1807	Porphyridium sp.	TKB-255	20 	-1
+NIES-1808	Gonyostomum latum	TKB-254	20 	1639645
+NIES-1809	Merotricha bacillata	TKB-253	20 	658122
+NIES-1810	Pseudopedinella pyriformis	TKB-221	20 	656189
+NIES-1811	Calyptrosphaera sphaeroidea	TKB-252	20 	35139
+NIES-1812	Prymnesium parvum	TKB-251	20 	97485
+NIES-1813	Chrysotila haptonemofera	TKB-230	20 	-1
+NIES-1814	Pleurochrysis sp.	TKB-231	20 	-1
+NIES-1815	Pavlova sp.	TKB-241	20 	-1
+NIES-1816	Pavlova sp.	TKB-242	20 	-1
+NIES-1817	Nephroselmis pyriformis	TKB-247	20 	156128
+NIES-1818	Nephroselmis sp.	TKB-244	20 	-1
+NIES-1819	Pyramimonas disomata	TKB-226	20 	67781
+NIES-1820	Pyramimonas grossii	TKB-248	20 	36887
+NIES-1821	Pyramimonas propulsa	TKB-223	20 	36895
+NIES-1822	Pyramimonas propulsa	TKB-246	20 	36895
+NIES-1823	Pyramimonas propulsa	TKB-250	20 	36895
+NIES-1824	Marsupiomonas sp.	TKB-243	20 	-1
+NIES-1825	Oltmannsiellopsis viridis	TKB-249	20 	51324
+NIES-1826	Epipyxis glabra	TKB-124	20 	-1
+NIES-1827	Lagynion subglobosum	TKB-133	20 	-1
+NIES-1828	Ochromonas sp.	TKB-152	20 	-1
+NIES-1829	Fibrocapsa japonica	TKB-301	20 	94617
+NIES-1831	Olisthodiscus luteus	TKB-262	20 	83000
+NIES-1832	Akashiwo sanguinea	TKB-263	20 	143672
+NIES-1833	Coolia monotis	TKB-260	20 	58156
+NIES-1834	Gymnodinium catenatum	TKB-264	20 	39447
+NIES-1835	Micromonas sp.	TKB-322	20 	-1
+NIES-1836	Tetraselmis verrucosa	TKB-276	20 	-1
+NIES-1837	Blidingia minima	TKB-271	20 	63414
+NIES-1838	Halochlorococcum sp.	TKB-269	20 	-1
+NIES-1839	Halochlorococcum sp.	TKB-270	20 	-1
+NIES-1840	Choricystis sp.	TKB-198	20 	-1
+NIES-1841	Hafniomonas sp.	TKB-275	20 	-1
+NIES-1843	Dysnectes brevis	TKB-272	15 	391066
+NIES-1735	Nemalionopsis tortuosa	AMN1	20 	101922
+NIES-1736	Nemalionopsis tortuosa	AMN2	20 	101922
+NIES-1737	Nemalionopsis tortuosa	AMN3	20 	101922
+NIES-1738	Nemalionopsis tortuosa	AMN4	20 	101922
+NIES-1739	Nemalionopsis tortuosa	OKC1	20 	101922
+NIES-1740	Nemalionopsis tortuosa	OKC2	20 	101922
+NIES-1741	Nemalionopsis tortuosa	OKC3	20 	101922
+NIES-1743	Nemalionopsis tortuosa	OKC5	20 	101922
+NIES-1744	Nemalionopsis tortuosa	OKC6	20 	101922
+NIES-1745	Nemalionopsis tortuosa	OKC7	20 	101922
+NIES-1746	Nemalionopsis tortuosa	OKC8	20 	101922
+NIES-1747	Nemalionopsis tortuosa	OKC9	20 	101922
+NIES-1748	Nemalionopsis tortuosa	OKC10	20 	101922
+NIES-1749	Nemalionopsis tortuosa	OKC11	20 	101922
+NIES-1750	Nemalionopsis tortuosa	OKC12	20 	101922
+NIES-1751	Thorea gaudichaudii	03nj2-1	20 	261527
+NIES-1752	Thorea gaudichaudii	03nj221	20 	261527
+NIES-1753	Thorea gaudichaudii	03nj6	20 	261527
+NIES-1754	Thorea gaudichaudii	03nj811	20 	261527
+NIES-1755	Thorea gaudichaudii	03nj91	20 	261527
+NIES-1756	Thorea gaudichaudii	03nj10	20 	261527
+NIES-1757	Thorea gaudichaudii	03KC2	20 	261527
+NIES-1758	Thorea gaudichaudii	03KC3	20 	261527
+NIES-1759	Thorea gaudichaudii	03KC4	20 	261527
+NIES-1761	Thorea gaudichaudii	03si3	20 	261527
+NIES-1762	Thorea gaudichaudii	03si51	20 	261527
+NIES-1763	Thorea gaudichaudii	03si11	20 	261527
+NIES-1764	Thorea gaudichaudii	03si12	20 	261527
+NIES-1765	Thorea gaudichaudii	03si13	20 	261527
+NIES-1766	Thorea gaudichaudii	03sii	20 	261527
+NIES-1767	Thorea gaudichaudii	OB1	20 	261527
+NIES-1768	Thorea gaudichaudii	OB2	20 	261527
+NIES-1769	Thorea gaudichaudii	OB3	20 	261527
+NIES-1771	Thorea gaudichaudii	YF2	20 	261527
+NIES-1772	Thorea gaudichaudii	06KC1	20 	261527
+NIES-1773	Thorea okadae	AM1	20 	261528
+NIES-1774	Thorea okadae	IB1	20 	261528
+NIES-1775	Thorea okadae	IB2	20 	261528
+NIES-1776	Thorea okadae	IB3	20 	261528
+NIES-1777	Thorea okadae	IB4	20 	261528
+NIES-1778	Thorea okadae	IB5	20 	261528
+NIES-1779	Thorea okadae	IB6	20 	261528
+NIES-1780	Thorea okadae	IB7	20 	261528
+NIES-1781	Thorea okadae	IB8	20 	261528
+NIES-1782	Thorea okadae	IB9	20 	261528
+NIES-1783	Thorea okadae	IB10	20 	261528
+NIES-1784	Thorea okadae	IB11	20 	261528
+NIES-1785	Thorea okadae	IB12	20 	261528
+NIES-1786	Thorea okadae	IB13	20 	261528
+NIES-1787	Thorea okadae	IB14	20 	261528
+NIES-1788	Thorea okadae	IB15	20 	261528
+NIES-1789	Thorea okadae	IB16	20 	261528
+NIES-1790	Thorea okadae	IB17	20 	261528
+NIES-1791	Thorea okadae	IB18	20 	261528
+NIES-1792	Thorea okadae	IB19	20 	261528
+NIES-1793	Thorea okadae	IB20	20 	261528
+NIES-1794	Thorea okadae	IB21	20 	261528
+NIES-1795	Thorea okadae	IB22	20 	261528
+NIES-1796	Thorea okadae	IB23	20 	261528
+NIES-1797	Thorea okadae	IB24	20 	261528
+NIES-1798	Thorea okadae	IB25	20 	261528
+NIES-1799	Thorea okadae	IB26	20 	261528
+NIES-1800	Thorea okadae	IB27	20 	261528
+NIES-1801	Thorea okadae	IB28	20 	261528
+NIES-1802	Thorea okadae	IB29	20 	261528
+NIES-1803	Thorea okadae	IB30	20 	261528
+NIES-1804	Cyanidioschyzon merolae	MO	37 	45157
+NIES-1805	Cyanidioschyzon merolae	M4	37 	45157
+NIES-1806	Cyanidioschyzon merolae	HUT1-1	37 	45157
+NIES-1848	Chlamydomonas perpusilla	SkCl-3	20 	420349
+NIES-1849	Chlamydomonas perpusilla	SkCr-10	20 	420349
+NIES-1850	Chlamydomonas pumilio	ArCp-7	20 	420351
+NIES-1852	Pleodorina starrii	2005-701-F1-1	20 	330485
+NIES-1853	Pleodorina starrii	2005-701-F1-3	20 	330485
+NIES-1854	Pleodorina starrii	2005-701-F1-5	20 	330485
+NIES-1855	Eudorina unicocca	990601-IE-5	20 	47783
+NIES-1856	Eudorina unicocca	990601-IE-6	20 	47783
+NIES-1857	Eudorina unicocca	TKI-C-1	20 	47783
+NIES-1858	Eudorina unicocca	TKI-C-2	20 	47783
+NIES-1859	Yamagishiella unicocca	Hasu-1	20 	51707
+NIES-1860	Yamagishiella unicocca	Hasu-2	20 	51707
+NIES-1861	Yamagishiella unicocca	Hasu-4	20 	51707
+NIES-1875	Dolichospermum akankoense	TAC 505	20 	747513
+NIES-1876	Dolichospermum akankoense	TAC 506	20 	747513
+NIES-1877	Dolichospermum circinale	TAC 502	20 	109265
+NIES-1878	Dolichospermum circinale	TAC 503	20 	109265
+NIES-1879	Dolichospermum circinale	TAC 508	20 	109265
+NIES-1880	Dolichospermum circinale	TAC 507	20 	109265
+NIES-1881	Dolichospermum crassum	TAC 512	20 	136074
+NIES-1882	Dolichospermum crassum	TAC 518	20 	136074
+NIES-1883	Dolichospermum crassum	TAC 519	20 	136074
+NIES-1884	Dolichospermum crassum	TAC 520	20 	136074
+NIES-1885	Dolichospermum crassum	TAC 522	20 	136074
+NIES-1886	Dolichospermum crassum	TAC 524	20 	136074
+NIES-1887	Dolichospermum crassum	TAC 525	20 	136074
+NIES-1888	Dolichospermum crassum	TAC 526	20 	136074
+NIES-1889	Dolichospermum crassum	TAC 527	20 	136074
+NIES-1890	Dolichospermum crassum	TAC 528	20 	136074
+NIES-1891	Dolichospermum crassum	TAC 529	20 	136074
+NIES-1892	Dolichospermum crassum	TAC 532	20 	136074
+NIES-1893	Dolichospermum crassum	TAC 513	20 	136074
+NIES-1894	Dolichospermum crassum	TAC 514	20 	136074
+NIES-1895	Dolichospermum crassum	TAC 515	20 	136074
+NIES-1896	Dolichospermum crassum	TAC 516	20 	136074
+NIES-1897	Dolichospermum crassum	TAC 517	20 	136074
+NIES-1898	Dolichospermum crassum	TAC 521	20 	136074
+NIES-1899	Dolichospermum crassum	TAC 523	20 	136074
+NIES-1900	Dolichospermum crassum	TAC 530	20 	136074
+NIES-1901	Dolichospermum crassum	TAC 531	20 	136074
+NIES-1902	Dolichospermum crassum	TAC 533	20 	136074
+NIES-1903	Dolichospermum flos-aquae	TAC 429	20 	1166
+NIES-1904	Sphaerospermopsis oumiana	TAC 509	20 	747503
+NIES-1905	Dolichospermum spiroides	TAC 504	20 	135104
+NIES-1906	Dolichospermum akankoense	TAC 571	20 	747513
+NIES-1907	Dolichospermum akankoense	TAC 572	20 	747513
+NIES-1908	Dolichospermum circinale	TAC 552	20 	109265
+NIES-1909	Dolichospermum circinale	TAC 553	20 	109265
+NIES-1910	Dolichospermum crassum	TAC 562	20 	136074
+NIES-1911	Dolichospermum crassum	TAC 563	20 	136074
+NIES-1912	Dolichospermum crassum	TAC 567	20 	136074
+NIES-1913	Dolichospermum crassum	TAC 573	20 	136074
+NIES-1914	Dolichospermum crassum	TAC 574	20 	136074
+NIES-1915	Dolichospermum crassum	TAC 575	20 	136074
+NIES-1916	Dolichospermum crassum	TAC 576	20 	136074
+NIES-1917	Dolichospermum crassum	TAC 577	20 	136074
+NIES-1918	Dolichospermum crassum	TAC 587	20 	136074
+NIES-1919	Dolichospermum crassum	TAC 588	20 	136074
+NIES-1920	Dolichospermum lemmermannii	TAC 583	20 	-1
+NIES-1921	Dolichospermum lemmermannii	TAC 584	20 	-1
+NIES-1922	Dolichospermum minisporum	TAC 554	20 	747518
+NIES-1923	Dolichospermum minisporum	TAC 555	20 	747518
+NIES-1924	Dolichospermum minisporum	TAC 556	20 	747518
+NIES-1925	Dolichospermum sp.	TAC 534	20 	-1
+NIES-1926	Dolichospermum sp.	TAC 535	20 	-1
+NIES-1927	Dolichospermum sp.	TAC 536	20 	-1
+NIES-1928	Dolichospermum sp.	TAC 537	20 	-1
+NIES-1929	Dolichospermum circinale	TAC 585	20 	109265
+NIES-1930	Dolichospermum circinale	TAC 586	20 	109265
+NIES-1931	Sphaerospermopsis oumiana	TAC 568	20 	747503
+NIES-1932	Sphaerospermopsis oumiana	TAC 569	20 	747503
+NIES-1933	Sphaerospermopsis oumiana	TAC 570	20 	747503
+NIES-1934	Dolichospermum planctonicum	TAC 561	20 	-1
+NIES-1935	Dolichospermum pseudocompactum	TAC 539	20 	747515
+NIES-1936	Dolichospermum pseudocompactum	TAC 541	20 	747515
+NIES-1937	Dolichospermum pseudocompactum	TAC 589	20 	747515
+NIES-1938	Dolichospermum pseudocompactum	TAC 590	20 	747515
+NIES-1939	Dolichospermum pseudocompactum	TAC 538	20 	747515
+NIES-1940	Dolichospermum pseudocompactum	TAC 540	20 	747515
+NIES-1941	Sphaerospermopsis reniformis	TAC 542	20 	531300
+NIES-1942	Sphaerospermopsis reniformis	TAC 543	20 	531300
+NIES-1943	Sphaerospermopsis reniformis	TAC 544	20 	531300
+NIES-1944	Sphaerospermopsis reniformis	TAC 545	20 	531300
+NIES-1945	Sphaerospermopsis reniformis	TAC 546	20 	531300
+NIES-1946	Sphaerospermopsis reniformis	TAC 547	20 	531300
+NIES-1947	Sphaerospermopsis reniformis	TAC 548	20 	531300
+NIES-1948	Sphaerospermopsis reniformis	TAC 549	20 	531300
+NIES-1949	Sphaerospermopsis reniformis	TAC 550	20 	2502842
+NIES-1950	Dolichospermum spiroides	TAC 551	20 	135104
+NIES-1951	Dolichospermum sp.	TAC 559	20 	-1
+NIES-1952	Dolichospermum sp.	TAC 560	20 	-1
+NIES-1954	Dolichospermum sp.	TAC 565	20 	-1
+NIES-1955	Dolichospermum sp.	TAC 566	20 	-1
+NIES-1956	Scytonema javanicum	TAC 582	20 	1170706
+NIES-1957	Porphyridium aerugineum	TAC 578	20 	2792
+NIES-1958	Porphyridium aerugineum	TAC 579	20 	2792
+NIES-1959	Porphyridium aerugineum	TAC 580	20 	2792
+NIES-1960	Porphyridium aerugineum	TAC 581	20 	2792
+NIES-1961	Glaucocystis miyajii	TKB-333	20 	1789789
+NIES-1963	Mischococcus sp.	TKB-325	20 	-1
+NIES-1862	Giraudyopsis sp.	TKB-334	20 	-1
+NIES-1964	Ochrosphaera neapolitana	TKB-324	20 	35137
+NIES-1965	Pavlova sp.	TKB-326	20 	-1
+NIES-1966	Karlodinium veneficum	TKB-327	20 	407301
+NIES-1967	Prorocentrum mexicanum	TKB-328	20 	72677
+NIES-2433	Norrisiella sphaerica	TKB-329	20 	552664
+NIES-1968	Kipferlia bialata	TKB-336; NY0173	15 	797122
+NIES-1969	Chroodactylon ornatum	M-76	20 	139907
+NIES-1970	Chroodactylon ornatum	M-183	20 	139907
+NIES-1971	Chroodactylon ornatum	M-184	20 	139907
+NIES-1972	Rhodella sp.	M-182	20 	-1
+NIES-1974	Chattonella marina	DEM-124	20 	90936
+NIES-1975	Chattonella marina	DEM-125	20 	90936
+NIES-1976	Chattonella marina	DEM-141	20 	90936
+NIES-1977	Chattonella marina	DEM-3011	20 	90936
+NIES-1978	Chattonella marina	DEM-127	20 	90936
+NIES-1980	Chattonella marina	DEM-101	20 	90936
+NIES-1981	Chattonella marina	DEM-103	20 	90936
+NIES-1982	Chattonella marina	DEM-107	20 	90936
+NIES-1983	Chattonella marina	DEM-109	20 	90936
+NIES-1984	Chattonella marina	DEM-112	20 	90936
+NIES-1986	Heterosigma akashiwo	DEM-51	20 	2829
+NIES-1987	Akashiwo sanguinea	MHW10	20 	143672
+NIES-1988	Alexandrium sp.	MHW6	20 	-1
+NIES-1989	Alexandrium sp.	MHW7	20 	-1
+NIES-2003	Gymnodinium sp.	MHW20	20 	-1
+NIES-2008	Katodinium sp.	MHW17	20 	-1
+NIES-2009	Katodinium sp.	MHW18	20 	-1
+NIES-2010	Prorocentrum dentatum	SY06-6	20 	260685
+NIES-2011	Prorocentrum dentatum	SY06-8	20 	260685
+NIES-2014	Prorocentrum dentatum	SY06-11	20 	260685
+NIES-2016	Scrippsiella sp.	MHW26	20 	-1
+NIES-2020	Scrippsiella sp.	MHW31	20 	-1
+NIES-2022	Scrippsiella sp.	MHW36	20 	-1
+NIES-2023	Nemalionopsis tortuosa	KMN1	20 	101922
+NIES-2024	Nemalionopsis tortuosa	KMN2	20 	101922
+NIES-2025	Nemalionopsis tortuosa	KMN3	20 	101922
+NIES-2026	Nemalionopsis tortuosa	KMN4	20 	101922
+NIES-2027	Nemalionopsis tortuosa	KMN5	20 	101922
+NIES-2028	Nemalionopsis tortuosa	KMN6	20 	101922
+NIES-2029	Nemalionopsis tortuosa	KMN7	20 	101922
+NIES-2031	Nemalionopsis tortuosa	KMN9	20 	101922
+NIES-2032	Thorea gaudichaudii	06nu1	20 	261527
+NIES-2033	Thorea gaudichaudii	06nu2	20 	261527
+NIES-2035	Thorea gaudichaudii	06nu4	20 	261527
+NIES-2036	Thorea gaudichaudii	06nu5	20 	261527
+NIES-2037	Thorea gaudichaudii	06nu6	20 	261527
+NIES-2038	Thorea gaudichaudii	06nu7	20 	261527
+NIES-2039	Thorea gaudichaudii	06nu8	20 	261527
+NIES-2040	Thorea gaudichaudii	06nu9	20 	261527
+NIES-2041	Thorea gaudichaudii	06nu10	20 	261527
+NIES-2042	Thorea gaudichaudii	06nu11	20 	261527
+NIES-2043	Thorea hispida	06sg3	20 	202687
+NIES-2045	Thorea okadae	ym1	20 	261528
+NIES-2046	Thorea okadae	ym2	20 	261528
+NIES-2047	Thorea okadae	ym3	20 	261528
+NIES-2048	Thorea okadae	ym6	20 	261528
+NIES-2049	Thorea okadae	ym8	20 	261528
+NIES-2050	Thorea okadae	ym9	20 	261528
+NIES-2051	Thorea okadae	06k1	20 	261528
+NIES-2052	Thorea okadae	06k3	20 	261528
+NIES-2053	Thorea okadae	06k4	20 	261528
+NIES-2054	Thorea okadae	06k6	20 	261528
+NIES-2055	Thorea okadae	AT1	20 	261528
+NIES-2056	Thorea okadae	AT2	20 	261528
+NIES-2057	Thorea okadae	ATC2-1	20 	261528
+NIES-2058	Thorea okadae	ATC2-2	20 	261528
+NIES-2059	Thorea okadae	AT3	20 	261528
+NIES-2060	Thorea okadae	AT4	20 	261528
+NIES-2061	Thorea okadae	AT5	20 	261528
+NIES-2062	Thorea okadae	06ym1	20 	261528
+NIES-2063	Thorea okadae	06ym2	20 	261528
+NIES-2064	Thorea okadae	06ym3	20 	261528
+NIES-2065	Thorea okadae	06ym4	20 	261528
+NIES-2066	Thorea okadae	06ym5	20 	261528
+NIES-2067	Thorea okadae	06ym6	20 	261528
+NIES-2068	Thorea okadae	06ym7	20 	261528
+NIES-2069	Thorea okadae	06ym8	20 	261528
+NIES-2070	Thorea okadae	06ym9	20 	261528
+NIES-2071	Thorea okadae	06ym10	20 	261528
+NIES-2072	Thorea okadae	06ym11	20 	261528
+NIES-2073	Thorea okadae	06ym12	20 	261528
+NIES-2074	Thorea okadae	06ym13	20 	261528
+NIES-2075	Nemalionopsis tortuosa	030408	15 	101922
+NIES-2076	Nemalionopsis tortuosa	030510	15 	101922
+NIES-2077	Nemalionopsis tortuosa	030512	15 	101922
+NIES-2078	Nemalionopsis tortuosa	030601	15 	101922
+NIES-2079	Nemalionopsis tortuosa	030314	15 	101922
+NIES-2080	Nemalionopsis tortuosa	050612	15 	101922
+NIES-2082	Nemalionopsis tortuosa	060329	15 	101922
+NIES-2084	Chara australis	CH-25	22 	31298
+NIES-2085	Chara australis	CH-25	22 	31298
+NIES-1863	Aurearena cruciata	TKB-337	25 	479719
+NIES-1864	Aurearena cruciata	TKB-338	25 	479719
+NIES-1865	Aurearena cruciata	TKB-339	25 	479719
+NIES-1868	Lepidodinium chlorophorum	MH 210	20 	107758
+NIES-1869	Gungnir neglectum	IkCl-701	20 	71745
+NIES-1870	Haramonas pauciplastida	nan	20 	478668
+NIES-1871	Luteocerasus tetraplastida	TKB-258	20 	-1
+NIES-2086	Prochlorococcus marinus	SS52	20 	1219
+NIES-2087	Prochlorococcus marinus	MED4	20 	1219
+NIES-2088	Microcystis aeruginosa	Is07Yo01	23 	1126
+NIES-2089	Microcystis aeruginosa	Ks07TS11	23 	1126
+NIES-2090	Microcystis aeruginosa	Ks07TS29	23 	1126
+NIES-2091	Microcystis aeruginosa	Ks07TS48	23 	1126
+NIES-2093	Anabaena variabilis	nan	20 	-1
+NIES-2094	Nostoc sp.	Ishikawa 99.J403w.	20 	-1
+NIES-2095	Anabaena variabilis	nan	20 	-1
+NIES-2096	Anacystis marina	SEC 142	20 	2081909
+NIES-2097	Calothrix brevissima	D59.W	20 	938406
+NIES-2098	Calothrix sp.	Ishikawa 103X (1) W-N-F	20 	-1
+NIES-2099	Calothrix sp.	Ishikawa 73. O161W	20 	-1
+NIES-2100	Calothrix sp.	Ishikawa 78. F243D	20 	-1
+NIES-2101	Calothrix sp.	HK-06	20 	-1
+NIES-2102	Cylindrospermum muscicola	Ishikawa X2W-N-F	20 	418417
+NIES-2103	Leptolyngbya sp.	HK-03	20 	-1
+NIES-2104	Leptolyngbya sp.	HK-04	20 	-1
+NIES-2107	Nostoc carneum	nan	20 	1973483
+NIES-2108	Nostoc punctiforme	nan	20 	1356359
+NIES-2109	Nostoc sp.	HK-01	20 	-1
+NIES-2110	Nostoc sp.	YK-01	20 	-1
+NIES-2111	Nostoc sp.	KK-01	20 	-1
+NIES-2112	Nostoc sp.	nan	20 	-1
+NIES-2113	Nostoc sp.	IK-01	20 	-1
+NIES-2114	Nostoc sp.	HK-02	20 	-1
+NIES-2115	Phormidium sp.	nan	20 	-1
+NIES-2116	Oscillatoria neglecta	Murano 400 (PC-G)	20 	-1
+NIES-2118	Leptolyngbya sp.	CU 1407/1	20 	-1
+NIES-2119	Phormidium ambiguum	Murano 394 (W1-27(1))	20 	71191
+NIES-2120	Phormidium sp.	nan	20 	-1
+NIES-2121	Phormidium sp.	nan	20 	-1
+NIES-2122	Leptolyngbya sp.	nan	20 	-1
+NIES-2123	Phormidium angustissimum	nan	20 	-1
+NIES-2124	Unidentified cyanobacterium	Murano 387 (W1-21(2))	20 	-1
+NIES-2125	Phormidium luridum	Murano 397 (W1-32(2))	20 	-1
+NIES-2126	Phormidesmis molle	Murano 386 (W1-21U)	20 	128142
+NIES-2128	Phormidium sp.	nan	20 	-1
+NIES-2129	Leptolyngbya sp.	Allen M931	20 	-1
+NIES-2130	Scytonema sp.	HK-05	20 	-1
+NIES-2131	Stigonema ocellatum	A. Zehnder 232	20 	221293
+NIES-2132	Symploca muscorum	nan	20 	1905349
+NIES-2133	Thermosynechococcus elongatus	BP-1	50 	-1
+NIES-2134	Thermosynechococcus vulcanus	nan	50 	-1
+NIES-2135	Leptolyngbya boryana	nan	20 	1973484
+NIES-2136	Batrachospermum turfosum	nan	20 	-1
+NIES-2137	Cyanidium caldarium	RK-1	37 	2771
+NIES-2138	Porphyridium purpureum	nan	20 	35688
+NIES-2139	Porphyridium purpureum	nan	20 	35688
+NIES-2140	Porphyridium purpureum	nan	20 	35688
+NIES-2141	Glaucocystis geitleri	nan	20 	1789787
+NIES-2142	Ochromonas danica	nan	20 	2986
+NIES-2143	Ochromonas minuta	nan	20 	-1
+NIES-2144	Poterioochromonas malhamensis	nan	20 	88167
+NIES-2145	Nannochloropsis oceanica	nan	20 	145522
+NIES-2146	Nannochloropsis oceanica	nan	20 	145522
+NIES-2147	Vischeria punctata	nan	20 	643629
+NIES-2148	Vischeria stellata	nan	20 	1104407
+NIES-2149	Euglena viridis	nan	20 	3040
+NIES-2150	Pseudochlorella pringsheimii	nan	20 	3072
+NIES-2151	Graesiella emersonii	nan	20 	95581
+NIES-2152	Parachlorella kessleri	nan	20 	3074
+NIES-2153	Parachlorella kessleri	nan	20 	3074
+NIES-2154	Parachlorella kessleri	nan	20 	3074
+NIES-2155	Parachlorella kessleri	nan	20 	3074
+NIES-2156	Parachlorella kessleri	nan	20 	3074
+NIES-2157	Parachlorella kessleri	nan	20 	3074
+NIES-2158	Parachlorella kessleri	nan	20 	3074
+NIES-2159	Parachlorella kessleri	nan	20 	3074
+NIES-2160	Parachlorella kessleri	nan	20 	3074
+NIES-2161	Parachlorella kessleri	nan	20 	3074
+NIES-2162	Parachlorella kessleri	Schwarze 125	20 	3074
+NIES-2163	Auxenochlorella protothecoides	nan	20 	3075
+NIES-2164	Auxenochlorella protothecoides	nan	20 	3075
+NIES-2165	Auxenochlorella protothecoides	nan	20 	3075
+NIES-2166	Coccomyxa subellipsoidea	Holm-Hansen M-42-a	20 	248742
+NIES-2167	Didymogenes sphaerica	nan	20 	1202743
+NIES-2168	Chlorella sorokiniana	Murano (407)U-145	20 	3076
+NIES-2169	Chlorella sorokiniana	nan	20 	3076
+NIES-2170	Chlorella vulgaris	Tamiya strain	20 	3077
+NIES-2171	Micractinium inermum	Kiyohara U-140	20 	619280
+NIES-2172	Chlorella vulgaris	nan	20 	3077
+NIES-2173	Chlorella sorokiniana	nan	20 	3076
+NIES-2175	Chromochloris zofingiensis	nan	20 	31302
+NIES-2176	Auxenochlorella protothecoides	nan	20 	3075
+NIES-2177	Parachlorella kessleri	nan	20 	3074
+NIES-2178	Parachlorella kessleri	nan	20 	3074
+NIES-2179	Parachlorella kessleri	nan	20 	3074
+NIES-2180	Interfilum paradoxum	nan	20 	519231
+NIES-2181	Myrmecia biatorellae	nan	20 	34150
+NIES-2183	Pseudotrebouxia corticola	nan	20 	-1
+NIES-2184	Stichococcus bacillaris	Holm-Hansen M-13-d	20 	37433
+NIES-2185	Trebouxia erici	nan	20 	-1
+NIES-2186	Trebouxia erici	nan	20 	-1
+NIES-2187	Trebouxia glomerata	nan	20 	-1
+NIES-2188	Trebouxia glomerata	nan	20 	-1
+NIES-2189	Watanabea reniformis	Cambridge Univ. 211-9b	20 	191674
+NIES-2190	Ankistrodesmus angustus	nan	20 	-1
+NIES-2191	Ankistrodesmus angustus	nan	20 	-1
+NIES-2192	Ankistrodesmus angustus	Vischer 9	20 	-1
+NIES-2193	Ankistrodesmus braunii	nan	20 	-1
+NIES-2194	Ankistrodesmus braunii	nan	20 	-1
+NIES-2195	Ankistrodesmus falcatus	nan	20 	52960
+NIES-2196	Ankistrodesmus falcatus	nan	20 	52960
+NIES-2197	Ankistrodesmus nannoselene	Rodhe 1632	20 	875616
+NIES-2198	Asterococcus superbus	nan	20 	269637
+NIES-2199	Botryococcus braunii	nan	20 	38881
+NIES-2200	Bracteacoccus giganteus	nan	20 	50039
+NIES-2201	Chloromonas actinochloris	Deason C-2-14	20 	158501
+NIES-2202	Chlamydomonas applanata	Deason T-1-12	20 	35704
+NIES-2203	Chloromonas sp.	Deason C-1-11	20 	-1
+NIES-2204	Chlamydomonas applanata	nan	20 	35704
+NIES-2206	Chlamydomonas applanata	nan	20 	35704
+NIES-2207	Chlamydomonas asymmetrica	nan	20 	51683
+NIES-2208	Chlamydomonas asymmetrica	nan	20 	51683
+NIES-2209	Lobochlamys culleus	Chlamydomonas culleus	20 	51693
+NIES-2210	Lobochlamys culleus	nan	20 	51693
+NIES-2211	Chlamydomonas sp.	nan	20 	-1
+NIES-2212	Chlamydomonas debaryana	nan	20 	-1
+NIES-2213	Chlamydomonas noctigama	nan	20 	28456
+NIES-2214	Lobochlamys segnis	nan	20 	52035
+NIES-2215	Chloromonas difformis	Ettl 136	20 	1034609
+NIES-2216	Chlamydomonas inflexa	R.A.Lewin DD1/72	20 	1034602
+NIES-2218	Chlamydomonas mexicana	nan	20 	28460
+NIES-2219	Chlamydomonas moewusii	nan	20 	3054
+NIES-2220	Chlamydomonas moewusii	nan	20 	3054
+NIES-2222	Chlamydomonas moewusii	Tsubo 2475	20 	3054
+NIES-2223	Chlamydomonas moewusii	Tsubo 24 (+)	20 	3054
+NIES-2224	Chloromonas actinochloris	Tsubo T-A	20 	158501
+NIES-2225	Chlamydomonas nasuta	nan	20 	1157966
+NIES-2228	Chlamydomonas noctigama	Ettl 108	20 	28456
+NIES-2229	Chlamydomonas noctigama	nan	20 	28456
+NIES-2230	Chlamydomonas orbicularis	nan	20 	657162
+NIES-2231	Chlamydomonas proteus	nan	20 	1034598
+NIES-2233	Chlamydomonas pulvinata	nan	20 	1157967
+NIES-2234	Chlamydomonas rapa	nan	20 	51689
+NIES-2235	Chlamydomonas reinhardtii	Tsubo R (-)	20 	3055
+NIES-2236	Chlamydomonas reinhardtii	137c mt+	20 	3055
+NIES-2237	Chlamydomonas reinhardtii	cw-15 strain	20 	3055
+NIES-2238	Chlamydomonas reinhardtii	137c mt+	20 	3055
+NIES-2239	Chlamydomonas reinhardtii	Tsubo R (+)	20 	3055
+NIES-2240	Lobochlamys segnis	nan	20 	52035
+NIES-2241	Chlamydomonas moewusii	nan	20 	3054
+NIES-2242	Chlamydomonas sphaeroides	nan	20 	28458
+NIES-2243	Chloromonas typhlos	nan	20 	1006182
+NIES-2246	Chlamydomonas typica	Deason T-2-11	20 	282662
+NIES-2247	Chlamydomonas ulvaensis	nan	20 	282654
+NIES-2248	Chlamydomonas zebra	Brannon5	20 	28464
+NIES-2249	Chlorococcum echinozygotum	nan	20 	48000
+NIES-2250	Chlorococcum elkhartiense	Lewin DD1/174	20 	264984
+NIES-2252	Coccomyxa dispar	Ishikawa U-109	20 	614188
+NIES-2253	Dunaliella bioculata	nan	20 	13790
+NIES-2254	Dunaliella parva	nan	20 	3048
+NIES-2255	Dunaliella peircei	nan	20 	147822
+NIES-2256	Dunaliella primolecta	nan	20 	257627
+NIES-2257	Dunaliella salina	nan	20 	3046
+NIES-2258	Dunaliella tertiolecta	nan	20 	3047
+NIES-2259	Eudorina illinoisensis	94-409-E-10	20 	-1
+NIES-2260	Eudorina illinoisensis	94-409-E-11	20 	-1
+NIES-2261	Gonium pectorale	94-409-G-4	20 	33097
+NIES-2262	Gonium pectorale	94-409-G-6	20 	33097
+NIES-2263	Haematococcus lacustris	Nakayama 5032	20 	44745
+NIES-2264	Haematococcus lacustris	nan	20 	44745
+NIES-2265	Haematococcus lacustris	Lewin DD1/73	20 	44745
+NIES-2266	Lobomonas piriformis	nan	20 	-1
+NIES-2267	Monoraphidium sp.	GK 12	20 	-1
+NIES-2268	Planktosphaeria gelatinosa	nan	20 	170393
+NIES-2269	Scenedesmus acutus	nan	20 	104103
+NIES-2270	Scenedesmus acutus	nan	20 	104103
+NIES-2271	Scenedesmus basiliensis	nan	20 	119572
+NIES-2272	Scenedesmus basiliensis	nan	20 	119572
+NIES-2273	Scenedesmus bijuga	nan	20 	-1
+NIES-2274	Scenedesmus chlorelloides	nan	20 	-1
+NIES-2275	Scenedesmus coelastroides	nan	20 	-1
+NIES-2276	Scenedesmus costulatus	nan	20 	-1
+NIES-2277	Desmodesmus sp.	nan	20 	-1
+NIES-2278	Desmodesmus sp.	nan	20 	-1
+NIES-2279	Tetradesmus obliquus	Gaffron D-3	20 	3088
+NIES-2280	Tetradesmus obliquus	Gaffron D-3	20 	3088
+NIES-2282	Monoraphidium minutum	nan	20 	39955
+NIES-2283	Cylindrocystis crassa	nan	20 	184488
+NIES-2284	Cylindrocystis sp.	nan	20 	-1
+NIES-2285	Klebsormidium nitens	nan	20 	105231
+NIES-2286	Klebsormidium nitens	nan	20 	105231
+NIES-2287	Mesotaenium caldariorum	nan	20 	31321
+NIES-2288	Netrium digitus	nan	20 	43946
+NIES-2289	Netrium digitus	nan	20 	43946
+NIES-2290	Raphidonema nivale	Holm-Hansen W-35	20 	155715
+NIES-2291	Roya anglica	nan	20 	43943
+NIES-3259	Calothrix parietina	Safferman M-13-1-1	20 	32054
+NIES-2571	Tolypothrix sp.	nan	20 	-1
+NIES-2351	Cylindrotheca fusiformis	nan	20 	2853
+NIES-2572	Tetraselmis subcordiformis	nan	20 	3161
+NIES-2352	Chloroidium saccharophilum	nan	20 	3082
+NIES-2573	Chlorella vulgaris	nan	20 	3077
+NIES-2574	Bracteacoccus sp.	Holm-Hansen M-37	20 	-1
+NIES-2575	Ixipapillifera deasonii	Deason C-2-4	20 	2069336
+NIES-2576	Chlamydomonas moewusii	Tsubo L	20 	3054
+NIES-2577	Chlamydomonas moewusii	Tsubo 2470	20 	3054
+NIES-2578	Chlamydomonas moewusii	Tsubo 24122	20 	3054
+NIES-2579	Chlamydomonas noctigama	nan	20 	28456
+NIES-2580	Chlorococcum hypnosporum	nan	20 	44650
+NIES-2353	Coccomyxa dispar	Holm-Hansen R-1	20 	614188
+NIES-2581	Heterochlamydomonas lobata	Lewin ZZ.1,D/4	20 	179867
+NIES-3275	Microchaete diplosiphon	nan	20 	1197
+NIES-3276	Plectonema boryanum	nan	20 	-1
+NIES-3277	Synechococcus leopoliensis	Tx 20	20 	32047
+NIES-3284	Chlamydomonas reinhardtii	137c mt-	20 	3055
+NIES-2363	Cyclotella meneghiniana	HK	20 	-1
+NIES-2364	Cyclotella meneghiniana	MG	20 	-1
+NIES-2365	Cyclotella meneghiniana	SR-0	20 	-1
+NIES-2369	Corisphaera gracilis	IG-1	20 	-1
+NIES-2370	Emiliania huxleyi	OS-5	20 	2903
+NIES-2371	Emiliania huxleyi	MT0610E	20 	2903
+NIES-2372	Emiliania huxleyi	NG-1	20 	2903
+NIES-2373	Gephyrocapsa oceanica	MM4-6	20 	38817
+NIES-2374	Gephyrocapsa oceanica	MT3-6	20 	38817
+NIES-2375	Gephyrocapsa oceanica	MT0610G	20 	38817
+NIES-2376	Helicosphaera wallichii	NG-2	20 	664441
+NIES-2377	Ovulinata parva	TKB-342	20 	985831
+NIES-2378	Ovaloplaca yabukii	TKB-345	20 	-1
+NIES-2379	Chloromonas miwae	GS1	10 	519986
+NIES-2380	Chloromonas miwae	STR	10 	519986
+NIES-2296	Chlorogonium complexum Nakada	KsCl-4-1	20 	-1
+NIES-2297	Chlorogonium complexum Nakada	ChCl-508	20 	-1
+NIES-2293	Hamakko caudatus	KzCl-4-1	20 	551845
+NIES-2294	Tabris heimii	IwCl-10	20 	551846
+NIES-2295	Tabris heimii	IwCl-12	20 	551846
+NIES-2383	Chattonella marina	DEM-1007	20 	90936
+NIES-2384	Chattonella marina	DEM-2002	20 	90936
+NIES-2385	Chattonella marina	DEM-3001	20 	90936
+NIES-2386	Chattonella marina	DEM-3009	20 	90936
+NIES-2387	Chattonella marina	DEM-4001	20 	90936
+NIES-2388	Chattonella marina	DEM-4009	20 	90936
+NIES-2389	Chattonella marina	DEM-5003	20 	90936
+NIES-2390	Chattonella marina	KGY-M1	20 	90936
+NIES-2391	Chattonella marina	DEM-1001	20 	90936
+NIES-2392	Chattonella marina	DEM-1012	20 	90936
+NIES-2393	Chattonella marina	DEM-2006	20 	90936
+NIES-2394	Chattonella marina	DEM-3015	20 	90936
+NIES-2395	Chattonella marina	DEM-4002	20 	90936
+NIES-2396	Chattonella marina	DEM-4004	20 	90936
+NIES-2397	Chattonella marina	DEM-5008	20 	90936
+NIES-2398	Chattonella marina	DEM-115	20 	90936
+NIES-2399	Chattonella marina	DEM-116	20 	90936
+NIES-2400	Chattonella marina	DEM-119	20 	90936
+NIES-2401	Chattonella marina	DEM-122	20 	90936
+NIES-2402	Chattonella marina	DEM-123	20 	90936
+NIES-2403	Chattonella marina	DEM-126	20 	90936
+NIES-2404	Chattonella marina	DEM-140	20 	90936
+NIES-2405	Chattonella marina	DEM-245	20 	90936
+NIES-2406	Chattonella marina	DEM-4011	20 	90936
+NIES-2407	Chattonella marina	MH 14	20 	90936
+NIES-2408	Klebsormidium flaccidum	nan	20 	3175
+NIES-2411	Karenia mikimotoi	nan	20 	225107
+NIES-2412	Acaryochloris marina	Muroran strain	25 	2762543
+NIES-2497	Actinophrys sol	HSA	20 	238771
+NIES-2498	Raphidiophrys contractilis	HSR	20 	-1
+NIES-2499	Chlamydomonas eustigma	nan	20 	1157962
+NIES-2500	Chara braunii	CH-66	22 	69332
+NIES-2432	Tetraselmis sp.	TKB-349	20 	-1
+NIES-2501	Pseudendoclonium sp.	TKB-354	20 	-1
+NIES-2502	Unidentified chlorarachniophyte	TKB-352	20 	-1
+NIES-2503	Glossomastix sp.	TKB-256	20 	-1
+NIES-2504	Glossomastix sp.	TKB-257	20 	-1
+NIES-2505	Bumilleriopsis petersiana	TKB-353	20 	-1
+NIES-2506	Chrysochromulina sp.	TKB-348	20 	-1
+NIES-2414	Allapsa ocior	5A moss	20 	-1
+NIES-2415	Allapsa scotia	KV Hf	15 	-1
+NIES-2507	Flectomonas lenta	WA28	15 	-1
+NIES-2417	Neoheteromita hederae	IVY21a	15 	-1
+NIES-2418	Neoheteromita soli	WA4a	20 	-1
+NIES-2419	Sandona aestiva	WA81	15 	-1
+NIES-2421	Sandona dimutans	G11	20 	-1
+NIES-2422	Sandona disimilis	W4	15 	-1
+NIES-2508	Sandona erratica	IVY16	15 	-1
+NIES-2423	Sandona pentamutans	WA60a	15 	-1
+NIES-2424	Sandona similis	WA57	15 	-1
+NIES-2425	Sandona tetramutans	WA46a	15 	-1
+NIES-2426	Sandona tetrasimilis	WA36	15 	-1
+NIES-2427	Sandona ubiquita	W36	15 	-1
+NIES-2428	Sandona ubiquita	W73	15 	-1
+NIES-2429	Sandona ubiquita	W68	15 	-1
+NIES-2430	Sandona ubiquita	B13	15 	-1
+NIES-2582	Prasinoderma coloniale	Biosope_34B2_FL2-5	20 	156133
+NIES-2584	Lotharella reticulosa	PROSOPE_97-1	20 	948515
+NIES-2586	Picophagus flagellatus	OLI11SC2D	20 	106529
+NIES-2587	Microchloropsis gaditana	BL_120-7	20 	-1
+NIES-2588	Nannochloropsis granulata	BL_39	20 	43926
+NIES-2589	Symbiomonas scintillans	OLI120SDA	20 	106530
+NIES-2590	Tisochrysis lutea	Caen	20 	1321669
+NIES-2434	Cavernomonas stercoris	Cav-E	20 	686740
+NIES-2435	Cercomonas ambigua	WA82	20 	686720
+NIES-2436	Cercomonas dactyloptera	C-43	20 	686762
+NIES-2437	Cercomonas effusa	Beaver-Creek	20 	686727
+NIES-2438	Cercomonas fastiga	18-3D	20 	686724
+NIES-2439	Cercomonas hederae	IVY20	20 	686691
+NIES-2440	Cercomonas hiberna	W70	20 	687158
+NIES-2441	Cercomonas laeva	C-72	20 	686759
+NIES-2442	Cercomonas lata	C-85	20 	686763
+NIES-2443	Cercomonas magna	IVY8C	20 	686730
+NIES-2444	Cercomonas mutans	W40a	20 	686716
+NIES-2445	Cercomonas parambigua	WA22	20 	686721
+NIES-2449	Eocercomonas echina	IVY19	20 	686738
+NIES-2450	Paracercomonas elongata	IVY11	20 	686751
+NIES-2451	Paracercomonas oxoniensis	WA8	20 	686746
+NIES-2452	Paracercomonas paralaciniaegerens	31-1C	20 	686752
+NIES-2453	Paracercomonas pleomorpha	19-5C	20 	686770
+NIES-2454	Paracercomonas producta	WA42	20 	686743
+NIES-2455	Gonium maiaprilis	Asa041901	20 	671768
+NIES-2456	Gonium maiaprilis	Asa041902	20 	671768
+NIES-2457	Gonium maiaprilis	Asa041903	20 	671768
+NIES-2458	Gonium maiaprilis	AsaF1A1	20 	671768
+NIES-2459	Gonium maiaprilis	AsaF1A2	20 	671768
+NIES-2460	Gonium maiaprilis	AsaF1A3	20 	671768
+NIES-2461	Gonium maiaprilis	AsaF1A4	20 	671768
+NIES-2509	Chattonella marina	DEM-AR5	20 	90936
+NIES-2510	Chattonella marina	DEM-YT1	20 	90936
+NIES-2511	Chattonella marina	DEM-YT90	20 	90936
+NIES-2512	Chattonella marina	KGK-M2	20 	90936
+NIES-2513	Chattonella marina	DEM-KG3	20 	90936
+NIES-2514	Chattonella marina	DEM-TK6	20 	90936
+NIES-2515	Chattonella marina	DEM-TK8	20 	90936
+NIES-2516	Chattonella marina	DEM-TK14	20 	90936
+NIES-2517	Chattonella marina	DEM-TK19	20 	90936
+NIES-2518	Chattonella marina	DEM-TK27	20 	90936
+NIES-2465	Microcystis aeruginosa	KA-3b	20 	1126
+NIES-2466	Microcystis aeruginosa	KA-6	20 	1126
+NIES-2467	Microcystis aeruginosa	SA-2	20 	1126
+NIES-2468	Microcystis aeruginosa	Sw-4	20 	1126
+NIES-2469	Microcystis aeruginosa	Ks05IS02	20 	1126
+NIES-2470	Microcystis aeruginosa	Ks05IS11	20 	1126
+NIES-2471	Microcystis aeruginosa	Ks05IS19	20 	1126
+NIES-2472	Microcystis aeruginosa	Ks05TA51	20 	1126
+NIES-2473	Microcystis aeruginosa	Ki05TA07	20 	1126
+NIES-2474	Microcystis aeruginosa	Ks05TA62	20 	1126
+NIES-2475	Microcystis aeruginosa	Tn05AK02	20 	1126
+NIES-2476	Microcystis aeruginosa	Tn05AK05	20 	1126
+NIES-2477	Microcystis aeruginosa	Ia05Yo03	20 	1126
+NIES-2478	Microcystis aeruginosa	Sn05Mb05	20 	1126
+NIES-2462	Chlamydomonas globosa	TkS0803C2	20 	51694
+NIES-2463	Chlamydomonas reinhardtii	KkS0801B1	20 	3055
+NIES-2464	Chlamydomonas reinhardtii	KkS0801D2	20 	3055
+NIES-2527	Micromonas pusilla	GnwM	20 	38833
+NIES-2528	Micromonas pusilla	IkmM	20 	38833
+NIES-2529	Micromonas pusilla	MtbM	20 	38833
+NIES-2530	Micromonas pusilla	NahM	20 	38833
+NIES-2531	Ostreococcus sp.	Isg1	20 	-1
+NIES-2533	Skeletonema dohrnii	SK-DEM-8	15 	267566
+NIES-2534	Skeletonema dohrnii	SK-DEM-42	15 	267566
+NIES-2535	Skeletonema japonicum	SK-DEM-4	15 	267983
+NIES-2536	Skeletonema japonicum	SK-DEM-5	15 	267983
+NIES-2537	Skeletonema tropicum	SK-DEM-43	20 	267982
+NIES-2538	Nostoc commune	KU002	20 	1178
+NIES-2539	Nostoc verrucosum	KU005	20 	633391
+NIES-2540	Chlorella variabilis	F36-ZK	20 	554065
+NIES-2541	Chlorella variabilis	OK1-ZK	20 	554065
+NIES-2479	Microcystis aeruginosa	KA-4	20 	1126
+NIES-2542	Microcystis aeruginosa	KI-3	20 	1126
+NIES-2543	Microcystis aeruginosa	SHA-4	20 	1126
+NIES-2480	Microcystis aeruginosa	Ks05TA1	20 	1126
+NIES-2481	Microcystis aeruginosa	Ks05TA2	20 	1698524
+NIES-2482	Microcystis aeruginosa	Ks05TA3	20 	1126
+NIES-2483	Microcystis aeruginosa	Ks05TA4	20 	1126
+NIES-2484	Microcystis aeruginosa	Ks05TA5	20 	1126
+NIES-2485	Microcystis aeruginosa	Ks05TA6	20 	1126
+NIES-2486	Microcystis aeruginosa	Ks05TA21	20 	1126
+NIES-2487	Microcystis aeruginosa	Ks05TA23	20 	1126
+NIES-2488	Microcystis aeruginosa	Ks05TA32	20 	1126
+NIES-2489	Microcystis aeruginosa	Ks05TA35	20 	1126
+NIES-2490	Microcystis aeruginosa	Ks05TA37	20 	1126
+NIES-2491	Microcystis aeruginosa	Ks05TA52	20 	1126
+NIES-2492	Microcystis aeruginosa	Ks05TA56	20 	1126
+NIES-2493	Microcystis aeruginosa	Ki05TA10	20 	1126
+NIES-2494	Microcystis aeruginosa	Ki05TA11	20 	1126
+NIES-2495	Microcystis aeruginosa	Kw05YA03	20 	1126
+NIES-2496	Microcystis aeruginosa	Kw05YA04	20 	1126
+NIES-2544	Microcystis aeruginosa	Kw-5	20 	1126
+NIES-2545	Microcystis aeruginosa	SA-1	20 	1126
+NIES-2546	Microcystis aeruginosa	Ks05IS01	20 	1126
+NIES-2547	Microcystis aeruginosa	Ks05IS04	20 	1126
+NIES-2548	Microcystis aeruginosa	Ks05IS14	20 	1126
+NIES-2549	Microcystis aeruginosa	Ks05TA38	20 	1641812
+NIES-2550	Microcystis aeruginosa	Ki05TA05	20 	1126
+NIES-2551	Microcystis aeruginosa	Kw05TA03	20 	1126
+NIES-2552	Microcystis aeruginosa	Kw05TA04	20 	1126
+NIES-2553	Microcystis aeruginosa	Ks05YA03	20 	1126
+NIES-2554	Microcystis aeruginosa	Tw05AK01	20 	1126
+NIES-2555	Microcystis aeruginosa	Tw05AK02	20 	1126
+NIES-2556	Microcystis aeruginosa	Tw05AK10	20 	1126
+NIES-2557	Microcystis aeruginosa	Tw05AK11	20 	1126
+NIES-2558	Microcystis aeruginosa	Iw05FU01	20 	1126
+NIES-2559	Microcystis aeruginosa	Iw05FU08	20 	1126
+NIES-2560	Microcystis aeruginosa	Ii05Yo01	20 	1126
+NIES-2561	Microcystis aeruginosa	In05Yo05	20 	1126
+NIES-2591	Microcystis aeruginosa	Sw-7	20 	1126
+NIES-2592	Microcystis aeruginosa	Ks05TA28	20 	1126
+NIES-2593	Microcystis aeruginosa	Ks05TA53	20 	1126
+NIES-2594	Microcystis aeruginosa	Ki05TA03	20 	1126
+NIES-2595	Microcystis aeruginosa	Sn05Mb06	20 	1126
+NIES-2596	Microcystis aeruginosa	Ks07TS20	20 	1126
+NIES-2597	Microcystis aeruginosa	Ks07TS27	20 	1126
+NIES-2598	Microcystis aeruginosa	Kn07TS91	20 	1126
+NIES-2599	Microcystis aeruginosa	Ks07TS123	20 	1126
+NIES-2600	Microcystis aeruginosa	Ks07TS137	20 	1126
+NIES-2601	Microcystis aeruginosa	Ks07TS159	20 	1126
+NIES-2602	Microcystis aeruginosa	Ii07Yo01	20 	1126
+NIES-2603	Microcystis aeruginosa	Sw07Hb06	20 	1126
+NIES-2604	Microcystis aeruginosa	Bv07BH03	20 	1126
+NIES-2605	Microcystis aeruginosa	Rs08NA05	20 	1126
+NIES-2606	Microcystis aeruginosa	Ks08TS05	20 	1126
+NIES-2607	Microcystis aeruginosa	Ks08TS06	20 	1126
+NIES-2608	Microcystis aeruginosa	Ks08YA15	20 	1126
+NIES-2609	Microcystis aeruginosa	Ks08YA25	20 	1126
+NIES-2610	Microcystis aeruginosa	An08Hj03	20 	1126
+NIES-2611	Microcystis aeruginosa	As08Fu06	20 	1126
+NIES-2612	Microcystis aeruginosa	As08Gb10	20 	1126
+NIES-2613	Microcystis aeruginosa	Aw08Fu02	20 	1126
+NIES-2564	Pyrobotrys squarrosa	KrCl905	20 	710654
+NIES-2614	Vaucheria frigida	bb1	20 	195983
+NIES-2615	Vaucheria frigida	bb2	20 	195983
+NIES-2616	Vaucheria frigida	bf	20 	195983
+NIES-2617	Microcystis aeruginosa	Ks05IS12	20 	1126
+NIES-2618	Microcystis aeruginosa	Ks05IS17	20 	1126
+NIES-2619	Microcystis aeruginosa	Sn05Hb06	20 	1126
+NIES-2620	Microcystis aeruginosa	Ks07TS13	20 	1126
+NIES-2621	Microcystis aeruginosa	Kw07TS101	20 	1126
+NIES-2622	Microcystis aeruginosa	Ks07TS127	20 	1126
+NIES-2623	Microcystis aeruginosa	Hw07SP01	20 	1126
+NIES-2624	Microcystis aeruginosa	Bi07BH01	20 	1126
+NIES-2625	Microcystis aeruginosa	SKw08Ya04	20 	1126
+NIES-2626	Microcystis aeruginosa	Ks08YA11	20 	1126
+NIES-2627	Microcystis aeruginosa	Ai08Fu01	20 	1126
+NIES-2628	Microcystis aeruginosa	As08Gb04	20 	1126
+NIES-2629	Microcystis aeruginosa	As08Hj03	20 	1126
+NIES-2566	Unidentified pedinophyte	TKB-361; YPF 701	20 	-1
+NIES-2568	Mataza hastifera	TKB-359	20 	763493
+NIES-2633	Chattonella subsalsa	BGB2	20 	44440
+NIES-2634	Chattonella subsalsa	nan	20 	44440
+NIES-2635	Paulinella chromatophora	FK01	20 	39717
+NIES-2636	Chantransia macrospora	3-AB	20 	-1
+NIES-2638	Symbiodinium sp.	Bise07	20 	-1
+NIES-2639	Symbiodinium sp.	Odo06	20 	-1
+NIES-2640	Symbiodinium sp.	Oku01	20 	-1
+NIES-2641	Symbiodinium sp.	Oku03	20 	-1
+NIES-2642	Symbiodinium sp.	Oku05	20 	-1
+NIES-2643	Symbiodinium sp.	Oku12	20 	-1
+NIES-2648	Trentepohlia arborum	Handa-855-a	20 	173375
+NIES-2649	Trentepohlia aurea	Handa-838-a	20 	173376
+NIES-2650	Trentepohlia aurea	Handa-839-a	20 	173376
+NIES-2651	Trentepohlia aurea	Handa-840-a	20 	173376
+NIES-2652	Trentepohlia aurea	Handa-843-b	20 	173376
+NIES-2563	Chloromonas pseudoplatyrhyncha	HjCl-3	20 	742469
+NIES-2565	Triparma laevis	TOY-0807	5 	1534972
+NIES-2659	Chattonella marina	CaA 24808	20 	90936
+NIES-2660	Chattonella marina	CmA 10707	20 	90936
+NIES-2567	Volvulina compacta	TN-0205-2-Pn-1	20 	51721
+NIES-2661	Chara braunii	CH-90	22 	69332
+NIES-2662	Corynoplastis japonica	TB4-T2	20 	700918
+NIES-2663	Amphidinium sp.	KCA09051	20 	-1
+NIES-2664	Amphidinium sp.	KCA09053	20 	-1
+NIES-2665	Umezakia natans	TAC611	20 	198593
+NIES-2569	Volvox ovalis	Volvox ovalis	22 	904358
+NIES-2666	Closterium peracerosum-strigosum-littorale complex	kodama20	22 	-1
+NIES-2667	Penium margaritaceum	izu84-10	22 	102169
+NIES-2668	Eucampia sp.	nan	15 	-1
+NIES-2570	Chlamydomonas pseudoplanoconvexa	IiS0801D6	20 	932018
+NIES-2670	Bathycoccus prasinos	RD010614-71-3	15 	41875
+NIES-2672	Micromonas commoda	NOUM17	20 	296587
+NIES-2673	Ostreococcus tauri	OTTH 0595	20 	70448
+NIES-2674	Ostreococcus sp.	Eum16BBL_clonal	20 	-1
+NIES-2677	Bigelowiella natans	PROSOPE_153-1	20 	227086
+NIES-2682	Triparma pacifica	OLI 31 SE3	20 	91992
+NIES-2684	Florenciella parvula	RA000412-1-1	15 	236787
+NIES-2687	Mesopedinella arctica	PROSOPE_2	20 	296676
+NIES-2689	Pelagomonas calceolata	MAXEuk 72	20 	35677
+NIES-2690	Pelagomonas calceolata	REDSEA2C	20 	35677
+NIES-2691	Pelagomonas calceolata	OLI120FC	20 	35677
+NIES-2693	Phaeomonas sp.	BL_149-10	20 	-1
+NIES-2694	Calcidiscus leptoporus	AC370	15 	127549
+NIES-2695	Calcidiscus leptoporus	NS10-2(N)	15 	127549
+NIES-2696	Coccolithus braarudii	AC400	15 	221442
+NIES-2697	Emiliania huxleyi	AC472	15 	2903
+NIES-2699	Gephyrocapsa oceanica	AC279	15 	38817
+NIES-2700	Gephyrocapsa oceanica	ARC1(N)	15 	38817
+NIES-2707	Umbilicosphaera hulburtiana	AC437	15 	418950
+NIES-2708	Monoraphidium convolutum	KR 1981/262	15 	307513
+NIES-2709	Raphidocelis subcapitata	CB 2009/37	15 	307507
+NIES-2710	Raphidocelis subcapitata	KR 1991/19	15 	307507
+NIES-2711	Selenastrum gracile	KR 1981/231	15 	-1
+NIES-2712	Tetranephris brasiliensis	KR 1989/26	15 	875623
+NIES-2713	Pseudococcomyxa simplex	KR 1988/12	15 	464287
+NIES-2714	Watanabea reniformis	KR 1988/1	15 	191674
+NIES-2747	Psammoneis sp.	nan	15 	-1
+NIES-2748	Chlamydomonas sp.	MH 334	20 	-1
+NIES-2749	Nephroselmis sp.	MH 331	20 	-1
+NIES-2750	Prasinoderma sp.	MH 346	20 	-1
+NIES-2751	Pycnococcus sp.	MH 318	20 	-1
+NIES-2752	Pycnococcus sp.	MH 326	20 	-1
+NIES-2753	Pycnococcus sp.	MH 337	20 	-1
+NIES-2754	Pycnococcus sp.	MH 409	15 	-1
+NIES-2755	Chloropicon roscoffensis	MH 317	20 	1461544
+NIES-2756	Chloroparvula sp.	MH 335	20 	-1
+NIES-2757	Unidentified coccoid	MH 338	20 	-1
+NIES-2758	Chloroparvula japonica	MH 340	20 	1411623
+NIES-2759	Unidentified coccoid	MH 395	15 	-1
+NIES-2760	Unidentified coccoid	MH 406	15 	-1
+NIES-2761	Chlorella sp.	MH 343	20 	-1
+NIES-2762	Nannochloris sp.	MH 368	20 	-1
+NIES-2763	Picochlorum sp.	MH 374	20 	-1
+NIES-2764	Gambierdiscus sp.	MH 424 n1	22 	-1
+NIES-2765	Gambierdiscus sp.	MH 424 n2	22 	-1
+NIES-2766	Lepidodinium sp.	MH 355	15 	-1
+NIES-2767	Lepidodinium sp.	MH 358	15 	-1
+NIES-2768	Lepidodinium sp.	MH 359	15 	-1
+NIES-2769	Lepidodinium sp.	MH 360	15 	-1
+NIES-2770	Pelagomonas sp.	MH 304	20 	-1
+NIES-2771	Unidentified coccoid	MH 316	20 	-1
+NIES-2772	Unidentified coccoid	MH 388	15 	-1
+NIES-2773	Pavlova sp.	MH 336	20 	-1
+NIES-2774	Calyptrosphaera sphaeroidea	MH 310	20 	35139
+NIES-2775	Calyptrosphaera sphaeroidea	MH 311	20 	35139
+NIES-2776	Calyptrosphaera sp.	MH 333	20 	-1
+NIES-2777	Emiliania huxleyi	MH 350	15 	2903
+NIES-2778	Emiliania huxleyi	MH 352	15 	2903
+NIES-2779	Dicrateria rotunda	MH 305	20 	2703868
+NIES-2780	Dicrateria rotunda	MH 403	15 	2703868
+NIES-2781	Ochrosphaera sp.	MH 393	15 	-1
+NIES-2716	Hemiselmis andersenii	nan	20 	464988
+NIES-2717	Achnanthidium convergens	K28-2	15 	-1
+NIES-2718	Craticula molestiformis	K5-9	15 	431345
+NIES-2719	Craticula molestiformis	K23-7	15 	431345
+NIES-2720	Eolimna minima	K6-3	15 	137466
+NIES-2721	Eolimna subminuscula	K14-2	15 	-1
+NIES-2722	Fistulifera saprophila	K10-3	15 	880757
+NIES-2723	Gomphonema parvulum	U24-8	15 	97227
+NIES-2724	Mayamaea permitis	K11-8	15 	1302819
+NIES-2725	Mayamaea permitis	K11-11	15 	1302819
+NIES-2726	Nitzschia palea	K23-4	15 	303400
+NIES-2727	Nitzschia palea	KD1	15 	303400
+NIES-2728	Nitzschia palea	PD3	15 	303400
+NIES-2729	Nitzschia palea	U3-3	15 	303400
+NIES-2730	Planothidium frequentissimum	K6-10	15 	1530226
+NIES-2731	Planothidium lanceolatum	K28-9	15 	216798
+NIES-2732	Sellaphora seminulum	K14-4	15 	1302831
+NIES-2733	Sellaphora seminulum	U1-5	15 	1302831
+NIES-2734	Eudorina sp.	2006-703-Eu-14	20 	-1
+NIES-2735	Eudorina sp.	2006-703-Eu-15	20 	-1
+NIES-2736	Volvox ferrisii	40225-VG-17	20 	1075618
+NIES-2737	Volvox ferrisii	2004-706-Vx2	20 	1075618
+NIES-2738	Volvox ferrisii	I-he	20 	1075618
+NIES-2739	Volvox ferrisii	I-ro	20 	1075618
+NIES-2740	Volvox kirkiorum	2006-728-2-B8	20 	1075617
+NIES-2805	Chara braunii	CH-069	20 	69332
+NIES-2808	Chara braunii	CH-165	20 	69332
+NIES-2821	Nitella comptonii	CH-256	20 	-1
+NIES-2741	Pycnococcus sp.	NY0201	15 	-1
+NIES-2742	Bulboplastis apyrenoidosa	AYCC 11 (Iriomote strain)	20 	1070855
+NIES-2743	Microglena media	HcCl-5-3	20 	1136281
+NIES-2744	Microglena opisthopyren	TkS0811B3	20 	1208233
+NIES-2837	Skeletonema ardens	FDK005	15 	371682
+NIES-2838	Skeletonema costatum	FDK009	15 	2843
+NIES-2839	Skeletonema dohrnii	FDK033	15 	267566
+NIES-2840	Skeletonema grevillei	FOK053	20 	371681
+NIES-2841	Skeletonema japonicum	FDK157	15 	267983
+NIES-2842	Skeletonema menzelii	FDK222	15 	216823
+NIES-2843	Skeletonema pseudocostatum	FDK225	15 	41457
+NIES-2844	Skeletonema tropicum	FDK202	20 	267982
+NIES-2846	Allapsa brevifila	F2	20 	-1
+NIES-2848	Chlamydomonas sp.	YF261	20 	-1
+NIES-2849	Chlorococcum sp.	RK261	20 	-1
+NIES-2850	Chlorococcum sp.	YF282	20 	-1
+NIES-2851	Chlorococcum sp.	YF382	20 	-1
+NIES-2745	Esquamula lacrimiformis	YPF708	20 	1176540
+NIES-2746	Symbiodinium sp.	DemSym1	20 	-1
+NIES-2854	Calyptrosphaera sphaeroidea	nak-27	20 	35139
+NIES-2855	Tetraselmis sp.	PK-2; nak-13	20 	-1
+NIES-2856	Tetraselmis sp.	nak-15	20 	-1
+NIES-2857	Heterosigma akashiwo	TAP110 DA36	20 	2829
+NIES-2858	Bangiopsis sp.	AYCC550; OK6OH11C4 Rhodo16	20 	-1
+NIES-2859	Ophiocytium sp.	XH-1; nak-8	20 	-1
+NIES-2860	Vacuoliviride crystalliferum	nak-9	20 	1550615
+NIES-2862	Chloromonas kasaiae	EbCl-8	20 	1208237
+NIES-2863	Gonium pectorale	K3-F3-4	20 	33097
+NIES-2864	Nephroselmis sp.	PWA-1	20 	-1
+NIES-2865	Nephroselmis sp.	PWA-2	20 	-1
+NIES-2866	Nephroselmis sp.	PWA-4	20 	-1
+NIES-2867	Nephroselmis clavistella	Gi134Np	20 	926335
+NIES-2871	Planktothrix raciborskii	20081009-1	20 	-1
+NIES-2872	Calyptrosphaera oblonga	TMR8	20 	-1
+NIES-2873	Emiliania huxleyi	NG-26	20 	2903
+NIES-2874	Emiliania huxleyi	OG-9	20 	2903
+NIES-2875	Gephyrocapsa oceanica	OG-5	20 	38817
+NIES-2876	Syracosphaera pulchra	TMR16	20 	418946
+NIES-2877	Syracosphaera pulchra	TMR18	20 	418946
+NIES-2878	Umbilicosphaera foliosa	OG-1	20 	-1
+NIES-2879	Umbilicosphaera hulburtiana	OG-2	20 	418950
+NIES-2880	Prochlorococcus marinus	SS120-04/95	20 	1219
+NIES-2881	Prochlorococcus sp.	NATL1-M98; FP12	20 	-1
+NIES-2882	Prochlorococcus sp.	TATL2; EUM17	20 	-1
+NIES-2883	Prochlorococcus sp.	TATL4-C1	20 	-1
+NIES-2884	Prochlorococcus sp.	SB-3C1	20 	-1
+NIES-2885	Prochlorococcus sp.	EQPAC1-C	20 	-1
+NIES-2886	Prochlorococcus sp.	GP2	20 	-1
+NIES-2887	Prochlorococcus sp.	MIT9313	20 	-1
+NIES-2888	Prochlorococcus sp.	REDSEA_12-2; EILAT_12-2	20 	-1
+NIES-2890	Chrysamoeba radians	M-226	20 	-1
+NIES-2891	Paramecium bursaria	M-230	20 	74790
+NIES-2892	Haematococcus sp.	M-233	20 	-1
+NIES-2893	Pycnococcus provasolii	WK sort3	20 	41880
+NIES-2894	Picochlorum sp.	WKsort4	20 	-1
+NIES-2895	Ostreococcus lucimarinus	WK sort12	20 	-1
+NIES-2897	Mychonastes afer	KAS sort7	20 	797713
+NIES-2898	Carteria sp.	isolation4	20 	-1
+NIES-2900	Mychonastes sp.	isolation19	20 	-1
+NIES-2901	Pseudodictyosphaerium sp.	isolation20	20 	-1
+NIES-2902	Chlorella sp.	isolation28	20 	-1
+NIES-2907	Durusdinium trenchii	S24E_D1	20 	1381693
+NIES-3349	Microcystis aeruginosa	M228; MaLS228-1	20 	1126
+NIES-3351	Ostreopsis cf. ovata	s0752	20 	119758
+NIES-3356	Hemistasia phaeocystidicola	YPF1303	20 	-1
+NIES-3358	Trentepohlia bosseae	Handa-1002-a	20 	-1
+NIES-3359	Trentepohlia bosseae	Handa-1075-a	20 	-1
+NIES-3360	Trentepohlia bosseae	Handa-1279-a	20 	-1
+NIES-3362	Emiliania huxleyi	MR57N	10 	2903
+NIES-3363	Emiliania huxleyi	MR61N	10 	2903
+NIES-3364	Emiliania huxleyi	MR65N	10 	2903
+NIES-3365	Emiliania huxleyi	MR67N	10 	2903
+NIES-3366	Emiliania huxleyi	MR70N	10 	2903
+NIES-3367	Emiliania huxleyi	MH 550	20 	2903
+NIES-3368	Gephyrocapsa oceanica	MH 573	20 	38817
+NIES-3369	Triparma sp.	MICROVIR 3K_0	15 	-1
+NIES-3370	Triparma eleuthera	SOLAS_F	20 	172717
+NIES-3371	Triparma eleuthera	BOUM117-22	22 	172717
+NIES-3373	Spirulina subsalsa	BAH8-10-45	37 	54311
+NIES-3374	Chlorogonium capillatum	ATCC 50936	20 	71743
+NIES-3376	Prochlorococcus sp.	NATL2-M98C2B	20 	-1
+NIES-3377	Cyanidioschyzon merolae	10D	37 	45157
+NIES-3378	Chlamydomonas reinhardtii	JA-A3	20 	3055
+NIES-3379	Chlamydomonas reinhardtii	JA-B3	20 	3055
+NIES-3380	Chlamydomonas reinhardtii	AJ-A6	20 	3055
+NIES-3381	Chlamydomonas reinhardtii	AJ-D2	20 	3055
+NIES-3382	Colemanosphaera angeleri	2010-0126-1	20 	1454018
+NIES-3383	Colemanosphaera charkowiensis	Isa 7-1	20 	51706
+NIES-3384	Colemanosphaera charkowiensis	2010-0713-E2	20 	51706
+NIES-3385	Colemanosphaera charkowiensis	2010-0713-E5	20 	51706
+NIES-3386	Colemanosphaera charkowiensis	2013-0615-IC-3	20 	51706
+NIES-3387	Colemanosphaera charkowiensis	2013-0615-IC-4	20 	51706
+NIES-3388	Colemanosphaera charkowiensis	2013-0615-IC-7	20 	51706
+NIES-3389	Chloromonas fukushimae	GsCl-11	5 	1454353
+NIES-3390	Chloromonas fukushimae	HkCl-65	5 	1454353
+NIES-3391	Pelagomonas calceolata	SH6-A	20 	35677
+NIES-3392	Pyramimonas sp.	7-Py	20 	-1
+NIES-3393	Pyramimonas sp.	Ab4-11	20 	-1
+NIES-3394	Pyramimonas sp.	Ab4-13	20 	-1
+NIES-3395	Pyramimonas sp.	BiP3	20 	-1
+NIES-3396	Pyramimonas sp.	Hae5Py5	20 	-1
+NIES-3397	Pyramimonas sp.	Ka10	20 	-1
+NIES-3398	Pyramimonas sp.	M1Py1	20 	-1
+NIES-3399	Pyramimonas sp.	Mad5-2	20 	-1
+NIES-3400	Pyramimonas vacuolata	MIP-2	20 	1582272
+NIES-3401	Pyramimonas sp.	MIY1-8	20 	-1
+NIES-3402	Pyramimonas sp.	Mk7N1	20 	-1
+NIES-3403	Pyramimonas sp.	OD6P1	20 	-1
+NIES-3404	Pyramimonas sp.	OEF03-4	20 	-1
+NIES-3405	Pyramimonas sp.	OEO3-3	20 	-1
+NIES-3406	Pyramimonas sp.	Ok2P3	20 	-1
+NIES-3407	Pyramimonas sp.	Py4	20 	-1
+NIES-3408	Pyramimonas sp.	Sa5P5	20 	-1
+NIES-3409	Pyramimonas sp.	Sa5Py3	20 	-1
+NIES-3410	Pyramimonas sp.	Sera3-2	20 	-1
+NIES-3411	Pyramimonas sp.	SergOP6-1	20 	-1
+NIES-3412	Pyramimonas sp.	SergOP8-2	20 	-1
+NIES-3413	Pyramimonas sp.	Te2Py	20 	-1
+NIES-3414	Pyramimonas sp.	Tni4Py1	20 	-1
+NIES-3416	Pyramimonas sp.	Tni4Py4	20 	-1
+NIES-3417	Pyramimonas sp.	TU2	20 	-1
+NIES-3418	Pyramimonas sp.	TUP12	20 	-1
+NIES-3420	Chattonella marina	KGW-3; HI-45	20 	90936
+NIES-3421	Chattonella marina	KGW-4; HI-46	20 	90936
+NIES-3422	Chattonella marina	KGW-84; KA-59-a	20 	90936
+NIES-3423	Chattonella marina	KGW-126; KA-63-a	20 	90936
+NIES-3424	Chattonella marina	KGW-131; KA-1-a	20 	90936
+NIES-3426	Chattonella marina	KGW-257; KA-14-a	20 	90936
+NIES-3427	Chattonella marina	KGW-328; KA-25-a	20 	90936
+NIES-3428	Chattonella marina	KGW-5; MA-50	20 	90936
+NIES-3429	Chattonella marina	KGW-7; KG-52	20 	90936
+NIES-3430	Chattonella marina	KGW-10; HI-53	20 	90936
+NIES-3431	Chattonella marina	KGW-55; KG-57	20 	90936
+NIES-3432	Chattonella marina	KGW-91; HIU-57	20 	90936
+NIES-3433	Chattonella marina	KGW-142; KA-2-m	20 	90936
+NIES-3434	Chattonella marina	KGW-148; KA-3-m	20 	90936
+NIES-3435	Chattonella marina	KGW-206; KG-78-m	20 	90936
+NIES-3436	Chattonella marina	KGW-329; KA-25-o-Bisan	20 	90936
+NIES-3437	Chattonella marina	KGW-330; KA-25-o-Harima	20 	90936
+NIES-3438	Prorocentrum triestinum	KGW-28	20 	39450
+NIES-3441	Prorocentrum concavum	KGW-153	20 	72681
+NIES-3442	Prorocentrum sp.	KGW-225; Sukumo	20 	-1
+NIES-3443	Prorocentrum sp.	KGW-253; 01-2	20 	-1
+NIES-3444	Prorocentrum dentatum	KGW-263	20 	260685
+NIES-3445	Alexandrium catenella	KGW-106; Wakayama	20 	2925
+NIES-3446	Alexandrium catenella	KGW-278; Uragami	20 	2925
+NIES-3447	Alexandrium fraterculum	KGW-314	20 	-1
+NIES-3448	Gambierdiscus toxicus	KGW-250; Akajima	20 	373098
+NIES-3449	Gambierdiscus toxicus	KGW-280; Sionomisaki	20 	373098
+NIES-3451	Fukuyoa yasumotoi	KGW-232	20 	439315
+NIES-3452	Karenia mikimotoi	KGW-321; Hiuchi	20 	225107
+NIES-3454	Akashiwo sanguinea	KGW-261	20 	143672
+NIES-3572	Gymnomonas nepalensis	NPL27	20 	1983403
+NIES-3574	Parietochloris toyamaensis	70716G3	20 	-1
+NIES-3575	Koshicola spirodelophila	W1C4	20 	1707787
+NIES-3576	Nitzschia sp.	A4	20 	-1
+NIES-3577	Nitzschia sp.	B3	20 	-1
+NIES-3578	Nitzschia sp.	N4	20 	-1
+NIES-3579	Nitzschia sp.	IriIs01	20 	-1
+NIES-3580	Nitzschia sp.	IriIs03	20 	-1
+NIES-3581	Nitzschia sp.	IriIs04	20 	-1
+NIES-3583	Raphidiopsis raciborskii	ISG9	20 	-1
+NIES-3584	Raphidiopsis raciborskii	ISG-13	20 	-1
+NIES-3585	Nodularia sp.	CIT044	25 	-1
+NIES-3586	Chattonella marina	KGW-67; Os-57-m	23 	90936
+NIES-3587	Heterosigma akashiwo	KGW-207-2	20 	2829
+NIES-3590	Amphidinium carterae	KGW-116	20 	2961
+NIES-3591	Amphidinium sp.	KGW-215; 96-1	20 	-1
+NIES-3592	Amphidinium sp.	KGW-266; 05-1	20 	-1
+NIES-3597	Gymnodinium impudicum	KGW-36-2	20 	396600
+NIES-3598	Gymnodinium sp.	KGW-159; 91-1	20 	-1
+NIES-3600	Trichodesmium sp.	NIBB1067	25 	-1
+NIES-3602	Gymnodinium sp.	KGW-287; 06-2	20 	-1
+NIES-3604	Gyrodinium falcatum	KGW-303	20 	-1
+NIES-3605	Gyrodinium instriatum	KGW-270	20 	-1
+NIES-3606	Gyrodinium sp.	KGW-183; 94-3	20 	-1
+NIES-3610	Alexandrium catenella	KGW-276; simoda	20 	2925
+NIES-3611	Alexandrium hiranoi	KGW-307	20 	261184
+NIES-3612	Alexandrium tamiyavanichii	KGW-259; 04	20 	201731
+NIES-3617	Heterocapsa circularisquama	KGW-186; Mie-94	20 	139025
+NIES-3618	Heterocapsa circularisquama	KGW-191; Uch-94	20 	139025
+NIES-3619	Heterocapsa circularisquama	KGW-198; Imari-95	20 	139025
+NIES-3620	Heterocapsa circularisquama	KGW-242; Uch-00	20 	139025
+NIES-3621	Heterocapsa circularisquama	KGW-260; Harima	20 	139025
+NIES-3623	Pyrophacus horologium	KGW-324	20 	-1
+NIES-3624	Pyrophacus steinii	KGW-52-2	20 	261842
+NIES-3625	Thecadinium kofoidii	KGW-136	20 	240360
+NIES-3627	Chlamydomonas sp.	KGW-90; Yashima	20 	-1
+NIES-3628	Chlamydomonas sp.	KGW-318; Tadotu	20 	-1
+NIES-3629	Dunaliella sp.	KGW-176	20 	-1
+NIES-3630	Oltmannsiellopsis viridis	KGW-94	20 	51324
+NIES-3631	Oltmannsiellopsis unicellularis	KGW-154	20 	260212
+NIES-3632	Desmodesmus komarekii	KGW-319	20 	255620
+NIES-3637	Coolia malayensis	C1	20 	119754
+NIES-3638	Galdieria sulphuraria	074W	37 	130081
+NIES-3639	Stichococcus bacillaris	Handa-786-x	20 	37433
+NIES-3640	Gloeomonas anomalipyrenoides	HkCl-5-3	20 	1511711
+NIES-3641	Gloeomonas anomalipyrenoides	97-0808-G-2-WT	20 	1511711
+NIES-3642	Gloeomonas anomalipyrenoides	97-0808-G-2-stg	20 	1511711
+NIES-3643	Oogamochlamys sp.	IKE31	20 	-1
+NIES-3644	Oogamochlamys sp.	IKE32	20 	-1
+NIES-3645	Cyanophora cuspidata	101	20 	1522366
+NIES-3646	Closterium moniliferum	izu76-1	20 	157562
+NIES-3647	Suigetsumonas clinomigrationis	LSccTR-1	20 	1527026
+NIES-3649	Gymnoxanthella radiolariae	elegans_symbiont	20 	1798043
+NIES-3652	Chrysochromulina sp.	nan	15 	-1
+NIES-3653	Emiliania huxleyi	MH 545	20 	2903
+NIES-3654	Emiliania huxleyi	MH 534	20 	2903
+NIES-3656	Pavlova sp.	MH 474	20 	-1
+NIES-3657	Bathycoccus prasinos	MH 461	20 	41875
+NIES-3667	Chloropicon roscoffensis	MH 504	20 	1461544
+NIES-3668	Chloropicon roscoffensis	MH 537	20 	1461544
+NIES-3669	Chloroparvula pacifica	MH 509	20 	1883388
+NIES-3670	Chloropicon roscoffensis	MH 533	20 	1461544
+NIES-3671	Chloropicon sieburthii	MH 514	20 	1764286
+NIES-3675	Picochlorum maculatum	MH 477	20 	133488
+NIES-3676	Nannochloris sp.	MH 517	20 	-1
+NIES-3677	Nannochloris sp.	MH 496	20 	-1
+NIES-3678	Nannochloris sp.	MH 513	20 	-1
+NIES-3699	Triparma laevis	TLLOY-0907	5 	1534972
+NIES-3700	Triparma verrucosa	TVOY-0907	5 	1606542
+NIES-3701	Triparma strigata	TSOY-0907	5 	1606541
+NIES-3702	Dangeardinia metastigma	TwCl-604	25 	1661740
+NIES-3703	Dangeardinia pseudopertusa	SbCl-4	20 	160059
+NIES-3704	Rhysamphichloris curta	ChCl1201	20 	1815954
+NIES-3705	Rhysamphichloris curta	KrCl-604	20 	1815954
+NIES-3706	Ixipapillifera pauromitos	HjCl-2	20 	1661742
+NIES-3707	Ixipapillifera pauromitos	EbCl-16	20 	1661742
+NIES-3708	Geminocystis sp.	CIT003	20 	-1
+NIES-3709	Geminocystis sp.	CIT008	20 	-1
+NIES-3710	Chaetoceros debilis	Ch48	15 	122233
+NIES-3711	Chaetoceros lorenzianus	IT-Dia51	15 	426634
+NIES-3712	Chaetoceros setoensis	IT07-C11	15 	-1
+NIES-3713	Chaetoceros socialis	L-4	15 	163503
+NIES-3714	Chaetoceros tenuissimus	2-6	15 	426638
+NIES-3715	Chaetoceros tenuissimus	2-10	15 	426638
+NIES-3716	Chaetoceros sp.	TG07-C28	15 	-1
+NIES-3717	Chaetoceros sp.	SS08-C03	15 	-1
+NIES-3718	Chaetoceros sp.	SS628-11	15 	-1
+NIES-3719	Coleochaete nitellarum	AM224-c	20 	78178
+NIES-3722	Angulamoeba microcystivorans	A1WVB	20 	1654978
+NIES-3723	Copromyxa microcystidis	A2JEPDK	20 	1678070
+NIES-3725	Korotnevella jeppesenii	A4DVDPB	20 	1678066
+NIES-3726	Korotnevella pelagolacustris	A16WVB	20 	-1
+NIES-3729	Vexillifera westveldii	A18WVB	20 	1678067
+NIES-3730	Microcystis aeruginosa	M31WVB	20 	1126
+NIES-3731	Aphanizomenon sp.	SZ-25	20 	-1
+NIES-3732	Aphanizomenon sp.	SZ-44	20 	-1
+NIES-3733	Cuspidothrix issatschenkoi	SZ-23	20 	230752
+NIES-3734	Raphidiopsis raciborskii	SZ-39	20 	-1
+NIES-3735	Limnothrix sp.	SZ-16	20 	-1
+NIES-3736	Planktothrix suspensa	SZ-5	20 	-1
+NIES-3738	Pseudanabaena sp.	SZ-7	20 	-1
+NIES-3739	Sphaerospermopsis aphanizomenoides	SZ-42	20 	459663
+NIES-3740	Unidentified cyanobacterium	SZ-12	20 	-1
+NIES-3741	Chlorella sp.	KAS sort 30	20 	-1
+NIES-3742	Mychonastes sp.	KAS sort 39	20 	-1
+NIES-3743	Mychonastes sp.	KAS sort 44	20 	-1
+NIES-3744	Dunaliella sp.	hunazoko	20 	-1
+NIES-3745	Euglena anabaena	Eu044	20 	-1
+NIES-3746	Protosiphon botryoides	Handa-2029B-b	20 	44656
+NIES-3747	Protosiphon botryoides	Handa-2296-e	20 	44656
+NIES-3748	Chaetopeltis orbicularis	SH-3905A-k	20 	56002
+NIES-3749	Pascherina tetras	Isa28	20 	710656
+NIES-3750	Pascherina tetras	Isa41	20 	710656
+NIES-3752	Chloromonas krienitzii	GsCl-49	5 	1580877
+NIES-3753	Chloromonas krienitzii	GsCl-54	5 	1580877
+NIES-3754	Mastigocladus sp.	SW1	45 	-1
+NIES-3755	Leptolyngbya sp.	ES	20 	-1
+NIES-3756	Nostoc sp.	CIT038	20 	-1
+NIES-3757	Stanieria sp.	CIT031	20 	-1
+NIES-3758	Synechocystis sp.	nan	20 	-1
+NIES-3759	Synechocystis sp.	nan	20 	-1
+NIES-3760	Hapalochloris nozakii	YgS1301A6	20 	1835643
+NIES-3761	Hapalochloris nozakii	YgS1301B5	20 	1835643
+NIES-3762	Hapalochloris nozakii	YgS1301C3	20 	1835643
+NIES-3763	Hapalochloris nozakii	YgS1301D4	20 	1835643
+NIES-3764	Diphylleia rotans	SRT116	20 	190327
+NIES-3766	Vannella simplex	A17WVB	20 	197532
+NIES-3767	Vannella simplex	A6HEB	20 	197532
+NIES-3768	Pyrobotrys casinoensis	DP11	20 	1743018
+NIES-3769	Pyrobotrys casinoensis	DP21	20 	1743018
+NIES-3770	Pyrobotrys casinoensis	DP31	20 	1743018
+NIES-3771	Pyrobotrys elongata	YP316	20 	1743019
+NIES-3772	Pyrobotrys elongata	YP416	20 	1743019
+NIES-3773	Pyrobotrys squarrosa	YS11	20 	710654
+NIES-3774	Pyrobotrys squarrosa	YS21	20 	710654
+NIES-3775	Asulcocephalium miricentonis	mi11-8kt	20 	1691399
+NIES-3776	Leiocephalium pseudosanguineum	hn13-25kt	20 	2304654
+NIES-3777	Leiocephalium pseudosanguineum	it12-10kt	20 	2304654
+NIES-3779	Merismopedia sp.	KAS-1505m	20 	-1
+NIES-3780	Volvox africanus	2013-0703-VO4	20 	51714
+NIES-3781	Volvox reticuliferus	2013-0703-VO1	20 	1737510
+NIES-3782	Volvox reticuliferus	2013-0703-VO2	20 	1737510
+NIES-3783	Volvox reticuliferus	2013-0703-VO3	20 	1737510
+NIES-3784	Volvox africanus	VO4-F1-1	24 	51714
+NIES-3785	Volvox reticuliferus	VO123-F1-6	20 	1737510
+NIES-3786	Volvox reticuliferus	VO123-F1-7	20 	1737510
+NIES-3787	Microcystis aeruginosa	MA1	20 	2517782
+NIES-3788	Microcystis aeruginosa	MA2	20 	1126
+NIES-3789	Microcystis aeruginosa	MA3	20 	1126
+NIES-3790	Microcystis aeruginosa	MA4	20 	1126
+NIES-3791	Microcystis aeruginosa	MA5	20 	1126
+NIES-3792	Microcystis aeruginosa	MA7	20 	1126
+NIES-3793	Microcystis aeruginosa	MA8	20 	1126
+NIES-3794	Microcystis aeruginosa	MA11	20 	1126
+NIES-3795	Microcystis aeruginosa	MA14	20 	1126
+NIES-3797	Microcystis aeruginosa	MA17	20 	1126
+NIES-3798	Microcystis aeruginosa	MA18	20 	1126
+NIES-3799	Microcystis aeruginosa	MA19	20 	1126
+NIES-3800	Microcystis aeruginosa	MA20	20 	1126
+NIES-3801	Microcystis aeruginosa	KJ1	20 	1126
+NIES-3802	Microcystis aeruginosa	KJ2	20 	1126
+NIES-3804	Microcystis aeruginosa	KJ5	20 	2517783
+NIES-3805	Microcystis aeruginosa	KJ6	20 	1126
+NIES-3806	Microcystis aeruginosa	KJ7	20 	2517784
+NIES-3807	Microcystis aeruginosa	KJ9	20 	2517785
+NIES-3808	Breviolum minutum	Mf1.05b.01	20 	2499525
+NIES-3828	Thorea gaudichaudii	UFU-1	20 	261527
+NIES-3829	Thorea gaudichaudii	Oyake	20 	261527
+NIES-3835	Chloroparvula sp.	IndianOcean_1-1	20 	-1
+NIES-3840	Acaryochloris tomasi	R61	20 	-1
+NIES-3845	Unidentified Ulvophyceae	Aka P83.A11	22 	-1
+NIES-3847	Acrochaete sp.	Iki Island 11P PG1	20 	-1
+NIES-3848	Unidentified Ulvophyceae	Ishigaki 7-27-A6	22 	-1
+NIES-3849	Chloropicon sp.	AMT 2013 - P182-H9	22 	-1
+NIES-3850	Chaetopeltis orbvicularis	AM228A-a	20 	-1
+NIES-3852	Aulacoseira pusilla	Sort 115	20 	2948612
+NIES-3854	Cyclotella atomus	Sort 94	20 	382360
+NIES-3855	Cyclotella meduanae	Sort 153	20 	-1
+NIES-3857	Fragilaria gracilis	Sort 141	20 	-1
+NIES-3858	Nitzschia fruticosa	Sort 135	20 	-1
+NIES-3859	Staurosirella berolinensis	Sort 142	20 	-1
+NIES-3861	Ulnaria delicatissima	Sort 145	20 	1752157
+NIES-3862	Ulnaria japonica	Sort 150	20 	-1
+NIES-3865	Braarudosphaera bigelowii	KC1-P2	15 	373042
+NIES-3866	Glaucocystis bhattacharyae	118	20 	1789786
+NIES-3867	Glaucocystis miyajii	Thu10	20 	1789789
+NIES-3868	Glaucocystis oocystiformis	126	20 	1789783
+NIES-3874	Volvox capensis	M1-2	15 	51716
+NIES-3876	Trachyrhizium urniformis	SRT104	20 	1798948
+NIES-3877	Nitzschia sp.	E09	20 	-1
+NIES-3890	Triparma sp.	HY1501	20 	-1
+NIES-3891	Cyanidium caldarium	KS-1	37 	2771
+NIES-3892	Cyanidium caldarium	KS-8	37 	2771
+NIES-3900	Pavlomulina ranunculiformis	Pavlom	20 	-1
+NIES-3902	Carteria sp.	isolation 5	20 	-1
+NIES-3903	Carteria sp.	isolation 23	20 	-1
+NIES-3904	Chlamydomonas sp.	isolation 30	20 	-1
+NIES-3905	Chlamydomonas sp.	isolation 35	20 	-1
+NIES-3906	Chlamydomonas sp.	isolation 42	20 	-1
+NIES-3907	Chlamydomonas sp.	isolation 47	20 	-1
+NIES-3908	Chlamydomonas sp.	isolation 58	20 	-1
+NIES-3909	Chlamydomonas sp.	isolation 59	20 	-1
+NIES-3910	Chlorella sorokiniana	sort 54	20 	3076
+NIES-3911	Chlorella sp.	sort 37	20 	-1
+NIES-3912	Chlorella sp.	sort 51	20 	-1
+NIES-3913	Chroomonas sp.	isolation 46	20 	-1
+NIES-3914	Crucigenia lauterbornii	isolation 7	20 	1211292
+NIES-3915	Cryptomonas curvata	isolation 49	20 	233186
+NIES-3916	Cryptomonas sp.	isolation 36	20 	-1
+NIES-3917	Gungnir neglectum	isolation 29	20 	71745
+NIES-3920	Pteromonas sp.	isolation 53	20 	-1
+NIES-3921	Rhodomonas sp.	isolation 48	20 	-1
+NIES-3923	Vitreochlamys nekrassovii	isolation 25	20 	140673
+NIES-3944	Euglena sp.	KKAS-131113E3	20 	-1
+NIES-3948	Aulacoseira ambigua	KKAS-1	20 	49234
+NIES-3949	Monoraphidium sp.	KKAS-7	20 	-1
+NIES-3950	Euglena sp.	KKAS-9	20 	-1
+NIES-3951	Aulacoseira granulata	KKAS-10	20 	285082
+NIES-3952	Cryptomonas sp.	KKAS-11	20 	-1
+NIES-3953	Scenedesmus sp.	KKAS-12	20 	-1
+NIES-3954	Cruciplacolithus neohelis	MKP35-2	20 	127547
+NIES-3955	Chlorella sp.	DEM-72	20 	-1
+NIES-3974	Calothrix sp.	NBH1	37 	-1
+NIES-3982	Yamagishiella unicocca	2012-1026-YU-F2-6	20 	51707
+NIES-3983	Yamagishiella unicocca	2012-1026-YU-F2-1	20 	51707
+NIES-3984	Eudorina sp.	2010-623-E4	20 	-1
+NIES-3985	Eudorina sp.	2010-623-E2	20 	-1
+NIES-3986	Volvox ferrisii	2011-929-Vx2-F2-9	20 	1075618
+NIES-3987	Volvox ferrisii	Ax04-413	20 	1075618
+NIES-3988	Volvox ferrisii	2015-0502-VVx2-1	20 	1075618
+NIES-3989	Nostoc commune	KU006	20 	1178
+NIES-3990	Nostoc commune	KU007	20 	1178
+NIES-3991	Nostoc commune	KU008	20 	1178
+NIES-3999	Trichodesmium sp.	Chikyu14	22 	-1
+NIES-4000	Medakamo hakoo	Medakamo hakoo 311; M. hakoo 311	20 	-1
+NIES-4015	Craticula pseudocitrus	Sort 163	20 	2055816
+NIES-4016	Nannochloris bacillaris	NT2'	20 	76111
+NIES-4017	Astrephomene gubernaculifera	2014-1002-YkAs8	20 	47775
+NIES-4018	Eudorina sp.	2010-623-F1-E8	20 	-1
+NIES-4019	Apatococcus lobatus	Handa-2869-18	20 	904363
+NIES-4020	Nitzschia brevissima	SH-3943-a	20 	-1
+NIES-4021	Volvox sp.	13-614-Vx12	20 	-1
+NIES-4022	Volvox sp.	13-614-Vx13	20 	-1
+NIES-4023	Volvox sp.	13-614-Vx15	20 	-1
+NIES-4024	Volvox sp.	14-614-Vx02	20 	-1
+NIES-4025	Volvox sp.	14-614-Vx04	20 	-1
+NIES-4026	Volvox sp.	15-630-VVx4	20 	-1
+NIES-4027	Volvox sp.	15-Sagami8-2	20 	-1
+NIES-4028	Volvox sp.	15-Sagami12-2	20 	-1
+NIES-4029	Volvox rousseletii	MI01	22 	47791
+NIES-4030	Chara leptospora	CH-228B	20 	539201
+NIES-4031	Pediludiella daitoensis	LxSd1	20 	2571019
+NIES-4032	Carolibrandtia ciliaticola	331CycloB	20 	1977037
+NIES-4033	Carolibrandtia ciliaticola	1224PelagoG	20 	1977037
+NIES-4034	Carolibrandtia ciliaticola	331StokesiaA	20 	1977037
+NIES-4035	Planktothrix agardhii	Ak870	20 	1160
+NIES-4036	Dolichospermum affine	Ak1382	20 	119677
+NIES-4037	Dolichospermum affine	Ak1383	20 	119677
+NIES-4038	Dolichospermum flos-aquae	Ak1390	20 	1166
+NIES-4039	Dolichospermum flos-aquae	Ak1535	20 	1166
+NIES-4040	Dolichospermum smithii	Ak1397	20 	264682
+NIES-4041	Dolichospermum smithii	Ak1398	20 	264682
+NIES-4042	Sphaerospermopsis eucompacta	Ak1538	20 	929836
+NIES-4043	Sphaerospermopsis eucompacta	Ak1516	20 	929836
+NIES-4044	Sphaerospermopsis reniformis	Ak1519	20 	531300
+NIES-4045	Sphaerospermopsis reniformis	Ak1520	20 	531300
+NIES-4046	Dolichospermum flos-aquae	Ak1531	20 	1166
+NIES-4047	Dolichospermum flos-aquae	Ak1540	20 	1166
+NIES-4048	Dolichospermum lemmermannii	Ak1524	20 	-1
+NIES-4049	Dolichospermum lemmermannii	Ak1529	24 	-1
+NIES-4050	Aphanizomenon gracile	Ak1306	20 	-1
+NIES-4051	Cuspidothrix issatschenkoi	Ak1309	20 	230752
+NIES-4052	Aphanizomenon flos-aquae	Ak1335	20 	1176
+NIES-4053	Aphanizomenon flos-aquae	Ak1337	20 	1176
+NIES-4054	Planktothrix agardhii	Ak1338	20 	1160
+NIES-4055	Microcystis aeruginosa	Ak1559	20 	1126
+NIES-4056	Microcystis aeruginosa	Ak1560	20 	1126
+NIES-4057	Microcystis aeruginosa	Ak1561	20 	1126
+NIES-4058	Sphaerospermopsis aphanizomenoides	Ak1568	20 	459663
+NIES-4059	Pseudanabaena subfoetida	Ak1318; PS1306	20 	-1
+NIES-4060	Paulinella micropora	MYN1	20 	1928728
+NIES-4061	Rufusiella insignis	Handa-855-b	20 	-1
+NIES-4062	Pseudanabaena cenerea	Ak1349	20 	-1
+NIES-4063	Pseudanabaena cenerea	Ak1351	20 	-1
+NIES-4064	Pseudanabaena cenerea	Ak1548	20 	-1
+NIES-4065	Pseudanabaena cenerea	Ak1550	20 	-1
+NIES-4068	Volvox tertius	1-3 k-4	20 	47292
+NIES-4069	Volvox tertius	1-3 k-5	20 	47292
+NIES-4073	Scytonema sp.	YK-02	20 	-1
+NIES-4074	Cylindrospermum sp.	YK2-01	20 	-1
+NIES-4075	Tolypothrix sp.	MK-01	20 	-1
+NIES-4076	Symbiodinium sp.	Y106	20 	-1
+NIES-4077	Cladocopium sp.	Y-103	20 	-1
+NIES-4079	Chaetoceros debilis	SNK72	15 	122233
+NIES-4100	Eudorina sp.	2010-623-F1-E3	20 	-1
+NIES-4101	Calothrix sp.	CIT012	20 	-1
+NIES-4102	Pleurocapsa sp.	CIT043	20 	-1
+NIES-4103	Nostoc sp.	CIT020	20 	-1
+NIES-4105	Calothrix sp.	CIT034	20 	-1
+NIES-4106	Pelatocladus sp.	CIT040	20 	-1
+NIES-4107	Gymnomonas nepalensis	NIES-3572P1	20 	1983403
+NIES-4109	Viridiuvalis adhaerens	SRT040	20 	1977046
+NIES-4110	Volvox reticuliferus	VO123-F1-9	20 	1737510
+NIES-4111	Volvox reticuliferus	VO123-F1-10	20 	1737510
+NIES-4116	Raphidiopsis sp.	ISG-26 C-5	20 	-1
+NIES-4118	Gambierdiscus scabrosus	KW070922_1	20 	1524323
+NIES-4119	Gambierdiscus australes	S080911_1	20 	439317
+NIES-4120	Gambierdiscus jejuensis	M080828_2	20 	2307113
+NIES-4121	Gonium pectorale	2014-0520-F1-4	20 	33097
+NIES-4122	Chrysochromulina sp.	D1	20 	-1
+NIES-4123	Aphanizomenon sp.	NNS-1 C-5	20 	-1
+NIES-4124	Stephanosphaera pluvialis	nan	20 	51712
+NIES-4125	Stephanosphaera pluvialis	nan	20 	51712
+NIES-4126	Pleodorina thompsonii	strain RT	20 	330484
+NIES-4127	Volvox powersii	71-51	24 	47290
+NIES-4128	Volvox dissipatrix	Marb. 2RS 29	24 	47288
+NIES-4129	Micractinium sp.	strain 10S	20 	-1
+NIES-4130	Micractinium sp.	strain 23	20 	-1
+NIES-4138	Vorticella sp.	Vor-5	20 	-1
+NIES-4141	Haematococcus lacustris	2001-814-H-1	20 	44745
+NIES-4143	Chlamydomonas augustae	NrCl-608P1	20 	-1
+NIES-4148	Rhodomonas sp.	EM41	15 	-1
+NIES-4149	Rhodomonas sp.	EM49	15 	-1
+NIES-4150	Rhodomonas chrysoidea	EM57	15 	254933
+NIES-4151	Rhodomonas sp.	EM59	15 	-1
+NIES-4152	Rhodomonas sp.	EM71	15 	-1
+NIES-4153	Rhodomonas chrysoidea	EM77	15 	254933
+NIES-4154	Rhodomonas sp.	EM86	15 	-1
+NIES-4155	Rhodomonas chrysoidea	EM100	15 	254933
+NIES-4157	Rhodomonas sp.	EM104	15 	-1
+NIES-4159	Rhodomonas sp.	EM109	15 	-1
+NIES-4160	Rhodomonas sp.	EM113	15 	-1
+NIES-4161	Rhodomonas sp.	EM119	15 	-1
+NIES-4162	Rhodomonas sp.	EM124	15 	-1
+NIES-4163	Rhodomonas sp.	EM129	15 	-1
+NIES-4164	Rhodomonas sp.	EM130	15 	-1
+NIES-4165	Chroomonas sp.	EM138	15 	-1
+NIES-4174	Cryptomonas tetrapyrenoidosa	EF157	15 	233185
+NIES-4175	Cryptomonas sp.	EF164	15 	-1
+NIES-4177	Cryptomonas tetrapyrenoidosa	EF204	15 	233185
+NIES-4178	Cryptomonas sp.	EF213	15 	-1
+NIES-4180	Cryptomonas sp.	EF233	15 	-1
+NIES-4181	Cryptomonas sp.	EF235	15 	-1
+NIES-4186	Cryptomonas sp.	EF280	15 	-1
+NIES-4187	Cryptomonas sp.	EF291	15 	-1
+NIES-4189	Cryptomonas tetrapyrenoidosa	EF334	15 	233185
+NIES-4194	Cryptomonas sp.	EF359	15 	-1
+NIES-4211	Desmodesmus sp.	Sort 16	20 	-1
+NIES-4212	Neochlorosarcina negevensis	Sort 32	20 	332221
+NIES-4213	Desmodesmus sp.	Sort 38	20 	-1
+NIES-4214	Messastrum gracile	Sort 56	20 	81816
+NIES-4215	Monoraphidium sp.	Sort 58	20 	-1
+NIES-4216	Chlorella sorokiniana	Sort 61	20 	3076
+NIES-4217	Tetrastrum staurogeniaeforme	Sort 63	20 	-1
+NIES-4225	Raphidiopsis raciborskii	ISG-9-B-1-C-2	20 	-1
+NIES-4226	Raphidiopsis raciborskii	ISG-9-B-1-C-5	20 	-1
+NIES-4227	Thalassiosira nordenskioeldii	Th-n-3	5 	83372
+NIES-4234	Microcystis aeruginosa	Sj	20 	1126
+NIES-4236	Microseira wollei	Biwa-Lyng	20 	2530354
+NIES-4237	Pseudanabaena yagii	Ak1585	20 	2023174
+NIES-4238	Pseudanabaena yagii	Ak1604	20 	2023175
+NIES-4239	Nitzschia putrida	PL1-1	20 	2742595
+NIES-4241	Chlamydomonas sp.	ChW1002A1	20 	-1
+NIES-4242	Chlamydomonas sp.	HyT1201C6P1	20 	-1
+NIES-4243	Chlamydomonas sp.	HyT1203B3P1	20 	-1
+NIES-4244	Chlamydomonas sp.	HyW1001A6	20 	-1
+NIES-4245	Chlamydomonas sp.	JgCl-601P1	20 	-1
+NIES-4246	Chlamydomonas sp.	NrCl-1P3	20 	-1
+NIES-4247	Chlamydomonas sp.	TgA0901C4P9	20 	-1
+NIES-4248	Chlamydomonas sp.	TgW1001D1P2	20 	-1
+NIES-4249	Chlamydomonas sp.	TkS1601B3	20 	-1
+NIES-4250	Vitreochlamys sp.	YgS1601C1	20 	-1
+NIES-4251	Chlamydomonas sp.	YgS1602C1	20 	-1
+NIES-4252	Vitreochlamys sp.	YgS1603A2	20 	-1
+NIES-4253	Chlamydomonas sp.	YgS1603C5	20 	-1
+NIES-4254	Vitreochlamys sp.	YgS1603D5	20 	-1
+NIES-4255	Chlamydomonas sp.	YgS1604C1	20 	-1
+NIES-4256	Chlamydomonas sp.	TKAC 3001 = YgT1301A1P1	20 	-1
+NIES-4257	Chrysochromulina andersonii	truncatum_symbiont	20 	2555874
+NIES-4262	Coleochaete scutata	Ynk-2	20 	3125
+NIES-4263	Phormidium sp.	strain KS	20 	-1
+NIES-4265	Desmodesmus sp.	Sort 105	20 	-1
+NIES-4266	Coelastrum sp.	Sort 109	20 	-1
+NIES-4267	Desmodesmus costato-granulatus	Sort 151	20 	42692
+NIES-4269	Nitella acuminata	CH-130; S142	20 	231898
+NIES-4274	Alexandrium ostenfeldii	A	15 	40986
+NIES-4277	Vacuoliviride crystalliferum	vacuo 1	20 	1550615
+NIES-4278	Tetra dron sp.	sort 121	20 	-1
+NIES-4279	Chlorella sp.	sort 131	20 	-1
+NIES-4280	Mayamaea pseudoterrestris	22	20 	2872254
+NIES-4281	Mayamaea terrestris	64	20 	1560737
+NIES-4282	Desmodesmus subspicatus	nan	20 	104105
+NIES-4284	Chloromonas muramotoi	HkCl-57	5 	2496115
+NIES-4285	Microcystis aeruginosa	17AbL-2	20 	2497681
+NIES-4286	Neodesmus pupukensis	sort 17	20 	3081
+NIES-4287	Unidentified Oocystaceae	sort 20	20 	-1
+NIES-4288	Monoraphidium sp.	sort 21	20 	-1
+NIES-4289	Chlorella sorokiniana	sort 22	20 	3076
+NIES-4290	Lagerheimia genevensis	sort 29	20 	202679
+NIES-4291	Raphidocelis sp.	sort 31	20 	-1
+NIES-4292	Choricystis krienitzii	sort 41	20 	2732264
+NIES-4293	Lagerheimia sp.	sort 46	20 	-1
+NIES-4294	Monoraphidium minutum	sort 50	20 	39955
+NIES-4295	Monoraphidium contortum	sort 57	20 	307511
+NIES-4296	Chlamydomonas sp.	sort 87	20 	-1
+NIES-4297	Oocystis sp.	sort 97	20 	-1
+NIES-4298	Crucigeniella sp.	sort 124	20 	-1
+NIES-4299	Kirchneriella sp.	sort 125	20 	-1
+NIES-4300	Desmodesmus communis	sort 133	20 	31303
+NIES-4301	Chlorella sp.	sort 136	20 	-1
+NIES-4302	Spirogyra chungkingensis	Uki1	20 	332114
+NIES-4303	Spirogyra corrugata	A2F	20 	2583841
+NIES-4304	Spirogyra dentireticulata	chiA101	20 	2583842
+NIES-4305	Spirogyra hopeiensis	biw0302	20 	2583843
+NIES-4306	Spirogyra longata	chiA305	20 	-1
+NIES-4307	Spirogyra longata	kit0201	20 	-1
+NIES-4308	Spirogyra majuscula	chi0202	20 	1323979
+NIES-4309	Spirogyra majuscula	nag301	20 	1323979
+NIES-4310	Spirogyra minuticrassoidea	nag101	20 	2583844
+NIES-4311	Spirogyra mirabilis	shi0305	20 	2583845
+NIES-4312	Spirogyra chenii	chiA307	20 	2583840
+NIES-4313	Spirogyra pseudomaxima	chi0305	20 	2583846
+NIES-4314	Spirogyra punctata	Tpx8	20 	2583847
+NIES-4315	Spirogyra semiornata	chiA304	20 	2583848
+NIES-4316	Spirogyra varians	chi0102	20 	332125
+NIES-4317	Ostravamonas trianguloculus	YgT1304B4; TKAC 3013	20 	-1
+NIES-4318	Ostravamonas trianguloculus	Strain 046	20 	-1
+NIES-4319	Closterium peracerosum-strigosum-littorale complex	Asa13-14	20 	-1
+NIES-4320	Closterium peracerosum-strigosum-littorale complex	Asa13-21	20 	-1
+NIES-4321	Closterium peracerosum-strigosum-littorale complex	Inba1-12	20 	-1
+NIES-4322	Closterium peracerosum-strigosum-littorale complex	Inba1-20	20 	-1
+NIES-4325	Microcystis aeruginosa	18AbL-65	20 	2569534
+NIES-4327	Gonium pectorale	2017-0423-IsgGo1	20 	33097
+NIES-4329	Asterodinium gracile	NG512	22 	2497328
+NIES-4330	Gertia stigmatica	mdd472-kt	20 	2676190
+NIES-4331	Isochrysis sp.	Dm1	20 	-1
+NIES-4332	Isochrysis sp.	Dm2	20 	-1
+NIES-4333	Isochrysis sp.	Dm3	20 	-1
+NIES-4334	Isochrysis sp.	Sh1	20 	-1
+NIES-4335	Isochrysis sp.	Sh2	20 	-1
+NIES-4336	Volvox rousseletii	2015-0610-3v6	20 	47791
+NIES-4337	Volvox rousseletii	2015-0610-3v7	20 	47791
+NIES-4338	Volvox rousseletii	2015-0610-3v9	20 	47791
+NIES-4339	Volvox rousseletii	v-sgm-17	25 	47791
+NIES-4340	Volvox rousseletii	v-sgm-23	25 	47791
+NIES-4341	Volvox rousseletii	v-sgm-24	25 	47791
+NIES-4342	Volvox rousseletii	v-tani-9	25 	47791
+NIES-4343	Coccomyxa subellipsoidea	S-255-PL-002-A	20 	248742
+NIES-4344	Microcystis aeruginosa	Oshiro-1 C-5 C-5	20 	1126
+NIES-4345	Microcystis aeruginosa	Oshiro-2 A-2	20 	1126
+NIES-4383	Annamia dubia	sort 175	20 	2759045
+NIES-4384	Merismopedia sp.	sort 174	20 	-1
+NIES-4385	Chlorella sp.	sort 55	20 	-1
+NIES-4386	Chlorotetraedron incus	sort 71	20 	162317
+NIES-4387	Closterium sp.	isolation 65	20 	-1
+NIES-4388	Dictyosphaerium sp.	isolation 61	20 	-1
+NIES-4390	Cyanidiococcus yangmingshanensis	THAL066	25 	2690220
+NIES-4391	Chromera velia	RM12; nQAIF136	20 	505693
+NIES-4392	Phaeodactylum tricornutum	Pt1 8.6; Pt Gen	20 	2850
+NIES-4393	Phormidium sp.	AL1	22 	-1
+NIES-4394	Nodosilinea sp.	AL3	22 	-1
+NIES-4395	Rivularia sp.	AL4	22 	-1
+NIES-4396	Nodularia sp.	AL6	22 	-1
+NIES-4397	Myxosarcina sp.	AL7	22 	-1
+NIES-4398	Chroococcidium sp.	AL8	22 	-1
+NIES-4402	Urgorri complanatus	SH-4297-e	20 	1176437
+NIES-4403	Pseudanabaena sp.	ILC 545	30 	-1
+NIES-4405	Chlamydomonad sp.	NrCl902	20 	-1
+NIES-4407	Dolichospermum crassum	Kobe-12	20 	136074
+NIES-4410	Desmodesmus sp.	AI_03	20 	-1
+NIES-4418	Desmodesmus sp.	Tk6-3_May	20 	-1
+NIES-4420	Desmodesmus sp.	Tk3-2_Sept	20 	-1
+NIES-4442	Braarudosphaera bigelowii	KC15-24	20 	373042
+NIES-4452	Chloromonas fukushimae	HkCl-117	5 	1454353
+NIES-4453	Chloromonas fukushimae	OzCl-11	5 	1454353
+NIES-4465	Volvox ferrisii	2018-1031-VVx2	25 	1075618
+NIES-4469	Pandorina morum	2015-0502-Isa5	20 	33099
+NIES-4470	Pandorina morum	2015-0502-Isa6	20 	33099
+NIES-4471	Volvulina steinii	2017-0925-Isg5	20 	51722
+NIES-4473	Coelosphaerium sp.	G2	20 	-1
+NIES-4474	Coelosphaerium sp.	G3	20 	-1
+NIES-4475	Coelosphaerium sp.	S3C5	20 	-1
+NIES-4479	Pleodorina starrii	2007-1003-P85	20 	330485
+NIES-4480	Pleodorina starrii	2013-0614-P7	20 	330485
+NIES-4481	Pleodorina starrii	2018-0609-2P1	20 	330485
+NIES-4482	Pleodorina starrii	2013-0614-P10	20 	330485
+NIES-4483	Pleodorina starrii	2019-0427-F1-1	20 	330485
+NIES-4484	Pleodorina starrii	2019-0427-F1-2	20 	330485
+NIES-4499	Gonium pectorale	2021-0414-F1GP-2	20 	33097
+NIES-4500	Gonium pectorale	2021-0414-F1GP-3	20 	33097
+NIES-4501	Gonium pectorale	2021-0414-F1GP-7	20 	33097
+NIES-4502	Gonium pectorale	2021-0414-F1GP-8	20 	33097
+NIES-4535	Volvox ferrisii	2008-0614-Vx2-F1-1	24 	1075618
+NIES-4540	Podomonas kaiyoae	YPF1504	20 	2976774
+NIES-4541	Karenia selliformis	KKsKs74	12 	262428
+NIES-4542	Karenia selliformis	KKsKs75	12 	262428
+NIES-4543	Karenia selliformis	LK2Ks306	12 	262428
+NIES-4544	Karenia selliformis	LK2Ks307	12 	262428
+NIES-4545	Amphidinium massartii	G12	20 	160604
+NIES-4554	Prorocentrum caipirignum	KON30P15	22 	1971612
+NIES-4555	Prorocentrum lima	KON83P	22 	39448
+NIES-4557	Prorocentrum lima	MIO52P	22 	39448
+NIES-4558	Prorocentrum lima	OMI29P	22 	39448
+NIES-4595	Coolia malayensis	C14	24 	119754
+NIES-4596	Coolia malayensis	C12	24 	119754
+NIES-4597	Coolia malayensis	G10	24 	119754
+NIES-4598	Coolia malayensis	G4	24 	119754
+NIES-4599	Coolia malayensis	E6-G27	24 	119754
+NIES-4600	Coolia malayensis	E2-G25	24 	119754
+NIES-4601	Coolia palmyrensis	F6-G23	20 	1658755
+NIES-4602	Coolia canariensis	G17	24 	999464
+NIES-4603	Coolia canariensis	G6	24 	999464
+NIES-4604	Coolia canariensis	G11	20 	999464
+NIES-4605	Amphidinium uduigamense	I76	24 	2870477
+NIES-4606	Amphidinium operculatum	I78	20 	107036
+NIES-4607	Amphidinium operculatum	G3	24 	107036
+NIES-4608	Amphidinium operculatum	I85	20 	107036

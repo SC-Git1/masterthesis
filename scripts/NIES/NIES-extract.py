@@ -34,7 +34,7 @@ if __name__ == '__main__':
   the maximum strainID was 4288
   (after running, the largest NIES number found was 4606)
   """
-    with open("/content/drive/MyDrive/masterthesis/extract_NIES_StrainCorr.tsv", "w", encoding = "latin1") as f:
+    with open("/content/drive/MyDrive/masterthesis/NIES_extracted5.tsv", "w", encoding = "latin1") as f:
         f.write("Name" + "\t" + "Strain" + "\t" + "Temp" + "\t" + "Source_ID" + "\n")
         for i in range(4610):
             time.sleep(0.1)

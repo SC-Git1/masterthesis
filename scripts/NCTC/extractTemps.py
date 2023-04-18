@@ -44,5 +44,5 @@ print(sum(df_NCTC["Temp"] != "NA")) # 3511
 
 # export data
 df_NCTC.rename(columns = {"NCTC_number":"Source_ID"}, inplace=True)
-df_NCTC["Temp"] = df_NCTC["Temp"].str.replace("NA", "")
+df_NCTC = df_NCTC[df_NCTC["Temp"] != "NA"]
 df_NCTC[['Species', "Strain",'Source_ID','Temp']].to_csv('NCTC_extracted_withTemp.tsv', sep = '\t', index= False)

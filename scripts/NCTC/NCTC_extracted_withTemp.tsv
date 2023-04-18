@@ -1,5 +1,4 @@
 Species	Strain	Source_ID	Temp
-Shigella flexneri	Cable	NCTC 1	
 Shigella flexneri	Hughes	NCTC 2	37
 Shigella flexneri	Oxford Flexner	NCTC 3	37
 Shigella flexneri	Mountain 2464	NCTC 4	37
@@ -69,9 +68,7 @@ Clostridium bifermentans	FI	NCTC 506	37
 Clostridium sphenoides	Thorlby	NCTC 507	37
 Mycobacterium smegmatis	New York	NCTC 523	37
 Mycobacterium phlei	Hay	NCTC 525	30
-Clostridium perfringens	SR 12	NCTC 528	
 Clostridium sporogenes	SR 5	NCTC 532	37
-Clostridium sporogenes	Bellette	NCTC 533	
 Clostridium sporogenes	Conradi	NCTC 534	37
 Clostridium novyi	Jolly	NCTC 538	37
 Clostridium tetani	R 220 E	NCTC 539	37
@@ -82,13 +79,10 @@ Clostridium septicum	Pasteur III	NCTC 547	37
 Clostridium septicum	R Past I	NCTC 549	37
 Clostridium septicum	VFS Milk IV	NCTC 550	37
 Clostridium septicum	Prior	NCTC 551	37
-Yersinia pestis	Bombay 267	NCTC 570	
-Rhodococcus rhodochrous	Khartoum	NCTC 576	
 Streptomyces sp.	Horton	NCTC 600	30
 Micrococcus luteus	Thaysen	NCTC 611	37
 Salmonella enterica subsp. enterica serotype enteritidis	Liverpool virus	NCTC 618	37
 Brucella abortus	English strain 8	NCTC 624	37
-Nocardia farcinica	24 Foal Blackwell	NCTC 630	
 Alcaligenes faecalis	Lister	NCTC 655	37
 Enterococcus durans	Thaysen II	NCTC 662	37
 Propionibacterium acnes	Ponsonby	NCTC 737	37
@@ -123,7 +117,6 @@ Yersinia pseudotuberculosis	Schnurer II	NCTC 1103	37
 Yersinia pseudotuberculosis	Schnurer III	NCTC 1104	37
 Pasteurella multocida	Mouse 49	NCTC 1140	37
 Erysipelothrix rhusiopathiae	Wragge	NCTC 1224	37
-Clostridium perfringens	Adams	NCTC 1265	
 Pasteurella multocida	Bov Pn I	NCTC 1287	37
 Bacillus anthracis	Fildes	NCTC 1328	37
 Clostridium bifermentans	70	NCTC 1340	37
@@ -137,7 +130,6 @@ Brucella abortus	Weybridge IV	NCTC 1478	37
 Corynebacterium dihptheriae var intermedius	55	NCTC 1523	37
 Mycobacterium fortuitum	Cobbett	NCTC 1542	37
 Escherichia coli	Towne	NCTC 1601	37
-Rhodococcus hoagii	Foal	NCTC 1621	
 Micrococcus sp.	Thaysen	NCTC 1630	37
 Kocuria varians	Milk	NCTC 1631	27
 Haemophilus haemoglobinophilus	XIII	NCTC 1659	37
@@ -161,11 +153,9 @@ Pseudomonas aeruginosa	Eyre I	NCTC 2000	37
 Mycobacterium fortuitum	Terrapin C 3	NCTC 2006	30
 Clostridium botulinum	Loch Maree	NCTC 2012	37
 Yersinia pestis	Java	NCTC 2028	37
-Brucella melitensis	Chevre 83	NCTC 2065	
 Bacillus licheniformis	ATCC 8187	NCTC 2120	37
 Streptococcus pyogenes	SF 3	NCTC 2218	37
 Salmonella enterica subsp. enterica serotype thompson	Thompson	NCTC 2252	37
-Mycobacterium marinum	Aronson	NCTC 2275	
 Mycobacterium fortuitum	Halibut	NCTC 2291	37
 Streptococcus pyogenes	E 3	NCTC 2366	37
 Enterococcus faecalis	Rettger	NCTC 2400	37
@@ -196,7 +186,6 @@ Pasteurella multocida	5985	NCTC 2771	37
 Morganella morganii	Green-billed toucan	NCTC 2815	37
 Morganella morganii	Pine Snake, 1	NCTC 2818	37
 Clostridium perfringens	13 Zeissler	NCTC 2836	37
-Clostridium perfringens	40 Zeissler	NCTC 2837	
 Serratia marcescens	K 5	NCTC 2847	37
 Yersinia pestis	Bombay 1	NCTC 2868	30
 Mycobacterium fortuitum	2891	NCTC 2891	30
@@ -230,13 +219,10 @@ Streptococcus sanguinis	I	NCTC 3166	37
 Streptococcus sanguinis	Green spreader	NCTC 3168	37
 Salmonella enterica subsp. enterica serotype paratyphi b	HB 2	NCTC 3176	37
 Proteus mirabilis	Calf	NCTC 3177	37
-Clostridium perfringens	CT 75	NCTC 3180	
-Clostridium perfringens	CT 29	NCTC 3181	
 Clostridium perfringens	CT 47	NCTC 3182	37
 Neisseria flavescens	156	NCTC 3191	37
 Pasteurella multocida	HS	NCTC 3195	37
 Corynebacterium bovis	Evans	NCTC 3224	37
-Clostridium perfringens	Wye 3	NCTC 3227	
 Achromobacter sp.	ATCC 337	NCTC 3233	37
 Streptomyces somaliensis	IX	NCTC 3236	30
 Klebsiella aerogenes	Biberratte	NCTC 3279	37
@@ -250,12 +236,10 @@ Salmonella enterica subsp. enterica serotype eastbourne	Indole positive	NCTC 337
 Salmonella enterica subsp. enterica serotype typhi	S	NCTC 3390	37
 Avibacterium volantium	6	NCTC 3438	37
 Corynebacterium pseudotuberculosis	E 23	NCTC 3450	37
-Brucella melitensis	H 26	NCTC 3511	
 Corynebacterium diphtheriae	5036	NCTC 3529	37
 Corynebacterium diphtheriae	1243	NCTC 3544	37
 Yersinia pseudotuberculosis	Elstree	NCTC 3569	37
 Yersinia pseudotuberculosis	Monkey 155	NCTC 3571	37
-Brucella abortus	Dublin	NCTC 3605	
 Bacillus subtilis	Marburg	NCTC 3610	37
 Moraxella (branhamella) catarrhalis	O	NCTC 3622	37
 Moraxella (branhamella) catarrhalis	4	NCTC 3623	37
@@ -299,16 +283,13 @@ Staphylococcus aureus	135	NCTC 4137	37
 Actinomadura pelletieri	Naudi	NCTC 4162	37
 Staphylococcus aureus	Insecticide	NCTC 4163	37
 Escherichia coli	Fikri	NCTC 4168	37
-Escherichia coli	Cleland	NCTC 4169	
 Escherichia coli	Davis	NCTC 4174	37
 Proteus vulgaris	Lehmann	NCTC 4175	37
 Actinobacillus lignieresii	1	NCTC 4189	37
 Actinobacillus lignieresii	33	NCTC 4191	37
 Proteus mirabilis	Monkey 3	NCTC 4199	37
-Rhodococcus equi	Jensen	NCTC 4219	
 Staphylococcus haemolyticus	7516-C	NCTC 4276	37
 Kocuria varians	M 1/4	NCTC 4285	37
-Staphylococcus warneri	I-2	NCTC 4287	
 Erysipelothrix rhusiopathiae	Topley B	NCTC 4304	37
 Corynebacterium diphtheriae var intermedius	PW 8 (110)	NCTC 4305	37
 Streptococcus dysgalactiae subsp. dysgalactiae	N 35	NCTC 4335	37
@@ -322,10 +303,7 @@ Actinomyces bovis	D 121	NCTC 4500	37
 Actinomyces bovis	D 127	NCTC 4502	37
 Lactobacillus acidophilus	Cruickshank 2	NCTC 4504	37
 Streptomyces sp.	Pollacci	NCTC 4518	37
-Streptomyces sp.	ATCC 549	NCTC 4521	
-Streptomyces sp.	DR 1201	NCTC 4522	
 Streptomyces griseus	ATCC 3311	NCTC 4523	37
-Mycobacterium farcinogenes subsp. senegalense	ATCC 3318	NCTC 4524	
 Streptomyces hominis	ATCC 3008	NCTC 4525	30
 Streptococcus sp.	Azgazardah	NCTC 4540	37
 Bacillus alcalophilus	1	NCTC 4553	37
@@ -369,7 +347,6 @@ Salmonella enterica subsp. enterica serotype enteritidis	450	NCTC 4776	37
 Salmonella enterica subsp. enterica serotype enteritidis	4777 451 9, 12:g, m:-	NCTC 4777	37
 Salmonella enterica subsp. enterica serotype typhimurium	1810 0-form	NCTC 4782	37
 Salmonella enterica subsp. enterica serotype eastbourne	Indole negative	NCTC 4785	37
-Sporosarcina ureae	229	NCTC 4819	
 Bacillus carotarum	G 21	NCTC 4821	37
 Bacillus freudenreichii	Gibson 68	NCTC 4823	37
 Bacillus lentus	Gibson 165	NCTC 4824	37
@@ -388,7 +365,6 @@ Salmonella enterica subsp. enterica serotype senftenberg	5765-1	NCTC 4969	37
 Actinobacillus lignieresii	CM 1	NCTC 4975	37
 Actinobacillus lignieresii	CM 2	NCTC 4976	37
 Actinobacillus lignieresii	Sen	NCTC 4985	37
-Clostridium perfringens	878	NCTC 4989	
 Corynebacterium diphtheriae	207 N	NCTC 5002	37
 Corynebacterium diphtheriae	1195	NCTC 5003	37
 Corynebacterium diphtheriae	18T	NCTC 5004	37
@@ -408,7 +384,6 @@ Klebsiella pneumoniae subsp. ozaenae	O 3	NCTC 5050	37
 Klebsiella pneumoniae sensu stricto	O 45	NCTC 5051	37
 Klebsiella pneumoniae subsp. ozaenae	0 30	NCTC 5052	37
 Klebsiella pneumoniae subsp. ozaenae	0 45	NCTC 5053	37
-Klebsiella pneumoniae sensu stricto	F 1	NCTC 5054	
 Klebsiella pneumoniae	F 9	NCTC 5055	37
 Klebsiella pneumoniae	F 10	NCTC 5056	37
 Klebsiella pneumoniae sensu stricto	F 1 a	NCTC 5057	37
@@ -441,7 +416,6 @@ Bacillus licheniformis	Parry 2	NCTC 5399	37
 Clostridium tetani	TM2	NCTC 5404	37
 Clostridium tetani	TH 20	NCTC 5405	37
 Clostridium tetani	TM 3	NCTC 5408	37
-Clostridium tetani	TH 3	NCTC 5409	
 Clostridium tetani	Tulloch	NCTC 5410	37
 Clostridium tetani	TM 5	NCTC 5411	37
 Clostridium tetani	TH 2	NCTC 5413	37
@@ -449,9 +423,6 @@ Bacillus anthracis	St. Marys	NCTC 5444	37
 Vibrio cholerae	Shanghai 10	NCTC 5596	37
 Bacillus megaterium	386	NCTC 5635	37
 Bacillus megaterium	659	NCTC 5637	37
-Rhodococcus equi	916/22	NCTC 5649	
-Rhodococcus equi	3848/31	NCTC 5650	
-Rhodococcus equi	3122	NCTC 5651	
 Actinomadura madurae	Aden	NCTC 5654	37
 Staphylococcus aureus	30/30	NCTC 5655	37
 Staphylococcus aureus	37 Belgium	NCTC 5656	37
@@ -462,8 +433,6 @@ Staphylococcus pseudintermedius	D4	NCTC 5661	37
 Staphylococcus aureus	Williams Australia	NCTC 5662	37
 Staphylococcus aureus	B Sweden	NCTC 5663	37
 Staphylococcus aureus	Y2 Sweden	NCTC 5664	37
-Mycobacterium bovis var. bcg	BCG	NCTC 5692	
-Mycobacterium bovis	Vallee	NCTC 5693	
 Salmonella enterica subsp. enterica serotype enteritidis	5694 Mouse-virulent 9, 12:g, m:-	NCTC 5694	37
 Salmonella enterica subsp. enterica serotype paratyphi a	1015 (K1)	NCTC 5702	37
 Salmonella enterica subsp. enterica serotype paratyphi b	8006 (K3)	NCTC 5704	37
@@ -487,7 +456,6 @@ Salmonella enterica subsp. enterica serotype derby	31 (K 20)	NCTC 5721	37
 Salmonella enterica subsp. enterica serotype derby	5722 15145 (K 21) 4, 12:f, g:-	NCTC 5722	37
 Salmonella enterica subsp. enterica serotype essen	5723 173 (K 22) 4, 12:g, m:-	NCTC 5723	37
 Salmonella enterica subsp. enterica serotype budapest	5724 K 23 (CN 1165) 1, 4, 12:g, t:-	NCTC 5724	37
-Salmonella enterica subsp. enterica serotype brandenburg	5725 647 (K 24) 4, 12:l, v:e, n, z15	NCTC 5725	
 Salmonella enterica subsp. enterica serotype abortusequi	5727 202 (K26) 4, 12:-:e, n, x	NCTC 5727	37
 Salmonella enterica subsp. enterica serotype abortusbovis	a 1960 (K 28) (CN 5727)	NCTC 5729	37
 Salmonella enterica subsp. enterica serotype abortusbovis	5730 b 1960 (K SC 29) 1, 4, 12, 27:-:e, n, x	NCTC 5730	37
@@ -554,20 +522,15 @@ Salmonella enterica subsp. enterica serotype gaminara	974 (K 96, ATCC 8324, CN 3
 Salmonella enterica subsp. enterica serotype kirkee	K 97	NCTC 5798	37
 Salmonella enterica subsp. enterica serotype kentucky	5799 21883 (K 98) 8, 20:i:z6	NCTC 5799	37
 Salmonella enterica subsp. enterica serotype minnesota	21 (K 99, CN 1091)	NCTC 5800	37
-Salmonella enterica subsp. enterica serotype cerro	415 (K 100, CN 1094)	NCTC 5801	
 Morganella morganii	Argentina	NCTC 5845	37
 Bacillus circulans	Crab	NCTC 5846	37
 Campylobacter fetus subsp. fetus	Milton	NCTC 5850	37
 Acinetobacter lwoffii	Lwoff (1)	NCTC 5866	37
 Acinetobacter lwoffii	Lwoff (2)	NCTC 5867	37
 Pasteurella multocida	Lamont	NCTC 5868	37
-Aggregatibacter aphrophilus	PM 1	NCTC 5886	
 Proteus mirabilis	Harding & Nicholson	NCTC 5887	37
 Bacillus coagulans	G 514	NCTC 5895	37
 Bacillus sphaericus	G 34	NCTC 5896	37
-Aggregatibacter aphrophilus	320	NCTC 5906	
-Aggregatibacter aphrophilus	299	NCTC 5907	
-Aggregatibacter aphrophilus	PM 5	NCTC 5908	
 Cronobacter sakazakii	502 (NCIB 5920)	NCTC 5920	37
 Yersinia pestis	Soemedang	NCTC 5923	37
 Yersinia pestis	Tjiwidej	NCTC 5924	37
@@ -597,9 +560,7 @@ Salmonella enterica subsp. enterica serotype typhi	T2 AS (K115)	NCTC 6029	37
 Salmonella enterica subsp. enterica serotype onarimon	6047 Kisida 1, 9, 12:b:1, 2	NCTC 6047	37
 Citrobacter freundii	1	NCTC 6071	37
 Clostridium butyricum	75	NCTC 6084	37
-Salmonella enterica subsp. enterica serotype havana	6086 D 4 1, 13, 23:f, g:-	NCTC 6086	
 Salmonella enterica subsp. enterica serotype arechavaleta	5567	NCTC 6087	37
-Mycobacterium bovis	Cambridge 1	NCTC 6088	
 Bacillus megaterium	Soil 2	NCTC 6094	37
 Corynebacterium diphtheriae	Dublin 38	NCTC 6111	37
 Clostridium perfringens	4229 E?	NCTC 6121	37
@@ -610,7 +571,6 @@ Staphylococcus aureus	MS 41	NCTC 6135	37
 Staphylococcus aureus	MS 150	NCTC 6136	37
 Staphylococcus aureus	MS 63	NCTC 6137	37
 Corynebacterium diphtheriae	Dublin 9 WPRL	NCTC 6138	37
-Streptococcus agalactiae	Filbert	NCTC 6175	
 Streptococcus equi subsp. zooepidemicus	Loewenthal M	NCTC 6176	37
 Streptococcus equi subsp. zooepidemicus	Loewenthal O	NCTC 6177	37
 Streptococcus equisimilis	Mare 1	NCTC 6179	37
@@ -642,7 +602,6 @@ Providencia alcalifaciens	B 105	NCTC 6344	37
 Providencia alcalifaciens	B 81	NCTC 6345	37
 Bacillus licheniformis	N. R. Smith 243	NCTC 6346	37
 Paenibacillus alvei	N. R. Smith 662	NCTC 6352	37
-Paenibacillus macerans	N. R. Smith 888	NCTC 6355	
 Brevibacillus laterosporus	Laubach	NCTC 6357	37
 Haemophilus parasuis	F	NCTC 6359	37
 Proteus mirabilis	Edwards	NCTC 6369	37
@@ -651,7 +610,6 @@ Salmonella enterica subsp. enterica serotype unnamed	Conn 11077 (CN 1138)	NCTC 6
 Salmonella enterica subsp. enterica serotype tennessee	6388 Tennessee K1 6, 7:z29:-	NCTC 6388	37
 Streptococcus dysgalactiae	A 621	NCTC 6396	37
 Streptococcus sp.	SHC 256	NCTC 6400	37
-Streptococcus dysgalactiae	SHC 146 (2)	NCTC 6403	
 Streptococcus dysgalactiae subsp. equisimilis	SHC 282	NCTC 6406	37
 Streptococcus dysgalactiae subsp. equisimilis	SHC 313	NCTC 6407	37
 Streptococcus sp.	SHC 177	NCTC 6408	37
@@ -706,7 +664,6 @@ Salmonella enterica subsp. enterica serotype sundsvall	Sven Gard	NCTC 6758	37
 Salmonella enterica subsp. enterica serotype taksony	6759 Alpha (CN 1423) 1, 3, 19:i:z6	NCTC 6759	37
 Nocardia asteroides	Conant	NCTC 6761	37
 Shigella dysenteriae	Bucharest Smooth	NCTC 6781	37
-Clostridium perfringens	Cambridge, BW 21	NCTC 6785	
 Clostridium bifermentans	A 189 Ad	NCTC 6800	37
 Clostridium bifermentans	A 190a	NCTC 6801	37
 Salmonella enterica subsp. enterica serotype hartford	Faithful (S 44)	NCTC 6802	37
@@ -753,7 +710,6 @@ Salmonella enterica subsp. enterica serotype miami	Edwards	NCTC 7112	37
 Staphylococcus aureus	CN 56 (Wood 46)	NCTC 7121	37
 Clostridium histolyticum	CN 949 (JS)	NCTC 7123	37
 Clostridium histolyticum	CN 920	NCTC 7124	37
-Neisseria gonorrhoeae	S 1	NCTC 7129	
 Streptococcus dysgalactiae subsp. equisimilis	Milne	NCTC 7136	37
 Janthinobacterium lividum	8	NCTC 7150	22
 Staphylococcus pseudintermedius	9505/46	NCTC 7151	37
@@ -792,7 +748,6 @@ Vibrio cholerae	Egypt 109	NCTC 7258	37
 Vibrio cholerae	Egypt 117	NCTC 7260	37
 Vibrio cholerae	Hikojima	NCTC 7270	37
 Clostridium botulinum	Beans	NCTC 7273	37
-Haemophilus influenzae	Rosher 2 Biotype I	NCTC 7279	
 Kocuria rosea	SL 67	NCTC 7281	37
 Corynebacterium diphtheriae	Manchester 207	NCTC 7282	37
 Corynebacterium diphtheriae	Liverpool 28197	NCTC 7283	37
@@ -826,7 +781,6 @@ Salmonella enterica subsp. arizonae	CDAI 426	NCTC 7311	37
 Salmonella enterica subsp. arizonae	So 20	NCTC 7312	37
 Salmonella enterica subsp. arizonae	So 73	NCTC 7313	37
 Salmonella enterica subsp. arizonae	Pc 146	NCTC 7314	37
-Salmonella enterica subsp. arizonae	So 9	NCTC 7315	
 Salmonella enterica subsp. arizonae	So 102 (CN 4244)	NCTC 7316	37
 Salmonella enterica subsp. houtenae serotype wassenaar	N 99	NCTC 7318	37
 Salmonella enterica subsp. arizonae	So 64	NCTC 7319	37
@@ -937,10 +891,7 @@ Acinetobacter baumannii	Crook	NCTC 7461	37
 Acinetobacter baumannii	Hourigan	NCTC 7462	37
 Bacillus cereus	NRRL 569	NCTC 7464	37
 Streptococcus pneumoniae	SV 1	NCTC 7465	37
-Streptococcus pneumoniae	D 39	NCTC 7466	
 Bacillus sonorensis	USDA 712	NCTC 7467	37
-Brucella abortus	771	NCTC 7470	
-Brucella abortus	D 432	NCTC 7471	
 Brucella abortus	MAU 223	NCTC 7472	37
 Staphylococcus epidermidis	Smith	NCTC 7474	37
 Providencia rettgeri	KB 5	NCTC 7475	37
@@ -957,7 +908,6 @@ Micrococcus luteus	44906	NCTC 7503	37
 Staphylococcus aureus	Woollie	NCTC 7507	37
 Micrococcus luteus	ATCC 966	NCTC 7508	22
 Kocuria rosea	28 (3)	NCTC 7509	22
-Rhodococcus rhodochrous	ATCC 184	NCTC 7510	
 Kocuria rosea	ATCC 144	NCTC 7511	37
 Kocuria rosea	ATCC 177	NCTC 7512	37
 Kocuria rosea	ATCC 178	NCTC 7513	37
@@ -971,7 +921,6 @@ Cellulomonas fimi	ATCC 484	NCTC 7547	37
 Corynebacterium pseudodiphtheriticum	3-49	NCTC 7549	37
 Micrococcus luteus	G 76 Group II B	NCTC 7562	37
 Micrococcus luteus	G 36	NCTC 7563	37
-Kocuria varians	G 33	NCTC 7564	
 Kocuria varians	G 40	NCTC 7565	37
 Kocuria varians	G 92	NCTC 7566	37
 Brachybacterium nesterenkovii	G 9	NCTC 7567	37
@@ -1006,7 +955,6 @@ Staphylococcus saprophyticus subsp. saprophyticus	Parker IC-84	NCTC 7666	37
 Staphylococcus saprophyticus subsp. saprophyticus	Parker IC-121	NCTC 7687	37
 Staphylococcus saprophyticus subsp. saprophyticus	Parker IC-122	NCTC 7688	37
 Staphylococcus saprophyticus subsp. saprophyticus	Parker IC-131	NCTC 7692	37
-Staphylococcus aureus	650 N	NCTC 7712	
 Staphylococcus aureus	C 2	NCTC 7718	37
 Staphylococcus aureus	9 N Ra	NCTC 7727	37
 Kocuria varians	37	NCTC 7729	37
@@ -1029,7 +977,6 @@ Staphylococcus saprophyticus subsp. saprophyticus	BCH 13 (2555)	NCTC 7802	37
 Streptomyces griseus	Maxted	NCTC 7807	30
 Aeromonas veronii	Kulp P2	NCTC 7810	37
 Aeromonas hydrophila	Speck	NCTC 7812	37
-Staphylococcus aureus bacteriophage	K (Kreuger)	NCTC 7814	
 Proteus mirabilis	H X K	NCTC 7827	37
 Salmonella enterica subsp. enterica serotype corvallis	7830 JT 235 8, 20:z4, z23:-	NCTC 7830	37
 Salmonella enterica subsp. enterica serotype butantan	7831 (JT 237)	NCTC 7831	37
@@ -1093,7 +1040,6 @@ Staphylococcus aureus	Goat	NCTC 7972	37
 Listeria monocytogenes	58 xxiii	NCTC 7973	37
 Listeria monocytogenes	B. Ch-G	NCTC 7974	37
 Acinetobacter lwoffii	Wheatley	NCTC 7976	37
-Streptococcus pneumoniae	A 66	NCTC 7978	
 Streptococcus dysgalactiae	45	NCTC 7982	37
 Moraxella lacunata	260	NCTC 7985	37
 Moraxella lacunata	4238	NCTC 7986	37
@@ -1118,8 +1064,6 @@ Streptococcus oralis	1360/48	NCTC 8029	37
 Streptococcus mitis	3415/48	NCTC 8031	37
 Streptococcus mitis	3957(2)/48	NCTC 8033	37
 Bacillus cereus	Lederle No 5	NCTC 8035	37
-Rhodococcus erythropolis	ATCC 11048	NCTC 8036	
-Streptococcus anginosus	MG	NCTC 8037	
 Brucella abortus	S 19	NCTC 8038	37
 Vibrio cholerae	Cairo IaI	NCTC 8039	37
 Vibrio cholerae	726/575	NCTC 8040	37
@@ -1141,9 +1085,6 @@ Pseudomonas taetrolens	ATCC 4683	NCTC 8067	30
 Pseudomonas mucidolens	Burns 37	NCTC 8068	30
 Clostridium chauvoei	G 1	NCTC 8070	37
 Pasteurella multocida	H	NCTC 8080	37
-Clostridium perfringens	Zeissler 2	NCTC 8081	
-Clostridium perfringens	Bosworth 6 iota	NCTC 8084	
-Streptococcus agalactiae	V 9	NCTC 8100	
 Acinetobacter sp.	A 267	NCTC 8102	37
 Hafnia alvei	32011	NCTC 8105	37
 Hafnia alvei	32611	NCTC 8106	37
@@ -1154,9 +1095,6 @@ Hafnia alvei	44311	NCTC 8110	37
 Hafnia alvei	63511	NCTC 8111	37
 Hafnia alvei	68411	NCTC 8112	37
 Providencia rustigianii	1721	NCTC 8113	37
-Virgibacillus pantothenticus	CN 3019	NCTC 8122	
-Virgibacillus pantothenticus	CN 3020	NCTC 8123	
-Virgibacillus pantothenticus	CN 3023	NCTC 8124	
 Enterococcus durans	Hirsch 613	NCTC 8129	37
 Enterococcus durans	Roquefort Cheese I. 1	NCTC 8130	37
 Enterococcus faecalis	MES D 55	NCTC 8131	37
@@ -1165,7 +1103,6 @@ Streptococcus gallolyticus subsp. gallolyticus	BR 7	NCTC 8133	37
 Haemophilus aegyptius	128 a	NCTC 8134	37
 Haemophilus influenzae biotype aegyptius	181 a	NCTC 8135	37
 Escherichia coli	Elford C 36	NCTC 8136	37
-Rhodococcus rhodochrous	Grassberger	NCTC 8139	
 Streptococcus bovis	Rosalie 20	NCTC 8140	37
 Pasteurella pneumotropica	M 8. 19. 48	NCTC 8141	37
 Haemophilus influenzae	680 Biotype II	NCTC 8143	37
@@ -1177,13 +1114,11 @@ Mycobacterium smegmatis	8150	NCTC 8150	37
 Mycobacterium phlei	Timoteo	NCTC 8151	37
 Mycobacterium smegmatis	GW	NCTC 8152	37
 Mycobacterium smegmatis	R	NCTC 8153	30
-Rhodococcus rhodochrous	NCTC 8154	NCTC 8154	
 Cronobacter sakazakii	F 37/50	NCTC 8155	37
 Mycobacterium phlei	Cornell 8a	NCTC 8156	37
 Mycobacterium phlei	REG 24	NCTC 8157	30
 Mycobacterium smegmatis	ATCC 278	NCTC 8158	30
 Mycobacterium smegmatis	Cornell 3	NCTC 8159	30
-Virgibacillus pantothenticus	CN 3038	NCTC 8162	
 Erysipelothrix rhusiopathiae	a P15	NCTC 8163	37
 Escherichia coli	C 6	NCTC 8164	34
 Citrobacter freundii	C 18	NCTC 8165	37
@@ -1223,29 +1158,21 @@ Shigella dysenteriae	D 214	NCTC 8218	37
 Shigella sonnei	Wheeler Phase II	NCTC 8219	37
 Shigella sonnei	Kasauli Phase I	NCTC 8220	37
 Shigella sonnei	Wheeler Phase III	NCTC 8221	37
-Brucella melitensis	Bangalore	NCTC 8223	
 Streptococcus pyogenes	C 107/24	NCTC 8224	37
 Streptococcus pyogenes	44273	NCTC 8225	37
-Brucella abortus	Ipswich	NCTC 8226	
 Streptococcus pyogenes	C 119/58	NCTC 8227	37
 Streptococcus pyogenes	C 242	NCTC 8228	37
 Streptococcus pyogenes	C 95/12B	NCTC 8229	37
 Streptococcus pyogenes	C 105	NCTC 8230	37
 Streptococcus pyogenes	Henson/Rb 18	NCTC 8231	37
 Streptococcus pyogenes	C 744/Rb4/41	NCTC 8232	37
-Bacillus licheniformis	M II	NCTC 8233	
 Clostridium perfringens	2204/51	NCTC 8235	37
 Bacillus subtilis	ICI 2/4	NCTC 8236	37
 Clostridium perfringens	S 107	NCTC 8237	37
-Clostridium perfringens	FH 281/50	NCTC 8238	
-Clostridium perfringens	FH 3653/50	NCTC 8239	
 Bacillus pumilus	Mill Hill	NCTC 8241	37
-Salmonella enterica subsp. enterica serotype banalia	8242 8242 (JT 288) 6, 8:b:z6	NCTC 8242	
 Salmonella enterica subsp. enterica serotype zega	8243 Kauffmann 9, 12:d:z6	NCTC 8243	37
 Salmonella enterica subsp. enterica serotype abaetetuba	8244 Brazil 1928 (CDC 4905-51) 11:k:1, 5	NCTC 8244	37
 Salmonella enterica subsp. enterica serotype morehead	8245 Brazil 2228 (CDC 4937-51) 30:i:1, 5	NCTC 8245	37
-Clostridium perfringens	SR 12	NCTC 8246	
-Clostridium perfringens	FH 1690/50	NCTC 8247	
 Neisseria meningitidis	Maria Mason 8666	NCTC 8249	37
 Bordetella parapertussis	517	NCTC 8250	37
 Aerococcus viridans	M 1	NCTC 8251	37
@@ -1277,13 +1204,8 @@ Pasteurella dagmatis	36735	NCTC 8282	37
 Pasteurella multocida	46616	NCTC 8283	37
 Pasteurella pneumotropica	54818	NCTC 8284	37
 Salmonella enterica subsp. enterica serotype paratyphi a	256 (113/44)	NCTC 8285	37
-Staphylococcus aureus bacteriophage	211A	NCTC 8287	
 Staphylococcus aureus	PS66 (W/166)	NCTC 8288	37
-Staphylococcus aureus bacteriophage	66	NCTC 8289	
-Staphylococcus aureus bacteriophage	79	NCTC 8290	
-Staphylococcus aureus bacteriophage	62	NCTC 8291	
 Staphylococcus aureus	PS65 (W/155)	NCTC 8292	37
-Staphylococcus aureus bacteriophage	65	NCTC 8293	
 Staphylococcus hyicus	8294RG Staphylococcus sp.8295RG (Receptif Gratia)	NCTC 8294	37
 Shigella flexneri	DRL 36/52103 A	NCTC 8296	37
 Salmonella enterica subsp. arizonae	DC 5	NCTC 8297	37
@@ -1295,14 +1217,12 @@ Streptococcus pyogenes	S43/78	NCTC 8302	37
 Streptococcus pyogenes	T 15/31	NCTC 8303	37
 Streptococcus pyogenes	J 17E/19	NCTC 8304	37
 Streptococcus pyogenes	C 98/97	NCTC 8305	37
-Streptococcus pyogenes	Mathews (ATCC 12204)	NCTC 8306	
 Enterococcus durans	98D Sherman	NCTC 8307	37
 Streptococcus pyogenes	Small	NCTC 8308	37
 Proteus mirabilis	O X K	NCTC 8309	37
 Streptococcus pyogenes	Coggins	NCTC 8310	37
 Proteus vulgaris	O X 2	NCTC 8311	37
 Streptococcus pyogenes	J 17F/51	NCTC 8312	37
-Proteus vulgaris	O X 19	NCTC 8313	
 Streptococcus pyogenes	Glover	NCTC 8314	37
 Yersinia pseudotuberculosis	Watson I	NCTC 8315	37
 Streptococcus pyogenes	Symons	NCTC 8316	37
@@ -1315,13 +1235,11 @@ Streptococcus pyogenes	T2/44/Rb4	NCTC 8322	37
 Streptococcus pyogenes	SF 4	NCTC 8324	37
 Staphylococcus aureus	PS47 (36)	NCTC 8325	37
 Streptococcus pyogenes	4990	NCTC 8326	37
-Staphylococcus aureus	PS3C (1339)	NCTC 8327	
 Staphylococcus aureus	PS54 (48/3303)	NCTC 8329	37
 Streptococcus pyogenes	63 T	NCTC 8330	37
 Staphylococcus aureus	PS29 (33)	NCTC 8331	37
 Streptococcus pyogenes	E 14/88	NCTC 8332	37
 Escherichia coli	Aberdeen	NCTC 8333	37
-Brucella melitensis	Razzack	NCTC 8334	
 Neisseria meningitidis	Holmes	NCTC 8335	37
 Shigella flexneri	Mulatta 103 Z	NCTC 8336	37
 Mycobacterium microti	OV 185/10	NCTC 8337	37
@@ -1341,7 +1259,6 @@ Staphylococcus aureus	PS42B/47C (1163)	NCTC 8355	37
 Staphylococcus aureus	PS77 (H/84)	NCTC 8356	37
 Staphylococcus aureus	PS42E (1670)	NCTC 8357	37
 Staphylococcus aureus	PS55 (H/31508)	NCTC 8358	37
-Clostridium perfringens	FH 3702/49	NCTC 8359	
 Staphylococcus aureus	PS73 (F56-A)	NCTC 8360	37
 Clostridium chauvoei	A 10	NCTC 8361	37
 Staphylococcus aureus	PS52A/79 (925)	NCTC 8363	37
@@ -1372,35 +1289,8 @@ Salmonella enterica subsp. enterica serotype typhi	Ty 2 Rough	NCTC 8395	37
 Salmonella enterica subsp. enterica serotype typhi	Mrs S (R2. b. Mu)	NCTC 8396	37
 Staphylococcus aureus	PS69 (H/16091)	NCTC 8397	37
 Staphylococcus aureus	PS42F (E 193)	NCTC 8399	37
-Staphylococcus aureus bacteriophage	52	NCTC 8401	
-Staphylococcus aureus bacteriophage	6	NCTC 8403	
-Staphylococcus aureus bacteriophage	7	NCTC 8404	
-Staphylococcus aureus bacteriophage	44	NCTC 8405	
-Staphylococcus aureus bacteriophage	53	NCTC 8406	
-Staphylococcus aureus bacteriophage	3A	NCTC 8408	
-Staphylococcus aureus bacteriophage	47	NCTC 8409	
-Staphylococcus aureus bacteriophage	3B	NCTC 8410	
-Staphylococcus aureus bacteriophage	3C	NCTC 8411	
-Staphylococcus aureus bacteriophage	54	NCTC 8412	
-Staphylococcus aureus bacteriophage	29	NCTC 8413	
-Staphylococcus aureus bacteriophage	47B	NCTC 8415	
-Staphylococcus aureus bacteriophage	51	NCTC 8416	
-Staphylococcus aureus bacteriophage	42C	NCTC 8417	
-Staphylococcus aureus bacteriophage	42E	NCTC 8418	
-Staphylococcus aureus bacteriophage	42B	NCTC 8419	
-Staphylococcus aureus bacteriophage	52A	NCTC 8420	
-Staphylococcus aureus bacteriophage	47C	NCTC 8421	
-Staphylococcus aureus bacteriophage	44A	NCTC 8422	
-Staphylococcus aureus bacteriophage	31A	NCTC 8424	
-Staphylococcus aureus bacteriophage	70	NCTC 8425	
-Staphylococcus aureus bacteriophage	76	NCTC 8426	
-Staphylococcus aureus bacteriophage	75	NCTC 8427	
-Staphylococcus aureus bacteriophage	77	NCTC 8428	
-Staphylococcus aureus bacteriophage	55	NCTC 8429	
-Staphylococcus aureus bacteriophage	73	NCTC 8430	
 Salmonella sp.	Para A 228 (JT 281)	NCTC 8433	37
 Salmonella sp.	Pc 230 (266) (JT 278)	NCTC 8434	37
-Mycobacterium bovis	E 19	NCTC 8438	
 Actinomyces israelii	Hyder	NCTC 8439	37
 Salmonella enterica subsp. enterica serotype eschweiler	K 286	NCTC 8442	37
 Vibrio metschnikovii	M 34	NCTC 8443	37
@@ -1409,7 +1299,6 @@ Salmonella enterica subsp. enterica serotype denver	8445 Eolo 205 (CDC 3794-51, 
 Salmonella enterica subsp. enterica serotype brazil	CDC 4251-51	NCTC 8446	37
 Salmonella enterica subsp. enterica serotype austin	8447 CDC 4068-51 (JT 142) 6, 7:a:1, 7	NCTC 8447	37
 Neisseria gonorrhoeae	Bradford 767	NCTC 8448	37
-Clostridium perfringens	FH 1826/51	NCTC 8449	
 Escherichia coli	Cook	NCTC 8450	37
 Arcanobacterium haemolyticum	Leibow 11018	NCTC 8452	37
 Neisseria meningitidis	Whitehouse	NCTC 8454	37
@@ -1419,7 +1308,6 @@ Salmonella enterica subsp. enterica serotype paratyphi b	Java H	NCTC 8458	37
 Salmonella enterica subsp. enterica serotype vancouver	JT 261	NCTC 8460	37
 Salmonella enterica subsp. enterica serotype oxford	JT 262	NCTC 8461	37
 Salmonella enterica subsp. enterica serotype clerkenwell	8462 JT 263 3, 10:z:l, w	NCTC 8462	37
-Haemophilus influenzae	610 Griffin Biotype I	NCTC 8465	
 Haemophilus influenzae	620 Biotype I	NCTC 8466	37
 Haemophilus influenzae	641 Biotype I	NCTC 8467	37
 Haemophilus influenzae	576 Biotype IV	NCTC 8468	37
@@ -1456,7 +1344,6 @@ Staphylococcus aureus	PS6 (3)	NCTC 8509	37
 Staphylococcus aureus	PS7 (4)	NCTC 8510	37
 Staphylococcus aureus	PS53 (48/3292)	NCTC 8511	37
 Micrococcus luteus	Hucker 426	NCTC 8512	37
-Micrococcus luteus	Hucker S 46	NCTC 8513	
 Salmonella enterica subsp. enterica serotype enteritidis	8515 2014 9, 12:g, m:-	NCTC 8515	37
 Shigella flexneri	109/49	NCTC 8516	37
 Shigella flexneri	265/51	NCTC 8517	37
@@ -1481,14 +1368,12 @@ Haemophilus haemoglobinophilus	Greyhound	NCTC 8540	37
 Streptococcus agalactiae	19	NCTC 8541	37
 Streptococcus agalactiae	356 3737/48	NCTC 8542	37
 Streptococcus dysgalactiae subsp. equisimilis	655 Chestle	NCTC 8543	37
-Streptococcus dysgalactiae	281 (Pettman)	NCTC 8544	
 Brevundimonas diminuta	RH 342	NCTC 8545	37
 Streptococcus dysgalactiae subsp. equisimilis	Austin	NCTC 8546	37
 Streptococcus dysgalactiae	566 (14620/49)	NCTC 8547	37
 Salmonella enterica subsp. enterica serotype westhampton	CDC 1314-52	NCTC 8549	37
 Clostridium botulinum	PR 15	NCTC 8550	37
 Mycobacterium avium	Pig P/5	NCTC 8551	37
-Mycobacterium avium	Ox 3/255	NCTC 8552	
 Mycobacterium avium	Sheep 0/132	NCTC 8553	28
 Neisseria meningitidis	1628	NCTC 8554	37
 Neisseria meningitidis	2104	NCTC 8555	37
@@ -1543,13 +1428,10 @@ Corynebacterium diphtheriae	162	NCTC 8613	37
 Corynebacterium diphtheriae	167	NCTC 8614	37
 Bordetella pertussis	18482	NCTC 8616	37
 Streptococcus salivarius subsp. salivarius	275	NCTC 8618	37
-Enterococcus faecium	ATCC 9756	NCTC 8619	
 Escherichia coli	E 893	NCTC 8620	37
 Escherichia coli	E 990	NCTC 8621	37
 Escherichia coli	E 611	NCTC 8622	37
 Escherichia coli	Canioni	NCTC 8623	37
-Brucella melitensis	154 E	NCTC 8631	
-Brucella melitensis	146	NCTC 8632	
 Corynebacterium pseudodiphtheriticum	4570/5 T	NCTC 8633	37
 Corynebacterium pseudodiphtheriticum	4808	NCTC 8634	37
 Corynebacterium ulcerans	FA 380	NCTC 8638	37
@@ -1563,7 +1445,6 @@ Corynebacterium ulcerans	1634/50 (Agnethe Tonnesland)	NCTC 8666	37
 Corynebacterium ulcerans	1613/51 (Eva Tellesen)	NCTC 8667	37
 Neisseria gonorrhoeae	Bradford 956	NCTC 8676	37
 Clostridium perfringens	FH 167/51 + ?	NCTC 8678	37
-Clostridium perfringens	FH 3756/50	NCTC 8679	
 Corynebacterium diphtheriae	9941	NCTC 8682	37
 Chromobacterium violaceum	Lewitus	NCTC 8683	37
 Chromobacterium violaceum	Shannon	NCTC 8684	37
@@ -1635,12 +1516,9 @@ Salmonella enterica subsp. enterica serotype ibadan	JT 326	NCTC 8785	37
 Actinobacillus equuli	B	NCTC 8794	37
 Actinobacillus equuli	C	NCTC 8795	37
 Streptococcus lutetiensis		NCTC 8796	37
-Clostridium perfringens	HF2985/50	NCTC 8797	
 Clostridium perfringens	FH 263/52	NCTC 8798	37
-Clostridium perfringens	FH 1546/52	NCTC 8799	
 Klebsiella edwardsii var. edwardsii	Z 9969	NCTC 8839	37
 Raoultella ornithinolytica	Bradford 6	NCTC 8846	37
-Klebsiella pneumoniae	James Leather 15369/51	NCTC 8849	
 Klebsiella pneumoniae subsp. ozaenae	Ipswich 932	NCTC 8883	37
 Providencia rettgeri	Belfast 21032	NCTC 8893	37
 Klebsiella pneumoniae subsp. ozaenae	Ipswich 1867	NCTC 8895	37
@@ -1687,7 +1565,6 @@ Escherichia coli	H 304	NCTC 9034	37
 Escherichia coli	E 77a	NCTC 9035	37
 Escherichia coli	H 502a	NCTC 9036	37
 Escherichia coli	H 510c	NCTC 9037	37
-Escherichia coli	F 11621/41	NCTC 9038	
 Escherichia coli	H 7	NCTC 9039	37
 Escherichia coli	H 316	NCTC 9040	37
 Escherichia coli	H 710c	NCTC 9041	37
@@ -1703,7 +1580,6 @@ Escherichia coli	U 18/41	NCTC 9050	37
 Escherichia coli	U 19/41	NCTC 9051	37
 Escherichia coli	U 20/41	NCTC 9052	37
 Escherichia coli	Bi 7327/41	NCTC 9053	37
-Escherichia coli	Su 3972/41	NCTC 9054	
 Escherichia coli	Su 3912/41	NCTC 9055	37
 Escherichia coli	Su 3684/41	NCTC 9056	37
 Escherichia coli	F 8198/41	NCTC 9057	37
@@ -1724,7 +1600,6 @@ Escherichia coli	P 10a	NCTC 9071	37
 Escherichia coli	P 11c	NCTC 9072	37
 Escherichia coli	P 12a	NCTC 9073	37
 Escherichia coli	E 3a	NCTC 9074	37
-Escherichia coli	E 3b	NCTC 9075	
 Escherichia coli	E 5d	NCTC 9076	37
 Escherichia coli	E 10	NCTC 9077	37
 Escherichia coli	E 38	NCTC 9078	37
@@ -1754,7 +1629,6 @@ Escherichia coli	H 510a	NCTC 9101	37
 Escherichia coli	H 511	NCTC 9102	37
 Escherichia coli	H 515b	NCTC 9103	37
 Escherichia coli	H 519	NCTC 9104	37
-Escherichia coli	H 520b	NCTC 9105	
 Escherichia coli	H 521a	NCTC 9106	37
 Escherichia coli	H 705	NCTC 9107	37
 Escherichia coli	H 708b	NCTC 9108	37
@@ -1770,7 +1644,6 @@ Escherichia coli	w 31	NCTC 9118	37
 Escherichia coli	w 34	NCTC 9119	37
 Escherichia coli	w 35	NCTC 9120	37
 Escherichia coli	w 39	NCTC 9121	37
-Escherichia coli	w 40	NCTC 9122	
 Escherichia coli	w 43	NCTC 9123	37
 Streptococcus sp.	Wicky	NCTC 9124	37
 Salmonella enterica subsp. enterica serotype livingstone	9125 Col Sal 545/51 (JT 300) 6, 7:d:l, w	NCTC 9125	37
@@ -1783,11 +1656,6 @@ Klebsiella pneumoniae	Kleb 313	NCTC 9132	37
 Klebsiella pneumoniae	Kleb 1470	NCTC 9133	37
 Klebsiella pneumoniae	Kleb 1193	NCTC 9134	37
 Klebsiella pneumoniae sensu stricto	Mich 61	NCTC 9135	37
-Klebsiella pneumoniae sensu stricto	2069/49	NCTC 9136	
-Klebsiella pneumoniae sensu stricto	2005/49	NCTC 9137	
-Klebsiella pneumoniae sensu stricto	1754/49	NCTC 9138	
-Klebsiella pneumoniae	293/50	NCTC 9139	
-Klebsiella sp.	889/50	NCTC 9140	
 Klebsiella sp.	1702/49	NCTC 9141	37
 Klebsiella pneumoniae	1996/49	NCTC 9142	37
 Klebsiella pneumoniae	2813/50	NCTC 9143	37
@@ -1840,26 +1708,16 @@ Klebsiella sp.	Type 69	NCTC 9189	37
 Cronobacter sakazakii	Challoner P 11	NCTC 9238	37
 Brevundimonas vancanneytii	L 184	NCTC 9239	37
 Salmonella enterica subsp. enterica serotype gallinarum	129	NCTC 9240	37
-Staphylococcus aureus bacteriophage	42F	NCTC 9300	
 Staphylococcus aureus	PS31 B (R15)	NCTC 9301	37
 Staphylococcus aureus	PS52B (48/1365)	NCTC 9303	37
-Staphylococcus aureus bacteriophage	52B	NCTC 9304	
 Staphylococcus aureus	PS57 (49/475)	NCTC 9305	37
 Staphylococcus aureus	PS75 A (H/365)	NCTC 9307	37
-Staphylococcus aureus bacteriophage	75A	NCTC 9308	
 Staphylococcus aureus	PS75B (H/6100)	NCTC 9309	37
-Staphylococcus aureus bacteriophage	75B	NCTC 9310	
 Staphylococcus aureus	PS47D (R/365)	NCTC 9311	37
-Staphylococcus aureus bacteriophage	47D	NCTC 9312	
 Staphylococcus aureus	PS78 (H/376)	NCTC 9313	37
-Staphylococcus aureus bacteriophage	78	NCTC 9314	
 Staphylococcus aureus	PS71 (H/114 A)	NCTC 9315	37
-Staphylococcus aureus bacteriophage	71	NCTC 9316	
 Staphylococcus aureus	PSX2	NCTC 9317	37
 Staphylococcus aureus	PS58	NCTC 9318	37
-Staphylococcus aureus bacteriophage	58	NCTC 9319	
-Mycobacterium bovis	Lovell	NCTC 9320	
-Shigella boydii	Ewing 606	NCTC 9321	
 Salmonella enterica subsp. enterica serotype paratyphi a	9322 A27 2, 12:a:-	NCTC 9322	37
 Salmonella sp.	Java Rough	NCTC 9323	37
 Salmonella enterica subsp. enterica serotype typhimurium	Binns Rough	NCTC 9324	37
@@ -1910,7 +1768,6 @@ Chromobacterium violaceum	DK	NCTC 9376	37
 Chromobacterium violaceum	MH	NCTC 9377	37
 Micrococcus luteus	50	NCTC 9379	37
 Mannheimia haemolytica	1266/56 A & B	NCTC 9380	37
-Pantoea agglomerans	Brice	NCTC 9381	
 Neisseria meningitidis	220	NCTC 9388	37
 Neisseria meningitidis	272	NCTC 9390	37
 Neisseria meningitidis	1129	NCTC 9391	37
@@ -2033,14 +1890,11 @@ Escherichia coli	1156-54	NCTC 9705	37
 Escherichia coli	3303-51	NCTC 9706	37
 Escherichia coli	4932-53	NCTC 9707	37
 Escherichia coli	56-54	NCTC 9708	37
-Aggregatibacter actinomycetemcomitans	120/48-49 (3)	NCTC 9709	
-Aggregatibacter actinomycetemcomitans	277/49-50 (8)	NCTC 9710	
 Enterobacter cloacae	Warner	NCTC 9711	37
 Mannheimia haemolytica	642/56	NCTC 9712	37
 Neisseria meningitidis	M 425	NCTC 9713	37
 Neisseria meningitidis	M 158	NCTC 9714	37
 Staphylococcus aureus	A 967	NCTC 9715	37
-Staphylococcus aureus bacteriophage	81	NCTC 9716	
 Staphylococcus aureus	PS81	NCTC 9717	37
 Shigella dysenteriae	986-55	NCTC 9718	37
 Shigella dysenteriae	1611-55	NCTC 9719	37
@@ -2069,13 +1923,11 @@ Aeromonas liquefaciens	A 101	NCTC 9744	37
 Salmonella enterica subsp. salamae serotype krugersdorp	819169 (Col Sal 1656/55)	NCTC 9745	37
 Citrobacter freundii	ATCC 8090	NCTC 9750	37
 Staphylococcus aureus	Duncan	NCTC 9752	37
-Staphylococcus aureus bacteriophage	187	NCTC 9753	
 Staphylococcus aureus	PS187 (593, Wahl)	NCTC 9754	37
 Corynebacterium striatum	Newton	NCTC 9755	37
 Chromobacterium violaceum	Mentekab	NCTC 9757	37
 Shigella dysenteriae	4780-55	NCTC 9759	37
 Shigella dysenteriae	75	NCTC 9760	37
-Shigella dysenteriae	4783/55	NCTC 9761	
 Shigella dysenteriae	77	NCTC 9762	37
 Shigella dysenteriae	78	NCTC 9763	37
 Shigella dysenteriae	4789-55	NCTC 9764	37
@@ -2100,14 +1952,12 @@ Shigella boydii	2799-55	NCTC 9784	37
 Enterobacter cloacae	PM Malpaiss P 162	NCTC 9785	37
 Salmonella enterica subsp. enterica serotype strasbourg	Col Sal 992/55	NCTC 9786	37
 Salmonella enterica subsp. enterica serotype sundsvall	Col Sal 3726/55 (JT 123)	NCTC 9787	37
-Staphylococcus aureus bacteriophage	80B	NCTC 9788	
 Staphylococcus aureus	PS80 (27530)	NCTC 9789	37
 Salmonella enterica subsp. enterica serotype azteca	9790 CDC 4738-55 (JT 814, Col Sal 3727/55) 4, 5, 12:l, v:1, 5	NCTC 9790	37
 Salmonella enterica subsp. enterica serotype shanghai	K 255 (Col Sal 3540)	NCTC 9791	37
 Salmonella enterica subsp. enterica serotype deversoir	9792 JT 309 45:c:e, n, x	NCTC 9792	37
 Klebsiella pneumoniae	D 201 H	NCTC 9793	37
 Salmonella enterica subsp. enterica serotype rutgers	CDC 3220-55	NCTC 9794	37
-Salmonella enterica subsp. enterica serotype fresno	9795 Col Sal 3033/55 9, 46:z38:-	NCTC 9795	
 Janthinobacterium lividum	Hans H-24	NCTC 9796	22
 Salmonella enterica subsp. enterica serotype bergen	K 701 (JT 359, Col Sal 382/56)	NCTC 9798	37
 Salmonella enterica subsp. salamae serotype windhoek	JT 360 (Col Sal 2148/54)	NCTC 9799	37
@@ -2133,14 +1983,10 @@ Enterobacter cloacae	Serratia 7	NCTC 9845	30
 Cronobacter sakazakii	Serratia 2	NCTC 9846	30
 Bacillus megaterium	Elstree	NCTC 9848	37
 Shigella boydii	1052/50	NCTC 9850	37
-Clostridium perfringens	FH 4235/55	NCTC 9851	
 Salmonella enterica subsp. enterica serotype bracknell	Col Sal 2697/53 (JT 368)	NCTC 9852	37
 Salmonella enterica subsp. enterica serotype bristol	Col Sal 1423/52 (JT 370)	NCTC 9853	37
 Salmonella enterica subsp. salamae serotype springs	JT 421 (Col Sal 315/54)	NCTC 9854	37
 Escherichia coli	E 6912	NCTC 9855	37
-Staphylococcus hyicus bacteriophage	EW (RG)	NCTC 9856	
-Staphylococcus aureus bacteriophage	A	NCTC 9857	
-Staphylococcus aureus bacteriophage	X2	NCTC 9858	
 Listeria monocytogenes	Fraser	NCTC 9862	37
 Listeria monocytogenes	Ross	NCTC 9863	37
 Corynebacterium mycetoides	Castellani	NCTC 9864	37
@@ -2222,7 +2068,6 @@ Bacillus cereus	Sneath 5	NCTC 9947	37
 Salmonella sp.	SS 813 A (JT 474)	NCTC 9948	37
 Salmonella enterica subsp. enterica serotype dahlem	SS 772/56 (JT 480)	NCTC 9949	37
 Shigella flexneri	13737	NCTC 9950	37
-Shigella flexneri	28764	NCTC 9951	
 Shigella dysenteriae	55/3053	NCTC 9952	37
 Shigella dysenteriae	DRL 259/55 7825	NCTC 9953	37
 Shigella dysenteriae	23	NCTC 9954	37
@@ -2251,7 +2096,6 @@ Arcanobacterium haemolyticum	Manchester 32042	NCTC 9998	37
 Actinomadura pelletieri	513	NCTC 9999	37
 Escherichia coli	6019-50	NCTC 10002	37
 Bacillus stearothermophilus	Kelsey	NCTC 10003	60
-Klebsiella pneumoniae	K 390	NCTC 10004	
 Enterobacter cloacae	279-56	NCTC 10005	37
 Klebsiella aerogenes	CDC 819-56	NCTC 10006	37
 Geobacillus stearothermophilus	NCA 1518	NCTC 10007	60
@@ -2262,11 +2106,9 @@ Mycobacterium marinum	X	NCTC 10011	37
 Mycobacterium marinum	V	NCTC 10012	37
 Mycobacterium ulcerans	Edwards	NCTC 10013	37
 Proteus vulgaris	P 393	NCTC 10015	37
-Elizabethkingia meningoseptica	14	NCTC 10016	
 Staphylococcus aureus	8719	NCTC 10017	37
 Staphylococcus aureus	2009	NCTC 10019	37
 Proteus vulgaris	15363 A	NCTC 10020	37
-Staphylococcus aureus bacteriophage	82; 52AV	NCTC 10021	
 Neisseria gonorrhoeae	Ruddock	NCTC 10022	37
 Staphylococcus aureus	PS82 (L Ho 552280)	NCTC 10023	37
 Shigella boydii	E 16	NCTC 10024	37
@@ -2277,7 +2119,6 @@ Neisseria meningitidis	M 997	NCTC 10028	37
 Yersinia pestis	13925/58	NCTC 10029	30
 Yersinia pestis	13927/58	NCTC 10030	30
 Proteus vulgaris	P 284	NCTC 10031	37
-Staphylococcus aureus bacteriophage	42D	NCTC 10032	
 Staphylococcus aureus	PS42D (1363)	NCTC 10033	37
 Proteus vulgaris	P 307	NCTC 10034	37
 Staphylococcus aureus	RL Mucoid	NCTC 10035	37
@@ -2285,7 +2126,6 @@ Serratia rubidaea	019915	NCTC 10036	37
 Brucella ovis	303	NCTC 10037	37
 Pseudomonas fluorescens	28/5	NCTC 10038	30
 Staphylococcus aureus	PS83A/83B	NCTC 10039	37
-Staphylococcus aureus bacteriophage	83A; VA4	NCTC 10040	
 Morganella morganii	N-O-T 1	NCTC 10041	37
 Mycobacterium xenopi	ATCC 19250	NCTC 10042	37
 Salmonella enterica subp. arizonae	404	NCTC 10043	37
@@ -2333,105 +2173,19 @@ Escherichia coli	6018-58	NCTC 10089	37
 Escherichia coli	4608-58	NCTC 10090	37
 Salmonella enterica subsp. arizonae	CDC 256-58	NCTC 10092	37
 Brucella abortus	544	NCTC 10093	37
-Brucella melitensis	16 M	NCTC 10094	
 Brucella suis	15/La	NCTC 10095	37
 Brucella abortus	Davidson	NCTC 10096	37
 Brucella suis	American type	NCTC 10097	37
 Brucella suis	Jacotot	NCTC 10098	37
-Brucella melitensis	B 117 M	NCTC 10099	
-Mycoplasma hyopneumoniae	J	NCTC 10110	
-Mycoplasma orale	CH 19299	NCTC 10112	
-Mycoplasma salivarium	PG 20	NCTC 10113	
-Mycoplasma mycoides subsp. mycoides		NCTC 10114	
-Mycoplasma gallisepticum	PG 31	NCTC 10115	
-Acholeplasma laidlawii	PG 8	NCTC 10116	
-Mycoplasma fermentans	PG 18	NCTC 10117	
-Mycoplasma bovirhinis	PG 43	NCTC 10118	
-Mycoplasma pneumoniae	FH	NCTC 10119	
-Mycoplasma gallinarum	PG 16	NCTC 10120	
-Mycoplasma hyorhinis	GDL	NCTC 10121	
-Mycoplasma bovigenitalium	PG 11	NCTC 10122	
-Mycoplasma synoviae	WVU 1853	NCTC 10124	
-Mycoplasma dispar	462/2	NCTC 10125	
-Mycoplasma caviae	G122	NCTC 10126	
-Acholeplasma granularum	BTS 39	NCTC 10128	
-Mycoplasma arginini	G 230	NCTC 10129	
-Mycoplasma hyorhinis	BTS 7	NCTC 10130	
-Mycoplasma bovis	Donetta	NCTC 10131	
-Mycoplasma edwardii	PG 24	NCTC 10132	
-Mycoplasma leachii	N29	NCTC 10133	
-Acholeplasma modicum	Squire	NCTC 10134	
-Mycoplasma alkalescens	D 12	NCTC 10135	
-Mycoplasma buccale	CH 20247	NCTC 10136	
-Mycoplasma mycoides		NCTC 10137	
-Acholeplasma axanthum	S743	NCTC 10138	
-Mycoplasma pulmonis	Ash	NCTC 10139	
-Mycoplasma bovoculi	M165/69	NCTC 10141	
-Mycoplasma cynos	H831	NCTC 10142	
-Mycoplasma flocculare	Ms 42	NCTC 10143	
-Mycoplasma molare	H542	NCTC 10144	
-Mycoplasma verecundum	107	NCTC 10145	
-Mycoplasma canis	PG14	NCTC 10146	
-Mycoplasma conjunctivae	HRC 581	NCTC 10147	
-Mycoplasma equirhinis	M432/72	NCTC 10148	
-Mycoplasma opalescens	MH5408	NCTC 10149	
-Acholeplasma oculi	19-L	NCTC 10150	
-Mycoplasma ovipneumoniae	Y98	NCTC 10151	
-Mycoplasma canadense	275C	NCTC 10152	
-Mycoplasma meleagridis	17529	NCTC 10153	
-Mycoplasma capricolum subsp. capricolum	California kid	NCTC 10154	
-Mycoplasma putrefaciens	KS1	NCTC 10155	
-Mycoplasma anatis	1340	NCTC 10156	
-Mycoplasma alvi	Ilsley, A.	NCTC 10157	
-Mycoplasma moatsii	MK405	NCTC 10158	
-Mycoplasma feliminutum	Ben	NCTC 10159	
-Mycoplasma felis	CO	NCTC 10160	
-Mycoplasma gateae	CS	NCTC 10161	
-Mycoplasma arthritidis	PG 6	NCTC 10162	
-Mycoplasma primatum	HRC 292	NCTC 10163	
-Mycoplasma iners	PG30	NCTC 10165	
-Mycoplasma neurolyticum	Sabin Type A	NCTC 10166	
-Mycoplasma hyosynoviae	S16	NCTC 10167	
-Mycoplasma maculosum	PG15	NCTC 10168	
-Mycoplasma spumans	PG13	NCTC 10169	
-Mycoplasma sualvi	Mayfield	NCTC 10170	
-Acholeplasma equifetale	C112	NCTC 10171	
-Acholeplasma hippikon	C1	NCTC 10172	
-Mycoplasma lipophilum	MaBy	NCTC 10173	
-Mycoplasma faucium	DC-333, M1468/75	NCTC 10174	
-Mycoplasma subdolum	TB	NCTC 10175	
-Mycoplasma equigenitalium	T37	NCTC 10176	
-Ureaplasma urealyticum	10177 960 CX8	NCTC 10177	
-Mycoplasma columbinum	MMP1	NCTC 10178	
-Mycoplasma columborale	MMP4	NCTC 10179	
-Mycoplasma fastidiosum		NCTC 10180	
-Mycoplasma citelli	RG-20, M3529/78	NCTC 10181	
-Ureaplasma diversum	A417/C	NCTC 10182	
-Mycoplasma gallinaceum	DD	NCTC 10183	
-Mycoplasma columbinasale	694	NCTC 10184	
-Mycoplasma iowae	695	NCTC 10185	
-Mycoplasma gallopavonis	WRl	NCTC 10186	
-Mycoplasma pullorum	CKK	NCTC 10187	
-Acholeplasma morum	72-043, M1216/81	NCTC 10188	
-Mycoplasma californicum	ST-6	NCTC 10189	
-Mycoplasma cricetuli	CH	NCTC 10190	
-Mycoplasma lipofaciens		NCTC 10191	
 Mycoplasma capricolum subsp. capripneumoniae	F38 (M2054/75)	NCTC 10192	37
-Mycoplasma mustelae	MX9, AMRC-C 1486	NCTC 10193	
-Mycoplasma glycophilum	468	NCTC 10194	
 Mycoplasma muris	RIII-4	NCTC 10196	37
-Acholeplasma parvum	H23M	NCTC 10198	
-Mycoplasma cloacale	383	NCTC 10199	
-Brucella abortus	B 110W2	NCTC 10200	
 Pasteurella multocida	A4	NCTC 10201	37
 Pasteurella multocida	211	NCTC 10202	37
 Pasteurella multocida	215	NCTC 10203	37
 Pasteurella multocida subsp. gallicida	739	NCTC 10204	37
 Corynebacterium matruchotii	LDM 3	NCTC 10206	37
-Rothia dentocariosa	B 61	NCTC 10207	
 Mannheimia haemolytica	T 20	NCTC 10208	37
 Klebsiella pneumoniae	CDC 2222-59	NCTC 10209	37
-Rhodococcus rhodochrous	R. S. Breed KMRh	NCTC 10210	
 Serratia marcescens	BS 303	NCTC 10211	37
 Neisseria animalis	NA10	NCTC 10212	37
 Klebsiella pneumoniae	CDC 1548-58	NCTC 10213	37
@@ -2446,8 +2200,6 @@ Actinobacillus ureae	3369/60	NCTC 10221	37
 Actinobacillus ureae	3974/60	NCTC 10222	37
 Neisseria gonorrhoeae	2	NCTC 10223	37
 Neisseria gonorrhoeae	5	NCTC 10224	37
-Neisseria gonorrhoeae	3	NCTC 10226	
-Neisseria gonorrhoeae	4	NCTC 10227	
 Streptococcus sp.	K 131	NCTC 10228	37
 Burkholderia mallei	Budapest	NCTC 10229	37
 Burkholderia mallei	Ivan	NCTC 10230	37
@@ -2459,8 +2211,6 @@ Streptococcus sp.	SHC/285	NCTC 10235	37
 Actinomyces israelii	Smith	NCTC 10236	37
 Streptococcus suis	Field 428	NCTC 10237	37
 Streptococcus dysgalactiae	SHC 16	NCTC 10238	37
-Clostridium perfringens	H 5012/58	NCTC 10239	
-Clostridium perfringens	FH 2274/59	NCTC 10240	
 Salmonella enterica subsp. enterica serotype abortusovis	Col Sal 321/61 (CAPM 5611, CN 5728)	NCTC 10241	37
 Gemella haemolysans	H 3	NCTC 10243	37
 Gemella haemolysans	H 5	NCTC 10244	37
@@ -2469,8 +2219,6 @@ Klebsiella pneumoniae	AMC 35-A-3	NCTC 10246	37
 Burkholderia mallei	12	NCTC 10247	37
 Burkholderia mallei	6	NCTC 10248	37
 Actinobacillus lignieresii	10695 Type 1a	NCTC 10250	37
-Salmonella enterica subsp. enterica serotype senftenberg	JT 823	NCTC 10251	
-Salmonella enterica subsp. salamae serotype tranoroa	JT 824	NCTC 10252	
 Salmonella enterica subsp. salamae serotype artis	SS 127-61 (CDC 6897-60, JT 856)	NCTC 10253	37
 Corynebacterium matruchotii	ATCC 14266	NCTC 10254	37
 Vibrio cholerae biotype el tor	20109	NCTC 10255	37
@@ -2531,14 +2279,11 @@ Salmonella enterica subsp. salamae serotype basel	SS 140/61 (JT 945)	NCTC 10310	
 Salmonella enterica subsp. salamae serotype betioky	JT 971	NCTC 10311	37
 Salmonella enterica subsp. enterica serotype maricopa	10312 JT 736 42:g, z51:1, 5	NCTC 10312	37
 Klebsiella pneumoniae subsp. ozaenae	3828	NCTC 10313	37
-Klebsiella pneumoniae	L 2794	NCTC 10314	
 Bacillus subtilis	MB 32	NCTC 10315	37
 Brucella suis	1330	NCTC 10316	37
 Klebsiella pneumoniae	MA 73	NCTC 10317	37
 Providencia stuartii	Nicol	NCTC 10318	37
-Streptococcus pneumoniae	R 36 A Rough	NCTC 10319	
 Bacillus cereus	PCI 213	NCTC 10320	37
-Streptococcus dysgalactiae subsp. equisimilis	SHC 176	NCTC 10321	
 Pasteurella multocida	W-9217	NCTC 10322	37
 Pasteurella multocida	Insein	NCTC 10323	37
 Pasteurella multocida	211	NCTC 10324	37
@@ -2549,7 +2294,6 @@ Yersinia pestis	PH 80/63	NCTC 10329	30
 Yersinia pestis	PH 90/63	NCTC 10330	30
 Aerococcus viridans	S 1/1	NCTC 10331	37
 Pseudomonas aeruginosa	10332	NCTC 10332	37
-Bacillus badius	Batchelor	NCTC 10333	
 Bacillus coagulans	Hammer	NCTC 10334	37
 Bacillus firmus	Werner	NCTC 10335	37
 Enterobacter aerogenes	K 73/517	NCTC 10336	37
@@ -2567,7 +2311,6 @@ Salmonella enterica subsp. enterica serotype dugbe	JT 483	NCTC 10347	37
 Campylobacter fetus subsp. fetus	192/3	NCTC 10348	37
 Corynebacterium diphtheriae	Gayle	NCTC 10349	37
 Staphylococcus hyicus subsp. hyicus	Strain 1	NCTC 10350	37
-Escherichia coli	DRL 302/53	NCTC 10351	
 Shigella sonnei	88	NCTC 10352	37
 Streptococcus thermophilus	BC	NCTC 10353	37
 Campylobacter fetus subsp. venerealis	X/161/5	NCTC 10354	37
@@ -2595,7 +2338,6 @@ Morganella morganii	Pmol 2	NCTC 10375	37
 Proteus vulgaris	Pvl 1	NCTC 10376	37
 Providencia rettgeri	10377 Prl 6	NCTC 10377	37
 Providencia stuartii	Pil 5	NCTC 10378	37
-Clostridium perfringens	21845	NCTC 10379	
 Salmonella enterica subsp. salamae serotype tulear	JT 1106 (SS 69/62)	NCTC 10380	37
 Salmonella enterica subsp. diarizonae serotype eilbek	SS 91/63 (JT 1157)	NCTC 10381	37
 Pasteurella multocida	3664	NCTC 10382	37
@@ -2606,8 +2348,6 @@ Streptococcus equinus	TR 5	NCTC 10386	37
 Propionibacterium granulosum	ATCC 11829	NCTC 10387	37
 Alcaligenes odorans	Jean Burchill 1	NCTC 10388	37
 Streptococcus equinus	CN 1	NCTC 10389	37
-Cutibacterium acnes	643-C	NCTC 10390	
-Rhodococcus corynebacteriodies	ATCC 14898	NCTC 10391	
 Pseudomonas fluorescens	BA 88	NCTC 10392	30
 Corynebacterium diphtheriae	G/12/6	NCTC 10393	37
 Mycobacterium fortuitum	J. C. Cruz 1	NCTC 10394	37
@@ -2620,7 +2360,6 @@ Bacillus subtilis subsp spizizenii	PCI 219	NCTC 10400	37
 Salmonella enterica subsp. houtenae serotype houten	SS 105/61 (JT 887)	NCTC 10401	37
 Aeromonas salmonicida	BPE 141	NCTC 10402	37
 Aeromonas salmonicida	Isabel Smith 1046	NCTC 10403	37
-Aeromonas salmonicida	DRL 265/64	NCTC 10408	
 Mycobacterium thermoresistibile	316	NCTC 10409	37
 Mycobacterium parafortuitum	310	NCTC 10410	37
 Mycobacterium parafortuitum	311	NCTC 10411	37
@@ -2660,9 +2399,7 @@ Streptococcus mutans	Sims	NCTC 10449	37
 Pseudomonas stutzeri	A 44/65	NCTC 10450	37
 Bacillus licheniformis	Kelsey	NCTC 10452	37
 Cytophaga	ISO	NCTC 10453	22
-Staphylococcus aureus bacteriophage	84; 77Ad	NCTC 10454	
 Staphylococcus aureus	PS84	NCTC 10455	37
-Staphylococcus aureus bacteriophage	85; B5	NCTC 10456	
 Staphylococcus aureus	PS85	NCTC 10457	37
 Salmonella enterica subsp. indica serotype ferlac	JT 786	NCTC 10458	37
 Gemella haemolysans	NH	NCTC 10459	37
@@ -2679,7 +2416,6 @@ Propionibacterium freudenreichii	Hitchner 33	NCTC 10470	37
 Bifidobacterium breve	Hayward HA	NCTC 10471	37
 Bifidobacterium bifidum	Hayward BTR	NCTC 10472	37
 Pseudomonas stutzeri	E. III. 9. 22. 1	NCTC 10473	37
-Ramibacterium pseudoramosum	ATCC 13937	NCTC 10474	
 Pseudomonas stutzeri	MD 41. 1	NCTC 10475	37
 Yersinia ruckeri	RM-3	NCTC 10476	30
 Yersinia ruckeri	RM-12	NCTC 10477	37
@@ -2695,7 +2431,6 @@ Mycobacterium novum	1945	NCTC 10486	30
 Escherichia coli	K 235	NCTC 10487	37
 Nocardiopsis dassonvillei	IMRU 509	NCTC 10488	37
 Nocardiopsis dassonvillei	Babcock IMRU 1250	NCTC 10489	37
-Salmonella enterica subsp. arizonae	CDC 1189-56	NCTC 10491	
 Salmonella enterica subsp. arizonae	CDC 740-60	NCTC 10492	37
 Salmonella enterica subsp. arizonae	CDC 3064-61	NCTC 10493	37
 Salmonella enterica subsp. arizonae	CDC 1195-62	NCTC 10494	37
@@ -2704,22 +2439,17 @@ Mycobacterium novum	1950	NCTC 10496	30
 Mycobacterium nonchromogenicum	1731	NCTC 10497	30
 Stenotrophomonas maltophilia	RH 661-1	NCTC 10498	37
 Stenotrophomonas maltophilia	RH 873-3	NCTC 10499	37
-Pantoea agglomerans	F5	NCTC 10500	
 Brucella abortus	86/8/59	NCTC 10501	37
-Brucella abortus	Tulya	NCTC 10502	
 Brucella abortus	292	NCTC 10503	37
 Brucella abortus	B 3196	NCTC 10504	37
 Brucella abortus	870	NCTC 10505	37
-Brucella abortus	63175	NCTC 10506	
 Brucella abortus	C 68	NCTC 10507	37
-Brucella melitensis	Ether	NCTC 10509	
 Brucella suis	686	NCTC 10511	37
 Brucella ovis	63/290	NCTC 10512	37
 Arcanobacterium haemolyticum	K 29	NCTC 10513	37
 Arcanobacterium haemolyticum	K 501	NCTC 10514	37
 Staphylococcus cohnii	1557	NCTC 10515	37
 Staphylococcus saprophyticus subsp. saprophyticus	1588	NCTC 10516	37
-Staphylococcus nepalensis	1463	NCTC 10517	
 Staphylococcus warneri	1466	NCTC 10518	37
 Staphylococcus epidermidis	1477	NCTC 10519	37
 Bordetella parapertussis	PA-3	NCTC 10520	37
@@ -2733,7 +2463,6 @@ Listeria monocytogenes	1071/53	NCTC 10527	37
 Listeria innocua	L92/67	NCTC 10528	37
 Kingella kingae	4177/66	NCTC 10529	37
 Staphylococcus chromogenes	1462	NCTC 10530	37
-Salmonella enterica subsp. enterica serotype gallinarum	10532 416 (K 74, JT 74) 1, 9, 12:-:-	NCTC 10532	
 Salmonella enterica subsp. enterica serotype tuebingen	ISC 618	NCTC 10533	37
 Pasteurella bettyae	CDC 41-9471	NCTC 10534	37
 Pasteurella bettyae	CDC 41-5568	NCTC 10535	37
@@ -2756,8 +2485,6 @@ Pasteurella lymphangitidis	Jayaraman VI	NCTC 10552	37
 Pasteurella lymphangitidis	Jayaraman VII	NCTC 10553	37
 Pasteurella lymphangitidis	Jayaraman VIII	NCTC 10554	37
 Haemophilus sp.	S 3105	NCTC 10555	37
-Aggregatibacter aphrophilus	Reece	NCTC 10556	
-Aggregatibacter aphrophilus	Funagli	NCTC 10557	
 Aggregatibacter aphrophilus	Haywood	NCTC 10558	37
 Noguchia granulosis	ATCC 11479	NCTC 10559	30
 Fusobacterium varium	ATCC 8501	NCTC 10560	37
@@ -2798,8 +2525,6 @@ Kurthia zopfii	Barnes F/64/100	NCTC 10597	37
 Yersinia enterocolitica	Billups 1803-68	NCTC 10598	37
 Leclercia adecarboxylata	L 22	NCTC 10599	37
 Leclercia adecarboxylata	L 24	NCTC 10600	37
-Pantoea agglomerans	L a10	NCTC 10601	
-Pantoea agglomerans	L b4	NCTC 10602	
 Pasteurella pneumotropica	9022	NCTC 10603	37
 Corynebacterium cervicis	9T-phase	NCTC 10604	37
 Corynebacterium cervicis	9O-phase	NCTC 10605	37
@@ -2845,7 +2570,6 @@ Mannheimia haemolytica	B651	NCTC 10645	37
 Janthinobacterium lividum	Sneath CA (D 286)	NCTC 10646	22
 Eikenella corrodens	Mu 53-68	NCTC 10647	37
 Corynebacterium diphtheriae	100062	NCTC 10648	37
-Staphylococcus aureus	M	NCTC 10649	
 Escherichia coli	Orskov CS 1483	NCTC 10650	37
 Streptobacillus moniliformis	9901	NCTC 10651	37
 Staphylococcus aureus	FDA 196E	NCTC 10652	37
@@ -2861,12 +2585,8 @@ Pseudomonas aeruginosa	10662	NCTC 10662	37
 Escherichia coli	E 519/66	NCTC 10664	37
 Haemophilus parainfluenzae	Sims	NCTC 10665	37
 Cardiobacterium hominis	SS 1742/1966	NCTC 10666	37
-Gordonia bronchialis	410	NCTC 10667	
-Gordonia rubropertincta	3605	NCTC 10668	
-Gordonia terrae	3612	NCTC 10669	
 Haemophilus paraphrohaemolyticus	L1	NCTC 10670	37
 Haemophilus paraphrohaemolyticus	L2	NCTC 10671	37
-Haemophilus parainfluenzae	Corinthian	NCTC 10672	
 Rhodococcus equi	ATCC 7005	NCTC 10673	37
 Vibrio alginolyticus	Sakazaki 5078/62	NCTC 10675	37
 Escherichia coli	CDC 2950-54	NCTC 10677	37
@@ -2888,7 +2608,6 @@ Pseudomonas synxantha	NCIB 8178	NCTC 10696	30
 Pseudomonas taetrolens	NCIB 9396	NCTC 10697	30
 Comamonas testosteroni	567201	NCTC 10698	30
 Pasteurella mairii	5143/70	NCTC 10699	37
-Pasteurella mairii	7385/70	NCTC 10700	
 Pseudomonas aeruginosa	2134	NCTC 10701	37
 Staphylococcus aureus	P 32760 (RS)	NCTC 10702	37
 Staphylococcus aureus	P 32760 (RR)	NCTC 10703	37
@@ -2896,19 +2615,14 @@ Salmonella enterica subsp. enterica serotype pullorum	JT 1528 (Weybridge 11-F41/
 Salmonella enterica subsp. enterica serotype pullorum	JT 1529 (Weybridge 23-F21/4/67)	NCTC 10705	37
 Salmonella enterica subsp. enterica serotype pullorum	JT 1530 (Weybridge 4-F60/6/68)	NCTC 10706	37
 Streptococcus sp.	Is 57	NCTC 10707	37
-Streptococcus constellatus	7331	NCTC 10708	
 Streptococcus milleri	7180	NCTC 10709	37
 Streptococcus sp.	E - Collier	NCTC 10710	37
 Streptococcus sp.	FW 124	NCTC 10711	37
-Streptococcus mitis	FW 75	NCTC 10712	
-Streptococcus anginosus	F68A	NCTC 10713	
 Streptococcus sp.	F68C	NCTC 10714	37
-Saccharomyces cerevisiae	10716 NCYC 87	NCTC 10716	
 Suttonella indologenes	van Bijsterveld	NCTC 10717	37
 Salmonella enterica subsp. salamae serotype rowbarton	JT 1532 (Le Minor 448)	NCTC 10718	37
 Clostridium perfringens	CWC1 ?	NCTC 10719	37
 Clostridium perfringens	CWC15 ?	NCTC 10720	37
-Thermoactinomyces sacchari	A 978	NCTC 10721	
 Pasteurella multocida	Harvard No 1 Winthrop	NCTC 10722	37
 Fusobacterium necrogenes	EBD1/4a	NCTC 10723	37
 Staphylococcus aureus	11054	NCTC 10724	37
@@ -2922,13 +2636,8 @@ Pseudomonas aeruginosa	Read 3617	NCTC 10731	37
 Vibrio cholerae	384/52	NCTC 10732	37
 Vibrio cholerae	586/52	NCTC 10733	30
 Burkholderia cepacia	TI	NCTC 10734	37
-Shewanella baltica	63	NCTC 10735	
-Shewanella putrefaciens	P-19 X	NCTC 10736	
-Shewanella putrefaciens	I-5	NCTC 10737	
-Shewanella putrefaciens	136-2	NCTC 10738	
 Bordetella pertussis	18323	NCTC 10739	37
 Proteus vulgaris	O X 19	NCTC 10740	37
-Tsukamurella paurometabola	3462	NCTC 10741	
 Mycobacterium gilvum	SM	NCTC 10742	37
 Burkholderia cepacia	717	NCTC 10743	37
 Burkholderia cepacia	Jonsson A977	NCTC 10744	37
@@ -2940,13 +2649,11 @@ Moraxella osloensis	ATCC 19963	NCTC 10749	37
 Psychrobacter phenylpyruvicus	ATCC 23334	NCTC 10750	37
 Psychrobacter phenylpyruvicus	ATCC 17958	NCTC 10752	37
 Moraxella saccharolytica	ATCC 19248	NCTC 10753	37
-Pseudomonas fragi	NCIB 9673	NCTC 10754	
 Moraxella osloensis	5718	NCTC 10755	37
 Moraxella osloensis	19116/51	NCTC 10756	37
 Escherichia coli	Su 4321/41	NCTC 10757	37
 Escherichia coli	G1253	NCTC 10758	37
 Paenibacillus thiaminolyticus	Evans	NCTC 10760	37
-Shewanella putrefaciens	734	NCTC 10762	
 Shewanella putrefaciens	1389	NCTC 10763	37
 Escherichia coli	DRL 1713	NCTC 10764	37
 Escherichia coli	DRL 1704	NCTC 10766	37
@@ -2955,11 +2662,9 @@ Citrobacter koseri	A 907040	NCTC 10768	37
 Citrobacter koseri	B 907543	NCTC 10769	37
 Citrobacter koseri	C 811311	NCTC 10770	37
 Citrobacter koseri	D 904523	NCTC 10771	37
-Mycobacterium bovis	18802-887	NCTC 10772	
 Streptobacillus moniliformis	A16/71	NCTC 10773	37
 Neisseria mucosa	M26	NCTC 10774	37
 Neisseria oralis	M1	NCTC 10776	37
-Neisseria mucosa	M3	NCTC 10777	
 Mycobacterium obuense	4388	NCTC 10778	30
 Mycobacterium rhodesiae	5295	NCTC 10779	37
 Pseudomonas aeruginosa	KM 255	NCTC 10780	37
@@ -2982,7 +2687,6 @@ Chryseobacterium indologenes	CDC 3716	NCTC 10796	37
 Flavobacterium sp. (f. breve-like)	CDC B1858	NCTC 10797	37
 Weeksella virosa	CDC B1270	NCTC 10798	37
 Weeksella virosa	CDC B912	NCTC 10799	37
-Weeksella virosa	CDC B7377	NCTC 10800	
 Actinobacillus rossii	192	NCTC 10801	37
 Actinobacillus rossii	63	NCTC 10802	37
 Mycobacterium scrofulaceum	1356	NCTC 10803	37
@@ -3008,7 +2712,6 @@ Brochothrix thermosphacta	C20	NCTC 10822	25
 Cellulomonas biazotea	C95	NCTC 10823	30
 Delftia acidovorans	A138/71	NCTC 10824	37
 Odoribacter splanchnicus	1651/6	NCTC 10825	37
-Odoribacter splanchnicus	S4/28	NCTC 10826	
 Pasteurella pneumotropica	A141/71	NCTC 10827	37
 Pasteurella pneumotropica	A145/71	NCTC 10828	37
 Mycobacterium szulgai	20886	NCTC 10829	37
@@ -3026,7 +2729,6 @@ Actinobacillus suis	1688/72	NCTC 10840	37
 Actinobacillus suis	1689/72	NCTC 10841	37
 Campylobacter fetus subsp. fetus	Mouton 1	NCTC 10842	37
 Actinobacillus suis	13443/72	NCTC 10843	37
-Rhodococcus equi	A62/72	NCTC 10844	
 Serratia rubidaea	T37/66	NCTC 10845	37
 Serratia rubidaea	T40/66	NCTC 10846	37
 Serratia rubidaea	22	NCTC 10847	37
@@ -3037,13 +2739,11 @@ Actinobacillus seminis	K3844-C	NCTC 10851	37
 Aeromonas caviae	RH 514	NCTC 10852	37
 Bordetella parapertussis	G. Eldering 508	NCTC 10853	37
 Brucella canis	RM-666	NCTC 10854	37
-Escherichia coli	T6	NCTC 10855	
 Mycobacterium terrae	W-45	NCTC 10856	37
 Francisella tularensis subsp. holartica	LVS	NCTC 10857	37
 Janthinobacterium lividum	A130/71	NCTC 10858	22
 Pseudomonas pseudoalcaligenes subsp. pseudoalcaligenes	Stanier 63	NCTC 10860	30
 Serratia liquefaciens	170/72	NCTC 10861	37
-Serratia liquefaciens	209/72	NCTC 10862	
 Escherichia coli	3219-54 (Sc 385A)	NCTC 10863	37
 Escherichia coli	Finlayson	NCTC 10864	37
 Escherichia coli	2292-55 (Sc 432)	NCTC 10865	37
@@ -3054,7 +2754,6 @@ Streptococcus pyogenes	AD 309	NCTC 10869	37
 Streptococcus pyogenes	CV 686 Schoenborn (SS 686, A871/14/2)	NCTC 10870	37
 Streptococcus pyogenes	CV 265 Hansen (SS 733)	NCTC 10871	37
 Streptococcus pyogenes	CV 581A Kingbird (SS 725)	NCTC 10872	37
-Streptococcus pyogenes	R65/4127 (Trinidad SF17, C. Chudee)	NCTC 10873	
 Streptococcus pyogenes	R67/3281 Baker (SS 743, A963)	NCTC 10874	37
 Streptococcus pyogenes	R67/3890 Ramkissoon (SS 790, A995)	NCTC 10875	37
 Streptococcus pyogenes	R67/3884 L. McLean (SS 872, D315)	NCTC 10876	37
@@ -3098,8 +2797,6 @@ Clostridium carnis	IWK 16466	NCTC 10913	37
 Clostridium botulinum	FH6513/70	NCTC 10914	37
 Gardnerella vaginalis	Dukes 594	NCTC 10915	37
 Mycobacterium vaccae	SN 920	NCTC 10916	37
-Rothia dentocariosa	XD1A	NCTC 10917	
-Rothia dentocariosa	24. 2A	NCTC 10918	
 Streptococcus mutans	Z/AHT	NCTC 10919	37
 Streptococcus ratti	FA-1	NCTC 10920	37
 Streptococcus sobrinus	KIR/B	NCTC 10921	37
@@ -3109,12 +2806,6 @@ Streptococcus porcinus	U IV - 39	NCTC 10924	37
 Streptococcus porcinus	U IV - 61	NCTC 10925	37
 Avibacterium paragallinarum	0083	NCTC 10926	37
 Enterococcus faecalis	1491/53	NCTC 10927	37
-Neisseria gonorrhoeae	ODH 2915	NCTC 10928	
-Neisseria gonorrhoeae	MHD 340	NCTC 10929	
-Neisseria gonorrhoeae	MHD 361	NCTC 10930	
-Neisseria gonorrhoeae	SS 7764/45	NCTC 10931	
-Neisseria gonorrhoeae	MCH 3317/70	NCTC 10932	
-Neisseria gonorrhoeae	MHD 446	NCTC 10933	
 Mitsuokella multacida	A405-1	NCTC 10934	37
 Mitsuokella multacida	P208-58	NCTC 10935	37
 Pseudomonas putida	A. 3. 12	NCTC 10936	37
@@ -3143,8 +2834,6 @@ Escherichia coli	E 1529/68	NCTC 10962	37
 Escherichia coli	E 1585/68	NCTC 10963	37
 Escherichia coli	A2 (Abbotstown)	NCTC 10964	37
 Shimwellia blattae	B89	NCTC 10965	37
-Staphylococcus aureus bacteriophage	94; WH-1	NCTC 10967	
-Staphylococcus aureus bacteriophage	96; DU-2	NCTC 10969	
 Staphylococcus aureus	PS94 (PS WH-1)	NCTC 10970	37
 Staphylococcus aureus	PS95 (PS DU-1)	NCTC 10971	37
 Staphylococcus aureus	PS96 (PS DU-2)	NCTC 10972	37
@@ -3153,13 +2842,7 @@ Escherichia coli	E 1020/72	NCTC 10974	37
 Proteus mirabilis	BS 711	NCTC 10975	37
 Actinobacillus pleuropneumoniae	HK 361	NCTC 10976	37
 Aggregatibacter segnis	HK 316	NCTC 10977	37
-Aggregatibacter actinomycetemcomitans	B-5279	NCTC 10979	
-Aggregatibacter actinomycetemcomitans	B-2829	NCTC 10980	
-Aggregatibacter actinomycetemcomitans	A9760	NCTC 10981	
-Aggregatibacter actinomycetemcomitans	B5386	NCTC 10982	
 Campylobacter jejuni subsp. jejuni	McCallum 89067	NCTC 10983	37
-Clostridium sardiniense	HA-7103	NCTC 10984	
-Clostridium sardiniense	HA-9103	NCTC 10985	
 Clostridium baratii	G	NCTC 10986	37
 Clostridium baratii	3-3	NCTC 10987	37
 Staphylococcus aureus	K141	NCTC 10988	37
@@ -3167,7 +2850,6 @@ Bacillus cereus	K250 TR	NCTC 10989	37
 Pseudomonas sp.	A38/73	NCTC 10991	37
 Pseudomonas sp.	A52/73	NCTC 10992	37
 Pseudomonas sp.	A53/73	NCTC 10993	37
-Rhodococcus coprophilus	CUB 687	NCTC 10994	
 Kingella denitrificans	NCDC B4363	NCTC 10995	37
 Kingella denitrificans	NCDC B6992	NCTC 10996	37
 Kingella denitrificans	A140/74	NCTC 10997	37
@@ -3212,7 +2894,6 @@ Blautia coccoides	CLC/1	NCTC 11035	37
 Myroides odoratus	11036	NCTC 11036	30
 Micrococcus lylae	CCM 2693	NCTC 11037	37
 Kocuria kristinae	CCM 2690	NCTC 11038	37
-Dermacoccus nishinomiyaensis	CCM 2140	NCTC 11039	
 Kytococcus sedentarius	CCM 314	NCTC 11040	30
 Staphylococcus cohnii	CCM 2736	NCTC 11041	37
 Staphylococcus haemolyticus	CCM 2737	NCTC 11042	37
@@ -3222,10 +2903,8 @@ Staphylococcus capitis	CCM 2734	NCTC 11045	37
 Staphylococcus simulans	CCM 2705	NCTC 11046	37
 Staphylococcus epidermidis	CCM 2124	NCTC 11047	37
 Staphylococcus intermedius	H11/68	NCTC 11048	37
-Neisseria sp.	522	NCTC 11049	
 Neisseria elongata subsp. glycolytica	6171/75	NCTC 11050	37
 Pasteurella sp.	A/1a	NCTC 11051	37
-Pasteurella sp.	A/4a	NCTC 11052	
 Mycobacterium selandiae	010	NCTC 11053	37
 Mycobacterium selandiae	058	NCTC 11054	37
 Mycobacterium hafniae	079	NCTC 11055	37
@@ -3269,7 +2948,6 @@ Moraxella atlantae	A1922	NCTC 11092	37
 Moraxella atlantae	A279	NCTC 11093	37
 Moraxella atlantae	8330	NCTC 11094	37
 Moraxella atlantae	B19441/75	NCTC 11095	37
-Aggregatibacter aphrophilus	A39/71	NCTC 11096	
 Capnocytophaga sputigena	A58/74	NCTC 11097	37
 Aggregatibacter aphrophilus	HK 308	NCTC 11098	37
 Empedobacter brevis	CL 88/76	NCTC 11099	37
@@ -3320,7 +2998,6 @@ Clostridium perfringens	FH 4715/75 ?	NCTC 11144	37
 Bacillus cereus	F4433/73	NCTC 11145	37
 Haemophilus influenzaemurium	E0	NCTC 11146	37
 Haemophilus influenzaemurium	ET	NCTC 11147	37
-Neisseria gonorrhoeae	STH 5731	NCTC 11148	
 Ralstonia pickettii	11149 K-288	NCTC 11149	37
 Staphylococcus aureus	7361-RR	NCTC 11150	37
 Escherichia coli	49/41 (E5460/1/76)	NCTC 11151	37
@@ -3329,7 +3006,6 @@ Bacteroides ovatus	11153	NCTC 11153	37
 Bacteroides vulgatus	ATCC 8482	NCTC 11154	37
 Bacteroides eggerthii	VPI T5-42B-1	NCTC 11155	37
 Prevotella bivia	653C	NCTC 11156	37
-Prevotella disiens	N-1304-72B	NCTC 11157	
 Tissierella praeacuta	Prevot 3722B	NCTC 11158	37
 Iodobacter fluviatilis	Sp 7	NCTC 11159	37
 Iodobacter fluviatilis	Sp8	NCTC 11161	37
@@ -3353,23 +3029,17 @@ Myroides odoratus	CL 41/66	NCTC 11179	30
 Myroides odoratimimus	CL 229/67	NCTC 11180	37
 Escherichia coli	1624-56	NCTC 11181	37
 Taylorella equigenitalis	61717/77, A40/77	NCTC 11184	37
-Mycobacterium haemophilum	1	NCTC 11185	
 Escherichia coli	W677 R5	NCTC 11186	37
 Pasteurella gallinarum	P-892	NCTC 11187	37
 Avibacterium gallinarum	P-913	NCTC 11188	37
-Streptococcus mitis	Reid	NCTC 11189	
 Rikenella microfusus	Q-1	NCTC 11190	37
 Legionella pneumophila	Pontiac	NCTC 11191	37
-Legionella pneumophila	Philadelphia 1	NCTC 11192	
-Legionella pneumophila	Philadelphia 2	NCTC 11193	
 Streptobacillus moniliformis	A91/77	NCTC 11194	37
 Aeromonas hydrophila subsp. formicans	Suchi (96)	NCTC 11196	37
 Taylorella equigenitalis	65762/77	NCTC 11198	37
-Clostridium botulinum	F199-200/78	NCTC 11199	
 Streptococcus pyogenes	C203/21/2	NCTC 11200	37
 Legionella pneumophila	Washington	NCTC 11201	37
 Neisseria meningitidis	29 E	NCTC 11202	37
-Neisseria meningitidis	W-135	NCTC 11203	
 Clostridium difficile	N1	NCTC 11204	37
 Clostridium difficile	N2	NCTC 11205	37
 Clostridium difficile	N3	NCTC 11206	37
@@ -3387,14 +3057,11 @@ Vibrio furnissii	2510/74, VL 6966	NCTC 11218	37
 Clostridium botulinum	F2561/78	NCTC 11219	37
 Filifactor villosus	3342	NCTC 11220	37
 Filifactor villosus	3357	NCTC 11221	37
-Clostridium difficile	335722	NCTC 11223	
 Clostridium clostridiiforme	Bryant T90	NCTC 11224	37
 Taylorella equigenitalis	ERS 5304	NCTC 11225	37
 Taylorella equigenitalis	ERS 5192	NCTC 11226	37
 Moraxella (branhamella) ovis	199/55	NCTC 11227	37
 Klebsiella pneumoniae	Klebsiella aerogenes A	NCTC 11228	37
-Clostridium perfringens	UCH24 ?	NCTC 11229	
-Legionella pneumophila	Togus-1	NCTC 11230	
 Legionella pneumophila	Cambridge-1 England (Cox)	NCTC 11231	37
 Legionella pneumophila	Bloomington-2	NCTC 11232	37
 Legionella pneumophila	Los Angeles-1	NCTC 11233	37
@@ -3406,7 +3073,6 @@ Streptococcus agalactiae	R76/1685	NCTC 11238	37
 Streptococcus agalactiae	R76/1875	NCTC 11239	37
 Streptococcus agalactiae	R75/2483	NCTC 11240	37
 Streptococcus agalactiae	R76/195	NCTC 11241	37
-Streptococcus agalactiae	R76/2924	NCTC 11242	
 Streptococcus agalactiae	R76/2978	NCTC 11243	37
 Streptococcus agalactiae	R76/742	NCTC 11244	37
 Streptococcus agalactiae	11245R76/2969Ic11271173135/2969, and	NCTC 11245	37
@@ -3419,36 +3085,6 @@ Streptococcus agalactiae	R77/2336	NCTC 11251	37
 Streptococcus agalactiae	R77/1879	NCTC 11252	37
 Streptococcus agalactiae	R77/2078	NCTC 11253	37
 Streptococcus agalactiae	R77/1878	NCTC 11254	37
-Streptococcus agalactiae bacteriophage	1; 601/785	NCTC 11255	
-Streptococcus agalactiae bacteriophage	2; 200/609	NCTC 11256	
-Streptococcus agalactiae bacteriophage	3; 1133/609	NCTC 11257	
-Streptococcus agalactiae bacteriophage	4; 201/609	NCTC 11258	
-Streptococcus agalactiae bacteriophage	5; 621/609	NCTC 11259	
-Streptococcus agalactiae bacteriophage	6; X/3A	NCTC 11260	
-Streptococcus agalactiae bacteriophage	7; 196/200	NCTC 11261	
-Streptococcus agalactiae bacteriophage	8; 193/1685	NCTC 11262	
-Streptococcus agalactiae bacteriophage	9; 513/1685	NCTC 11263	
-Streptococcus agalactiae bacteriophage	10; 2483/1685	NCTC 11264	
-Streptococcus agalactiae bacteriophage	11; (601/785)/1875	NCTC 11265	
-Streptococcus agalactiae bacteriophage	12; 200/2483	NCTC 11266	
-Streptococcus agalactiae bacteriophage	13; 621/195	NCTC 11267	
-Streptococcus agalactiae bacteriophage	14; 32/2924	NCTC 11268	
-Streptococcus agalactiae bacteriophage	15; 2791/2978	NCTC 11269	
-Streptococcus agalactiae bacteriophage	16; 200/742	NCTC 11270	
-Streptococcus agalactiae bacteriophage	17; 3135/2969	NCTC 11271	
-Streptococcus agalactiae bacteriophage	18; 3084/2969	NCTC 11272	
-Streptococcus agalactiae bacteriophage	19; 2971/2969	NCTC 11273	
-Streptococcus agalactiae bacteriophage	20; 445/537	NCTC 11274	
-Streptococcus agalactiae bacteriophage	21; 633/537	NCTC 11275	
-Streptococcus agalactiae bacteriophage	22; 508/537	NCTC 11276	
-Streptococcus agalactiae bacteriophage	23; 1005/331	NCTC 11277	
-Streptococcus agalactiae bacteriophage	24; 1932/1766	NCTC 11278	
-Streptococcus agalactiae bacteriophage	25; 2170/2090	NCTC 11279	
-Streptococcus agalactiae bacteriophage	27; 2082/2336	NCTC 11281	
-Streptococcus agalactiae bacteriophage	28; 2081/1879	NCTC 11282	
-Streptococcus agalactiae bacteriophage	29; 2078/1879	NCTC 11283	
-Streptococcus agalactiae bacteriophage	31; 2082/1878	NCTC 11285	
-Legionella pneumophila	Knoxville-1	NCTC 11286	
 Legionella pneumophila	Oxford	NCTC 11287	37
 Listeria innocua	58/1971	NCTC 11288	37
 Listeria seeligeri	105/1971	NCTC 11289	37
@@ -3460,8 +3096,6 @@ Nocardia brasiliensis	ATCC 19296	NCTC 11294	37
 Bacteroides fragilis	83008	NCTC 11295	37
 Avibacterium paragallinarum	IPDH 2403	NCTC 11296	37
 Avibacterium avium	IPDH 2654	NCTC 11297	37
-Mycobacterium malmoense	MRU 22625	NCTC 11298	
-Mycobacterium malmoense	MRU 6173	NCTC 11299	
 Sebaldella termitidis	Sebald 107A	NCTC 11300	37
 Mannheimia haemolytica	A13, N513-3163	NCTC 11302	37
 Mannheimia haemolytica	A14, N513-2916	NCTC 11303	37
@@ -3487,7 +3121,6 @@ Campylobacter jejuni subsp. jejuni	VPI H840	NCTC 11322	37
 Gemella morbillorum	VPI 5424, Prevot 2917B	NCTC 11323	37
 Streptococcus intermedius	VPI 3372A, Prevot 1877	NCTC 11324	37
 Streptococcus constellatus	VPI 3810, Prevot 4055	NCTC 11325	37
-Fusobacterium nucleatum subsp. fusiforme	SOR	NCTC 11326	
 Vibrio fluvialis	VL 5125	NCTC 11327	30
 Vibrio furnissii	VL 2386	NCTC 11328	30
 Vibrio fluvialis	VL 2926	NCTC 11329	30
@@ -3507,7 +3140,6 @@ Campylobacter coli	11350 P875	NCTC 11350	37
 Campylobacter jejuni subsp. jejuni	Uccle 91 F. B.	NCTC 11351	37
 Campylobacter lari	3034/77	NCTC 11352	37
 Campylobacter coli	4620/78	NCTC 11353	37
-Morganella morganii	Hicks UTI 8778	NCTC 11354	
 Klebsiella oxytoca	371	NCTC 11355	37
 Klebsiella oxytoca	325	NCTC 11356	37
 Klebsiella pneumoniae	708	NCTC 11357	37
@@ -3515,15 +3147,10 @@ Klebsiella pneumoniae	370	NCTC 11358	37
 Klebsiella pneumoniae	3454	NCTC 11359	37
 Streptococcus agalactiae	O 90R (1963)	NCTC 11360	37
 Brucella abortus	45/20	NCTC 11361	37
-Brucella melitensis	Rev 1	NCTC 11362	
-Brucella abortus	S99	NCTC 11363	
 Brucella suis	40	NCTC 11364	37
 Brucella canis	MEX 51-76	NCTC 11365	37
 Campylobacter coli	1407	NCTC 11366	37
-Campylobacter sputorum biovar sputorum	Florent strain Wat	NCTC 11367	
-Fluoribacter bozemanae	WIGA	NCTC 11368	
 Fluoribacter bozemanae	Mi-15	NCTC 11369	37
-Fluoribacter dumoffii	NY-23	NCTC 11370	
 Tatlockia micdadei	Tatlock	NCTC 11371	37
 Tatlockia micdadei	PPA	NCTC 11372	37
 Actinomadura madurae	A22	NCTC 11373	37
@@ -3549,10 +3176,8 @@ Morococcus cerebrosus	UQM 858	NCTC 11393	37
 Haemophilus influenzae	A247/ 80 Biotype V	NCTC 11394	37
 Corynebacterium diphtheriae	c7S(-) tox -	NCTC 11397	37
 Corynebacterium bovis	B187	NCTC 11398	37
-Legionella gormanii	LS-13	NCTC 11401	
 Fluoribacter dumoffii	TEX-KL	NCTC 11402	37
 Tatlockia micdadei	HEBA	NCTC 11403	37
-Legionella pneumophila	Bellingham-1, 77-091436	NCTC 11404	
 Legionella pneumophila	Dallas - 1E	NCTC 11405	37
 Legionella pneumophila	Chicago-2	NCTC 11406	37
 Actinobacillus pleuropneumoniae	FEMO	NCTC 11407	37
@@ -3569,8 +3194,6 @@ Legionella pneumophila	Cambridge-2, Atkinson	NCTC 11417	37
 Campylobacter mucosalis	124/73 B4	NCTC 11418	37
 Campylobacter mucosalis	982/76	NCTC 11419	37
 Campylobacter mucosalis	512/77	NCTC 11420	37
-Neisseria gonorrhoeae	80/3346	NCTC 11421	
-Neisseria gonorrhoeae	80/3239	NCTC 11422	
 Neisseria meningitidis	73/M6	NCTC 11423	37
 Neisseria meningitidis	74/M24	NCTC 11424	37
 Haemophilus influenzae	1719 Biotype I	NCTC 11426	37
@@ -3580,7 +3203,6 @@ Sphingobacterium thalpophilum	K-1173, CL 413/81, 76-791	NCTC 11429	37
 Sphingobacterium thalpophilum	C499, K-1207, CL 514/81	NCTC 11430	37
 Sphingobacterium thalpophilum	K-1232, 1626-76, CL 414/81	NCTC 11431	37
 Chryseobacterium gleum	F93, CL 4/79	NCTC 11432	37
-Chryseobacterium gleum	F129, CL 10/79	NCTC 11433	
 Pluralibacter gergoviae	604 - 77	NCTC 11434	37
 Vibrio mimicus	CDC 1721 - 77	NCTC 11435	37
 Streptococcus bovis	R81/356; API 120-06-78	NCTC 11436	37
@@ -3607,13 +3229,11 @@ Campylobacter lari	WRI 175/82, A80/82	NCTC 11458	37
 Prevotella oralis	D27B-24	NCTC 11459	37
 Peptostreptococcus anaerobius	A. Prevot 4372	NCTC 11460	37
 Peptoniphilus asaccharolyticus	UW 228; BAI	NCTC 11461	37
-Shigella boydii	E16553; GB 7923234	NCTC 11462	
 Veillonella parvula	46666, A65/82	NCTC 11463	37
 Fusobacterium naviforme	A210/81	NCTC 11464	37
 Cedecea davisae	CL 472/81; 005	NCTC 11465	37
 Cedecea lapagei	CL 421/81; 004	NCTC 11466	37
 Cronobacter sakazakii	CL 783/77; E4562-70	NCTC 11467	37
-Tatumella ptyseos	CL 415/81	NCTC 11468	
 Yersinia intermedia	3953; Bottone 48; Chester 48	NCTC 11469	37
 Yersinia frederiksenii	6175, CL 109/82	NCTC 11470	37
 Yersinia kristensenii	105; CL 99/82	NCTC 11471	37
@@ -3622,15 +3242,12 @@ Escherichia coli	OX8	NCTC 11473	37
 Escherichia coli	E10702	NCTC 11474	37
 Escherichia coli	OX5	NCTC 11475	37
 Escherichia coli	OX2	NCTC 11476	37
-Legionella longbeachae	Longbeach 4	NCTC 11477	
 Mannheimia haemolytica	S886D	NCTC 11478	37
 Haemophilus ducreyi	D1	NCTC 11479	33
 Haemophilus ducreyi	IDI	NCTC 11480	33
 Haemophilus ducreyi	D4	NCTC 11481	33
 Haemophilus ducreyi	D5	NCTC 11482	33
 Haemophilus ducreyi	D6	NCTC 11483	33
-Campylobacter concisus	FDC 522	NCTC 11486	
-Campylobacter concisus	FDC 569	NCTC 11487	
 Wolinella succinogenes	FDC 602	NCTC 11488	37
 Campylobacter rectus	FDC 371	NCTC 11489	37
 Actinomyces denticolens	Sn8/4303	NCTC 11490	37
@@ -3639,24 +3256,19 @@ Clostridium spiroforme		NCTC 11493	37
 Mobiluncus curtisii	0289	NCTC 11494	37
 Mobiluncus curtisii	0335	NCTC 11495	37
 Mobiluncus curtisii	2115	NCTC 11496	37
-Mobiluncus mulieris	0311	NCTC 11497	
 Mobiluncus mulieris	0363	NCTC 11498	37
-Mobiluncus mulieris	0599	NCTC 11499	
 Vibrio cholerae non 0:1		NCTC 11500	37
 Vibrio cholerae non 0:1		NCTC 11502	37
 Vibrio cholerae		NCTC 11503	37
 Vibrio cholerae		NCTC 11505	37
 Vibrio cholerae		NCTC 11506	37
 Vibrio cholerae non 0:1		NCTC 11507	37
-Vibrio cholerae		NCTC 11508	
 Vibrio cholerae		NCTC 11509	37
 Flavobacterium thermophilum	G-21	NCTC 11526	55
 Corynebacterium diphtheriae	42072/82	NCTC 11527	37
 Campylobacter sputorum subsp. sputorum	S-17	NCTC 11528	37
 Actinobacillus hominis	12, P578	NCTC 11529	37
 Legionella longbeachae	Tucker 1	NCTC 11530	37
-Legionella oakridgensis	OR-10	NCTC 11531	
-Legionella wadsworthii	Wadsworth 81-716A	NCTC 11532	
 Legionella jordanis	BL 540	NCTC 11533	37
 Actinomyces bovis	P1S	NCTC 11535	37
 Anaerobiospirillum succiniciproducens	S411	NCTC 11536	37
@@ -3669,8 +3281,6 @@ Capnocytophaga ochracea	36J1	NCTC 11545	37
 Capnocytophaga ochracea	2467/b	NCTC 11546	37
 Capnocytophaga sp.	209	NCTC 11547	37
 Capnocytophaga sp.	4295	NCTC 11548	37
-Bibersteinia trehalosi	J592	NCTC 11549	
-Mannheimia haemolytica	T631	NCTC 11550	
 Mannheimia haemolytica	T635	NCTC 11551	37
 Streptococcus equisimilis	R80/4225	NCTC 11552	37
 Streptococcus equisimilis	R83/29	NCTC 11553	37
@@ -3686,7 +3296,6 @@ Campylobacter hyointestinalis	WRI 364/82, Lawson 124 / 3 A4 UK	NCTC 11562	37
 Campylobacter hyointestinalis	WRI 365/82, Lawson 691/82, CHI-81-6107-USA	NCTC 11563	37
 Streptococcus dysgalactiae subsp. equisimilis	R80/83	NCTC 11564	37
 Streptococcus equisimilis	R82/1925	NCTC 11565	37
-Streptococcus sp.	R83/552 T-Type 304	NCTC 11566	
 Streptococcus sp.	R81/5162 T-Type 305	NCTC 11567	37
 Streptococcus sp.	R81/1986 T-Type 306	NCTC 11568	37
 Streptococcus sp.	A83/739 T-Type 307	NCTC 11569	37
@@ -3723,7 +3332,6 @@ Yersinia enterocolitica	Y63	NCTC 11599	37
 Yersinia enterocolitica	Y136	NCTC 11600	37
 Escherichia coli	E5798	NCTC 11601	37
 Escherichia coli	E2985	NCTC 11602	37
-Escherichia coli	E7476	NCTC 11603	
 Streptococcus equi subp. zooepidemicus	TUER 9894	NCTC 11606	37
 Aggregatibacter sp.	HK 22	NCTC 11607	37
 Campylobacter hyointestinalis	80-4577-4	NCTC 11608	37
@@ -3733,7 +3341,6 @@ Helicobacter cinaedi	CLO-48	NCTC 11611	37
 Helicobacter fennelliae	CLO-231	NCTC 11612	37
 Helicobacter fennelliae	CLO-441	NCTC 11613	37
 Helicobacter cinaedi	Bury-Woof	NCTC 11614	37
-Haemophilus ducreyi	82/16355	NCTC 11616	
 Pasteurella dagmatis	953/60	NCTC 11617	37
 Pasteurella dagmatis	C9882	NCTC 11618	37
 Pasteurella multocida subsp. septica	MR 118100/81	NCTC 11619	37
@@ -3752,11 +3359,8 @@ Escherichia coli	MH752, BM1018	NCTC 11633	37
 Weeksella virosa	CL 345/78	NCTC 11634	37
 Weeksella virosa	CL 355/78	NCTC 11635	37
 Actinomyces howellii	SH7/4276	NCTC 11636	37
-Helicobacter pylori	RPH 13491	NCTC 11638	
-Helicobacter pylori	RSB6	NCTC 11639	
 Grimontia hollisae	0075-80	NCTC 11640	37
 Vibrio hollisae	921-79	NCTC 11641	37
-Burkholderia pseudomallei	China 3 (MP-H), 257A, NBL 104	NCTC 11642	
 Vibrio cholerae		NCTC 11643	30
 Vibrio hollisae	VL 12437, CDC 9042	NCTC 11644	37
 Grimontia hollisae	VL 12439, CDC 525	NCTC 11645	37
@@ -3766,11 +3370,9 @@ Photobacterium damselae	VL 12482, CDC 1421-81	NCTC 11648	37
 Pasteurella canis	A374/83	NCTC 11650	37
 Taylorella equigenitalis	M/A/77	NCTC 11651	37
 Capnocytophaga sputigena	Strain 4	NCTC 11653	37
-Capnocytophaga ochracea	A319/84	NCTC 11654	
 Capnocytophaga ochracea	A349/84	NCTC 11655	37
 Mobiluncus curtisii subsp. curtisii	BV345-16	NCTC 11656	37
 Mobiluncus curtisii subsp. holmesii	BV376-6	NCTC 11657	37
-Mobiluncus mulieris	SV175	NCTC 11658	
 Bergeyella zoohelcum	CL 544/80	NCTC 11660	37
 Bergeyella zoohelcum	CL 145/77	NCTC 11661	37
 Bergeyella zoohelcum	CL 776/79	NCTC 11662	37
@@ -3783,8 +3385,6 @@ Pseudomonas aeruginosa	623	NCTC 11669	37
 Pseudomonas aeruginosa	11670	NCTC 11670	37
 Pseudomonas aeruginosa	Ps161	NCTC 11671	37
 Pseudomonas aeruginosa	Su-11	NCTC 11672	37
-Pseudomonas aeruginosa	Wahba 14	NCTC 11673	
-Klebsiella pneumoniae		NCTC 11674	
 Klebsiella pneumoniae	11675P211686 I2	NCTC 11675	37
 Klebsiella pneumoniae		NCTC 11676	37
 Enterobacter aerogenes		NCTC 11677	37
@@ -3805,75 +3405,23 @@ Klebsiella oxytoca		NCTC 11691	37
 Klebsiella pneumoniae		NCTC 11692	37
 Klebsiella pneumoniae		NCTC 11693	37
 Klebsiella oxytoca		NCTC 11694	37
-Klebsiella pneumoniae subsp. pneumoniae		NCTC 11695	
 Klebsiella oxytoca		NCTC 11696	37
 Klebsiella pneumoniae		NCTC 11697	37
 Klebsiella pneumoniae		NCTC 11698	37
 Klebsiella pneumoniae		NCTC 11699	37
 Mycoplasma pirum	HRC 70-159, M1040/P4	NCTC 11702	37
-Mycoplasma felifaucium	Pu	NCTC 11703	
-Mesoplasma florum	L1	NCTC 11704	
-Mycoplasma hyopharyngis	H3-6BF	NCTC 11705	
-Mycoplasma mycoides subsp. mycoides	Y-goat (LC type)	NCTC 11706	
-Ureaplasma gallorale	D6-1	NCTC 11707	
-Ureaplasma felinum	FT2-B	NCTC 11709	
-Ureaplasma cati	F2	NCTC 11710	
-Mesoplasma entomophilum	TAC	NCTC 11713	
-Entomoplasma ellychniae	ELCN-1	NCTC 11714	
-Entomoplasma melaleucae	M1	NCTC 11715	
-Entomoplasma lucivorax	1PN-2	NCTC 11716	
-Entomoplasma luminosum	P1MN-1	NCTC 11717	
-Entomoplasma somnilux	PYAN-1	NCTC 11719	
-Mycoplasma phocacerebrale	1049	NCTC 11721	
-Mycoplasma phocarhinis	852	NCTC 11722	
-Mycoplasma amphoriforme	A39	NCTC 11740	
-Ureaplasma loridis		NCTC 11741	
-Ureaplasma canis		NCTC 11742	
-Mycoplasma sirius		NCTC 11743	
-Mycoplasma rosendalii		NCTC 11744	
-Mycoplasma iguanae		NCTC 11745	
 Providencia stuartii	CDC 2896-68	NCTC 11800	37
 Providencia rettgeri	Brenner 1163	NCTC 11801	37
 Providencia rustigianii	CDC 132-68	NCTC 11802	37
 Salmonella enterica subsp. enterica serotype paratyphi a	11803	NCTC 11803	37
-Finegoldia magna	11804	NCTC 11804	
-Peptococcus niger	VPI 7953	NCTC 11805	
-Anaerococcus prevotii	11806	NCTC 11806	
-Staphylococcus saccharolyticus	11807	NCTC 11807	
-Parvimonas micra	VPI 5464	NCTC 11808	
-Veillonella alkalescens subsp. alkalescens	259	NCTC 11809	
-Veillonella parvula	Te3	NCTC 11810	
-Clostridium indolis	11811	NCTC 11811	
-Clostridium ramosum	113-I	NCTC 11812	
-Eggerthella lenta	VPI 0255	NCTC 11813	
-Bifidobacterium adolescentis	11814	NCTC 11814	
-Bifidobacterium breve	SI	NCTC 11815	
-Bifidobacterium dentium	B764	NCTC 11816	
-Bifidobacterium longum subsp. infantis	S12	NCTC 11817	
-Bifidobacterium longum	E194 b	NCTC 11818	
-Falcivibrio grandis	L23-1b	NCTC 11819	
-Falcivibrio vaginalis	V125	NCTC 11820	
 Streptococcus equi subp. zooepidemicus	R80/3705	NCTC 11824	37
 Streptococcus pyogenes	R80/3430 T-type 4	NCTC 11825	37
-Campylobacter jejuni subsp. jejuni	81116, FLA -	NCTC 11827	
-Campylobacter jejuni subsp. jejuni	81116	NCTC 11828	
-Blautia producta	Prevot 2396, VPI 4299	NCTC 11829	
-Veillonella atypica	Kon	NCTC 11830	
-Veillonella dispar	ERN	NCTC 11831	
-Clostridium hastiforme	11832	NCTC 11832	
-Clostridium paraputrificum	11833	NCTC 11833	
-Porphyromonas gingivalis	Slots 2561	NCTC 11834	
-Collinsella aerofaciens	VPI 1003	NCTC 11838	
 Pseudomonas aeruginosa	L…nyi 170022	NCTC 11839	37
 Campylobacter upsaliensis	926/H/84	NCTC 11840	37
-Pseudomonas luteola	B237, T148/77	NCTC 11841	
-Pseudomonas luteola	B1117, T147/77	NCTC 11842	
 Campylobacter lari	Preston 3980/SW/82	NCTC 11844	37
 Campylobacter lari	Preston 12830/1/82	NCTC 11845	42
 Listeria ivanovii subsp. ivanovii	SV5 SLCC 2739	NCTC 11846	37
 Campylobacter jejuni subsp. doylei	Nr 71	NCTC 11847	37
-Campylobacter jejuni subsp. doylei	Nr 247	NCTC 11848	
-Campylobacter jejuni subsp. doylei	Nr 324	NCTC 11849	
 Ureaplasm sp.	CL 162/81	NCTC 11850	37
 Ureaplasm sp.	CL 327/81	NCTC 11851	37
 Ureaplasm sp.	E5726, T147/80	NCTC 11852	37
@@ -3888,23 +3436,14 @@ Corynebacterium pseudogenitalium	Furness 162-C2	NCTC 11860	37
 Corynebacterium xerosis	11861	NCTC 11861	37
 Corynebacterium pilosum	Yanagawa 46	NCTC 11862	37
 Corynebacterium cystitidis	Yanagawa 42	NCTC 11863	37
-Propionibacterium avidum	11864	NCTC 11864	
-Propionibacterium granulosum	11865 VPI 0507	NCTC 11865	
-Propionibacterium lymphophilum	VPI 7625B	NCTC 11866	
 Shigella dysenteriae	E22383/81	NCTC 11867	37
 Shigella dysenteriae	E23507/81	NCTC 11868	37
 Shigella boydii	E28938/83	NCTC 11869	37
-Bacteroides fragilis	ICI A8541. 015	NCTC 11870	
 Prevotella oulora	WPH 179	NCTC 11871	37
-Haemophilus influenzae	NMH H1/A2/24 Biotype V	NCTC 11872	
-Haemophilus influenzae	HK 223 Biotype V	NCTC 11873	
 Haemophilus-like bacterium	IPDH 195	NCTC 11876	37
 Haemophilus-like bacterium	IPDH 312	NCTC 11877	37
-Haemophilus-like bacterium	IPDH 2176	NCTC 11878	
 Campylobacter	No. 3	NCTC 11879	37
-Salmonella enterica subsp. enterica serotype typhimurium	TA1538	NCTC 11881	
 Acinetobacter lwoffii	A51/84, CF/314/84	NCTC 11883	37
-Neisseria meningitidis	LNP3789	NCTC 11884	
 Arcobacter cryaerophilus	A169/B	NCTC 11885	30
 Streptococcus pneumoniae	Lederle	NCTC 11886	37
 Streptococcus pneumoniae	Lederle	NCTC 11887	37
@@ -3939,7 +3478,6 @@ Helicobacter pylori	11916	NCTC 11916	37
 Corynebacterium jeikeium	A380/84, RM 820	NCTC 11917	37
 Eubacterium fossor	VPB 2127	NCTC 11919	37
 Clostridium butyricum	SPB-1	NCTC 11920	37
-Capnocytophaga canimorsus	Gillen A353. 85	NCTC 11921	
 Actinomyces slackii	SH13/4563	NCTC 11923	37
 Campylobacter jejuni subsp. doylei	IMVS 1087, 47408	NCTC 11924	27
 Campylobacter jejuni subsp. doylei	IMVS 542, 46428	NCTC 11925	37
@@ -3954,1772 +3492,21 @@ Enterobacter cloacae	11933	NCTC 11933	37
 Edwardsiella tarda	MQCL 56, CL 223/70	NCTC 11934	37
 Serratia marcescens	MQCL 49, E85/66	NCTC 11935	37
 Enterobacter cloacae	MCQL 58, E676	NCTC 11936	37
-Campylobacter lari	A1/9/82	NCTC 11937	
 Proteus mirabilis	CDC PR14	NCTC 11938	37
 Staphylococcus aureus	ST 84/5279/1	NCTC 11939	37
 Staphylococcus aureus	ST 84/5528	NCTC 11940	37
-Streptobacillus moniliformis	A75/83	NCTC 11941	
-Streptobacillus moniliformis	A85/84	NCTC 11942	
-Streptobacillus moniliformis	A111/81	NCTC 11943	
-Streptobacillus moniliformis	A364/84	NCTC 11944	
-Streptobacillus moniliformis	A41/84	NCTC 11945	
 Vibrio mediterranei	MJ50	NCTC 11946	37
 Brevibacterium epidermidis	A40/71	NCTC 11947	37
 Salmonella enterica subsp. enterica serotype ealing	BR 3429 (S90033/86)	NCTC 11948	37
-Salmonella enterica subsp enterica serotype ealing	11949 BR 3428 (S89476/86) 35:g, m, s:-	NCTC 11949	
 Campylobacter jejuni subsp. doylei	Strain Sutton	NCTC 11950	37
-Campylobacter jejuni subsp. doylei	093, IMVS 1141	NCTC 11951	
-Alcaligenes faecalis	Conn 16, R. Hugh 135	NCTC 11953	
 Escherichia coli	Beecham 1532	NCTC 11954	37
-Helicobacter sp.	9114/86	NCTC 11959	
-Helicobacter cinaedi	9258/86	NCTC 11960	
-Helicobacter pylori	Pr 9260/86	NCTC 11961	
-Staphylococcus aureus	ST 85/7809	NCTC 11962	
-Staphylococcus aureus	ST 85/10194	NCTC 11963	
-Staphylococcus epidermidis	RF 607	NCTC 11964	
-Staphylococcus aureus	ST 86/9983	NCTC 11965	
 Yokenella regensburgei	NIH 725-83, CL 124/86	NCTC 11966	37
 Yokenella regensburgei	CL 125/86	NCTC 11967	37
 Yokenella regensburgei	CL 126/86	NCTC 11968	37
-Moraxella (branhamella) ovis	A334/72	NCTC 11969	
 Alcaligenes piechaudii	CL 347/82, LMG 1873M, HUGH 366-5	NCTC 11970	37
-Alcaligenes piechaudii	CL 807/79, LMG 6101	NCTC 11971	
-Proteus penneri	CL 50/81	NCTC 11972	
 Oerskovia turbata	11973	NCTC 11973	30
-Legionella anisa	WA-316-C3	NCTC 11974	
-Fluoribacter bozemanae	Toronto-3	NCTC 11975	
-Legionella cherrii	ORW	NCTC 11976	
-Legionella erythra	SE-32A-C8	NCTC 11977	
-Legionella feeleii	691-WI-H	NCTC 11978	
-Legionella hackeliae	Lansing 2	NCTC 11979	
-Legionella hackeliae	798-PA-H	NCTC 11980	
-Legionella jamestowniensis	JA-26-GI-E2	NCTC 11981	
-Tatlockia maceachernii	PX-1-G2-E2	NCTC 11982	
-Legionella parisiensis	PF-209C-C2	NCTC 11983	
-Legionella pneumophila	Chicago 8	NCTC 11984	
-Legionella pneumophila	Concorde 3	NCTC 11985	
-Legionella pneumophila	IN-23-GI-C2	NCTC 11986	
-Legionella rubrilucens	WA-270A-C2	NCTC 11987	
-Legionella sainthelensi	MSH-4	NCTC 11988	
-Legionella santicrucis	SC-63-C7	NCTC 11989	
-Legionella spiritensis	MSH-g	NCTC 11990	
-Legionella steigerwaltii	SC-18-C9	NCTC 11991	
-Haemophilus influenzae	KC 1759 Biotype VIII	NCTC 11992	
-Listeria monocytogenes	F. 646/86	NCTC 11994	
-Pasteurella multocida subsp. septica	11995	NCTC 11995	
-Brucella suis	11996	NCTC 11996	
-Oligella ureolytica	CDC C379	NCTC 11997	
-Oligella ureolytica	11998	NCTC 11998	
-Oligella urethralis	11999	NCTC 11999	
-Legionella pneumophila	Leiden 1	NCTC 12000	
-Providencia heimbachae	MUA 2/110	NCTC 12003	
-Providencia heimbachae	CDC 1519-73	NCTC 12004	
-Providencia rustigianii	MUA 1/6	NCTC 12005	
-Legionella pneumophila	Benidorm 030E	NCTC 12006	
-Legionella pneumophila	France 5811	NCTC 12007	
-Legionella pneumophila	OLDA	NCTC 12008	
-Legionella pneumophila	Oxford 4032E	NCTC 12009	
-Legionella israelensis	4	NCTC 12010	
-Corynebacterium urealyticum	Armendariz, F. Soriano 1	NCTC 12011	
-Vibrio cincinnatiensis		NCTC 12012	
-Bacteroides ureolyticus	A177/84	NCTC 12014	
-Campylobacter ureolyticus	A245/83	NCTC 12015	
-Campylobacter ureolyticus	A806/85	NCTC 12016	
-Veillonella rodentium	HV 19	NCTC 12018	
-Veillonella ratti	RV-12x	NCTC 12019	
-Veillonella criceti	HV-1	NCTC 12020	
-Veillonella caviae	PV1	NCTC 12021	
-Legionella feeleii	WO-44C	NCTC 12022	
-Salmonella enterica subsp. enterica serotype typhimurium	CDC 6516-60	NCTC 12023	
-Legionella pneumophila	Allentown 1	NCTC 12024	
-Legionella pneumophila	Heysham 1	NCTC 12025	
-Providencia rustigianii	CL 204/67	NCTC 12026	
-Providencia rustigianii	CL 203/87	NCTC 12027	
-Morganella morganii	CL 426/73	NCTC 12028	
-Providencia rustigianii	CL 541/78	NCTC 12029	
-Providencia rustigianii	CL 506/77	NCTC 12030	
-Helicobacter mustelae	F2/86	NCTC 12031	
-Helicobacter mustelae	F7/86	NCTC 12032	
-Bordetella avium	Hinz 591-77	NCTC 12033	
-Bordetella avium	Hinz 2-81	NCTC 12034	
-Staphylococcus aureus	3353	NCTC 12035	
-Providencia alcalifaciens	E 357	NCTC 12036	
-Providencia alcalifaciens	CL 414/83	NCTC 12037	
-Providencia alcalifaciens	E359	NCTC 12038	
-Providencia alcalifaciens	E362	NCTC 12039	
-Providencia alcalifaciens	CL 225/67	NCTC 12040	
-Providencia alcalifaciens	E360	NCTC 12041	
-Brucella suis	Strain 2	NCTC 12042	
-Streptococcus pyogenes	R81/2195	NCTC 12044	
-Streptococcus pyogenes	R72/3626, 5228-15	NCTC 12045	
-Streptococcus pyogenes	R72/3333, 5505	NCTC 12046	
-Streptococcus pyogenes	SS-1084, PSC - 227 HC	NCTC 12047	
-Streptococcus pyogenes	Cairo 2 = 75-415	NCTC 12048	
-Streptococcus pyogenes	Cairo 3 = R75/340	NCTC 12049	
-Streptococcus pyogenes	Cairo 4 = R75/341	NCTC 12050	
-Streptococcus pyogenes	Cairo 5 = R75/342	NCTC 12051	
-Streptococcus pyogenes	R65/3961	NCTC 12052	
-Streptococcus pyogenes	R67/1720 = J12/40	NCTC 12054	
-Streptococcus pyogenes	R72/2773	NCTC 12057	
-Streptococcus pyogenes	R72/3085 = PT 3085 = PT CONSTABLE	NCTC 12058	
-Streptococcus pyogenes	R74/2015 = PT 2015 = PT SHREWSBURY 1	NCTC 12059	
-Streptococcus pyogenes	R75/2681 = PT 2681 = PT SHREWSBURY 14	NCTC 12060	
-Streptococcus pyogenes	R81/3661 = PT 81	NCTC 12061	
-Streptococcus pyogenes	R72/180 = PT 180 = PT NOTTINGHAM	NCTC 12062	
-Streptococcus pyogenes	R74/1658 = PT 1658 = SHREWSBURY 2	NCTC 12063	
-Streptococcus pyogenes	R82/2110 = PT 2110	NCTC 12064	
-Streptococcus pyogenes	R76/2841 = PT 2841 = PT Plumb	NCTC 12065	
-Streptococcus pyogenes	R79/5757 = PT 5757	NCTC 12066	
-Streptococcus pyogenes	R81/3152 = PT 4245 = 422/2164 (Prague) = Prague BAL	NCTC 12067	
-Streptococcus pyogenes	R81/2516 = PT 4931	NCTC 12068	
-Streptococcus pyogenes	R81/4854 = PT 4854	NCTC 12069	
-Corynebacterium ulcerans	C88/334	NCTC 12077	
-Corynebacterium xerosis	C89/357	NCTC 12078	
-Escherichia coli	E30480	NCTC 12079	
-Escherichia coli	E32511	NCTC 12080	
-Streptococcus sp.	Warburton	NCTC 12081	
-Legionella spiritensis	ML76, 1509/85	NCTC 12082	
-Neisseria meningitidis	G2189	NCTC 12083	
-Neisseria meningitidis	G1553	NCTC 12084	
-Neisseria meningitidis	G1795	NCTC 12085	
-Neisseria meningitidis	H6	NCTC 12086	
-Neisseria meningitidis	H733	NCTC 12087	
-Neisseria meningitidis	H337	NCTC 12088	
-Neisseria meningitidis	H1341	NCTC 12089	
-Streptococcus equi subsp. zooepidemicus	Curry 829	NCTC 12090	
-Streptococcus equi subsp. zooepidemicus	Garvey 36417	NCTC 12091	
-Streptococcus equi subsp. zooepidemicus	Dalby 3378	NCTC 12092	
-Shewanella putrefaciens	CL 256/73, strain 6	NCTC 12093	
-Legionella pneumophila	Camperdown 1	NCTC 12098	
-Staphylococcus epidermidis	ST87/2855	NCTC 12100	
-Staphylococcus auricularis	WK 811M	NCTC 12101	
-Staphylococcus lentus	K21	NCTC 12102	
-Staphylococcus sciuri subsp. sciuri	SC116	NCTC 12103	
-Campylobacter jejuni subsp. jejuni	LCDC 134	NCTC 12104	
-Campylobacter jejuni subsp. jejuni	LCDC 35	NCTC 12105	
-Campylobacter jejuni subsp. jejuni	LCDC 195	NCTC 12106	
-Campylobacter jejuni subsp. jejuni	LCDC 2074	NCTC 12107	
-Campylobacter jejuni subsp. jejuni	LCDC 4964, 7502/BC	NCTC 12109	
-Fusobacterium ulcerans	Papua New Guinea	NCTC 12111	
-Fusobacterium ulcerans	Papua New Guinea	NCTC 12112	
-Sphingobacterium spiritivorum	F8081	NCTC 12113	
-Sphingobacterium spiritivorum	F8116	NCTC 12114	
-Salmonella enterica subsp. enterica serotype typhimurium	TA98	NCTC 12115	
-Salmonella enterica subsp. enterica serotype typhimurium	TA100	NCTC 12116	
-Salmonella enterica subsp. enterica serotype typhimurium	TA1535	NCTC 12117	
-Salmonella enterica subsp. enterica serotype typhimurium	TA1537	NCTC 12118	
-Buttiauxella agrestis	Gavini F-44, CL 644/80	NCTC 12119	
-Cedecea neteri	CL 426/81, CDC 0621-75	NCTC 12120	
-Edwardsiella hoshinae	CL 550/81, strain 2-78	NCTC 12121	
-Edwardsiella ictaluri	CL 129/82, CDC 1976-78	NCTC 12122	
-Enterobacter asburiae	CL 176/86, CDC 1497-78	NCTC 12123	
-Enterobacter amnigenus	CL 488/80, CUETM 77-118	NCTC 12124	
-Enterobacter intermedius	CL 483/80, CUETM 77-130	NCTC 12125	
-Enterobacter taylorae	12126 CL 151/86, CDC 2126-81	NCTC 12126	
-Shimwellia blattae	CL 792/77, CDC 9005-74	NCTC 12127	
-Escherichia fergusonii	CL 796/77, CDC 0568-73	NCTC 12128	
-Escherichia hermannii	CL 157/82, CDC 980-72	NCTC 12129	
-Escherichia vulneris	CL 777/77	NCTC 12130	
-Yokenella regensburgei	CL 161/86	NCTC 12131	
-Moellerella wisconsensis	CL 156/86	NCTC 12132	
-Bartonella bacilliformis	12134	NCTC 12134	
-Bartonella bacilliformis	12136	NCTC 12136	
-Streptococcus pneumoniae	DMRQC QA1442	NCTC 12140	
-Neisseria gonorrhoeae	CDC 83-011968, NG-1271	NCTC 12141	
-Campylobacter coli	LCDC 2984	NCTC 12143	
-Campylobacter lari	LCDC 5495	NCTC 12144	
-Campylobacter jejuni subsp. jejuni	LCDC 7502	NCTC 12145	
-Raoultella terrigena	L95	NCTC 12146	
-Serratia fonticola	CUETM 78-10	NCTC 12147	
-Serratia ficaria	4024	NCTC 12148	
-Flavobacterium mizutaii	GIFU 1203	NCTC 12149	
-Pasteurella testudinis	90-23-79n	NCTC 12150	
-Leminorella richardii	CDC 0978-82	NCTC 12151	
-Leminorella grimontii	CDC 1944-81	NCTC 12152	
-Acinetobacter junii	2723/59	NCTC 12153	
-Acinetobacter johnsonii	3865/60	NCTC 12154	
-Acinetobacter haemolyticus	CL 332/86; 2446/60	NCTC 12155	
-Acinetobacter baumannii	CL 330/86	NCTC 12156	
-Ewingella americana	CL 152/84	NCTC 12157	
-Raoultella ornithinolytica	CL 656/80	NCTC 12158	
-Listonella anguillarum	CL63/70	NCTC 12159	
-Vibrio alginolyticus	VL2204; CL 241/82	NCTC 12160	
-Neisseria meningitidis	F233	NCTC 12163	
-Streptococcus vestibularis	PV91	NCTC 12167	
-Brucella anthropi	CIP 82. 115	NCTC 12168	
-Brucella anthropi	CDC A8409	NCTC 12169	
-Brucella anthropi	Gilardi 3195	NCTC 12170	
-Brucella intermedia	CNS 2-75	NCTC 12171	
-Brucella anthropi	CL 634/77	NCTC 12172	
-Salmonella enterica subsp. enterica serotype kedougou	12173 131a/1 13, 23:i:l, w	NCTC 12173	
-Legionella pneumophila	1169-MN-H	NCTC 12174	
-Providencia stuartii	CL 672/77	NCTC 12175	
-Providencia stuartii	CL 142/71	NCTC 12176	
-Pasteurella multocida	14070/82	NCTC 12177	
-Pasteurella multocida	45/78	NCTC 12178	
-Legionella pneumophila	12179	NCTC 12179	
-Legionella pneumophila	12180	NCTC 12180	
-Legionella pneumophila	12181	NCTC 12181	
-Actinobacillus suis	A294/87	NCTC 12182	
-Campylobacter upsaliensis	158. 85, A618/87	NCTC 12183	
-Campylobacter upsaliensis	3. 87, A621/87	NCTC 12184	
-Mobiluncus mulieris	QK 6008	NCTC 12185	
-Mobiluncus mulieris	9062-10	NCTC 12186	
-Mobiluncus curtisii	9040-3	NCTC 12187	
-Mobiluncus curtisii	L1999	NCTC 12188	
-Campylobacter jejuni subsp. jejuni	Mut/A 81116	NCTC 12189	
-Salmonella enterica subsp. enterica serotype typhimurium	F98	NCTC 12190	
-Streptococcus canis	STR-T1, DSM 20715	NCTC 12191	
-Haemophilus influenzae	HK50	NCTC 12194	
-Staphylococcus gallinarum	VIII 1	NCTC 12195	
-Staphylococcus caprae	143. 22	NCTC 12196	
-Helicobacter mustelae	R85-136P	NCTC 12198	
-Enterococcus faecalis	No. 1	NCTC 12201	
-Enterococcus faecium	No. 7	NCTC 12202	
-Enterococcus faecalis	No. 10	NCTC 12203	
-Enterococcus faecium	No. 14	NCTC 12204	
-Vibrio parahaemolyticus	P8	NCTC 12205	
-Campylobacter upsaliensis	A627/88, A462	NCTC 12206	
-Campylobacter jejuni subsp. jejuni	A615/87, 28. 85	NCTC 12207	
-Campylobacter jejuni subsp. doylei	A704/85, 30-84	NCTC 12208	
-Listeria innocua	L2774	NCTC 12210	
-Providencia rettgeri	CL 399/76	NCTC 12211	
-Providencia rettgeri	CL 593/74	NCTC 12212	
-Providencia rettgeri	CL 117/77	NCTC 12213	
-Providencia rettgeri	CL 218/67	NCTC 12214	
-Providencia rettgeri	CL 602/75	NCTC 12215	
-Providencia rettgeri	L 767/77	NCTC 12216	
-Staphylococcus lugdunensis	N860297	NCTC 12217	
-Staphylococcus schleiferi	N850274	NCTC 12218	
-Helicobacter cinaedi	A699/88; D18/B	NCTC 12219	
-Helicobacter canis	A700/88; D33	NCTC 12220	
-Helicobacter cinaedi	A701/88; D39/F	NCTC 12221	
-Campylobacter	A702/88, D21B	NCTC 12222	
-Streptococcus hyointestinalis	S93	NCTC 12224	
-Staphylococcus delphini	Heidy	NCTC 12225	
-Neisseria animaloris	CL 480/77	NCTC 12226	
-Neisseria animaloris	CL 643/80	NCTC 12227	
-Neisseria animaloris	CL 191/78, CDC D8251	NCTC 12228	
-Neisseria zoodegmatis	CL 641/80	NCTC 12229	
-Neisseria zoodegmatis	CL 194/78, CDC D5986	NCTC 12230	
-Neisseria zoodegmatis	CL 724/80, CDC C669	NCTC 12231	
-Staphylococcus aureus	M119 bla+	NCTC 12232	
-Staphylococcus aureus	M119 bla-	NCTC 12233	
-Clostridium glycolicum	R3442	NCTC 12234	
-Fusobacterium necrophorum	A200	NCTC 12238	
-Legionella moravica	316-36	NCTC 12239	
-Legionella brunensis	441-1	NCTC 12240	
-Escherichia coli	Seattle 1946	NCTC 12241	
-Capnocytophaga canimorsus	12242	NCTC 12242	
-Capnocytophaga cynodegmi	12243	NCTC 12243	
-Aeromonas caviae	12244	NCTC 12244	
-Pannonibacter phragmitetus	CL 43/77	NCTC 12246	
-Achromobacter sp.	CL 616/80	NCTC 12247	
-Achromobacter sp.	CL 622/77	NCTC 12248	
-Achromobacter sp.	CL 139/87	NCTC 12249	
-Achromobacter sp.	CL 46/75	NCTC 12250	
-Arcobacter nitrofigilis	CI	NCTC 12251	
-Providencia stuartii	CL 445/73	NCTC 12252	
-Providencia stuartii	CL 159/67	NCTC 12253	
-Providencia stuartii	CL 355/75	NCTC 12254	
-Providencia stuartii	CL 143/67	NCTC 12255	
-Providencia stuartii	CL 573/73	NCTC 12256	
-Providencia stuartii	CL 229/80	NCTC 12257	
-Providencia stuartii	CL 141/78	NCTC 12258	
-Providencia stuartii	CL 507/73	NCTC 12259	
-Providencia stuartii	CL 619/76	NCTC 12260	
-Streptococcus mitis	12261 SK 142	NCTC 12261	
-Pseudomonas stutzeri	H. Lautrop AB 201	NCTC 12262	
-Campylobacter jejuni subsp. doylei	M373, A655/88	NCTC 12263	
-Campylobacter upsaliensis	B523, A631/88	NCTC 12264	
-Clostridium botulinum	12265	NCTC 12265	
-Yersinia ruckeri	FHL 11. 4	NCTC 12266	
-Yersinia ruckeri	BC 74	NCTC 12267	
-Yersinia ruckeri	BA 2	NCTC 12268	
-Yersinia ruckeri	16 A	NCTC 12269	
-Yersinia ruckeri	38/85	NCTC 12270	
-Legionella pneumophila subsp. pascullei	MICU-B	NCTC 12271	
-Legionella pneumophila subsp. pascullei	U7W	NCTC 12272	
-Legionella pneumophila subsp. pascullei	U8W	NCTC 12273	
-Pediococcus pentosaceus	A214/89, BC 3649/89	NCTC 12274	
-Campylobacter jejuni subsp. jejuni	LCDC 563	NCTC 12275	
-Streptococcus criceti	HS6	NCTC 12277	
-Streptococcus ferus	8S1	NCTC 12278	
-Streptococcus sobrinus	12279 SL1	NCTC 12279	
-Budvicia aquatica	Eb 53/83/M326	NCTC 12280	
-Budvicia aquatica	Eb 4/81/M325	NCTC 12281	
-Budvicia aquatica	Eb 13/82/M350	NCTC 12282	
-Pragia fontium	Eb 11/81/M348	NCTC 12283	
-Pragia fontium	Eb 12/82/M349	NCTC 12284	
-Pragia fontium	Eb 40/87	NCTC 12285	
-Morganella morganii	CL 19/73	NCTC 12286	
-Morganella morganii	CL 224/85	NCTC 12287	
-Morganella morganii	CL 64/83	NCTC 12288	
-Morganella morganii	CL 492/75	NCTC 12289	
-Morganella morganii	CL 175/77	NCTC 12290	
-Morganella morganii	E647	NCTC 12291	
-Morganella morganii	CL 30/86	NCTC 12292	
-Morganella morganii	CL 457/73	NCTC 12293	
-Morganella morganii	CL 238/75	NCTC 12294	
-Morganella morganii	CL 32/84	NCTC 12295	
-Morganella morganii	CL 581/74	NCTC 12296	
-Morganella morganii	CL 608/75	NCTC 12297	
-Morganella morganii	E595	NCTC 12298	
-Morganella morganii	E675	NCTC 12299	
-Morganella morganii	E928	NCTC 12356	
-Morganella morganii	L 31/86	NCTC 12357	
-Morganella morganii	E559	NCTC 12358	
-Enterococcus gallinarum	F87/276	NCTC 12359	
-Enterococcus gallinarum	PB 18	NCTC 12360	
-Enterococcus casseliflavus	W99; MUTK 20	NCTC 12361	
-Enterococcus casseliflavus	W88	NCTC 12362	
-Enterococcus mundtii	W102; MUTK 559	NCTC 12363	
-Enterococcus mundtii	12364	NCTC 12364	
-Enterococcus malodoratus	Galesloot 6	NCTC 12365	
-Enterococcus malodoratus	Galesloot 9	NCTC 12366	
-Enterococcus hirae	Snell strain R	NCTC 12367	
-Enterococcus hirae	PG39	NCTC 12368	
-Actinobacillus pleuropneumoniae	R. E. SHOPE No. 4074	NCTC 12370	
-Capnocytophaga ochracea	VPI 2845 : Loesche SS31	NCTC 12371	
-Capnocytophaga gingivalis	S. C. Holt 27	NCTC 12372	
-Legionella geestiana	51/83-1308	NCTC 12373	
-Legionella quateirensis	200/83-1335	NCTC 12376	
-Legionella worsleiensis	95/83-1347	NCTC 12377	
-Burkholderia gladioli	CL 306/89 McCulloch	NCTC 12378	
-Ralstonia mannitolilytica	CL 43/89	NCTC 12379	
-Helicobacter pylori	12384	NCTC 12384	
-Helicobacter pylori	Simor 20	NCTC 12385	
-Helicobacter pylori	Simor 7	NCTC 12386	
-Legionella gratiana	Lyon 8420412	NCTC 12388	
-Brevibacterium iodinum	Y238	NCTC 12391	
-Arcobacter sp.	A/67	NCTC 12400	
-Arcobacter sp.	A/68	NCTC 12401	
-Arcobacter sp.	A/69	NCTC 12402	
-Arcobacter sp.	4	NCTC 12403	
-Arcobacter sp.	8	NCTC 12404	
-Arcobacter sp.	9	NCTC 12405	
-Arcobacter sp.	15	NCTC 12406	
-Campylobacter concisus	BRIGANTI	NCTC 12408	
-Arcobacter sp.	A/35	NCTC 12409	
-Helicobacter canis	C15	NCTC 12410	
-Staphylococcus arlettae	BP 47	NCTC 12413	
-Staphylococcus equorum	PA 231	NCTC 12414	
-Staphylococcus kloosii	SC 210	NCTC 12415	
-Salmonella enterica subsp. enterica serotype typhimurium	LT2	NCTC 12416	
-Salmonella enterica subsp. diarizonae	12417	NCTC 12417	
-Salmonella enterica subsp. houtenae	12418	NCTC 12418	
-Salmonella bongori serotype brookfield	66:z41:-	NCTC 12419	
-Salmonella enterica subsp. indica	12420	NCTC 12420	
-Enterococcus cecorum	A 60	NCTC 12421	
-Enterococcus cecorum	A 2	NCTC 12422	
-Helicobacter cinaedi	CLO-165	NCTC 12423	
-Listeria monocytogenes	L3253	NCTC 12426	
-Listeria monocytogenes	EGD	NCTC 12427	
-Actinobacillus muris	80-443D	NCTC 12432	
-Legionella quinlivanii	1442-AUS-E	NCTC 12433	
-Legionella quinlivanii	LC 870	NCTC 12434	
-Helicobacter mustelae	12435	NCTC 12435	
-Legionella birminghamensis	1407-AL-H	NCTC 12437	
-Legionella cincinnatiensis	72-OH-H	NCTC 12438	
-Legionella tucsonensis	1087-AZ-H	NCTC 12439	
-Proteus mirabilis	E550	NCTC 12440	
-Proteus mirabilis	CL 611/78	NCTC 12441	
-Proteus mirabilis	CL 455/76	NCTC 12442	
-Proteus mirabilis	E657	NCTC 12443	
-Proteus mirabilis	CL 30/78	NCTC 12444	
-Proteus mirabilis	E534	NCTC 12445	
-Proteus mirabilis	CL 120/72	NCTC 12446	
-Pseudomonas aeruginosa	10117	NCTC 12447	
-Pseudomonas aeruginosa	PA-87	NCTC 12448	
-Pseudomonas aeruginosa	PS-113	NCTC 12449	
-Legionella sainthelensi	1489-CA-H	NCTC 12450	
-Corynebacterium sp.	Furness 392-1	NCTC 12451	
-Leptotrichia buccalis	A121/91	NCTC 12454	
-Helicobacter pylori	26695	NCTC 12455	
-Leptotrichia buccalis	A22/90	NCTC 12456	
-Flexispira rappini	SLH-38264	NCTC 12461	
-Campylobacter clo-3	Fennell 37	NCTC 12462	
-Klebsiella pneumoniae	M162	NCTC 12463	
-Escherichia coli	M125	NCTC 12464	
-Helicobacter pylori	87008	NCTC 12465	
-Helicobacter pylori	87010	NCTC 12466	
-Anaerobiospirillum thomasii	A273/88	NCTC 12467	
-Campylobacter sputorum subsp. sputorum	ISL 220/91	NCTC 12468	
-Porphyromonas circadens	VPB 3329	NCTC 12469	
-Campylobacter helveticus	D5248	NCTC 12470	
-Campylobacter helveticus	E1202	NCTC 12471	
-Campylobacter helveticus	E1208	NCTC 12472	
-Campylobacter helveticus	E1218	NCTC 12473	
-Campylobacter sputorum subsp. bubulus	616	NCTC 12474	
-Campylobacter sputorum subsp. sputorum	517	NCTC 12475	
-Campylobacter fetus subsp. venerealis	IP 5419	NCTC 12476	
-Streptococcus cristatus		NCTC 12479	
-Listeria monocytogenes	12480 L3258a	NCTC 12480	
-Arcobacter butzleri	D 2686	NCTC 12481	
-Salmonella enterica subsp. enterica serotype typhimurium	WG49	NCTC 12484	
-Salmonella enterica subsp. enterica serotype typhimurium	WG45	NCTC 12485	
-Escherichia coli	WG21; K12 Hfr	NCTC 12486	
-Legionella fairfieldensis	1725-AUS-E	NCTC 12488	
-Helicobacter pylori	83R	NCTC 12489	
-Helicobacter pylori	Q188	NCTC 12490	
-Helicobacter nemestrinae	15422, T81213-NTB	NCTC 12491	
-Campylobacter sp.	12492	NCTC 12492	
-Staphylococcus aureus	MQCL 113, WDCM 00212	NCTC 12493	
-Haemophilus influenzae	MQCL 506	NCTC 12494	
-Streptococcus pneumoniae	MQCL 749	NCTC 12495	
-Lactobacillus pampilonensis	20 E1	NCTC 12496	
-Staphylococcus aureus	12497	NCTC 12497	
-Afipia felis	B-91-007352; F6400	NCTC 12499	
-Campylobacter jejuni		NCTC 12505	
-Campylobacter coli		NCTC 12525	
-Campylobacter jejuni		NCTC 12543	
-Campylobacter jejuni subsp. jejuni	170	NCTC 12563	
-Campylobacter jejuni subsp. jejuni	6	NCTC 12564	
-Campylobacter jejuni subsp. jejuni	88	NCTC 12565	
-Campylobacter jejuni subsp. jejuni	142	NCTC 12566	
-Campylobacter coli		NCTC 12568	
-Campylobacter coli		NCTC 12569	
-Campylobacter coli		NCTC 12570	
-Campylobacter coli		NCTC 12571	
-Escherichia coli	JM 101 (pHp1)	NCTC 12650	
-Escherichia coli	JM 101 (pHp5)	NCTC 12652	
-Escherichia coli	JM 101 (pHp6)	NCTC 12653	
-Escherichia coli	JM 101 (pHp7); pHpS	NCTC 12654	
-Escherichia coli	JM 101 (pCh1) = L9	NCTC 12655	
-Campylobacter jejuni		NCTC 12662	
-Campylobacter jejuni bacteriophage	9	NCTC 12669	
-Campylobacter jejuni bacteriophage	16	NCTC 12670	
-Campylobacter jejuni bacteriophage	7	NCTC 12671	
-Campylobacter jejuni bacteriophage	13	NCTC 12672	
-Campylobacter jejuni bacteriophage	2	NCTC 12674	
-Campylobacter jejuni bacteriophage	14	NCTC 12675	
-Campylobacter jejuni bacteriophage	5	NCTC 12678	
-Campylobacter jejuni bacteriophage	6	NCTC 12680	
-Campylobacter coli bacteriophage	3	NCTC 12682	
-Campylobacter coli bacteriophage	10	NCTC 12683	
-Campylobacter coli bacteriophage	15	NCTC 12684	
-Helicobacter pylori	87012	NCTC 12685	
-Helicobacter acinonychis	90-119	NCTC 12686	
-Helicobacter acinonychis	90-736	NCTC 12687	
-Helicobacter acinonychis	90-1908	NCTC 12688	
-Salmonella enterica subsp. enterica serotype bovis-morbificans	M123	NCTC 12691	
-Salmonella enterica subsp. enterica serotype bovis-morbificans	12692 UB4455	NCTC 12692	
-Salmonella enterica subsp. enterica serotype enteritidis	12694 CDC K-1891 1, 9, 12:g, m:-	NCTC 12694	
-Streptococcus pneumoniae	12695	NCTC 12695	
-Streptococcus pyogenes	BRUNO	NCTC 12696	
-Enterococcus faecalis	12697	NCTC 12697	
-Shigella flexneri	CDC 3591-52	NCTC 12698	
-Haemophilus influenzae	TD 4	NCTC 12699	
-Neisseria gonorrhoeae	F-18, CDC 10, 001, P935	NCTC 12700	
-Listeria ivanovii subsp. londoniensis	CLIP 12229	NCTC 12701	
-Salmonella enterica subsp. enterica serotype heidelberg	UB6333	NCTC 12702	
-Salmonella enterica subsp. enterica serotype heidelberg	UB787	NCTC 12703	
-Salmonella enterica subsp. enterica serotype heidelberg	UB988	NCTC 12704	
-Salmonella enterica subsp. enterica serotype heidelberg	UB3069	NCTC 12705	
-Salmonella enterica subsp. enterica serotype heidelberg	UB4881	NCTC 12706	
-Salmonella enterica subsp. enterica serotype heidelberg	UB378	NCTC 12707	
-Salmonella enterica subsp. enterica serotype berta	12708 S120011	NCTC 12708	
-Salmonella enterica subsp. enterica serotype dublin	S77682	NCTC 12709	
-Salmonella enterica subsp. enterica serotype dublin	12710 S116354	NCTC 12710	
-Lactobacillus delbrueckii subsp. bulgaricus	12712	NCTC 12712	
-Arcobacter skirrowii	449/80	NCTC 12713	
-Helicobacter muridarum	ST1	NCTC 12714	
-Yersinia pseudotuberculosis	M19. 3. 92	NCTC 12718	
-Streptococcus phocae	8399 H1	NCTC 12719	
-Afipia broomeae	B-91-007286; F186	NCTC 12720	
-Afipia clevelandensis	B-91-007353; F6703	NCTC 12721	
-Afipia felis	B-91-007147	NCTC 12722	
-Afipia	B-91-007287; F872	NCTC 12723	
-Afipia	B-91-007290	NCTC 12724	
-Afipia	B-91-007291	NCTC 12725	
-Clostridium difficile	12726	NCTC 12726	
-Clostridium difficile	12727	NCTC 12727	
-Clostridium difficile	12728	NCTC 12728	
-Clostridium difficile	12729	NCTC 12729	
-Clostridium difficile	12730	NCTC 12730	
-Clostridium difficile	12731	NCTC 12731	
-Clostridium difficile	12732	NCTC 12732	
-Clostridium difficile	12733	NCTC 12733	
-Clostridium difficile	12734	NCTC 12734	
-Legionella adelaidensis	1762-AUS-E	NCTC 12735	
-Neisseria elongata subsp. nitroreducens	B1019	NCTC 12736	
-Proteus penneri	CL 230/90	NCTC 12737	
-Campylobacter gracilis	FDC 1084	NCTC 12738	
-Helicobacter canis		NCTC 12739	
-Helicobacter canis	A805/92; E554-91	NCTC 12740	
-Neisseria weaveri	ISL 775/91	NCTC 12742	
-Helicobacter canis	A802/92; E1026-90	NCTC 12743	
-Campylobacter jejuni subsp. jejuni	480	NCTC 12744	
-Clostridium celatum	VPI 8759-1	NCTC 12746	
-Legionella pneumophila	W872	NCTC 12821	
-Helicobacter pylori	A641/91	NCTC 12822	
-Helicobacter pylori	A643/91	NCTC 12823	
-Helicobacter pullorum		NCTC 12824	
-Helicobacter pullorum		NCTC 12825	
-Legionella shakespearei	214	NCTC 12829	
-Legionella lansingensis	1677-MI-H	NCTC 12830	
-Porphyromonas canoris	VPB 4881	NCTC 12836	
-Campylobacter helveticus	C146-92	NCTC 12838	
-Escherichia coli		NCTC 12839	
-Streptococcus pyogenes		NCTC 12840	
-Streptococcus pyogenes		NCTC 12841	
-Streptococcus pyogenes		NCTC 12842	
-Campylobacter showae		NCTC 12843	
-Campylobacter helveticus		NCTC 12845	
-Campylobacter helveticus		NCTC 12847	
-Campylobacter jejuni		NCTC 12850	
-Campylobacter jejuni		NCTC 12851	
-Lautropia mirabilis		NCTC 12852	
-Streptococcus parasanguinis		NCTC 12854	
-Porphyromonas cangingivalis		NCTC 12856	
-Porphyromonas cangingivalis		NCTC 12857	
-Porphyromonas crevioricanis		NCTC 12858	
-Porphyromonas cansulci		NCTC 12859	
-Bartonella grahamii		NCTC 12860	
-Bartonella doshiae		NCTC 12862	
-Helicobacter pylori		NCTC 12868	
-Actinobacillus delphinicola		NCTC 12870	
-Actinobacillus delphinicola		NCTC 12871	
-Phocoenobacter uteri		NCTC 12872	
-Brachyspira pilosicoli		NCTC 12874	
-Brachyspira pilosicola		NCTC 12875	
-Clostridium sporogenes		NCTC 12876	
-Moraxella caprae		NCTC 12877	
-Moraxella caprae		NCTC 12878	
-Moraxella caprae		NCTC 12879	
-Staphylococcus aureus		NCTC 12880	
-Bacteroides variabilis		NCTC 12881	
-Mycobacterium celatum		NCTC 12882	
-Campylobacter hyoilei		NCTC 12884	
-Campylobacter hyoilei		NCTC 12885	
-Helicobacter hepaticus		NCTC 12886	
-Helicobacter pametensis		NCTC 12887	
-Helicobacter pametensis		NCTC 12888	
-Brucella pinnipedialis		NCTC 12890	
-Brucella ceti		NCTC 12891	
-Campylobacter lari		NCTC 12892	
-Campylobacter lari		NCTC 12893	
-Campylobacter lari		NCTC 12894	
-Campylobacter lari		NCTC 12895	
-Campylobacter lari		NCTC 12896	
-Bartonella henselae		NCTC 12897	
-Bartonella elizabethae		NCTC 12898	
-Bartonella quintana		NCTC 12899	
-Escherichia coli		NCTC 12900	
-Campylobacter hyointestinalis		NCTC 12901	
-Aeromonas hydrophila		NCTC 12902	
-Pseudomonas aeruginosa		NCTC 12903	
-Alcaligenes faecalis		NCTC 12904	
-Bartonella vinsonii		NCTC 12905	
-Streptococcus agalactiae		NCTC 12906	
-Streptococcus agalactiae		NCTC 12907	
-Helicobacter pylori		NCTC 12908	
-Bordetella holmesii		NCTC 12912	
-Arcanobacterium hippocoleae		NCTC 12914	
-Aeromonas encheleia		NCTC 12917	
-Actinobacillus scotiae		NCTC 12922	
-Escherichia coli		NCTC 12923	
-Pseudomonas aeruginosa		NCTC 12924	
-Moraxella boevrei		NCTC 12925	
-Sutterella wadsworthensis		NCTC 12926	
-Campylobacter insulaenigrae		NCTC 12927	
-Campylobacter insulaenigrae		NCTC 12928	
-Campylobacter insulaenigrae		NCTC 12929	
-Campylobacter insulaenigrae		NCTC 12930	
-Legionella londiniensis	59/84-1477	NCTC 12931	
-Legionella nautarum	199/52-1224	NCTC 12932	
-Pseudomonas aeruginosa		NCTC 12934	
-Clostridium sporogenes		NCTC 12935	
-Parascardovia denticolens		NCTC 12936	
-Scardovia inopinata		NCTC 12937	
-Burkholderia mallei		NCTC 12938	
-Burkholderia pseudomallei		NCTC 12939	
-Eubacterium infirmum		NCTC 12940	
-Eubacterium tardum		NCTC 12941	
-Vibrio cholerae		NCTC 12945	
-Vibrio cholerae		NCTC 12946	
-Capnocytophaga haemolytica		NCTC 12947	
-Capnocytophaga granulosa		NCTC 12948	
-Morococcus cerebrosus		NCTC 12949	
-Escherichia coli		NCTC 12950	
-Pseudomonas aeruginosa	W	NCTC 12951	
-Enterococcus faecium		NCTC 12952	
-Lactobacillus rhamnosus		NCTC 12953	
-Leuconostoc mesenteroides		NCTC 12954	
-Brevibacterium iodinum		NCTC 12955	
-Pediococcus pentosaceus		NCTC 12956	
-Streptococcus acidominimus		NCTC 12957	
-Streptococcus salivarius subsp. thermophilus		NCTC 12958	
-Aeromonas salmonicida		NCTC 12959	
-Shewanella putrefaciens		NCTC 12960	
-Serratia plymuthica		NCTC 12961	
-Prevotella melaninogenica		NCTC 12963	
-Oligella urethralis		NCTC 12964	
-Serratia fonticola		NCTC 12965	
-Sarcina ventriculi		NCTC 12966	
-Propionibacterium propionicum		NCTC 12967	
-Gemella haemolysans		NCTC 12968	
-Streptococcus equinus		NCTC 12969	
-Vibrio harveyi		NCTC 12970	
-Serratia rubidaea		NCTC 12971	
-Staphylococcus aureus		NCTC 12973	
-Bacillus mycoides		NCTC 12974	
-Haemophilus influenzae		NCTC 12975	
-Streptococcus pneumoniae		NCTC 12977	
-Neisseria mucosa		NCTC 12978	
-Aeromonas sobria		NCTC 12979	
-Lactobacillus acidophilus		NCTC 12980	
-Staphylococcus aureus		NCTC 12981	
-Yersinia enterocolitica subsp enterocolitica		NCTC 12982	
-Acinetobacter calcoaceticus		NCTC 12983	
-Shigella sonnei		NCTC 12984	
-Shigella boydii		NCTC 12985	
-Yersinia ruckeri	CDC 2396-61	NCTC 12986	
-Pasteurella multocida		NCTC 12987	
-Clostridium scatologenes		NCTC 12992	
-Kluyvera cryocrescens		NCTC 12993	
-Slackia exigua		NCTC 12994	
-Bordetella trematum		NCTC 12995	
-Actinobacillus suis		NCTC 12996	
-Brevibacterium epidermidis		NCTC 12997	
-Raoultella planticola		NCTC 12998	
-Paenibacillus thiaminolyticus		NCTC 12999	
-Granulicatella adiacens		NCTC 13000	
-Bifidobacterium bifidum		NCTC 13001	
-Pseudomonas chlororaphis subsp. chlororaphis		NCTC 13002	
-Campylobacter lanienae		NCTC 13003	
-Campylobacter lanienae		NCTC 13004	
-Campylobacter coli ssp. aquaticus		NCTC 13006	
-Burkholderia multivorans		NCTC 13007	
-Burkholderia cenocepacia	CL81/92	NCTC 13008	
-Burkholderia cenocepacia	Lauwers A8P	NCTC 13009	
-Burkholderia cenocepacia	CL83/92	NCTC 13010	
-Burkholderia stabilis		NCTC 13011	
-Neisseria dentiae		NCTC 13012	
-Stenotrophomonas africana		NCTC 13014	
-Corynebacterium imitans		NCTC 13015	
-Haemophilus influenzae		NCTC 13016	
-Legionella waltersii		NCTC 13017	
-Legionella genomospecies 1		NCTC 13018	
-Clostridium bifermentans		NCTC 13019	
-Clostridium sporogenes		NCTC 13020	
-Rhodococcus erythropolis		NCTC 13021	
-Clostridium chauvoei		NCTC 13023	
-Mycobacterium intracellulare		NCTC 13025	
-Clostridium glycolicum		NCTC 13026	
-Clostridium cochlearium		NCTC 13027	
-Clostridium lentoputrescens		NCTC 13028	
-Clostridium novyi		NCTC 13029	
-Mycobacterium abscessus		NCTC 13031	
-Leclercia adecarboxylata		NCTC 13032	
-Streptomyces griseus		NCTC 13033	
-Mycobacterium avium subsp. avium		NCTC 13034	
-Clostridium beijerinckii		NCTC 13035	
-Clostridium carnis		NCTC 13036	
-Clostridium putrificum		NCTC 13037	
-Raoultella terrigena		NCTC 13038	
-Dermatophilus congolensis		NCTC 13039	
-Tsukamurella paurometabola		NCTC 13040	
-Prevotella pallens		NCTC 13042	
-Prevotella pallens		NCTC 13043	
-Brachyspira innocens		NCTC 13044	
-Brachyspira pilosicola		NCTC 13046	
-Bacteroides caccae		NCTC 13051	
-Bacteroides merdae		NCTC 13052	
-Bacteroides stercoris		NCTC 13053	
-Bacteroides uniformis		NCTC 13054	
-Porphyromonas catoniae		NCTC 13056	
-Porphyromonas endodontalis		NCTC 13058	
-Prevotella buccae		NCTC 13063	
-Prevotella buccalis		NCTC 13064	
-Prevotella corporis		NCTC 13065	
-Prevotella denticola		NCTC 13067	
-Prevotella enoeca		NCTC 13068	
-Prevotella intermedia		NCTC 13070	
-Prevotella oris		NCTC 13071	
-Alloprevotella tannerae		NCTC 13073	
-Peptoniphilus harei		NCTC 13076	
-Peptoniphilus harei		NCTC 13077	
-Peptoniphilus ivorii		NCTC 13078	
-Peptoniphilus ivorii		NCTC 13079	
-Anaerococcus octavius		NCTC 13080	
-Helicobacter pylori		NCTC 13081	
-Helicobacter pylori		NCTC 13082	
-Helicobacter pylori		NCTC 13083	
-Helicobacter pylori		NCTC 13084	
-Helicobacter pylori		NCTC 13085	
-Helicobacter pylori		NCTC 13086	
-Helicobacter pylori		NCTC 13087	
-Helicobacter pylori		NCTC 13089	
-Helicobacter pylori		NCTC 13090	
-Anaerobiospirillum thomasii		NCTC 13093	
-Helicobacter pylori		NCTC 13094	
-Klebsiella planticola		NCTC 13095	
-Raoultella ornithinolytica		NCTC 13096	
-Raoultella terrigena		NCTC 13097	
-Raoultella terrigena		NCTC 13098	
-Porphyromonas macacae		NCTC 13100	
-Helicobacter fennelliae		NCTC 13101	
-Helicobacter fennelliae		NCTC 13102	
-Campylobacter jejuni		NCTC 13103	
-Campylobacter jejuni		NCTC 13104	
-Campylobacter jejuni		NCTC 13105	
-Castellaniella denitrificans		NCTC 13106	
-Clostridium perfringens		NCTC 13107	
-Clostridium perfringens		NCTC 13108	
-Clostridium perfringens		NCTC 13109	
-Clostridium perfringens		NCTC 13110	
-Clostridium perfringens		NCTC 13111	
-Clostridium sardiniense		NCTC 13112	
-Vibrio furnissii		NCTC 13120	
-Fusobacterium naviforme		NCTC 13121	
-Streptococcus constellatus subsp. pharyngis		NCTC 13122	
-Escherichia coli		NCTC 13125	
-Escherichia coli		NCTC 13126	
-Escherichia coli		NCTC 13127	
-Escherichia coli		NCTC 13128	
-Corynebacterium diphtheriae		NCTC 13129	
-Staphylococcus aureus		NCTC 13130	
-Staphylococcus aureus		NCTC 13131	
-Staphylococcus aureus		NCTC 13132	
-Staphylococcus aureus		NCTC 13133	
-Staphylococcus aureus		NCTC 13134	
-Staphylococcus aureus		NCTC 13135	
-Staphylococcus aureus		NCTC 13136	
-Staphylococcus aureus		NCTC 13137	
-Staphylococcus aureus		NCTC 13138	
-Staphylococcus aureus		NCTC 13139	
-Staphylococcus aureus		NCTC 13140	
-Staphylococcus aureus		NCTC 13141	
-Staphylococcus aureus		NCTC 13142	
-Staphylococcus aureus		NCTC 13143	
 Mycobacterium tuberculosis	H37 Rv, TMC 102	NCTC 13144	37
-Proteus vulgaris		NCTC 13145	
-Campylobacter hominis		NCTC 13146	
-Burkholderia ubonensis		NCTC 13147	
-Escherichia coli		NCTC 13148	
-Peptostreptococcus lacrimalis		NCTC 13149	
-Peptostreptococcus prevotii		NCTC 13150	
-Peptostreptococcus asaccharolyticus		NCTC 13151	
-Neisseria meningitidis		NCTC 13152	
-Helicobacter pullorum		NCTC 13153	
-Helicobacter pullorum		NCTC 13154	
-Helicobacter pullorum		NCTC 13155	
-Helicobacter pullorum		NCTC 13156	
-Helicobacter pullorum		NCTC 13157	
-Pandoraea apista		NCTC 13158	
-Pandoraea pulmonicola		NCTC 13159	
-Pandoraea pnomenusa		NCTC 13160	
-Pandoraea sputorum		NCTC 13161	
-Pandoraea norimbergensis		NCTC 13162	
-Exiguobacterium aurantiacum		NCTC 13163	
-Exiguobacterium aurantiacum		NCTC 13164	
-Bartonella schoenbuchensis		NCTC 13165	
-Streptococcus australis	AI-1	NCTC 13166	
-Escherichia coli		NCTC 13167	
-Enterobacter cloacae	WR3	NCTC 13168	
-Enterococcus faecium		NCTC 13169	
-Clostridium perfringens	D10	NCTC 13170	
-Salmonella enterica subsp. enterica serotype typhimurium		NCTC 13171	
-Salmonella enterica subsp. enterica serotype panama		NCTC 13172	
-Salmonella enterica subsp. enterica serotype goldcoast		NCTC 13175	
-Fusobacterium equinum		NCTC 13176	
-Burkholderia pseudomallei		NCTC 13177	
-Burkholderia pseudomallei		NCTC 13178	
-Burkholderia pseudomallei		NCTC 13179	
-Porphyromonas gulae		NCTC 13180	
-Nocardia africana		NCTC 13181	
-Nocardia africana		NCTC 13182	
-Nocardia africana		NCTC 13183	
-Nocardia africana		NCTC 13184	
-Pseudomonas putida		NCTC 13185	
-Pseudomonas putida		NCTC 13186	
-Serratia fonticola		NCTC 13187	
-Serratia proteamaculans subsp. quinovora		NCTC 13188	
-Serratia proteamaculans subsp. quinovora		NCTC 13189	
-Serratia proteamaculans subsp. quinovora		NCTC 13190	
-Serratia proteamaculans subsp. quinovora		NCTC 13191	
-Serratia plymuthica		NCTC 13192	
-Serratia fonticola		NCTC 13193	
-Serratia proteamaculans subsp. quinovora		NCTC 13194	
-Actinobacillus equuli ss. haemolyticus		NCTC 13195	
-Staphylococcus aureus		NCTC 13196	
-Neisseria meningitidis		NCTC 13197	
-Neisseria meningitidis		NCTC 13198	
-Bordetella hinzii		NCTC 13199	
-Bordetella hinzii		NCTC 13200	
-Bordetella hinzii		NCTC 13201	
-Bordetella holmesii		NCTC 13202	
-Bordetella trematum		NCTC 13203	
-Pasteurella skyensis		NCTC 13204	
-Helicobacter cholecystus		NCTC 13205	
-Helicobacter pylori		NCTC 13206	
-Helicobacter pylori		NCTC 13207	
-Vibrio parahaemolyticus		NCTC 13208	
-Vibrio parahaemolyticus		NCTC 13209	
-Vibrio parahaemolyticus		NCTC 13210	
-Vibrio parahaemolyticus		NCTC 13211	
-Vibrio parahaemolyticus		NCTC 13212	
-Neisseria meningitidis		NCTC 13213	
-Neisseria meningitidis		NCTC 13214	
-Mycobacterium shottsii	M175	NCTC 13215	
-Escherichia coli		NCTC 13216	
-Neisseria meningitidis		NCTC 13217	
-Neisseria meningitidis		NCTC 13218	
-Bifidobacterium infantis		NCTC 13219	
-Helicobacter winghamensis		NCTC 13220	
-Helicobacter canadensis		NCTC 13221	
-Neisseria meningitidis		NCTC 13222	
-Neisseria meningitidis		NCTC 13223	
-Streptomyces coelicolor		NCTC 13224	
-Neisseria meningitidis		NCTC 13225	
-Neisseria meningitidis		NCTC 13226	
-Burkholderia cenocepacia		NCTC 13227	
-Tsukamurella inchonensis		NCTC 13228	
-Rhodococcus wratislaviensis		NCTC 13229	
-Tsukamurella pulmonis		NCTC 13230	
-Tsukamurella tyrosinosolvens		NCTC 13231	
-Tsukamurella paurometabola		NCTC 13232	
-Clostridium symbiosum		NCTC 13233	
-Clostridium aerotolerans	X8A62	NCTC 13234	
-Clostridium xylanolyticum		NCTC 13235	
-Helicobacter winghamensis		NCTC 13239	
-Helicobacter winghamensis		NCTC 13240	
-Helicobacter canadensis		NCTC 13241	
-Helicobacter canadensis		NCTC 13242	
-Neisseria meningitidis		NCTC 13247	
-Neisseria meningitidis		NCTC 13248	
-Neisseria meningitidis		NCTC 13249	
-Bordetella pertussis		NCTC 13251	
-Bordetella bronchiseptica		NCTC 13252	
-Bordetella parapertussis		NCTC 13253	
-Campylobacter jejuni		NCTC 13254	
-Campylobacter jejuni		NCTC 13255	
-Campylobacter jejuni		NCTC 13256	
-Campylobacter jejuni		NCTC 13257	
-Campylobacter jejuni		NCTC 13258	
-Campylobacter jejuni		NCTC 13259	
-Campylobacter jejuni		NCTC 13260	
-Campylobacter jejuni		NCTC 13261	
-Campylobacter jejuni		NCTC 13262	
-Campylobacter jejuni		NCTC 13263	
-Campylobacter jejuni		NCTC 13264	
-Campylobacter jejuni		NCTC 13265	
-Campylobacter jejuni		NCTC 13266	
-Campylobacter jejuni		NCTC 13268	
-Clostridium innocuum		NCTC 13272	
-Neisseria meningitidis		NCTC 13273	
-Neisseria meningitidis		NCTC 13274	
-Neisseria meningitidis		NCTC 13275	
-Streptococcus pneumoniae		NCTC 13276	
-Staphylococcus aureus		NCTC 13277	
-Chromobacterium violaceum		NCTC 13278	
-Neisseria meningitidis		NCTC 13279	
-Neisseria meningitidis		NCTC 13280	
-Helicobacter pylori		NCTC 13282	
-Helicobacter pylori		NCTC 13285	
-Helicobacter pylori		NCTC 13286	
-Clostridium difficile		NCTC 13287	
-Roseomonas gilardii subsp. rosea		NCTC 13290	
-Roseomonas mucosa		NCTC 13291	
-Legionella feeleii		NCTC 13292	
-Pseudomonas andersonii		NCTC 13293	
-Cardiobacterium valvarum		NCTC 13294	
-Rhodococcus gordoniae		NCTC 13296	
-Staphylococcus aureus		NCTC 13297	
-Staphylococcus aureus		NCTC 13298	
-Staphylococcus aureus		NCTC 13299	
-Staphylococcus aureus		NCTC 13300	
-Acinetobacter baumannii		NCTC 13301	
-Acinetobacter baumannii		NCTC 13302	
-Acinetobacter baumannii		NCTC 13303	
-Acinetobacter baumannii		NCTC 13304	
-Acinetobacter baumannii		NCTC 13305	
-Bacillus tequilensis		NCTC 13306	
-Clostridium difficile		NCTC 13307	
-Legionella gresilensis		NCTC 13312	
-Legionella taurinensis		NCTC 13314	
-Legionella beliardensis		NCTC 13315	
-Legionella busanensis		NCTC 13316	
-Bordetella petrii		NCTC 13317	
-Mycobacterium pseudoshottsii		NCTC 13318	
-Mycobacterium bovis		NCTC 13333	
-Haemophilus pittmaniae		NCTC 13334	
-Haemophilus pittmaniae		NCTC 13335	
-Kingella potus		NCTC 13336	
-Suttonella ornithocola		NCTC 13337	
-Helicobacter pylori		NCTC 13338	
-Helicobacter pylori		NCTC 13339	
-Helicobacter pylori		NCTC 13340	
-Helicobacter pylori		NCTC 13341	
-Helicobacter pylori		NCTC 13342	
-Helicobacter pylori		NCTC 13343	
-Helicobacter pylori		NCTC 13344	
-Helicobacter pylori		NCTC 13345	
-Salmonella enterica subsp. enterica serotype gallinarum		NCTC 13346	
-Salmonella enterica subsp. enterica serotype typhimurium		NCTC 13347	
-Salmonella enterica subsp. enterica serotype typhimurium		NCTC 13348	
-Salmonella enterica subsp. enterica serotype enteritidis		NCTC 13349	
-Pannonibacter phragmitetus		NCTC 13350	
-Escherichia coli		NCTC 13351	
-Escherichia coli		NCTC 13352	
-Escherichia coli		NCTC 13353	
-Trueperella bialowiezense		NCTC 13354	
-Trueperella bionasi		NCTC 13355	
-Clostridium sordellii		NCTC 13356	
-Campylobacter jejuni		NCTC 13357	
-Aeromonas hydrophila		NCTC 13358	
-Pseudomonas aeruginosa		NCTC 13359	
-Staphylococcus epidermidis		NCTC 13360	
-Lactobacillus delbrueckii ssp. lactis		NCTC 13361	
-Campylobacter jejuni		NCTC 13362	
-Bordetella petrii		NCTC 13363	
-Bordetella ansorpii		NCTC 13364	
-Clostridium difficile	R20291	NCTC 13366	
-Campylobacter jejuni		NCTC 13367	
-Klebsiella pneumoniae		NCTC 13368	
-Listeria monocytogenes		NCTC 13372	
-Staphylococcus aureus		NCTC 13373	
-Capnocytophaga genospecies ahn8471		NCTC 13374	
-Capnocytophaga leadbetteri		NCTC 13375	
-Proteus mirabilis		NCTC 13376	
-Haemophilus influenzae		NCTC 13377	
-Pasteurella aerogenes		NCTC 13378	
-Enterococcus faecalis		NCTC 13379	
-Enterobacter cloacae		NCTC 13380	
-Haemophilus influenzae		NCTC 13381	
-Serratia marcescens		NCTC 13382	
-Enterococcus hirae		NCTC 13383	
-Escherichia coli		NCTC 13384	
-Salmonella enterica subsp. enterica serotype seftenberg		NCTC 13385	
-Lactobacillus brevis		NCTC 13386	
-Burkholderia oklahomensis		NCTC 13387	
-Burkholderia oklahomensis		NCTC 13388	
-Burkholderia oklahomensis		NCTC 13389	
-Burkholderia oklahomensis		NCTC 13390	
-Corynebacterium auriscanis		NCTC 13391	
-Burkholderia pseudomallei		NCTC 13392	
-Elizabethkingia meningoseptica		NCTC 13393	
-Staphylococcus aureus		NCTC 13394	
-Staphylococcus aureus		NCTC 13395	
-Bartonella melophagi		NCTC 13396	
-Bartonella washoensis ssp. cynomysius		NCTC 13397	
-Bartonella tamiae		NCTC 13398	
-Bartonella washoensis		NCTC 13399	
-Escherichia coli		NCTC 13400	
-Clostridium difficile	R10459	NCTC 13404	
-Enterobacter cloacae		NCTC 13405	
-Enterobacter cloacae		NCTC 13406	
-Pseudomonas aeruginosa	Midalnds 1	NCTC 13414	
-Pseudomonas aeruginosa		NCTC 13415	
-Pseudomonas aeruginosa		NCTC 13416	
-Burkholderia cenocepacia		NCTC 13417	
-Burkholderia cenocepacia		NCTC 13418	
-Burkholderia cenocepacia		NCTC 13419	
-Acinetobacter baumannii		NCTC 13420	
-Acinetobacter baumannii		NCTC 13421	
-Acinetobacter baumannii		NCTC 13422	
-Acinetobacter baumannii		NCTC 13423	
-Acinetobacter baumannii		NCTC 13424	
-Staphylococcus aureus		NCTC 13434	
-Staphylococcus aureus	03ST-3592	NCTC 13435	
-Pseudomonas aeruginosa		NCTC 13437	
-Klebsiella pneumoniae		NCTC 13438	
-Klebsiella pneumoniae		NCTC 13439	
-Klebsiella pneumoniae		NCTC 13440	
-Escherichia coli	EO 499	NCTC 13441	
-Klebsiella pneumoniae		NCTC 13442	
-Klebsiella pneumoniae		NCTC 13443	
-Escherichia coli		NCTC 13450	
-Escherichia coli		NCTC 13451	
-Escherichia coli		NCTC 13452	
-Chryseobacterium hominis	NF802	NCTC 13453	
-Chryseobacterium joostei	Ix 5a	NCTC 13454	
-Sphingobacterium daejeonense		NCTC 13455	
-Wautersiella falsenii		NCTC 13456	
-Wautersiella genomovar 2		NCTC 13457	
-Chryseobacterium shigense		NCTC 13458	
-Chryseobacterium jeonii		NCTC 13459	
-Flavobacterium granuli		NCTC 13460	
-Escherichia coli		NCTC 13461	
-Escherichia coli		NCTC 13462	
-Escherichia coli		NCTC 13463	
-Enterobacter cloacae		NCTC 13464	
-Klebsiella pneumoniae		NCTC 13465	
-Chryseobacterium haifense		NCTC 13466	
-Empedobacter brevis		NCTC 13469	
-Chryseobacterium gleum		NCTC 13470	
-Bisgaardia		NCTC 13474	
-Bisgaardia hudsonensis		NCTC 13475	
-Escherichia coli		NCTC 13476	
-Neisseria gonorrhoeae		NCTC 13477	
-Neisseria gonorrhoeae		NCTC 13478	
-Neisseria gonorrhoeae		NCTC 13479	
-Neisseria gonorrhoeae		NCTC 13480	
-Neisseria gonorrhoeae		NCTC 13481	
-Neisseria gonorrhoeae		NCTC 13482	
-Neisseria gonorrhoeae		NCTC 13483	
-Neisseria gonorrhoeae	WHO P	NCTC 13484	
-Acinetobacter baumannii	6014059	NCTC 13485	
-Acinetobacter baumannii	6013150	NCTC 13486	
-Acinetobacter baumannii		NCTC 13487	
-Chryseobacterium aquifrigidense		NCTC 13488	
-Chryseobacterium antarcticum		NCTC 13489	
-Planobacterium taklimakanense		NCTC 13490	
-Chryseobacterium bovis		NCTC 13491	
-Chryseobacterium jejuense		NCTC 13492	
-Chryseobacterium oranimense		NCTC 13493	
-Flavobacterium filum		NCTC 13494	
-Chryseobacterium pallidum	26-3St2b	NCTC 13496	
-Chryseobacterium ureilyticum		NCTC 13497	
-Cloacibacterium normanense		NCTC 13498	
-Flavobacterium lindanitolerans		NCTC 13499	
-Clostridium ruminantium (la 1)		NCTC 13501	
-Clostridium butyricum		NCTC 13502	
-Francisella cantonensis		NCTC 13503	
-Hydrotalea sp.		NCTC 13505	
-Mycobacterium avium subsp avium		NCTC 13506	
-Sphingobacterium composti		NCTC 13507	
-Flavobacterium hydatis		NCTC 13508	
-Flavobacterium resistens		NCTC 13509	
-Mycoplasma sp.	MELSA2	NCTC 13510	
-Mycoplasma zalophipulmonis sp.	CSL7491-lung	NCTC 13511	
-Flavobacterium hibernum	ACAM 376	NCTC 13514	
-Sphingobacterium composti		NCTC 13515	
-Cellulosimicrobium funkei		NCTC 13516	
-Cellulosimicrobium cellulans		NCTC 13518	
-Achromobacter spanios		NCTC 13519	
-Achromobacter insolitus		NCTC 13520	
-Achromobacter ruhlandii		NCTC 13521	
-Sphingobacterium daejonense		NCTC 13522	
-Chryseobacterium ureilyticum		NCTC 13524	
-Kaistella carnis	CL88/78; Hayes B19/1	NCTC 13525	
-Sphingobacterium lactis		NCTC 13526	
-Chryseobacterium taklimakanense		NCTC 13527	
-Chryseobacterium anthropi	CL311/80 A16/80	NCTC 13528	
-Chryseobacterium nakagawai		NCTC 13529	
-Flavobacterium lindanitolerans	CL 636/74	NCTC 13531	
-Chryseobacterium indoltheticum		NCTC 13532	
-Chryseobacterium shigense		NCTC 13533	
-Sphingobacterium daejonense		NCTC 13534	
-Cellulosimicrobium funkei		NCTC 13535	
-Haemophilus sputorum	CCUG 13788	NCTC 13537	
-Achromobacter denitrificans	B425	NCTC 13541	
-Alcaligenes faecalis subsp faecalis	Skerman 318	NCTC 13542	
-Rhizobium radiobacter		NCTC 13543	
-Achromobacter piechaudii	CL 213/84	NCTC 13544	
-Alcaligenes faecalis subsp faecalis	NE-2	NCTC 13545	
-Shewanella putrefaciens	DB 582, CL 126/77	NCTC 13546	
-Shewanella putrefaciens	EBF44/148, CL 82/76	NCTC 13547	
-Shewanella putrefaciens	Hammer 184, CL 81/76	NCTC 13548	
-Shewanella putrefaciens	Hammer 180, CL 80/76	NCTC 13549	
-Chryseobacterium bruuniae	CDC G207	NCTC 13551	
-Staphylococcus aureus		NCTC 13552	
-Cedecea neteri		NCTC 13558	
-Cedecea species	CDC 3699-73	NCTC 13559	
-Chryseobacterium indoltheticum	F37, CL 252/80	NCTC 13560	
-Edwardsiella tarda	6-2	NCTC 13561	
-Escherichia coli		NCTC 13562	
-Microbacterium oxydans	Strain X98	NCTC 13564	
-Clostridium difficile		NCTC 13565	
-Clostridium difficile		NCTC 13566	
-Clostridium difficile		NCTC 13567	
-Clostridium difficile		NCTC 13568	
-Clostridium difficile		NCTC 13569	
-Clostridium difficile	2149	NCTC 13571	
-Clostridium difficile		NCTC 13572	
-Clostridium difficile		NCTC 13573	
-Clostridium difficile		NCTC 13574	
-Staphylococcus aureus		NCTC 13577	
-Fusobacterium varium	ATCC 27725	NCTC 13578	
-Neisseria weaveri	Danderyd 6209	NCTC 13585	
-Staphylococcus aureus		NCTC 13616	
-Nocardia kroppenstedtii		NCTC 13617	
-Pseudomonas aeruginosa	Isolate AS3	NCTC 13618	
-Pseudomonas aeruginosa	Isolate D3	NCTC 13619	
-Pseudomonas aeruginosa	Isolate C17	NCTC 13620	
-Pseudomonas aeruginosa	Isolate D22	NCTC 13621	
-Providencia rettgeri	bMx#1103204	NCTC 13623	
-Escherichia coli	bMx# 1109131	NCTC 13624	
-Klebsiella pneumoniae subsp pneumoniae	bMx# 1103199	NCTC 13625	
-Staphylococcus aureus	MRSA TW20; O582	NCTC 13626	
-Listeria monocytogenes	DSM 19094	NCTC 13627	
-Pseudomonas aeruginosa	R. Hugh 813	NCTC 13628	
-Yersinia enterocolitica subsp. enterocolitica	CNY 134	NCTC 13629	
-Citrobacter braakii	M8B, M8BK	NCTC 13630	
-Enterococcus faecalis	1528	NCTC 13632	
-Enterococcus faecium		NCTC 13633	
-Staphylococcus saprophyticus sub sp. saprophyticus	S-41	NCTC 13634	
-Klebsiella pneumoniae	CIP 104216, NCIB 10341	NCTC 13635	
-Bacillus cereus	Logan B0550	NCTC 13637	
-Campylobacter coli	Penner 76-GA2	NCTC 13638	
-Citrobacter freundii	LRA 117.03.76	NCTC 13639	
-Enterococcus faecium	LMG 11397	NCTC 13640	
-Lactobacillus casei	Orla-Jensen 7	NCTC 13641	
-Lactobacillus gasseri	LMG 13047	NCTC 13643	
-Lactobacillus plantarum subsp. plantarum	LMG 6907	NCTC 13644	
-Weissella viridescens	LMG 3507	NCTC 13645	
-Pseudomonas aeruginosa	LMG 10639	NCTC 13646	
-Vibrio vulnificus	324 (Baumann)	NCTC 13647	
-Propionibacterium microaerophilum	M5	NCTC 13649	
-Propionibacterium australiense		NCTC 13651	
-Propionibacterium jensenii		NCTC 13652	
-Propionibacterium freudenreichii subsp. shermanii		NCTC 13653	
-Propionibacterium acidifaciens	CCUG 57100	NCTC 13654	
-Propionibacterium acnes subsp. elongatum	K124	NCTC 13655	
-Staphylococcus aureus	RH 12000070	NCTC 13656	
-Porphyromonas lovenana	MRK 101	NCTC 13658	
-Streptobacillus hongkongensis	HKU33	NCTC 13659	
-Anaerospora hongkongensis	HKU15	NCTC 13662	
-Salmonella enterica subsp. enterica serotype enteritidis	S ref 9574/07	NCTC 13665	
-Bordetella pertussis	UK36	NCTC 13667	
-Bordetella pertussis	UK38	NCTC 13668	
-Klebsiella pneumoniae	56289(4)	NCTC 13669	
-Klebsiella pneumoniae	B 37 Quigg	NCTC 13671	
-Klebsiella pneumoniae	E 4006	NCTC 13672	
-Klebsiella pneumoniae	E4446, Thomas	NCTC 13673	
-Klebsiella pneumoniae	Beattie's Strain	NCTC 13674	
-Klebsiella pneumoniae	E 2748 Forester	NCTC 13675	
-Klebsiella pneumoniae	F221	NCTC 13676	
-Klebsiella pneumoniae	56289 (2)	NCTC 13677	
-Klebsiella pneumoniae	49484	NCTC 13678	
-Klebsiella pneumoniae	49483	NCTC 13679	
-Klebsiella pneumoniae	MGH 4732	NCTC 13680	
-Klebsiella pneumoniae	E 2734	NCTC 13681	
-Klebsiella pneumoniae	MGH B 40 - 3880	NCTC 13682	
-Klebsiella pneumoniae	MGH 4850	NCTC 13683	
-Klebsiella pneumoniae	MGH4850	NCTC 13684	
-Klebsiella pneumoniae	E 4563	NCTC 13685	
-Klebsiella pneumoniae	E 4563	NCTC 13686	
-Klebsiella pneumoniae	E 4563	NCTC 13687	
-Klebsiella pneumoniae	E 4103	NCTC 13688	
-Klebsiella pneumoniae	E 4103	NCTC 13689	
-Klebsiella pneumoniae	M. C. H. Case	NCTC 13690	
-Klebsiella pneumoniae	E 2143	NCTC 13691	
-Klebsiella pneumoniae	46416	NCTC 13692	
-Klebsiella pneumoniae	Mucous capsulatus	NCTC 13693	
-Klebsiella pneumoniae	Mucous capsulatus	NCTC 13694	
-Klebsiella pneumoniae	47941	NCTC 13695	
-Klebsiella pneumoniae	Type A	NCTC 13696	
-Klebsiella pneumoniae	Type A	NCTC 13697	
-Klebsiella pneumoniae	MGH A40 - 227	NCTC 13698	
-Klebsiella pneumoniae	A 721	NCTC 13699	
-Klebsiella pneumoniae	53376 - 3	NCTC 13700	
-Klebsiella pneumoniae	56289 (3)	NCTC 13701	
-Gordonia hongkongensis	HKU46	NCTC 13703	
-Enterococcus faecalis	CN 478	NCTC 13705	
-Bacteroides thetaiotaomicron	148	NCTC 13706	
-Legionella sp.	86/53784	NCTC 13707	
-Citrobacter youngae	CIP 55.18	NCTC 13708	
-Citrobacter youngae	CDC 460-61	NCTC 13709	
-Lactobacillus rhamonosus	ATCC 7469	NCTC 13710	
-Staphylococcus argenteus	MSHR1132	NCTC 13711	
-Staphylococcus schweitzeri	FSA084	NCTC 13712	
-Pseudomonas aeruginosa	M1405, M1405-con	NCTC 13713	
-Pseudomonas aeruginosa		NCTC 13714	
-Pseudomonas aeruginosa		NCTC 13715	
-Pseudomonas aeruginosa		NCTC 13716	
-Pseudomonas aeruginosa	NCTC 13717	NCTC 13717	
-Pseudomonas aeruginosa		NCTC 13718	
-Pseudomonas aeruginosa		NCTC 13719	
-Lactobacillus acidophilus	48101	NCTC 13720	
-Lactobacillus acidophilus	61701	NCTC 13721	
-Lactobacillus gasseri	63 AM	NCTC 13722	
-Listeria marthii	FSL S4-120	NCTC 13723	
-Cedecea davisae	005	NCTC 13724	
 Corynebacterium amycolatum	S160	NCTC 13725	37
-Fusobacterium necrophorum subsp. necrophorum	Fievez 2358, VPI 2891	NCTC 13726	
-Klebsiella oxytoca	479-2	NCTC 13727	
-Lactobacillus brevis	Bb14	NCTC 13728	
-Mycobacterium celatum	CDC 90-0899	NCTC 13729	
-Fusobacterium necrophorum subsp. funduliforme	Fn524, VPI 6161	NCTC 13730	
-Streptococcus dysgalactiae subsp. dysgalactiae	0134	NCTC 13731	
-Streptococcus vestibularis	MM1	NCTC 13732	
-Escherichia coli		NCTC 13733	
-Streptococcus pneumoniae		NCTC 13734	
-Streptococcus pneumoniae		NCTC 13735	
-Streptococcus pyogenes	NCTC 13736	NCTC 13736	
-Streptococcus pyogenes	NCTC 13737	NCTC 13737	
-Streptococcus pyogenes	NCTC 13738	NCTC 13738	
-Streptococcus pyogenes	NCTC 13739	NCTC 13739	
-Streptococcus pyogenes	NCTC 13740	NCTC 13740	
-Streptococcus pyogenes		NCTC 13741	
-Streptococcus pyogenes	NCTC13742	NCTC 13742	
-Streptococcus pyogenes	NCTC 13743	NCTC 13743	
-Streptococcus pyogenes	NCTC 13744	NCTC 13744	
-Streptococcus pyogenes	NCTC 13745	NCTC 13745	
-Clostridium difficile	10W402128	NCTC 13746	
-Clostridium difficile	15A360835	NCTC 13747	
-Clostridium difficile	15A380039	NCTC 13748	
-Clostridium difficile	15A032546	NCTC 13749	
-Clostridium difficile	15A337047	NCTC 13750	
-Streptococcus pyogenes	NCTC 13751	NCTC 13751	
-Streptococcus pneumoniae		NCTC 13752	
-Streptococcus pneumoniae	NCTC 13753	NCTC 13753	
-Streptococcus pneumoniae	NCTC 13754	NCTC 13754	
-Streptococcus pneumoniae		NCTC 13755	
-Serratia liquefaciens		NCTC 13756	
-Staphylococcus aureus		NCTC 13758	
-Streptococcus dysgalactiae		NCTC 13759	
-Streptococcus infantarius	HDP 90056	NCTC 13760	
 Geobacillus stearothermophilus		NCTC 13761	60
-Streptococcus dysgalactiae subsp. equisimilis		NCTC 13762	
-Enterococcus faecalis		NCTC 13763	
-Lactobacillus rhamonosus		NCTC 13764	
-Streptococcus massilliensis	4401825	NCTC 13765	
-Streptococcus urinalis	2285-97	NCTC 13766	
-Streptococcus gallolyticus subsp. macedonicus	ACA-DC-206	NCTC 13767	
-Lactobacillus brevis		NCTC 13768	
-Yersinia enterocolitica subsp. palearctica	Y11	NCTC 13769	
-Weissella viridescens		NCTC 13770	
-Streptococcus infantis	0-122	NCTC 13771	
-Carnobacterium divergens		NCTC 13772	
-Streptococcus gallolyticus		NCTC 13773	
-Streptococcus lutetiensis		NCTC 13774	
-Klebsiella oxytoca		NCTC 13775	
-Bacillus cereus	M3465636	NCTC 13776	
 Bacillus pumilus		NCTC 13777	37
-Bacillus licheniformis	T3494913	NCTC 13778	
-Enterococcus faecalis	EC0048	NCTC 13779	
-Enterococcus faecalis	EC0014	NCTC 13780	
-Mycobacterium chimaera	FI-01069	NCTC 13781	
-Escherichia coli		NCTC 13782	
-Streptococcus oralis subsp. tigurinus	AZ_3a	NCTC 13783	
-Streptococcus gallolyticus subsp. pasteurianus	NEM 1202	NCTC 13784	
-Streptococcus peroris	GTC 848, O-66	NCTC 13785	
-Streptococcus pseudoporcinus	LQ 940-04	NCTC 13786	
-Streptococcus constellatus subsp. viborgensis	SK1359	NCTC 13787	
-Streptococcus merionis	WUE3771	NCTC 13788	
-Thermoanaerobacterium thermosaccharolyticum	2032, McClung 2032	NCTC 13789	
-Citrobacter braakii	M8B	NCTC 13790	
 Geobacillus stearothermophilus	T15	NCTC 13791	60
-Brachyspira hampsonii	NSH-16	NCTC 13792	
-Brachyspira hampsonii	NSH-24	NCTC 13793	
-Escherichia coli		NCTC 13794	
-Neisseria gonorrhoeae		NCTC 13795	
-Escherichia coli		NCTC 13796	
-Escherichia coli		NCTC 13797	
-Neisseria gonorrhoeae		NCTC 13798	
-Neisseria gonorrhoeae		NCTC 13799	
-Neisseria gonorrhoeae		NCTC 13800	
-Neisseria gonorrhoeae		NCTC 13801	
-Neisseria gonorrhoeae	NCTC 13802	NCTC 13802	
-Neisseria gonorrhoeae	NCTC 13803	NCTC 13803	
-Neisseria gonorrhoeae		NCTC 13804	
-Neisseria gonorrhoeae		NCTC 13805	
-Streptococcus pseudopneumoniae	0108	NCTC 13806	
-Streptococcus oligofermentans	AS 1.3089	NCTC 13807	
-Bordetella pseudohinzii	8-296-03	NCTC 13808	
-Klebsiella pneumoniae	ART2008133	NCTC 13809	
-Klebsiella pneumoniae	AIS 2007023	NCTC 13810	
-Staphylococcus aureus	UT 32	NCTC 13811	
-Staphylococcus aureus	UT 25	NCTC 13812	
-Staphylococcus aureus	HIP10787	NCTC 13813	
-Mycobacterium tuberculosis		NCTC 13814	
-Mycobacterium tuberculosis		NCTC 13816	
-Neisseria gonorrhoeae	WHO U	NCTC 13817	
-Neisseria gonorrhoeae	WHO V	NCTC 13818	
-Neisseria gonorrhoeae	WHO W	NCTC 13819	
-Neisseria gonorrhoeae	WHO X, H041	NCTC 13820	
-Neisseria gonorrhoeae	WHO Y, F89	NCTC 13821	
-Neisseria gonorrhoeae	WHO Z, A8806	NCTC 13822	
-Campylobacter hepaticus	HV10	NCTC 13823	
-Alloicoccus otitidis	Isolate 73	NCTC 13824	
-Staphylococcus carnosus subsp. carnosus	strain 361	NCTC 13825	
-Staphylococcus carnosus subsp. utilis	SK 11	NCTC 13826	
-Staphylococcus condimenti	F-2	NCTC 13827	
-Staphylococcus devriesei	KS-SP 60	NCTC 13828	
-Staphylococcus fleurettii	241	NCTC 13829	
-Staphylococcus jettensis	SEQ110	NCTC 13830	
-Staphylococcus massiliensis	5402776	NCTC 13831	
-Staphylococcus microti	4005-LJ(m)	NCTC 13832	
-Staphylococcus muscae	MB4	NCTC 13833	
-Staphylococcus nepalensis	CW1	NCTC 13834	
-Staphylococcus petrasii	CCM 8418	NCTC 13835	
-Staphylococcus piscifermentans	SK03	NCTC 13836	
-Staphylococcus rostri	ARI 262	NCTC 13837	
-Staphylococcus simiae		NCTC 13838	
-Staphylococcus stepanovicii	196	NCTC 13839	
-Alloiococcus otitis	7760	NCTC 13840	
-Staphylococcus aureus subsp. aureus	FDA	NCTC 13841	
-Lactobacillus sakei subsp. sakei		NCTC 13842	
-Escherichia coli	E2	NCTC 13846	
-Treponema ruminis	Ru1	NCTC 13847	
-Treponema rectale	CHPA	NCTC 13848	
-Mycobacterium tuberculosis		NCTC 13850	
-Mycobacterium tuberculosis		NCTC 13852	
-Mycobacterium tuberculosis		NCTC 13854	
-Mycobacterium tuberculosis		NCTC 13855	
-Mycobacterium tuberculosis		NCTC 13856	
-Mycobacterium tuberculosis		NCTC 13857	
-Mycobacterium tuberculosis		NCTC 13858	
-Mycobacterium tuberculosis		NCTC 13859	
-Mycobacterium tuberculosis		NCTC 13861	
-Mycobacterium tuberculosis		NCTC 13862	
-Helicobacter enhydrae	MIT 01-6242	NCTC 13866	
-Elizabethkingia anophelis	R26	NCTC 13869	
-Enterobacter hormaechei	LBM 93.03.067	NCTC 13870	
-Megasphaera micronuciformis	AIP 412.00	NCTC 13871	
-Mycobacterium tuberculosis		NCTC 13873	
-Mycobacterium tuberculosis		NCTC 13874	
-Mycobacterium tuberculosis		NCTC 13875	
-Mycobacterium tuberculosis		NCTC 13876	
-Mycobacterium bovis		NCTC 13880	
-Mycobacterium fortuitum		NCTC 13881	
-Mycobacterium bovis subsp. caprae		NCTC 13882	
-Mycobacterium avium		NCTC 13886	
-Mycobacterium canetti		NCTC 13887	
-Mycobacterium heraklionense		NCTC 13889	
-Mycobacterium celatum		NCTC 13890	
-Mycobacterium heckeshorense		NCTC 13893	
-Mycobacterium nonchromogenicum		NCTC 13896	
-Mycobacterium peregrinum		NCTC 13899	
-Mycobacterium intracellulare		NCTC 13903	
-Mycobacterium mucogenicum		NCTC 13907	
-Mycobacterium scrofulaceum		NCTC 13908	
-Mycobacterium shimoidei		NCTC 13909	
-Mycobacterium xenopi		NCTC 13910	
-Mycobacterium simiae		NCTC 13911	
-Mycobacterium tuberculosis		NCTC 13912	
-Mycobacterium tuberculosis		NCTC 13913	
-Mycobacterium smegmatis		NCTC 13914	
-Mycobacterium szulgai		NCTC 13915	
-Mycobacterium tuberculosis		NCTC 13918	
-Escherichia coli	NCTC13919	NCTC 13919	
-Serratia marcescens	NCTC13920	NCTC 13920	
-Pseudomonas aeruginosa	NCTC 13921	NCTC 13921	
-Enterobacter cloacae complex	NCTC 13922	NCTC 13922	
-Enterococcus faecium		NCTC 13923	
-Staphylococcus epidermidis	NCTC 13924	NCTC 13924	
-Enterobacter cloacae complex	NCTC 13925	NCTC 13925	
-Rhodococcus equi	103S	NCTC 13926	
-Streptococcus pneumoniae	Pn 41	NCTC 13932	
-Mycobacterium chimaera	HCU 15	NCTC 13933	
-Mycobacterium chimaera	HCU 16	NCTC 13934	
-Atopobium vaginae		NCTC 13935	
-Listeria booriae	FSL A5-0281	NCTC 13936	
-Listeria newyorkensis		NCTC 13937	
-Listeria fleischmannii subsp. coloradonensis		NCTC 13938	
-Zymomonas mobilis subsp. mobilis		NCTC 13939	
-Listeria fleischmannii subsp. fleischmannii		NCTC 13940	
-Streptococcus agalactiae		NCTC 13945	
-Streptococcus agalactiae		NCTC 13946	
-Streptococcus agalactiae		NCTC 13947	
-Streptococcus agalactiae		NCTC 13948	
-Streptococcus agalactiae		NCTC 13949	
-Staphylococcus cornubiensis	NW1	NCTC 13950	
-Salmonella enterica subsp. enterica serotype typhimurium		NCTC 13952	
-Salmonella enterica subsp. enterica serotype senftenberg		NCTC 13953	
-Salmonella enterica subsp. enterica serotype typhimurium		NCTC 13954	
-Escherichia coli	CMH 4950	NCTC 13956	
-Escherichia coli	Norris	NCTC 13958	
-Escherichia coli	58734 Sinclair	NCTC 13959	
-Escherichia coli	E 746	NCTC 13960	
-Escherichia coli	Andrews	NCTC 13961	
-Escherichia coli	Swanson Bedi	NCTC 13962	
-Escherichia coli	Berman I	NCTC 13964	
-Escherichia coli	Berman I	NCTC 13965	
-Escherichia coli	7204	NCTC 13966	
-Escherichia coli	Turner, Addington	NCTC 13967	
-Escherichia coli	Turner Addington FWA	NCTC 13968	
-Escherichia coli	7172	NCTC 13969	
-Escherichia coli	53580-I	NCTC 13971	
-Escherichia coli	D1194	NCTC 13973	
-Escherichia coli	49225	NCTC 13974	
-Escherichia coli	NCTC 414 (disc)	NCTC 13975	
-Escherichia coli	49226 (Wood)	NCTC 13976	
-Escherichia coli	55214-VI	NCTC 13977	
-Escherichia coli	55214-VI	NCTC 13978	
-Escherichia coli	55214-VII	NCTC 13979	
-Escherichia coli	55214-VII	NCTC 13980	
-Escherichia coli	55214-VII	NCTC 13981	
-Escherichia coli	55025	NCTC 13982	
-Escherichia coli	55024-I	NCTC 13983	
-Escherichia coli	53558-II	NCTC 13984	
-Escherichia coli	5535	NCTC 13985	
-Escherichia coli	D 1194	NCTC 13986	
-Escherichia coli	Mrs Marcus	NCTC 13987	
-Escherichia coli	52770	NCTC 13988	
-Escherichia coli	52770	NCTC 13989	
-Escherichia coli	53534-II	NCTC 13990	
-Escherichia coli	53534-II	NCTC 13991	
-Escherichia coli	52746	NCTC 13992	
-Escherichia coli	E M 46 3 small	NCTC 13993	
-Escherichia coli	E M 46 4 Small	NCTC 13994	
-Escherichia coli	E M 46 5 Small	NCTC 13996	
-Escherichia coli	Mrs Marcus	NCTC 13997	
-Escherichia coli	B 1970	NCTC 13998	
-Escherichia coli	B 1970	NCTC 13999	
-Escherichia coli	53534-I	NCTC 14001	
-Escherichia coli	53534-I	NCTC 14002	
-Escherichia coli	53079	NCTC 14003	
-Escherichia coli	53079	NCTC 14004	
-Escherichia coli	51262	NCTC 14005	
-Salmonella enterica subsp. enterica serotype typhimurium	Aertrycke	NCTC 14006	
-Salmonella enterica subsp. enterica serotype typhimurium	Clitheroe	NCTC 14007	
-Salmonella enterica subsp. enterica serotype typhimurium	Glasgow	NCTC 14008	
-Salmonella enterica subsp. enterica serotype typhimurium	9649	NCTC 14009	
-Salmonella enterica subsp. enterica serotype typhimurium	9649	NCTC 14010	
-Salmonella enterica subsp. enterica serotype typhimurium	R.A.M	NCTC 14011	
-Salmonella enterica subsp.enterica paratyphi c	43059	NCTC 14014	
-Salmonella enterica subsp. enterica serotype typhimurium	M.G.H 22451	NCTC 14015	
-Salmonella enterica subsp. enterica serotype typhimurium	M.G.H. 22451	NCTC 14016	
-Salmonella enterica subsp. enterica serotype typhimurium	M.G.H 22451	NCTC 14017	
-Salmonella enterica subsp. enterica serotype typhimurium	CMG 22322	NCTC 14018	
-Salmonella enterica subsp. enterica serotype typhimurium	CMG 22322	NCTC 14019	
-Salmonella enterica subsp. enterica serotype typhimurium	CMH 2243	NCTC 14020	
-Salmonella enterica subsp. enterica serotype typhimurium	CMH 2243	NCTC 14021	
-Salmonella enterica subsp. enterica serotype typhimurium	CMH 22321	NCTC 14022	
-Salmonella enterica subsp. enterica serotype typhimurium	CMH 22321	NCTC 14023	
-Salmonella enterica subsp. enterica serotype typhimurium	Andrews	NCTC 14026	
-Salmonella enterica subsp. enterica serotype typhimurium	CMH 22319 Leville	NCTC 14028	
-Salmonella enterica subsp. enterica serotype typhimurium	CMH 22319 Leville	NCTC 14029	
-Salmonella enterica subsp. enterica serotype typhimurium	Aertrycke orig.	NCTC 14030	
-Salmonella enterica subsp. enterica serotype typhimurium	Aertryke orig.	NCTC 14031	
-Salmonella enterica subsp. enterica serotype newport	AertryckeB Newport	NCTC 14032	
-Staphylococcus aureus	Vitek 8753	NCTC 14033	
-Clostridium tertium	LH009	NCTC 14034	
-Clostridium paraputrificum	LH025	NCTC 14035	
-Clostridium cadaveris	LH052	NCTC 14036	
-Clostridium paraputrificum	LH058	NCTC 14037	
-Clostridium paraputrificum	LH141	NCTC 14038	
-Clostridium botulinum		NCTC 14039	
-Clostridium botulinum		NCTC 14040	
-Clostridium botulinum		NCTC 14041	
-Mycobacterium bovis var. bcg		NCTC 14044	
-Mycobacterium abscessus		NCTC 14045	
-Mycobacterium kansasii		NCTC 14048	
-Mycobacterium africanum		NCTC 14049	
-Klebsiella pneumoniae	SGH10	NCTC 14052	
-Enterobacter asburiae		NCTC 14055	
-Pseudomonas guariconensis		NCTC 14056	
-Prevotella timonensis	4401737	NCTC 14059	
-Macrococcus caseolyticus	DD 4508	NCTC 14061	
-Yersinia ruckeri	Y131	NCTC 14062	
-Staphylococcus caeli	82B	NCTC 14063	
-Vibrio cholerae	V074	NCTC 14065	
-Vibrio cholerae	VO78	NCTC 14066	
-Vibrio cholerae	VO80	NCTC 14067	
-Vibrio cholerae	VO82	NCTC 14068	
-Mycobacterium chelonae	E819	NCTC 14069	
-Salmonella enterica subsp. enterica serotype bovis-morbificans	Orig. Basenau	NCTC 14070	
-Vibrio cholerae	BO33	NCTC 14071	
-Vibrio cholerae	BO34	NCTC 14072	
-Vibrio cholerae	VO39	NCTC 14074	
-Paraburkholderia agricolaris	BaQS159	NCTC 14075	
-Streptococcus pneumoniae	D39V	NCTC 14078	
-Vibrio cholerae	VO41	NCTC 14080	
-Vibrio cholerae	VOR	NCTC 14081	
-Vibrio cholerae	VO23	NCTC 14082	
-Vibrio cholerae	VO44	NCTC 14084	
-Vibrio cholerae	VO45	NCTC 14085	
-Citrobacter freundii		NCTC 14089	
-Actinobacillus vicugnae	W1618	NCTC 14090	
-Streptococcus agalactiae	OPkA STIII	NCTC 14091	
-Streptococcus agalactiae	OPkA STIb	NCTC 14092	
-Streptococcus agalactiae	OPkA STII	NCTC 14093	
-Streptococcus agalactiae	OPkA STIa	NCTC 14094	
-Streptococcus agalactiae	OPkA STV	NCTC 14095	
-Morganella morganii	53224	NCTC 14096	
-Klebsiella pneumoniae	E4446; Thomas	NCTC 14097	
-Raoultella ornithinolytica	47939	NCTC 14098	
-Enterobacter aerogenes	53450	NCTC 14099	
-Proteus mirabilis	53434	NCTC 14100	
-Proteus mirabilis	C 5520	NCTC 14101	
-Proteus mirabilis	48504	NCTC 14102	
-Proteus mirabilis	Bact. 49281	NCTC 14103	
-Morganella morganii	57769	NCTC 14104	
-Proteus mirabilis	49916	NCTC 14105	
-Proteus vulgaris	X19 Mt. Sinai Hosp.	NCTC 14106	
-Proteus mirabilis	E 2008	NCTC 14107	
-Morganella morganii	58695	NCTC 14108	
-Proteus mirabilis	53370-2	NCTC 14109	
-Klebsiella pneumoniae	47941	NCTC 14110	
-Morganella morganii	58867	NCTC 14111	
-Proteus mirabilis	57641	NCTC 14112	
-Proteus mirabilis	57641	NCTC 14113	
-Proteus mirabilis	Bact 49141	NCTC 14114	
-Enterobacter aerogenes	53450	NCTC 14115	
-Aeromonas veronii	58761	NCTC 14116	
-Klebsiella pneumoniae	F 208	NCTC 14117	
-Proteus vulgaris	Weil Felix orig.	NCTC 14118	
-Proteus mirabilis	48013	NCTC 14119	
-Shigella flexneri	PB 24	NCTC 14120	
-Shigella sonnei	B 3156	NCTC 14123	
-Mycobacterium gordonae		NCTC 14125	
-Shigella dysenteriae	Shiga, Sheppard	NCTC 14130	
-Shigella dysenteriae	Crespigny	NCTC 14131	
-Staphylococcus aureus	Artist	NCTC 14139	
-Streptococcus pneumoniae		NCTC 14143	
-Shigella flexneri	Gettings 170	NCTC 14146	
-Shigella dysenteriae	Shiga 7	NCTC 14147	
-Shigella dysenteriae	Hamilton	NCTC 14153	
-Shigella flexneri	Bane	NCTC 14154	
-Clostridium difficile	BI9	NCTC 14166	
-Clostridium difficile	CD196	NCTC 14167	
-Clostridium difficile	CD305	NCTC 14168	
-Clostridium difficile	CF5	NCTC 14169	
-Clostridium difficile	Liv022	NCTC 14170	
-Clostridium difficile	Liv024	NCTC 14171	
-Clostridium difficile	M68	NCTC 14172	
-Clostridium difficile	CDM120	NCTC 14173	
-Clostridium difficile	TL174	NCTC 14174	
-Clostridium difficile	TL176	NCTC 14175	
-Clostridium difficile	TL178	NCTC 14176	
-Streptomyces myrophorea	McG1	NCTC 14177	
-Auritidibacter ignavus	NML100628	NCTC 14178	
-Eikenella longinqua	NML 02-A-017	NCTC 14179	
-Eikenella halliae	NML 130454	NCTC 14180	
-Eikenella exigua	NML96-A-049	NCTC 14181	
-Staphylococcus pseudoxylosus	S04009	NCTC 14184	
-Salmonella enteria subsp. enterica serotype typhimurium	R.A.M.	NCTC 14186	
-Campylobacter taeniopygiae	MIT 10-5678	NCTC 14187	
-Ideonella sakaiensis	201-F6	NCTC 14201	
-Enterococcus faecalis	FS7	NCTC 14202	
-Escherichia coli	EC19	NCTC 14203	
-Enterococcus durans	FS12	NCTC 14204	
-Escherichia coli	N299	NCTC 14205	
-Salmonella enterica subsp. enterica serotype crewe	N353	NCTC 14206	
-Pseudomonas aeruginosa	PS11	NCTC 14207	
-Neisseria gonorrhoeae	G7944	NCTC 14208	
-Burkholderia thailandensis	E264	NCTC 14210	
-Staphylococcus epidermidis	BPH0695	NCTC 14218	
-Staphylococcus epidermidis	BPH0662	NCTC 14219	
-Staphylococcus epidermidis	AUS26	NCTC 14220	
-Yersinia hibernica	CFS1934	NCTC 14222	
-Salmonella enterica subsp. enterica serotype london	9404-I	NCTC 14223	
-Salmonella enterica subsp. enterica serotype thompson	Bacterium	NCTC 14224	
-Salmonella enterica subsp. enterica serotype derby	Derby	NCTC 14225	
-Salmonella enterica subsp. enterica serotype brandenburg	ex.NCTC 3209	NCTC 14226	
-Salmonella enterica subsp. enterica serotype senftenberg	NCTC 3158 (disc)	NCTC 14227	
-Salmonella enterica subsp. enterica serotype senftenberg	NCTC 3158	NCTC 14229	
-Salmonella enterica subsp. enterica serotype virchow	NCTC 3748 (disc)	NCTC 14230	
-Salmonella enterica subsp. enterica serotype stanley	Stanley	NCTC 14231	
-Salmonella enterica subsp. enterica serotype blegdam		NCTC 14232	
-Salmonella enterica subsp. enterica serotype poona	NCTC 4840	NCTC 14233	
-Salmonella enterica subsp. enterica serotype newport	Newport FWA	NCTC 14234	
-Salmonella enterica subsp. enterica serotype dublin	Paracoli	NCTC 14235	
-Salmonella enterica subsp. hibernicus	304467	NCTC 14237	
-Salmonella enterica subsp. hibernicus	306596	NCTC 14238	
-Salmonella enterica subsp. essexiensis	242410	NCTC 14239	
-Salmonella enterica subsp. essexiensis	362814	NCTC 14240	
-Listeria monocytogenes		NCTC 14242	
-Listeria monocytogenes		NCTC 14243	
-Listeria monocytogenes		NCTC 14244	
-Staphylococcus aureus		NCTC 14245	
-Salmonella enterica subsp. enterica serotype adjame	367320	NCTC 14246	
-Salmonella enterica subsp. enterica serotype adjame	387507	NCTC 14247	
-Salmonella enterica subsp. enterica serotype adjame	388789	NCTC 14248	
-Salmonella enterica subsp. enterica serotype poona	NCTC 4840	NCTC 14249	
-Salmonella enterica subsp. enterica serotype heidelberg	NCTC 3205 (disc)	NCTC 14251	
-Salmonella enterica subsp. enterica serotype rostock	NCTC 3747 (disc)	NCTC 14252	
-Salmonella enterica subsp. enterica serotype enteritidis	NCTC 4444 (from original NCTC tube)	NCTC 14253	
-Salmonella enterica subsp. enterica serotype bareilly	NCTC 3213 A (disc) (Orig. NCTC tube)	NCTC 14256	
-Salmonella enterica subsp. enterica serotype newport	Schrewsburg	NCTC 14257	
-Salmonella enterica subsp. enterica serotype gallinarum var. gallinarum	17 Standard strain	NCTC 14258	
-Salmonella enterica subsp. enterica serotype eastbourne	NCTC 3378 orig.	NCTC 14259	
-Salmonella enterica subsp. enterica serotype eastbourne	NCTC 4784 (disc) orig.	NCTC 14260	
-Salmonella enterica subsp. enterica serotype anatum	NCTC 3071 (disc) orig.	NCTC 14261	
-Salmonella enterica subsp. enterica serotype gallinarum var. gallinarum	NCTC 397 (disc) orig.	NCTC 14262	
-Salmonella enterica subsp. enterica serotype muenchen	NCTC 4642 (disc)	NCTC 14263	
-Salmonella enterica subsp. enterica serotype muenchen	NCTC 4642	NCTC 14264	
-Salmonella enterica subsp. salamae	Dar-es-Salaam	NCTC 14265	
-Campylobacter estrildidarum	MIT 17-644	NCTC 14266	
-Campylobacter aviculae	MIT 17-670	NCTC 14267	
-Kosakonia quasisacchari	WCHEs120001	NCTC 14272	
-Enterobacter quasihormaechei	WCHEs120003	NCTC 14274	
-Enterobacter chuandaensis	090028	NCTC 14275	
-Enterobacter huaxiensis	090008	NCTC 14276	
-Corynebacterium accolens	CNCTC Th1/57	NCTC 14277	
-Actinomyces cardiffensis	R10394	NCTC 14278	
-Actinomyces europaeus		NCTC 14279	
-Actinomyces funkei	Hudd B9912678	NCTC 14280	
-Actinomyces graevenitzii		NCTC 14281	
-Actinomyces meyeri	Prevot 2477B	NCTC 14282	
-Actinomyces radingae	Wust APL1	NCTC 14283	
-Actinomyces turicensis	Wust APL10	NCTC 14284	
-Actinomyces urogenitalis		NCTC 14285	
-Scandinavium goeteborgense		NCTC 14286	
-Corynebacterium sanguinis		NCTC 14287	
-Gardnerella leopoldii	UGent 06.41	NCTC 14288	
-Gardnerella piotii	UGent 18.01	NCTC 14289	
-Gardnerella swindsinskii	GS 9838-1	NCTC 14290	
-Scardovia wiggsiae	C1A_55	NCTC 14291	
-Varibaculum anthropi		NCTC 14292	
-Varibaculum cambriense	R-12359	NCTC 14293	
-Yersinia enterocolitica		NCTC 14294	
-Yersinia enterocolitica		NCTC 14295	
-Yersinia massiliensis		NCTC 14297	
-Yersinia enterocolitica		NCTC 14298	
-Mycobacterium europaeum		NCTC 14300	
-Mycobacterium kumamotonense		NCTC 14301	
-Mycoplasma enhydrae	6243-11	NCTC 14307	
-Neisseria zalophi	CSL 7565	NCTC 14308	
-Mycoplasma procyoni	LR5794	NCTC 14309	
-Eikenella exigua	PXX	NCTC 14318	
-Escherichia coli		NCTC 14320	
-Escherichia coli		NCTC 14321	
-Enterobacter cloacae		NCTC 14322	
-Klebsiella pneumoniae		NCTC 14323	
-Escherichia coli		NCTC 14324	
-Escherichia coli		NCTC 14325	
-Enterobacter cloacae		NCTC 14326	
-Klebsiella pneumoniae		NCTC 14327	
-Enterobacter cloacae		NCTC 14328	
-Escherichia coli		NCTC 14329	
-Klebsiella pneumoniae		NCTC 14330	
-Klebsiella pneumoniae		NCTC 14331	
-Klebsiella pneumoniae		NCTC 14332	
-Escherichia coli		NCTC 14333	
-Klebsiella pneumoniae		NCTC 14334	
-Klebsiella pneumoniae		NCTC 14335	
-Enterobacter cloacae		NCTC 14336	
-Klebsiella pneumoniae		NCTC 14337	
-Escherichia coli		NCTC 14338	
-Escherichia coli		NCTC 14339	
-Listeria innocua	PRL/NW 15B95	NCTC 14340	
-Streptococcus vicugnae	SL1232	NCTC 14341	
-Mycoplasma phocoenae	C264-GEN	NCTC 14344	
-Mycoplasma enhydrae	3839-13	NCTC 14347	
-Mycoplasma enhydrae	6182-11	NCTC 14348	
-Mycoplasma enhydrae	6803-13	NCTC 14349	
-Mycoplasma enhydrae	6207-11	NCTC 14350	
-Acholeplasma equirhinis	N93	NCTC 14351	
-Legionella pneumophila	LP1	NCTC 14353	
-Escherichia ruysiae	OPT1704	NCTC 14359	
-Enterococcus faecalis		NCTC 14360	
-Pseudomonas aeruginosa		NCTC 14361	
-Treponema phagedenis	B43.1	NCTC 14362	
-Streptococcus caledonicus	S784/96/1T	NCTC 14363	
-Escherichia coli	BW25113	NCTC 14364	
-Escherichia coli	BW25113 delta 9	NCTC 14365	
-Escherichia coli	BW25113 delta CPZ-55	NCTC 14366	
-Escherichia coli	BW25113 delta CP4-57	NCTC 14367	
-Escherichia coli	BW25113 delta CPS-53	NCTC 14368	
-Escherichia coli	BW25113 delta CP4-44	NCTC 14369	
-Escherichia coli	BW25113 ?Qin	NCTC 14370	
-Escherichia coli	BW25113 ?DLP12	NCTC 14371	
-Escherichia coli	BW25113 ?rac	NCTC 14372	
-Escherichia coli	BW25113 ?e14	NCTC 14373	
-Escherichia coli	BW25113 ?CP4-6	NCTC 14374	
-Escherichia coli	MC1000 + pDM1	NCTC 14376	
-Escherichia coli	MC1000 + pDM1-mcr-1	NCTC 14377	
-Escherichia coli	MC1000 pDM1-mcr-2	NCTC 14378	
-Escherichia coli	MC1000 + pDM1-mcr-3	NCTC 14379	
-Escherichia coli	MC1000 + pDM1-mcr-5	NCTC 14380	
-Escherichia coli	MC1000 + pDM1-mcr-8	NCTC 14381	
-Yersinia canariae		NCTC 14382	
-Pseudomonas aeruginosa		NCTC 14383	
-Klebsiella pneumoniae		NCTC 14384	
-Clostridioides difficile	IB136	NCTC 14385	
-Leptotrichia buccalis	C-1013-b	NCTC 14386	
-Salmonella bongori		NCTC 14388	
-Salmonella bongori		NCTC 14389	
-Salmonella bongori		NCTC 14390	
-Salmonella bongori		NCTC 14391	
-Salmonella bongori		NCTC 14392	
-Enemella dayhoffiae	NML 130396	NCTC 14393	
-Enemella evansiae	NML 020265	NCTC 14394	
-Pseudoxanthomonas winnipegensis	NML 130738	NCTC 14396	
-Mycoplasma hominis		NCTC 14401	
-Neisseria animaloris	M21/09/1	NCTC 14405	
-Neisseria animaloris	M78/10/2	NCTC 14406	
-Neisseria animaloris	M175/18/4	NCTC 14407	
-Neisseria animaloris	M29/05	NCTC 14408	
-Streptococcus zalophi	CSL 7508	NCTC 14410	
-Oceanivirga miroungae	ES3154_GLU	NCTC 14411	
-Staphylococcus singaporensis	SS21	NCTC 14419	
-Staphylococcus singaporensis	SS35	NCTC 14420	
-Staphylococcus singaporensis	SS60	NCTC 14421	
-Staphylococcus singaporensis	SS87	NCTC 14422	
-Staphylococcus singaporensis	SS90	NCTC 14423	
-Staphylococcus singaporensis	SS251	NCTC 14424	
-Mycoplasma anatis	K6193A	NCTC 14425	
-Mycoplasma anatis	K6193C	NCTC 14426	
-Mycoplasma miroungigenitalium	ES2806-GEN	NCTC 14429	
-Mycoplasma miroungirhinis	ES2806-NAS	NCTC 14430	
-Mycoplasma miroungigenitalium	ES3225-GEN-MYC	NCTC 14439	
-Corynebacterium hindlerae	NML93-0612	NCTC 14448	
-Franklinella schreckenbergeri	NML 97-0147	NCTC 14449	
-Vandammella animalimorsus	NML 3-0146	NCTC 14450	
-Staphylococcus caledonicus	H8/1	NCTC 14452	
-Staphylococcus lloydii	23_2_7_LY	NCTC 14453	
-Staphylococcus durrellii	27_4_6_LY	NCTC 14454	
-Streptococcus pacificus	CSL 7591	NCTC 14455	
-Staphylococcus aureus	Ca155	NCTC 14457	
-Staphylococcus aureus	ca226	NCTC 14458	
-Staphylococcus aureus	Ca322	NCTC 14459	
-Staphylococcus aureus	N35	NCTC 14460	
-Staphylococcus aureus	N147	NCTC 14461	
-Staphylococcus aureus	Ta222	NCTC 14462	
-Staphylococcus aureus	Tr8	NCTC 14464	
-Staphylococcus aureus	Tr34	NCTC 14465	
-Acinetobacter colistiniresistens	NIPH 2036	NCTC 14468	
-Escherihia coli		NCTC 14476	
-Escherichia coli		NCTC 14477	
-Pseudomonas aeruginosa	PAO1	NCTC 14478	
-Legionella wadsworthii		NCTC 14481	
-Acinetobacter pecorum	Sa1BUA6	NCTC 14545	
-Bacillus norwichensis	Sa1BUA2	NCTC 14546	
-Brevibacterium gallinarum	Re57	NCTC 14547	
-Oerskovia douganii	Sa1BUA8	NCTC 14549	
-Oerskovia gallyi	Sa2CUA8	NCTC 14550	
-Sporosarcina gallistercoris	Sa3CUA8	NCTC 14551	
-Planococcus wigleyi	Sa1BUA13	NCTC 14552	
-Psychrobacter communis	Sa4CVA2	NCTC 14553	
-Oerskovia merdavium	Sa2CUA9	NCTC 14554	
-Ochrobacterum gallinarum	Sa2BUA5	NCTC 14555	
-Oceanitalea stevensii	Sa1BUA1	NCTC 14557	
-Brevundimonas guildfordensis	Sa3CVA3	NCTC 14558	
-Arthrobacter pullicola	Sa2BUA2	NCTC 14559	
-Arthrobacter gallicola	Sa2CUA1	NCTC 14560	
-Kaistella pullorum	Sa1CVA4	NCTC 14563	
-Cellulomonas avistercoris	Sa3CUA2	NCTC 14564	
-Escherichia whittamii	Sa2BVA5	NCTC 14567	
-Corynebacterium gallinarum	Sa1YVA5	NCTC 14569	
-Luteimonas colneyensis	Sa2BVA3	NCTC 14570	
-Comamonas avium	Sa2CVA6	NCTC 14571	
-Paenibacillus gallinarum	Sa2BVA9	NCTC 14573	
-Ureibacillus galli	Re31	NCTC 14576	
-Stenotrophomonas pennii	Sa5BUN4	NCTC 14577	
-Solibacillus faecavium	A46	NCTC 14578	
-Staphylococcus aureus	Ta320	NCTC 14579	
-Pseudomonas tohonis	TUM18999	NCTC 14580	
-Legionella antarctica	TUM19329	NCTC 14581	
-Escherichia coli	K12 MG1655	NCTC 14582	
-Enterococcus innesii	GAL7	NCTC 14608	
-Campylobacter bilis	VicNov18	NCTC 14611	
-Staphylococcus aureus	HT20060687	NCTC 14617	
-Serpens gallinarum	Sa2CUA2	NCTC 14618	
-Salmonella enterica subsp. enterica serotype blockley		NCTC 14622	
-Legionella norrlandica	LEGN	NCTC 14631	
-Streptococcus hyovaginalis	SHV 515	NCTC 14634	
-Streptococcus minor	ON59	NCTC 14635	
-Staphylococcus aureus	S1	NCTC 14636	
-Staphylococcus aureus	S2	NCTC 14637	
-Enterococcus faecium	L1	NCTC 14638	
-Enterococcus faecalis	L2	NCTC 14639	
-Klebsiella pneumoniae	INF007	NCTC 14642	
-Klebsiella pneumoniae	KSB1_9E	NCTC 14644	
-Klebsiella variicola	KSB1_10B	NCTC 14645	
-Klebsiella variicola	INF345	NCTC 14646	
-Klebsiella variicola	INF352	NCTC 14647	
-Klebsiella pneumoniae	KSB2_6C	NCTC 14648	
-Klebsiella pneumoniae	INF118	NCTC 14649	
-Klebsiella pneumoniae	INF102	NCTC 14650	
-Klebsiella pneumoniae	INF346	NCTC 14651	
-Proteus mirabilis		NCTC 14663	
-Bordetella pertussis	B1917	NCTC 14665	
-Salmonella enterica subsp. enterica serotype typhimurium	S2337/65; ST4/74	NCTC 14672	
-Salmonella enterica subsp. enterica serotype typhimurium	A130	NCTC 14673	
-Salmonella enterica subsp. enterica serotype enteritidis	A1636	NCTC 14674	
-Salmonella enterica subsp. enterica serotype enteritidis	CP255	NCTC 14675	
-Salmonella enterica subsp. enterica serotype enteritidis	D7795	NCTC 14676	
-Salmonella enterica subp. enterica serotype typhimurium	D23580	NCTC 14677	
-Salmonella enterica subsp. enterica serotype typhimurium	D37712	NCTC 14678	
-Clostridium perfringens	VPI No. 5	NCTC 14679	
-Deinococcus radiodurans	R1	NCTC 14682	
-Streptococcus pseudoporcinus	LQ 940-04	NCTC 14694	
-Streptococcus lactarius	MV1	NCTC 14695	
-Streptococcus pyogenes		NCTC 14851	
-Streptococcus pyogenes		NCTC 14852	

@@ -943,7 +943,7 @@ Jhaorihella thermophila	488547	CC-MHSW-1 	Bacteria	Proteobacteria	Alphaproteobac
 Aneurinibacillus terranovensis	278991	LMG22483	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Aneurinibacillus		43,2		AJ715385	57,4	20	41	37	45	55	35
 Halorubrum aethiopicum	1758255	SAH-A6	Archaea	Euryarchaeota	Halobacteria	Haloferacales	Halorubraceae	Halorubrum		68		KX150521	58,7	30	41	37	45	55	25
 Marinospirillum celere	1122252	v1c_Sn-red	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae	Marinospirillum		52,1		EU375807	54,6	13	40	35	45	55	42
-Bacillus camelliae	1707093	jan/78	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus		36		KT438835	54,6	20	37,5	30	45	55	35
+Bacillus camelliae	1707093	7578-1	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus		36		KT438835	54,6	20	37,5	30	45	55	35
 Alkalibacillus halophilus	368977	YIM 012	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Alkalibacillus		39		DQ377742	53,8	25	37,5	30	45	55	30
 Halogeometricum rufum	553469	RO1-4	Archaea	Euryarchaeota	Halobacteria	Haloferacales	Haloferacaceae	Halogeometricum		64,9		EU887286	57,3	25	41	40	42	55	30
 Alicyclobacillus tolerans	90970	K1	Bacteria	Firmicutes	Bacilli	Bacillales	Alicyclobacillaceae	Alicyclobacillus		48,7		AB222265	58,9	20	39,5	37	42	55	35
@@ -1467,7 +1467,7 @@ Alkaliphilus namsaraevii	1454184	Х-07-2	Bacteria	Firmicutes	Clostridia	Clostrid
 Halobacillus profundi	291742	IS-Hb4	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Halobacillus		43,3		AB189298	55,6	9	25			47	38
 Halanaerocella petrolearia	644790	S200	Bacteria	Firmicutes	Clostridia	Halanaerobiales	Halobacteroidaceae	Halanaerocella		32,7		FJ931099	50,8	25	42,5	40	45	47	22
 Aridibacter kavangonensis	1384639	Ac_23_E3	Bacteria	Acidobacteria	Blastocatellia	Blastocatellales	Blastocatellaceae	Aridibacter		52,6		KF245633	50,5	12	40	36	44	47	35
-Anaerostipes butyraticus	645466	jul/35	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes		44		FJ947528	54	35	39	37	41	47	12
+Anaerostipes butyraticus	645466	35-7	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes		44		FJ947528	54	35	39	37	41	47	12
 Acetohalobium arabaticum	28187	Z-7288	Bacteria	Firmicutes	Clostridia	Halanaerobiales	Halobacteroidaceae	Acetohalobium	GCA_000144695.1	36,6	2,5	L37422	53,2	30	39	38	40	47	17
 Syntrophomonas erecta	264446	GB4-38	Bacteria	Firmicutes	Clostridia	Clostridiales	Syntrophomonadaceae	Syntrophomonas		69		AY536889	54,9	25	38,5	37	40	47	22
 Halanaerobium saccharolyticum	43595	Z-7787	Bacteria	Firmicutes	Clostridia	Halanaerobiales	Halanaerobiaceae	Halanaerobium		31,7		L37424	51,1	15	38,5	37	40	47	32
@@ -4172,7 +4172,7 @@ Alkalispirochaeta odontotermitis	1329640	JC202	Bacteria	Spirochaetes	Spirochaeti
 Alkalispirochaeta cellulosivorans	1410329	JC227	Bacteria	Spirochaetes	Spirochaetia	Spirochaetales	Spirochaetaceae	Alkalispirochaeta		55,5		HG531387	55,5	15	34	30	38	40	25
 Methanocella paludicola	570267	SANAE	Archaea	Euryarchaeota	Methanomicrobia	Methanocellales	Methanocellaceae	Methanocella	GCA_000011005.1	54,9	3	AB196288	57,1	25	36	35	37	40	15
 Methanoregula boonei	358766	6A8	Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanoregulaceae	Methanoregula	GCA_000017625.1	54,5	2,5	DQ282124	55,8	10	36	35	37	40	30
-Mycoplasma enhydrae	2499220	nov/43	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma		32,8		MF351868	46	31	36	35	37	40	9
+Mycoplasma enhydrae	2499220	6243-11	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma		32,8		MF351868	46	31	36	35	37	40	9
 Chryseomicrobium excrementi	2041346	ET03	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Chryseomicrobium		42,9		KU230523	55,9	20	36	35	37	40	20
 Prolixibacter denitrificans	1541063	MC1-1	Bacteria	Bacteroidetes	Bacteroidia	Marinilabiliales	Prolixibacteraceae	Prolixibacter		45		AB986195	53,1	15	36	35	37	40	25
 Limimaricola variabilis	1492771	J-MR2-Y	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Limimaricola		68,1		KJ569528	56,2	10	36	35	37	40	30
@@ -5173,7 +5173,7 @@ Comamonas serinivorans	1082851	SP-35	Bacteria	Proteobacteria	Betaproteobacteria	
 Rhizobium tarimense	1079109	PL-41	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium		57,8		HM371420	56	20	30			37	17
 Vibrio mexicanus	1004326	 CAIM 1540	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio				JQ434105	54	20	30			37	17
 Paracoccus zhejiangensis	1077935	J6	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	GCA_002847445.1	65,6	4,6	JN561152	55,2	10	30			37	27
-Acetobacter okinawensis	1076594	jan/35	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter		59,3		AB665068	55,6	10	30			37	27
+Acetobacter okinawensis	1076594	1-35	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter		59,3		AB665068	55,6	10	30			37	27
 Acetobacter papayae	1076592	1月25日	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acetobacter		60,5		AB665066	55,5	10	30			37	27
 Microbacterium lemovicicum	1072463	ViU22	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	GCA_003991875.1	70,9	3,6	JN243353	56,1	15	30			37	22
 Chromobacterium alkanivorans	1071719	IITR-71	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Chromobacterium		61,2		JN210566	55	12	30			37	25
@@ -5412,7 +5412,7 @@ Comamonas koreensis	160825	YH12	Bacteria	Proteobacteria	Betaproteobacteria	Burkh
 Oceanicaulis alexandrii	153233	Balech CCMP 116	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Hyphomonadaceae	Oceanicaulis		61,8		AJ309862	56	4	30			37	33
 Mesoplasma lactucae	138853	831-C4	Bacteria	Tenericutes	Mollicutes	Entomoplasmatales	Entomoplasmataceae	Mesoplasma	GCA_002441935.1	29,8	0,8	AF303132	49	18	30			37	19
 Hyphomicrobium sulfonivorans	121290	S1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium		62		AF235089	55,9	15	30			37	22
-Saccharophagus degradans	86304	feb/40	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Saccharophagus	GCA_000013665.1	45,8	5,1	AF055269	52,8	4	30			37	33
+Saccharophagus degradans	86304	2-40	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Cellvibrionaceae	Saccharophagus	GCA_000013665.1	45,8	5,1	AF055269	52,8	4	30			37	33
 Williamsia muralis	85044	MA140/96	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Williamsia		64,8		Y17384	57,8	10	30			37	27
 Stigmatella erecta	83460	ATCC 25191	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Archangiaceae	Stigmatella		68		NR_042398	56,7	18	30			37	19
 Microbacterium oxydans	82380	CIP 66.12	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	GCA_003991855.1	68,2	3,9	Y17227	56,3	20	30			37	17
@@ -5454,7 +5454,7 @@ Pseudomonas daroniae	2487519	FRB 228	Bacteria	Proteobacteria	Gammaproteobacteria
 Edaphobacter bradus	2259016	4MSH08	Bacteria	Acidobacteria	Acidobacteriia	Acidobacteriales	Acidobacteriaceae	Edaphobacter		59,6		KY434002	54,3	10	28			37	27
 Kordiimonas pumila	2161677	N18	Bacteria	Proteobacteria	Alphaproteobacteria	Kordiimonadales	Kordiimonadaceae	Kordiimonas		55,3		MF099898	54,6	10	28			37	27
 Microvirga tunisiensis	2108360	LmiM8	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Microvirga		61,8		KX272788	56,7	20	28			37	17
-Pedobacter mongoliensis	2100740	jan/32	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter		43,4		KY933307	50,3	4	28			37	33
+Pedobacter mongoliensis	2100740	1-32	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter		43,4		KY933307	50,3	4	28			37	33
 Actinomadura roseirufa	2094049	LMG 30035	Bacteria	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura		72,5		LT996936	59,8	15	28			37	22
 Adhaeribacter swui	2086471	17mud1-7	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Hymenobacteraceae	Adhaeribacter		45,9		KY924849	52,9	18	28			37	19
 Paenibacillus montanisoli	2081970	RA17	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus		52,8		KY684255	55,2	4	28			37	33
@@ -5476,7 +5476,7 @@ Aquimarina rubra	1920033	SS2-9	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacter
 Actinophytocola xanthii	1912961	11–183	Bacteria	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Actinophytocola		71,7		KX083521	58,3	15	28			37	22
 Tenacibaculum agarivorans	1908389	HZ1	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Tenacibaculum		31,8		KX982669	49	15	28			37	22
 Phyllobacterium salinisoli	1899321	LLAN61	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Phyllobacterium		58		LT614649	56	6	28			37	31
-Cumulibacter manganitolerans	1884992	feb/36	Bacteria	Actinobacteria	Actinobacteria	Geodermatophilales	Geodermatophilaceae	Cumulibacter		70,1		KX602199	57	15	28			37	22
+Cumulibacter manganitolerans	1884992	2-36	Bacteria	Actinobacteria	Actinobacteria	Geodermatophilales	Geodermatophilaceae	Cumulibacter		70,1		KX602199	57	15	28			37	22
 Wohlfahrtiimonas populi	1940240	34C10-3-10	Bacteria	Proteobacteria	Gammaproteobacteria			Wohlfahrtiimonas		37,1		KT988034	51,4	10	28			37	27
 Hymenobacter rutilus	1867850	K2-33028	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Hymenobacteraceae	Hymenobacter		64,3		KX139010	56,6	4	28			37	33
 Aliidongia dinghuensis	1867774	7M-Z19	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Aliidongia		65,8		KX426600	56,3	10	28			37	27
@@ -6361,7 +6361,7 @@ Gluconobacter morbifer	479935	G707	Bacteria	Proteobacteria	Alphaproteobacteria	R
 Sphingopyxis panaciterrulae	462372	DCY34	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis		62,3		EU075217	55	25	27,5	25	30	37	12
 Microbacterium aquimaris	459816	JS54-2	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium		69,5		AM778449	56,5	15	27,5	25	30	37	22
 Flavobacterium anhuiense	459526	D3	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	GCA_003590565.1	34,4	5,4	EU046269	53,1	5	27,5	25	30	37	32
-Chryseobacterium aquaticum	452084	okt/46	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Chryseobacterium		38,4		AM748690	50,6	5	27,5	25	30	37	32
+Chryseobacterium aquaticum	452084	10-46	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Chryseobacterium		38,4		AM748690	50,6	5	27,5	25	30	37	32
 Catenulispora yoronensis	450799	TT N02-20	Bacteria	Actinobacteria	Actinobacteria	Catenulisporales	Catenulisporaceae	Catenulispora		69		AB327250	59,4	10	27,5	25	30	37	27
 Catenulispora subtropica	450798	TT 99-48	Bacteria	Actinobacteria	Actinobacteria	Catenulisporales	Catenulisporaceae	Catenulispora		70,5		AB327248	59,6	10	27,5	25	30	37	27
 Anderseniella baltica	444440	BA141	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Anderseniella		61,2		AM712634	54,1	10	27,5	25	30	37	27
@@ -7585,7 +7585,7 @@ Endozoicomonas acroporae	1701104	Acr-14	Bacteria	Proteobacteria	Gammaproteobacte
 Oryzihumus soli	1634995	Aerobe-19	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Oryzihumus		73,9		KP185144	57,4	15	30			30	15
 Antricoccus suffuscus	1629062	C4-31	Bacteria	Actinobacteria	Actinobacteria	Frankiales		Antricoccus		62,8		LN827957	57	4	30			30	26
 Paralcaligenes ginsengisoli	1636859	DCY104	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Paralcaligenes		55,9		KP401771	55,1	10	30			30	20
-Pseudomonas kribbensis	1628086	feb/46	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	GCA_003352185.1	60,5	6,3	KT321658	53,8	4	30			30	26
+Pseudomonas kribbensis	1628086	46-2	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	GCA_003352185.1	60,5	6,3	KT321658	53,8	4	30			30	26
 Pedobacter silvilitoris	1527678	W-WS1	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter		37,7		KM229740	51,7	4	30			30	26
 Desulfoprunum benzoelyticum	1506996	KoBa311	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfoprunum		52,3		KJ766003	53,9	20	30			30	10
 Ruegeria meonggei	1446476	MA-E2-3	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ruegeria		58		KF740534	54,9	4	30			30	26
@@ -8338,7 +8338,7 @@ Massilia violaceinigra	2045208	B2	Bacteria	Proteobacteria	Betaproteobacteria	Bur
 Hymenobacter rubripertinctus	2029981	NY03-3-30	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Hymenobacteraceae	Hymenobacter		59,4		MF770258	55	4	20			28	24
 Flavitalea antarctica	1841482	AQ6-291	Bacteria	Bacteroidetes	Chitinophagia	Chitinophagales	Chitinophagaceae	Flavitalea		48,1		KX146487	51,9	4	20			28	24
 Pararhizobium antarcticum	1798805	NAQVI 59	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Pararhizobium		60,6				4	20			28	24
-Undibacterium arcticum	1762892	jun/67	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Undibacterium		56,2		KU189201	53,4	4	20			28	24
+Undibacterium arcticum	1762892	6-67	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Undibacterium		56,2		KU189201	53,4	4	20			28	24
 Subtercola lobariae	1588641	9583b	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Subtercola		66,8		KM924549	55,3	4	20			28	24
 Spirosoma arcticum	1465616	R2-35	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Spirosoma		54,9		KF999686	54,7	4	20			28	24
 Methylobacterium thuringiense	1003091	TA73	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium				NR_108523	56	10	20			28	18

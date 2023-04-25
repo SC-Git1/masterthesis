@@ -29,10 +29,11 @@ def get_lineage_from_taxid(taxid):
     return rank_name
 
 if __name__ == "__main__":
+    # import data
     dfMediaDB = pd.read_csv("MediaDB_taxid_man.tsv", delimiter="\t", header=0, encoding='latin1')
-    # print(len(dfMediaDB)) = 649
-    # dfMediaDB = dfMediaDB[dfMediaDB["ncbiTaxID"] != "-1"]
-    # print(len(dfMediaDB)) = 649, so all records have NCBI Taxonomy annotation
+    print(len(dfMediaDB))
+    dfMediaDB = dfMediaDB[dfMediaDB["ncbiTaxID"] != "-1"]
+    # print(len(dfMediaDB)) -> 649 so all records have NCBI Taxonomy annotation
     with ApiClient() as api_client:
         taxon_api = TaxonomyApi(api_client)
 
@@ -42,44 +43,38 @@ if __name__ == "__main__":
     Strains = dfMediaDB["Strain"]
     Source_IDs = dfMediaDB["Source_ID"]
 
-    with open("NCBI_Annotated_MediaDB.tsv", "w") as f:
-        # Name	Strain	Temp	ncbiTaxID	Source_ID
-        f.write("Name" + "\t" +  "Strain" + "\t" + "Temp" + "\t" + "ncbiTaxID" + "\t" + "Source_ID" + "\t" +
+    with open("NCBI_Annotated_MediaDB2.tsv", "w") as f:
+        # header
+        f.write("Name" + "\t" +  "Strain" + "\t" + "Temp" + "\t" + "ncbiTaxID" + "\t" +
                 "Superkingdom" + "\t" + "Phylum" + "\t" + "Class" + "\t" + "Order" + "\t" + "Family" + "\t" + "Genus" + "\n")
+
         for i in range(len(Taxids)):
             el = str(Taxids[i])
             time.sleep(0.4)
-            # if the previous record has the same ncbiTaxID (very common in the MediaDB dataset), use
-            # the stored lineage information
-            if i > 0 and (str(Taxids[i-1] == el)):
-                f.write(Names[i] + "\t" + (str(Strains[i]) if Strains[i] else "") + "\t" + str(Temps[i]) + "\t" + el +
-                        "\t" + Superkingdom + "\t" + Phylum + "\t" + Class + "\t" + Order + "\t" + Family + "\t" + Genus + "\n")
-                f.flush()
+            rank_name = get_lineage_from_taxid(el)
 
-            else:
-                rank_name = get_lineage_from_taxid(el)
-
-                try:
-                    Superkingdom = rank_name.get("SUPERKINGDOM")
-                    if Superkingdom == None:
-                        Superkingdom = ""
-                    Phylum = rank_name.get("PHYLUM")
-                    if Phylum == None:
-                        Phylum = ""
-                    Class = rank_name.get("CLASS")
-                    if Class == None:
-                        Class = ""
-                    Order = rank_name.get("ORDER")
-                    if Order == None:
-                        Order = ""
-                    Family = rank_name.get("FAMILY")
-                    if Family == None:
-                        Family = ""
-                    Genus = rank_name.get("GENUS")
-                    if Genus == None:
-                        Genus = ""
-                except:
-                    pass
-                f.write(Names[i] + "\t" + (str(Strains[i]) if Strains[i] else "") + "\t" + str(Temps[i]) + "\t" + el + "\t" +
-                        Superkingdom + "\t" + Phylum + "\t" + Class + "\t" + Order + "\t" + Family + "\t" + Genus + "\n")
-                f.flush()
+            try:
+                print(rank_name)
+                Superkingdom = rank_name.get("SUPERKINGDOM")
+                if Superkingdom == None:
+                    Superkingdom = ""
+                Phylum = rank_name.get("PHYLUM")
+                if Phylum == None:
+                    Phylum = ""
+                Class = rank_name.get("CLASS")
+                if Class == None:
+                    Class = ""
+                Order = rank_name.get("ORDER")
+                if Order == None:
+                    Order = ""
+                Family = rank_name.get("FAMILY")
+                if Family == None:
+                    Family = ""
+                Genus = rank_name.get("GENUS")
+                if Genus == None:
+                    Genus = ""
+            except:
+                pass
+            f.write(Names[i] + "\t" + (str(Strains[i]) if Strains[i] else "") + "\t" + str(Temps[i]) + "\t" + el + "\t" +
+                    Superkingdom + "\t" + Phylum + "\t" + Class + "\t" + Order + "\t" + Family + "\t" + Genus + "\n")
+            f.flush()

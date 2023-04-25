@@ -1,0 +1,25 @@
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+  <publisher>
+    <name>UniProt Consortium</name>
+    <url>http://www.uniprot.org/</url>
+  </publisher>
+  <license>
+    <name>Creative Commons Attribution 4.0 International (CC BY 4.0)</name>
+    <url>http://creativecommons.org/licenses/by/4.0/</url>
+  </license>
+  <description>UniProt</description>
+  <version>2023_01</version>
+  <files>
+    <file name="per-protein.h5">
+      <size>1414142376</size>
+      <verification>
+        <hash type="md5">7680554a8b046d4c15c821e708bfab33</hash>
+      </verification>
+      <resources>
+        <url type="ftp" location="ch" preference="100">ftp://ftp.expasy.org/databases/uniprot/current_release/knowledgebase/embeddings/uniprot_sprot/per-protein.h5</url>
+        <url type="ftp" location="uk" preference="100">ftp://ftp.ebi.ac.uk/pub/databases/uniprot/current_release/knowledgebase/embeddings/uniprot_sprot/per-protein.h5</url>
+        <url type="ftp" location="us" preference="100">ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/embeddings/uniprot_sprot/per-protein.h5</url>
+      </resources>
+    </file>
+  </files>
+</metalink>

@@ -3,6 +3,12 @@ Sato, Y., Okano, K., Kimura, H., & Honda, K. (2020).
 TEMPURA: Database of Growth TEMPeratures of Usual and RAre Prokaryotes. In Microbes and Environments (Vol. 35, Issue 3, p. n/a). 
 Japanese Society of Microbial Ecology. https://doi.org/10.1264/jsme2.me20074
 
-The script "lineage_TEMPURA.py" was used to get the lineage information from NCBI. The output is stored in the file "NCBI_Annotated_Tempura.tsv"
+#  |  Script or -- action -- | Output file
+-----------------------------------------------------------
+1  | -- download data --     | 200617_TEMPURA.tsv
+2a |  ncbiTaxID_TEMPURA.py   | ncbiTaxID_TEMPURA.tsv
+2b | -- manual annotation -- | ncbiTaxID_TEMPURA_man.tsv
+4  | lineage_TEMPURA.py      | NCBI_Annotated_Tempura4.tsv
+-----------------------------------------------------------
 
 

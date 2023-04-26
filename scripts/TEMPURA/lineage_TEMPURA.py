@@ -31,23 +31,22 @@ def get_lineage_from_taxid(taxid):
 
 
 if __name__ == '__main__':
+    # import data
+    dfTempura = pd.read_csv("ncbiTaxID_TEMPURA_man.tsv", sep ="\t", header=0)
+
     with ApiClient() as api_client:
         taxon_api = TaxonomyApi(api_client)
-
-    dfTempura = pd.read_csv("200617_TEMPURA.tsv", sep ="\t", header=0)
-    # rename columns
-    dfTempura.rename(columns = {"taxonomy_id":"ncbiTaxID", "genus_and_species": "Name", "Topt_ave":"Temp",
-                                "assembly_or_accession":"Genome", "strain":"Strain"}, inplace = True)
 
     IDs = dfTempura["ncbiTaxID"]
     Names = dfTempura['Name']
     Strains = dfTempura["Strain"]
     Temps = dfTempura['Temp']
-    Genomes = dfTempura['Genome']
 
-    with open("NCBI_Annotated_Tempura.tsv", "w") as f:
+    with open("NCBI_Annotated_Tempura4WG.tsv", "w") as f:
+        # header
         f.write("ncbiTaxID" + "\t" + "Name" + "\t" + "Strain" + "\t" + "Temp" + "\t" + "Superkingdom" + "\t" +
-                "Phylum" + "\t" + "Class" + "\t" + "Order" + "\t" + "Family" + "\t" + "Genus" + "\t" + "Genome" + "\n")
+                "Phylum" + "\t" + "Class" + "\t" + "Order" + "\t" + "Family" + "\t" + "Genus" + "\n")
+
         for i in range(len(IDs)):
             el = str(IDs[i])
             time.sleep(0.4)
@@ -73,11 +72,10 @@ if __name__ == '__main__':
                     Genus = ""
             except:
                 pass
-            # write to file. Replace special characters in the strains. If no strain/genome information is present write ""
-            f.write(el + "\t" + Names[i] + "\t" +
-                    (str(Strains[i]).replace(u"\u2010","-").replace(u"\u2206", "D").replace(u"\u6708", "").replace(u"\u65e5", "").replace(u"\u0425", "X").replace(u"\u2212", "-")
+            # write to file. Replace special characters in the strains. If no strain information is present write ""
+            f.write(el + "\t" + Names[i].replace(u"\ufffd", "") + "\t" +
+                    (str(Strains[i]).replace(u"\u2010","-").replace(u"\u2206", "D").replace(u"\u6708", "").replace(u"\u65e5", "").replace(u"\u0425", "X").replace(u"\u2212", "-").replace(u"\ufffd", "")
                     if str(Strains[i]) else "") + "\t" +  str(Temps[i]) + "\t" + Superkingdom + "\t" + Phylum + "\t" +
-                    Class + "\t" + Order + "\t" + Family + "\t" + Genus + "\t" +
-                    (Genomes[i] if not pd.isnull(Genomes[i]) else "") + "\n")
+                    Class + "\t" + Order + "\t" + Family + "\t" + Genus + "\t" + "\n")
             f.flush()
 

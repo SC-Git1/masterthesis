@@ -1,5 +1,5 @@
 A list of pre-trained species for Augustus can be found for your installed Augustus version at /Augustus/config/species
-The file "speciesAugustusUpdated.txt" contains a filtered list (redundant entries and templates were removed) of the available species in version ... .
+The file "speciesAugustusUpdated.txt" contains a filtered list (redundant entries and templates were removed) of the available species in version 3.5.0.
 The table below gives an overview of the workflow.
 
 ----------------------------------------------------------------------------------------------
@@ -12,6 +12,9 @@ The table below gives an overview of the workflow.
 4b | -- merge previously retireved data --             | NCBI_Annotated_EukaryoticGenomes.tsv
 5  | AssignToClosestIdentifier.py                      | ClosestIdentifier.tsv
 ----------------------------------------------------------------------------------------------
+
+Since Augustus is quite a slow program, paralllellization was achieved with the script "run_augustus_parallel" written by Daniel-Ze and made available at https://github.com/Daniel-Ze/augustus_parallel
+Finally, the script Augustusparallel.sh (bash) was used to run Augustus with 'ClosestIdentifier.tsv' as the input file.
 
 
 

@@ -1,0 +1,130 @@
+SpeciesID	Genome	Quality	best-match-status	taxonomy-check-status
+246	GCF_003815995.1	Complete Genome	species-match	OK
+436	GCF_014843995.1	Complete Genome	species-match	OK
+988	GCF_004104035.1	Contig	species-match	OK
+1512	GCF_008632235.1	Scaffold	species-match	OK
+1526	GCF_900112885.1	Scaffold	species-match	OK
+1527	GCF_900205915.1	Contig	species-match	OK
+1533	GCF_900129365.1	Contig	species-match	OK
+2292	GCF_013389365.1	Scaffold	below-threshold-mismatch	OK
+2718	GCF_900637305.1	Complete Genome	species-match	OK
+29347	GCF_020892115.1	Complete Genome	species-match	OK
+29348	GCF_902373765.1	Scaffold	species-match	OK
+29362	GCF_029318685.1	Complete Genome		
+29364	GCF_900111595.1	Scaffold	low-coverage	OK
+29448	GCF_012871055.1	Complete Genome	species-match	OK
+29450	GCF_014198775.1	Scaffold	species-match	OK
+33007	GCF_002860625.1	Contig	derived-species-match	OK
+33074	GCF_003610015.1	Complete Genome	species-match	OK
+33876	GCF_000717135.1	Contig	species-match	OK
+34061	GCF_900637105.1	Complete Genome	species-match	OK
+35757	GCF_900187295.1	Complete Genome	species-match	OK
+35760	GCF_002761235.1	Complete Genome	species-match	OK
+36834	GCF_021412605.1	Scaffold	species-match	OK
+37659	GCF_000703125.1	Contig	species-match	OK
+39483	GCF_028321995.1	Scaffold	species-match	OK
+39488	GCF_018140635.1	Chromosome	species-match	OK
+39492	GCA_029076545.1	Contig		
+39496	GCF_003475105.1	Scaffold	species-match	OK
+39962	GCF_900452715.1	Contig	species-match	OK
+43659	GCF_002310835.1	Complete Genome	species-match	OK
+43670	GCF_006538745.1	Contig	species-match	OK
+43671	GCA_007991475.1	Contig	species-match	OK
+52764	GCF_013388295.1	Complete Genome	species-match	OK
+55211	GCF_019844095.1	Complete Genome	species-match	OK
+58621	GCF_014202345.1	Scaffold	below-threshold-mismatch	OK
+59610	GCF_000016165.1	Complete Genome	low-coverage	OK
+61150	GCF_007989895.1	Contig	species-match	OK
+61435	GCF_000830905.1	Complete Genome	species-match	OK
+65958	GCF_018491655.1	Scaffold	species-match	OK
+65959	GCF_002738225.1	Contig	species-match	OK
+68334	GCF_024169515.1	Contig	species-match	OK
+69824	GCF_900102365.1	Scaffold	species-match	OK
+76861	GCF_007989825.1	Contig	below-threshold-mismatch	OK
+76862	GCF_020412445.1	Complete Genome	species-match	OK
+77608	GCF_005877035.1	Complete Genome	species-match	OK
+82979	GCF_002591785.1	Contig	species-match	OK
+82995	GCF_900186025.1	Chromosome	species-match	OK
+83655	GCF_001518835.1	Complete Genome	species-match	OK
+88132	GCF_000183205.1	Contig	species-match	OK
+92759	GCF_014174255.1	Contig	species-match	OK
+94625	GCF_900454225.1	Contig	species-match	OK
+96344	GCF_008807855.1	Complete Genome	species-match	OK
+99656	GCF_900111235.1	Contig	low-coverage	OK
+100225	GCF_900111385.1	Contig	species-match	OK
+104102	GCF_001580945.1	Contig	species-match	OK
+106649	GCF_002370525.2	Complete Genome	species-match	OK
+110479	GCF_014635085.1	Scaffold	species-match	OK
+110937	GCF_009834205.1	Complete Genome	species-match	OK
+111504	GCF_000278095.1	Scaffold	species-match	OK
+134536	GCF_000383275.1	Scaffold	species-match	OK
+142834	GCF_014174355.1	Contig	species-match	OK
+146474	GCF_000963965.1	Scaffold	species-match	OK
+146475	GCF_000963925.1	Contig	species-match	OK
+146476	GCF_000964225.1	Scaffold	species-match	OK
+146817	GCF_900104455.1	Scaffold	species-match	OK
+158823	GCF_900635955.1	Complete Genome	below-threshold-mismatch	OK
+158841	GCF_900478135.1	Complete Genome	below-threshold-mismatch	OK
+166935	GCF_000026085.1	Complete Genome	species-match	OK
+178001	GCF_019656015.1	Contig	below-threshold-mismatch	OK
+178901	GCF_001580615.1	Contig	species-match	OK
+187327	GCF_902381715.1	Chromosome	species-match	OK
+204042	GCF_002887555.1	Complete Genome	species-match	OK
+208223	GCF_025758125.1	Complete Genome	species-match	OK
+208962	GCF_016904755.1	Complete Genome	species-match	OK
+213312	GCF_026127345.1	Scaffold	species-match	OK
+215220	GCF_003207895.1	Contig	species-match	OK
+216463	GCF_000965255.1	Contig	species-match	OK
+218208	GCF_000021905.1	Complete Genome	species-match	OK
+220684	GCF_001636415.1	Scaffold	species-match	OK
+220686	GCF_001026695.1	Scaffold	species-match	OK
+220687	GCF_001636395.1	Scaffold	species-match	OK
+220688	GCF_002335815.1	Scaffold	species-match	OK
+225422	GCF_022788655.1	Complete Genome	species-match	OK
+255519	GCF_024224615.1	Complete Genome	species-match	OK
+256839	GCF_004354305.1	Chromosome	species-match	OK
+261299	GCF_902362795.1	Scaffold	species-match	OK
+264297	GCF_016862695.1	Contig	species-match	OK
+266130	GCF_007990245.1	Contig	below-threshold-mismatch	OK
+267374	GCF_003014615.1	Scaffold	below-threshold-mismatch	OK
+272131	GCF_000020025.1	Complete Genome	below-threshold-mismatch	OK
+290112	GCF_002632595.1	Contig	species-match	OK
+311230	GCF_020885575.1	Complete Genome	species-match	OK
+311234	GCF_007990265.1	Contig	below-threshold-mismatch	OK
+323412	GCF_004216895.1	Scaffold	low-coverage	OK
+344736	GCF_017309175.1	Contig	species-match	OK
+351671	GCF_000968195.1	Complete Genome	species-match	OK
+373687	GCF_021312615.1	Contig	species-match	OK
+393762	GCF_900100845.1	Contig	low-coverage	OK
+393921	GCF_900476255.1	Complete Genome	species-match	OK
+406432	GCF_007994225.1	Scaffold	below-threshold-mismatch	OK
+423605	GCF_000020145.1	Complete Genome	na	OK
+431306	GCF_011516865.1	Contig	species-match	OK
+454586	GCF_026275365.1	Contig	species-match	OK
+458197	GCF_004768745.1	Complete Genome	species-match	OK
+483199	GCF_002276555.1	Contig	species-match	OK
+526216	GCF_003633955.1	Contig	species-match	OK
+531813	GCF_013004005.1	Complete Genome	species-match	OK
+570156	GCF_001704875.1	Scaffold	species-match	OK
+626929	GCF_015555825.1	Scaffold	species-match	OK
+651740	GCF_900104915.1	Chromosome	derived-species-match	OK
+721133	GCF_900115835.1	Scaffold	species-match	OK
+762209	GCF_008698085.1	Scaffold	species-match	OK
+762210	GCF_017378515.1	Chromosome	species-match	OK
+863372	GCF_004367745.1	Complete Genome	derived-species-match	OK
+1123961	GCF_023511315.1	Contig		
+1123961	GCA_015666155.1	Contig	species-match	OK
+1123961	GCA_017329565.1	Contig	species-match	OK
+1123961	GCA_017329625.1	Contig	species-match	OK
+1123961	GCA_023511315.1	Contig	species-match	OK
+1215089	GCF_001687585.2	Complete Genome	species-match	OK
+1288121	GCF_900624755.1	Contig	species-match	OK
+1321365	GCF_900188055.1	Scaffold	species-match	OK
+1333845	GCF_018966525.1	Complete Genome	species-match	OK
+1348249	GCF_000320505.1	Contig	below-threshold-mismatch	OK
+1465811	GCF_902374825.1	Scaffold	species-match	OK
+1470345	GCF_000513195.1	Contig	below-threshold-mismatch	OK
+1510206	GCF_000565325.1	Contig	species-match	OK
+1777866	GCF_013170725.1	Complete Genome	species-match	OK
+1777867	GCF_013170785.1	Complete Genome	species-match	OK
+2838249	GCF_021029975.1	Contig	derived-species-match	OK

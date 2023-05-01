@@ -30,7 +30,7 @@ do
 		assembly=$(datasets summary genome taxon $el --reference | jq '.reports[].assembly_info.assembly_name')
 	fi
 	
-	# write to the output file 'OutputGenome_acc.txt'
+	# write to the output file 'GenomesNCBILevel.txt'
 	outID="$el $GCF $level $assembly" 
-	echo $outID >> OutputGenome_acc.txt
+	echo $outID >> GenomesNCBILevel.txt
 done

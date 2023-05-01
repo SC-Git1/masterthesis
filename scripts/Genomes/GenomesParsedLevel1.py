@@ -1,6 +1,6 @@
 import pandas as pd
 
-with open("GenomesNCBILevel.tsv", "r") as f:
+with open("GenomesNCBILevel.txt", "r") as f:
     lines = f.readlines()
     # This file is space-delimited with the first column containing the ncbiTaxID and all other columns containing
     # information about the genome.

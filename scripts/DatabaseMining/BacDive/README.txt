@@ -5,6 +5,6 @@ In Nucleic Acids Research (Vol. 50, Issue D1, pp. D741–D746). Oxford Universit
 
 #  | Script or -- action --  | Output file
 ------------------------------------------------------------------------------
-1  | -- extract data --      | bacdiveP_data.tsv, bacdive_entry_df.txt
-2  | main.py                 | NCBI_Annotated_BacDive2.tsv
+1  | -- extract data --      | bacdive_entry_df.txt
+2  | main.py                 | NCBI_Annotated_BacDive_Corr.tsv
 ------------------------------------------------------------------------------

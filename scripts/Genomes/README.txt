@@ -7,4 +7,5 @@ This folder stores all files used in the accession number extraction, filtering 
 2 | GenomesParsedLevel1.py       | GenomesParsedLevel1.tsv
 3 | FilterGenomesANI.py          | GenomesApprovedLevel1.tsv
 4 | FilterGenomesCompleteness.py | NewGenomes.txt
+5 | download the genomes | GenomesRetrieval.sh
 -------------------------------------------------------------

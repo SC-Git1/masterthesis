@@ -2917,7 +2917,7 @@ ncbiTaxID	Source_ID	Name	Temp	Superkingdom	Phylum	Class	Order	Family	Genus
 408	2084T	Methylorubrum extorquens	30	Bacteria	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Methylobacteriaceae	Methylorubrum
 190	2092T	Aquaspirillum serpens	25-33	Bacteria	Pseudomonadota	Betaproteobacteria	Neisseriales	Chromobacteriaceae	Aquaspirillum
 53412	2473T	Pseudomonas resinovorans	22-42	Bacteria	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas
-59803	2870T	Sphingomonas echinoides	-30	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas
+59803	2870T	Sphingomonas echinoides	30	Bacteria	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas
 86183	3365T	Pseudomonas boreopolis	30	Bacteria	Pseudomonadota	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	
 86184	3368T	Pseudomonas pictorum	28-37	Bacteria	Pseudomonadota	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas
 1467	1816T	Lederbergia lenta	30-37	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Lederbergia

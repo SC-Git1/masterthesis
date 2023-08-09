@@ -142,21 +142,3 @@ dfTotal = pd.concat([dfMediaDB, dfBacDive, dfNCTC, dfThermoBase, dfCCUG, dfLyube
 dfTotal.to_csv("Total.tsv", sep = "\t", index = False)
 
 """
-
-
-
-# extra checkpoint
-
-
-
-
-# Now, assess the databases. Come back to clean it up further :)
-
-# "Clean" the data and store it in CleanedData.tsv -> annother script: annotation + one for the handling and all statistics
-# on the databases
-# in the cleaned version, also remove the NCTC records
-# -> CleanWithoutNCTC.tsv
-
-### note: redo analysis in R to correct for the one misannotated record in TEMPURA (but same phylum so not an effect on the
-# Phylum tree, however it does have an impact on the absolute counts)
-"""

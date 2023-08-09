@@ -62,8 +62,8 @@ if __name__ == "__main__":
 
     # open output file
     with open("XGB_US_CORRECT.tsv", mode="a") as f:
-        f.write("random_state" + "\t" + "C" + "\t" + "epsilon" + "\t" + "TestR2" + "\t" + "TestRMSE" + "\t" +
-                "ValR2" + "\t" + "ValRMSE" + "\t" + "TrainR2" + "\t" + "TrainRMSE" + "\n")
+        f.write("random_state" + "\t" + "random_state" + "\t" + "max_depth" + "\t" + "learning_rate" + "\t" +
+          + "n_estimators" + "\t" + "min_child_weight" + "\t"	+ "gamma" + "\t" + "subsample" + "\t" +	"reg_lambda" + "\n")
 
         for random_state in range(1,11):
             # define bins for creation of the uniform test set

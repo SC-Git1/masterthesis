@@ -1,0 +1,1 @@
+The RMSEs.txt file contains the RMSE values per temperature bin for the unbalanced and balanced models 

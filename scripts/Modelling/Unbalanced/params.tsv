@@ -1,0 +1,4 @@
+max_depth	learning_rate	n_estimators	min_child_weight	gamma	subsample	reg_lambda
+9	0.0552263333506707	303	15	0.000177257137348927	0.172956753552616	0.0000059417260874026
+
+

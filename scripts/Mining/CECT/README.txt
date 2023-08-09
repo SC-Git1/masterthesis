@@ -1,3 +1,4 @@
+This folder contains the files and scripts created and used in web scraping of the Sapnish Type Culture Collection (https://www.uv.es/uvweb/spanish-type-culture-collection/en/spanish-type-culture-collection-1285872233521.html)
 Note: genome accessions are extracted, but only for use in manual annotation.
 
 (add some ref info)

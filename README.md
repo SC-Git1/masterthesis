@@ -1,3 +1,5 @@
+Copyright © 2022-2023 Sophie Colette. All Rights Reserved.
+
 ## Code accompanying my Master's thesis in Bioinformatics
 
 **Title: Machine learning for organism growth temperature prediction and application of resampling methods to improve imbalanced data**
